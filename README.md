@@ -1,4 +1,4 @@
-![banner](banner.png)
+![banner](https://github.com/SModelS/smodels.github.io/blob/master/banner.png)
 
 
 # A tool for interpreting simplified-model results from the LHC 
