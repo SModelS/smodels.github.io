@@ -5,7 +5,7 @@ Federico Ambrogi, Juhi Dutta, Jan Heisig, Sabine Kraml, Suchita Kulkarni, Ursula
 
 ------------------------------------------------------------------------   
                                                                            
-* **28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available** [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 ------------------------------------------------------------------------
 
@@ -44,23 +44,28 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  * a database of experimental SMS results                   
  * the interface between decomposition and results database (to check limits) 
  
- <img src="http://www.hephy.at/user/wwaltenberger/smodels/scheme.png" width="680">
+ <p align="center"><img src="http://www.hephy.at/user/wwaltenberger/smodels/smodelsScheme.png" width="680"></p>
 
 -------------------------------------------------------------------------
 
 # Code and Database updates
 * For code and database releases, see [Download](CodeReleases).
+
 # Installation
 * For instructions on how to install SModelS, check the [installation section in the manual](http://smodels.readthedocs.io/en/latest/Installation.html).
+
 # Experimental results in the database
 * Here is the [list of analyses contained in the latest database version](ListOfAnalyses)
 * Same as above but [including superseded analyses](ListOfAnalysesWithSuperseded)
 * Pretty [validation plots](Validation) for all analyses
-* We also provide an [SMS dictionary](SmsDictionary) explaining the Tx names used by SModelS
+* We also provide an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS
+
 # Publications and Talks
 See the [publications and talks](SmodelsTalks) page
+
 # SMS wishlist
 A wishlist regarding the presentation of SMS results was worked out at the 2013 Les Houches workshop, see [this page](http://phystev.in2p3.fr/wiki/2013:groups:np:susysms).
+
 # For developers (internal)
 Developers please visit the DevelopersPage.
 
