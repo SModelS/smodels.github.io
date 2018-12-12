@@ -49,7 +49,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 -------------------------------------------------------------------------
 
 # Code and Database updates
-* For code and database releases, see [Download](CodeReleases).
+* For code and database releases, see [Download](https://github.com/SModelS/smodels-database-release/releases).
 
 # Installation
 * For instructions on how to install SModelS, check the [installation section in the manual](http://smodels.readthedocs.io/en/latest/Installation.html).
