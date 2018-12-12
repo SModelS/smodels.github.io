@@ -5,7 +5,7 @@ Federico Ambrogi, Juhi Dutta, Jan Heisig, Sabine Kraml, Suchita Kulkarni, Ursula
 
 ------------------------------------------------------------------------   
                                                                            
-* <font color="red"> **28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available** [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html) </font>
+* **28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available** [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 ------------------------------------------------------------------------
 
@@ -62,6 +62,7 @@ A wishlist regarding the presentation of SMS results was worked out at the 2013 
 Developers please visit the DevelopersPage.
 
 <img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="230pt" align="top"></img>
-<img src="http://www.hephy.at/user/wwaltenberger/smodels//smodels/logo_en.png" width="300pt" align="top" />
-<img src="ccnh.jpg" width="250pt" align="top" /><img src="https://www.kus.uni-hamburg.de/5379842/up-uhh-logobildmarke-u-nurzurqr-code-erzeugung-u-inkl-11prozweissrand-u-0-2mp-u-bis10cm-u-rgb-6a0deee0b9c71291772814ff8761aaabba19ca93.jpg" width="250pt",align="top" />
-<img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="250pt",align="top" />
+<img src="http://www.hephy.at/typo3conf/ext/hephy/Resources/Public/Images/logo.png" width="300pt" align="top"></img>
+<img src="http://ccnh.ufabc.edu.br/arquivos/imagens/logo-site.jpg" width="250pt" align="top"></img>
+<img src="http://www.hephy.at/user/wwaltenberger/smodels/unihh.jpg" width="250pt",align="top"></img>
+<img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="250pt",align="top"></img>
