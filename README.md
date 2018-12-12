@@ -44,7 +44,8 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  * a database of experimental SMS results                   
  * the interface between decomposition and results database (to check limits) <img src="http://www.hephy.at/user/wwaltenberger/smodels/scheme.png" alt="SModelS working scheme" width=680></img>
 
------------------------------
+-------------------------------------------------------------------------
+
 # Code and Database updates
 * For code and database releases, see [Download](CodeReleases).
 # Installation
