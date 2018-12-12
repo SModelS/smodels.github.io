@@ -61,8 +61,4 @@ A wishlist regarding the presentation of SMS results was worked out at the 2013 
 # For developers (internal)
 Developers please visit the DevelopersPage.
 
-<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="230pt" align="top"></img>
-<img src="http://www.hephy.at/typo3conf/ext/hephy/Resources/Public/Images/logo.png" width="300pt" align="top"></img>
-<img src="http://ccnh.ufabc.edu.br/arquivos/imagens/logo-site.jpg" width="250pt" align="top"></img>
-<img src="http://www.hephy.at/user/wwaltenberger/smodels/unihh.jpg" width="250pt" align="top"></img>
-<img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="250pt" align="top"></img>
+<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="230pt" align="top"><img src="http://www.hephy.at/typo3conf/ext/hephy/Resources/Public/Images/logo.png" width="300pt" align="top"><img src="http://ccnh.ufabc.edu.br/arquivos/imagens/logo-site.jpg" width="250pt" align="top"><img src="http://www.hephy.at/user/wwaltenberger/smodels/unihh.jpg" width="250pt" align="top"><img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="250pt" align="top">
