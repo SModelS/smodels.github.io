@@ -22,7 +22,7 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624)                                    
 * *Constraining new physics with searches for long-lived
 particles: Implementation into SModelS*, Jan Heisig, Sabine Kraml, Andre Lessa, [arXiv:1808.05229](https://arxiv.org/abs/1808.05229)
-* *SModelS extension with the CMS supersymmetry search results from Run 2*, Juhi Dutta, Sabine Kraml, Andre Lessa, Wolfgang Waltenberger, [arXiv:1803.02204](http://arxiv.org/abs/1803.02204), [LHEP 1 (2018) no.1,5-12] (http://journals.andromedapublisher.com/index.php/LHEP/article/view/28)
+* *SModelS extension with the CMS supersymmetry search results from Run 2*, Juhi Dutta, Sabine Kraml, Andre Lessa, Wolfgang Waltenberger, [arXiv:1803.02204](http://arxiv.org/abs/1803.02204), [LHEP 1 (2018) no.1,5-12](http://journals.andromedapublisher.com/index.php/LHEP/article/view/28)
 * *SModelS v1.1 user manual: improving simplified model constraints with efficiency maps*, Federico Ambrogi, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa, Veronika Magerl, Jory Sonneveld, Michael Traub, Wolfgang Waltenberger [arXiv:1701.06586](http://arxiv.org/abs/1701.06586), [CPC 227 (2018) 72-98](https://www.sciencedirect.com/science/article/pii/S0010465518300353?via%3Dihub)                                                                                    
  * *SModelS: a tool for interpreting simplified-model results from the LHC and its application to supersymmetry*, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa,  Wolfgang Magerl, Doris Proschofsky, Wolfgang Waltenberger, [arXiv:1312.4175](http://arxiv.org/abs/arXiv:1312.4175), [EPJC (2014) 74:2868](http://link.springer.com/article/10.1140/epjc/s10052-014-2868-5)
   
@@ -43,7 +43,8 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  * the decomposition of the BSM spectrum into SMS topologies
  * a database of experimental SMS results                   
  * the interface between decomposition and results database (to check limits) 
- <img src="http://www.hephy.at/user/wwaltenberger/smodels/scheme.png" alt="SModelS working scheme" width=680>
+ 
+ <img src="http://www.hephy.at/user/wwaltenberger/smodels/scheme.png" width="680">
 
 -------------------------------------------------------------------------
 
@@ -63,4 +64,4 @@ A wishlist regarding the presentation of SMS results was worked out at the 2013 
 # For developers (internal)
 Developers please visit the DevelopersPage.
 
-<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="230pt" align="top"><img src="http://www.hephy.at/typo3conf/ext/hephy/Resources/Public/Images/logo.png" width="300pt" align="top"><img src="http://ccnh.ufabc.edu.br/arquivos/imagens/logo-site.jpg" width="250pt" align="top"><img src="http://www.hephy.at/user/wwaltenberger/smodels/unihh.jpg" width="250pt" align="top"><img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="250pt" align="top">
+<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="230pt" align="top"><img src="http://www.hephy.at/typo3conf/ext/hephy/Resources/Public/Images/logo.png" width="300pt" align="top"><img src="http://ccnh.ufabc.edu.br/arquivos/imagens/logo-site.jpg" width="280pt" align="top"><img src="http://www.hephy.at/user/wwaltenberger/smodels/unihh.jpg" width="260pt" align="top"><img src="https://www.refugeecouncil.org.au/wp-content/uploads/2015/03/monash-university-logo.png" width="230pt" align="top">
