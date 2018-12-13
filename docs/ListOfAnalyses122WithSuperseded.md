@@ -4,22 +4,23 @@
 List of analyses and topologies in the SMS results database,
 comprising 2878 individual maps from 347 distinct signal regions, 76 different SMS topologies, from a total of 92 analyses.
 The list has been created from the database version `1.2.2`.
-Results from !FastLim are included. There is also an  [sms dictionary](SmsDictionary122) and a [validation page](Validation122).
+Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary122) and a [validation page](Validation122).
 Link to list of results [without superseded results](ListOfAnalyses122).
 ## Individual tables
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](ATLASupperlimits13): 9  analyses, 15  results
- * [ATLAS efficiency maps](ATLASefficiencymaps13): 2  analyses, 3  results
- * [CMS upper limits](CMSupperlimits13): 28  analyses, 121 (of which 3 LLP) results
- * [CMS efficiency maps](CMSefficiencymaps13): 2  analyses, 10 (of which 8 LLP) results
+ * [ATLAS upper limits](#ATLASupperlimits13): 9  analyses, 15  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 2  analyses, 3  results
+ * [CMS upper limits](#CMSupperlimits13): 28  analyses, 121 (of which 3 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 10 (of which 8 LLP) results
 ### Run 1 - 8 TeV
- * [ATLAS upper limits](ATLASupperlimits8): 28  analyses, 58  results
- * [ATLAS efficiency maps](ATLASefficiencymaps8): 18 (of which 9 !FastLim) analyses, 191 (of which 163 !FastLim) results
- * [CMS upper limits](CMSupperlimits8): 19  analyses, 68 (of which 3 LLP) results
- * [CMS efficiency maps](CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
+ * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results
+ * [CMS upper limits](#CMSupperlimits8): 19  analyses, 68 (of which 3 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
 
 ## CMS, upper limits, 13 TeV (28 analyses)
 <a name="CMSupperlimits13"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **PAS** | | | | |
@@ -55,6 +56,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## CMS, efficiency maps, 13 TeV (2 analyses)
 <a name="CMSefficiencymaps13"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **PAS** | | | | |
@@ -64,6 +66,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## ATLAS, upper limits, 13 TeV (9 analyses)
 <a name="ATLASupperlimits13"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
@@ -79,6 +82,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## ATLAS, efficiency maps, 13 TeV (2 analyses)
 <a name="ATLASefficiencymaps13"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
@@ -87,6 +91,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## CMS, upper limits, 8 TeV (19 analyses)
 <a name="CMSupperlimits8"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
@@ -114,6 +119,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## CMS, efficiency maps, 8 TeV (8 analyses)
 <a name="CMSefficiencymaps8"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
@@ -130,6 +136,7 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## ATLAS, upper limits, 8 TeV (28 analyses)
 <a name="ATLASupperlimits8"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Conf Notes** | | | | |
@@ -165,18 +172,19 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 ## ATLAS, efficiency maps, 8 TeV (18 analyses)
 <a name="ATLASefficiencymaps8"></a>
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Conf Notes** | | | | |
-| [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/)<a name="ATLAS-CONF-2013-024"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.5 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-037](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-037/)<a name="ATLAS-CONF-2013-037"></a> | 1 lepton + &ge; 4(1 b-)jets + Etmiss | 20.7 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-047](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-047/)<a name="ATLAS-CONF-2013-047"></a> | 0 leptons + 2-6 jets + Etmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQ](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-048](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-048/)<a name="ATLAS-CONF-2013-048"></a> | 2 leptons + (b)jets + Etmiss | 20.3 | [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2tt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-053](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-053/)<a name="ATLAS-CONF-2013-053"></a> | 0 leptons + 2 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btqq](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-054](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-054/)<a name="ATLAS-CONF-2013-054"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQ](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-061](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-061/)<a name="ATLAS-CONF-2013-061"></a> | 0 or &ge;1 leptons + jets + &ge; 3 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-062](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-062/)<a name="ATLAS-CONF-2013-062"></a> | 1 lepton + jets + ETmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from !FastLim (2)) | |
-| [ATLAS-CONF-2013-093](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-093/)<a name="ATLAS-CONF-2013-093"></a> | 1 lepton + 2 b-jets + Etmiss (mbb = mH) | 20.3 | [T1bbbt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122) (from !FastLim (2)) | |
+| [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/)<a name="ATLAS-CONF-2013-024"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.5 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-037](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-037/)<a name="ATLAS-CONF-2013-037"></a> | 1 lepton + &ge; 4(1 b-)jets + Etmiss | 20.7 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-047](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-047/)<a name="ATLAS-CONF-2013-047"></a> | 0 leptons + 2-6 jets + Etmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQ](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-048](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-048/)<a name="ATLAS-CONF-2013-048"></a> | 2 leptons + (b)jets + Etmiss | 20.3 | [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2tt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-053](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-053/)<a name="ATLAS-CONF-2013-053"></a> | 0 leptons + 2 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btqq](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-054](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-054/)<a name="ATLAS-CONF-2013-054"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQ](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-061](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-061/)<a name="ATLAS-CONF-2013-061"></a> | 0 or &ge;1 leptons + jets + &ge; 3 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bb](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-062](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-062/)<a name="ATLAS-CONF-2013-062"></a> | 1 lepton + jets + ETmiss | 20.3 | [T1](SmsDictionary122), [T1bbbb](SmsDictionary122), [T1bbbt](SmsDictionary122), [T1bbqq](SmsDictionary122), [T1bbtt](SmsDictionary122), [T1btbt](SmsDictionary122), [T1btqq](SmsDictionary122), [T1bttt](SmsDictionary122), [T1qqtt](SmsDictionary122), [T1tttt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbb](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122), [T5tbtt](SmsDictionary122), [T5tttt](SmsDictionary122), [TGQbbq](SmsDictionary122), [TGQbtq](SmsDictionary122), [TGQqtt](SmsDictionary122) (from FastLim [(2)](#A2)) | |
+| [ATLAS-CONF-2013-093](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-093/)<a name="ATLAS-CONF-2013-093"></a> | 1 lepton + 2 b-jets + Etmiss (mbb = mH) | 20.3 | [T1bbbt](SmsDictionary122), [T2bt](SmsDictionary122), [T2tt](SmsDictionary122), [T5bbbt](SmsDictionary122), [T5btbt](SmsDictionary122), [T5tbtb](SmsDictionary122) (from FastLim [(2)](#A2)) | |
 | **Publications** | | | | |
 | [ATLAS-SUSY-2013-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/)<a name="ATLAS-SUSY-2013-02"></a> | jets and met | 20.3 | [T1](SmsDictionary122), [T2](SmsDictionary122), [T3GQ](SmsDictionary122) (1), [T5](SmsDictionary122) (1) | |
 | [ATLAS-SUSY-2013-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/)<a name="ATLAS-SUSY-2013-04"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1bbbb](SmsDictionary122) (1), [T1btbt](SmsDictionary122) (1), [T1tttt](SmsDictionary122), [T2tt](SmsDictionary122) (1), [T2ttoff](SmsDictionary122) (1), [T5](SmsDictionary122) (1), [T5WW](SmsDictionary122) (1), [T5WWoff](SmsDictionary122) (1), [T5ZZ](SmsDictionary122) (1), [T6bbWW](SmsDictionary122) (1) | |
@@ -190,5 +198,5 @@ Link to list of results [without superseded results](ListOfAnalyses122).
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like !MadAnalysis5 or CheckMATE.
-<a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from !FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
+<a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
