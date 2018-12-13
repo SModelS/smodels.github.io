@@ -19,10 +19,10 @@ Link to list of results [without superseded results](ListOfAnalyses).
  * [CMS efficiency maps](CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
 
 ## CMS, upper limits, 13 TeV (28 analyses)
- | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |-------|----------------------|-------------|-------------|------------------|
- | **PAS** | | | | |
- | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html) | hscp search | 12.9 | [THSCPM1b](SmsDictionary), [TRHadGM1](SmsDictionary), [TRHadQM1](SmsDictionary) | |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
+|-------|----------------------|-------------|-------------|------------------|
+| **PAS** | | | | |
+| [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html) | hscp search | 12.9 | [THSCPM1b](SmsDictionary), [TRHadGM1](SmsDictionary), [TRHadQM1](SmsDictionary) | |
  | [CMS-PAS-SUS-15-002](http://cms-results.web.cern.ch/cms-results/public-results/superseded/SUS-15-002/index.html) | &ge; 4jets + Etmiss, HT, HTmiss | 2.2 | [T1](SmsDictionary), [T1bbbb](SmsDictionary) |[CMS-SUS-15-002](#CMS-SUS-15-002) |
  | [CMS-PAS-SUS-16-014](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-014/) | jets + Etmiss, HT | 12.9 | [T1](SmsDictionary), [T1bbbb](SmsDictionary), [T1tttt](SmsDictionary), [T1ttttoff](SmsDictionary), [T2](SmsDictionary), [T2bb](SmsDictionary), [T2tt](SmsDictionary), [T2ttoff](SmsDictionary) |[CMS-SUS-16-033](#CMS-SUS-16-033) |
  | [CMS-PAS-SUS-16-015](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-015/) | jets + Etmiss, M<sub>T2</sub> | 12.9 | [T1](SmsDictionary), [T1bbbb](SmsDictionary), [T1tttt](SmsDictionary), [T1ttttoff](SmsDictionary), [T2](SmsDictionary), [T2bb](SmsDictionary), [T2tt](SmsDictionary), [T2ttoff](SmsDictionary) |[CMS-SUS-16-036](#CMS-SUS-16-036) |
