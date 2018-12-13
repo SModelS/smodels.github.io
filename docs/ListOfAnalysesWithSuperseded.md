@@ -4,7 +4,7 @@
 List of analyses and topologies in the SMS results database,
 comprising 2878 individual maps from 347 distinct signal regions, 76 different SMS topologies, from a total of 92 analyses.
 The list has been created from the database version `1.2.2`.
-Results from !FastLim are included. There is also an  [sms dictionary}(SmsDictionary) and a [validation page](Validation).
+Results from !FastLim are included. There is also an  [sms dictionary](SmsDictionary) and a [validation page](Validation).
 Link to list of results [without superseded results](ListOfAnalyses).
 ## Individual tables
 ### Run 2 - 13 TeV
@@ -20,7 +20,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## CMS, upper limits, 13 TeV (28 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **PAS** | | | | |
  | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html) | hscp search | 12.9 | [THSCPM1b](SmsDictionary), [TRHadGM1](SmsDictionary), [TRHadQM1](SmsDictionary) | |
  | [CMS-PAS-SUS-15-002](http://cms-results.web.cern.ch/cms-results/public-results/superseded/SUS-15-002/index.html) | &ge; 4jets + Etmiss, HT, HTmiss | 2.2 | [T1](SmsDictionary), [T1bbbb](SmsDictionary) |[CMS-SUS-15-002](#CMS-SUS-15-002) |
@@ -54,7 +54,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## CMS, efficiency maps, 13 TeV (2 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **PAS** | | | | |
  | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html) | hscp search | 12.9 | [THSCPM1b](SmsDictionary) (1), [THSCPM2b](SmsDictionary) (1), [THSCPM3](SmsDictionary) (1), [THSCPM4](SmsDictionary) (1), [THSCPM5](SmsDictionary) (1), [THSCPM6](SmsDictionary) (1), [THSCPM7](SmsDictionary) (1), [THSCPM8](SmsDictionary) (1) | |
  | **PAS** | | | | |
@@ -62,7 +62,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## ATLAS, upper limits, 13 TeV (9 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Publications** | | | | |
  | [ATLAS-SUSY-2015-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-01/) | 2 b-jets + Etmiss | 3.2 | [T2bb](SmsDictionary) | |
  | [ATLAS-SUSY-2015-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/) | single lepton stop | 3.2 | [T2tt](SmsDictionary) | |
@@ -76,14 +76,14 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## ATLAS, efficiency maps, 13 TeV (2 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Publications** | | | | |
  | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/) | single lepton stop | 3.2 | [T2tt](SmsDictionary) | |
  | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/) | 0 leptons + 2-6 jets + Etmiss | 3.2 | [T1](SmsDictionary), [T2](SmsDictionary) | |
 
 ## CMS, upper limits, 8 TeV (19 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Publications** | | | | |
  | [CMS-EXO-12-026](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html) | hscp search | 18.8 | [THSCPM1b](SmsDictionary), [TRHadGM1](SmsDictionary), [TRHadQM1](SmsDictionary) | |
  | **PAS** | | | | |
@@ -109,7 +109,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## CMS, efficiency maps, 8 TeV (8 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Publications** | | | | |
  | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html) | hscp search | 18.8 | [THSCPM1b](SmsDictionary) (1), [THSCPM2b](SmsDictionary) (1), [THSCPM3](SmsDictionary) (1), [THSCPM4](SmsDictionary) (1), [THSCPM5](SmsDictionary) (1), [THSCPM6](SmsDictionary) (1), [THSCPM7](SmsDictionary) (1), [THSCPM8](SmsDictionary) (1) | |
  | **PAS** | | | | |
@@ -124,7 +124,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## ATLAS, upper limits, 8 TeV (28 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Conf Notes** | | | | |
  | [ATLAS-CONF-2012-105](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-105/) | 2 SS leptons + &ge; 4 jets + Etmiss | 5.8 | [T1tttt](SmsDictionary) |[ATLAS-SUSY-2013-09](#ATLAS-SUSY-2013-09) |
  | [ATLAS-CONF-2012-166](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-166/) | 1 lepton + 4(1 b-)jets + Etmiss | 13.0 | [T2tt](SmsDictionary) |[ATLAS-SUSY-2013-15](#ATLAS-SUSY-2013-15) |
@@ -158,7 +158,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 
 ## ATLAS, efficiency maps, 8 TeV (18 analyses)
  | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
- |---------|---------|---------|---------|---------|
+ |-------|----------------------|-------------|-------------|------------------|
  | **Conf Notes** | | | | |
  | [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/) | 0 lepton + 6 (2 b-)jets + Etmiss | 20.5 | [T1bbbb](SmsDictionary), [T1bbbt](SmsDictionary), [T1bbqq](SmsDictionary), [T1bbtt](SmsDictionary), [T1btbt](SmsDictionary), [T1btqq](SmsDictionary), [T1bttt](SmsDictionary), [T1qqtt](SmsDictionary), [T1tttt](SmsDictionary), [T2bb](SmsDictionary), [T2bt](SmsDictionary), [T2tt](SmsDictionary), [T5bbbb](SmsDictionary), [T5bbbt](SmsDictionary), [T5btbt](SmsDictionary), [T5tbtb](SmsDictionary), [T5tbtt](SmsDictionary), [T5tttt](SmsDictionary), [TGQbbq](SmsDictionary), [TGQbtq](SmsDictionary), [TGQqtt](SmsDictionary) (from !FastLim (2)) | |
  | [ATLAS-CONF-2013-037](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-037/) | 1 lepton + &ge; 4(1 b-)jets + Etmiss | 20.7 | [T1bbbb](SmsDictionary), [T1bbbt](SmsDictionary), [T1bbtt](SmsDictionary), [T1btbt](SmsDictionary), [T1btqq](SmsDictionary), [T1bttt](SmsDictionary), [T1qqtt](SmsDictionary), [T1tttt](SmsDictionary), [T2bt](SmsDictionary), [T2tt](SmsDictionary), [T5bbbb](SmsDictionary), [T5bbbt](SmsDictionary), [T5btbt](SmsDictionary), [T5tbtb](SmsDictionary), [T5tbtt](SmsDictionary), [T5tttt](SmsDictionary), [TGQbtq](SmsDictionary), [TGQqtt](SmsDictionary) (from !FastLim (2)) | |
@@ -181,8 +181,6 @@ Link to list of results [without superseded results](ListOfAnalyses).
  | [ATLAS-SUSY-2014-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2014-03/) | &ge; 2(c-)jets + Etmiss | 20.3 | [TScharm](SmsDictionary) | |
 
 
-(1) ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like !MadAnalysis5 or CheckMATE.
-
-(2) Please note that by default we discard zeroes-only results from !FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
-
-(3) Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
+<a name=A1>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like !MadAnalysis5 or CheckMATE.
+<a name=A2>(2)</a> Please note that by default we discard zeroes-only results from !FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
+<a name=A3>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
