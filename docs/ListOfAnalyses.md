@@ -19,8 +19,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
  * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
 
 <a name="CMSupperlimits13"></a>
-
 ## CMS, upper limits, 13 TeV (21 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **PAS** | | | |
@@ -48,8 +48,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [CMS-SUS-17-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary#T2tt), [T2ttoff](SmsDictionary#T2ttoff), [T6bbWW](SmsDictionary#T6bbWW) |
 
 <a name="CMSefficiencymaps13"></a>
-
 ## CMS, efficiency maps, 13 TeV (2 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **PAS** | | | |
@@ -58,8 +58,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052-agg"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary#T2bbWWoff) [(3)](#A3), [T6bbWWoff](SmsDictionary#T6bbWWoff) [(3)](#A3) |
 
 <a name="ATLASupperlimits13"></a>
-
 ## ATLAS, upper limits, 13 TeV (9 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Publications** | | | |
@@ -74,8 +74,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary#TChiWZ) |
 
 <a name="ATLASefficiencymaps13"></a>
-
 ## ATLAS, efficiency maps, 13 TeV (2 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Publications** | | | |
@@ -83,8 +83,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)<a name="ATLAS-SUSY-2015-06"></a> | 0 leptons + 2-6 jets + Etmiss | 3.2 | [T1](SmsDictionary#T1), [T2](SmsDictionary#T2) |
 
 <a name="CMSupperlimits8"></a>
-
 ## CMS, upper limits, 8 TeV (16 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Publications** | | | |
@@ -108,8 +108,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)<a name="CMS-SUS-14-021"></a> | soft leptons, low jet multiplicity, high ETmiss | 19.7 | [T2bbWW](SmsDictionary#T2bbWW), [T2bbWWoff](SmsDictionary#T2bbWWoff) |
 
 <a name="CMSefficiencymaps8"></a>
-
 ## CMS, efficiency maps, 8 TeV (8 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Publications** | | | |
@@ -125,8 +125,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)<a name="CMS-SUS-13-013"></a> | 2 SS leptons + (b-)jets + Etmiss | 19.5 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |
 
 <a name="ATLASupperlimits8"></a>
-
 ## ATLAS, upper limits, 8 TeV (15 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Conf Notes** | | | |
@@ -148,8 +148,8 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [ATLAS-SUSY-2013-23](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/)<a name="ATLAS-SUSY-2013-23"></a> | 1 lepton + 2 b-jets (or 2 photons) + Etmiss (mbb = mH) | 20.3 | [TChiWH](SmsDictionary#TChiWH) |
 
 <a name="ATLASefficiencymaps8"></a>
-
 ## ATLAS, efficiency maps, 8 TeV (18 analyses)
+
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Conf Notes** | | | |
