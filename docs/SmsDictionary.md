@@ -6,7 +6,7 @@ events onto the Tx nomenclature. The list has been created from the database ver
 
 There is also a [ListOfAnalyses](https://smodels.github.io/docs/ListOfAnalyses), a [ListOfAnalysesWithSuperseded](https://smodels.github.io/docs/ListOfAnalysesWithSuperseded), and [Validation](Validation).
 
-| **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
+| **#** | **Tx** | **Topology** | `     `<b>Graph</b>`      ` | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
 | 1 | **T1**<br><a name="T1"></a> | `[[[q,q]],[[q,q]]]`<BR>`(MET,MET)` | ![T1](../feyn/straight/T1.png) | [many (17)](ListOfAnalyses)|
 | 2 | **T1bbbb**<br><a name="T1bbbb"></a> | `[[[b,b]],[[b,b]]]`<BR>`(MET,MET)` | ![T1bbbb](../feyn/straight/T1bbbb.png) | [many (24)](ListOfAnalyses)|
