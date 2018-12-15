@@ -55,9 +55,9 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 * For instructions on how to install SModelS, check the [installation section in the manual](http://smodels.readthedocs.io/en/latest/Installation.html).
 
 # Experimental results in the database
-* Here is the [list of analyses contained in the latest database version](ListOfAnalyses)
-* Same as above but [including superseded analyses](ListOfAnalysesWithSuperseded)
-* Pretty [validation plots](Validation) for all analyses
+* Here is the [list of analyses contained in the latest database version](docs/ListOfAnalyses)
+* Same as above but [including superseded analyses](docs/ListOfAnalysesWithSuperseded)
+* Pretty [validation plots](docs/Validation) for all analyses
 * We also provide an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS
 
 # Publications and Talks
