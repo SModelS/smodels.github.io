@@ -49,7 +49,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 -------------------------------------------------------------------------
 
 # Code and Database updates
-* For code and database releases, see [Download](https://github.com/SModelS/smodels-database-release/releases).
+* For code and database releases, see [Download](docs/CodeReleases)
 
 # Installation
 * For instructions on how to install SModelS, check the [installation section in the manual](http://smodels.readthedocs.io/en/latest/Installation.html).
@@ -61,7 +61,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 * We also provide an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS
 
 # Publications and Talks
-See the [publications and talks](SmodelsTalks) page
+See the [publications and talks](docs/SmodelsTalks) page
 
 # SMS wishlist
 A wishlist regarding the presentation of SMS results was worked out at the 2013 Les Houches workshop, see [this page](http://phystev.in2p3.fr/wiki/2013:groups:np:susysms).
