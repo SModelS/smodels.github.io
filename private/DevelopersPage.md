@@ -1,6 +1,6 @@
-# Number of downloads
- * http://pepy.tech/project/smodels
- * https://pypi.org/project/smodels/
+# SModelS on the python index
+ * [package](https://pypi.org/project/smodels/)
+ * [stats](http://pepy.tech/project/smodels)
 
 # SModelS workshops 
  * [Fest VI](http://smodels.hephy.at/wiki/SModelsFestVI) in July 2018 in Vienna

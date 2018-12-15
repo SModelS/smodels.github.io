@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.2  
 List of analyses and topologies in the SMS results database,
-comprising 2813 individual maps from 324 distinct signal regions, 76 different SMS topologies, from a total of 75 analyses.
+comprising 2733 individual maps from 322 distinct signal regions, 76 different SMS topologies, from a total of 75 analyses.
 The list has been created from the database version `1.2.2`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary) and a [validation page](Validation).
 Link to list of results [including superseded results](ListOfAnalysesWithSuperseded).
@@ -16,7 +16,7 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
  * [ATLAS upper limits](#ATLASupperlimits8): 15  analyses, 37  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results
  * [CMS upper limits](#CMSupperlimits8): 16  analyses, 56 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 42 (of which 8 LLP) results
 
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (21 analyses)
@@ -121,7 +121,7 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [CMS-SUS-12-024](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS12024)<a name="CMS-SUS-12-024"></a> | 0 leptons + &ge; 3 (1b-)jets + Etmiss | 19.4 | [T1bbbb](SmsDictionary#T1bbbb), [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |
 | [CMS-SUS-13-007](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13007)<a name="CMS-SUS-13-007"></a> | 1 lepton + &ge; 2 b-jets + Etmiss | 19.3 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |
 | [CMS-SUS-13-011](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13011)<a name="CMS-SUS-13-011"></a> | 1 lepton + &ge; 4 (1b-)jets + Etmiss | 19.5 | [T2tt](SmsDictionary#T2tt), [T2ttoff](SmsDictionary#T2ttoff) |
-| [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T1](SmsDictionary#T1), [T1bbbb](SmsDictionary#T1bbbb) [(1)](#A1), [T1btbt](SmsDictionary#T1btbt) [(1)](#A1), [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff), [T2](SmsDictionary#T2) [(1)](#A1), [T2bb](SmsDictionary#T2bb) [(1)](#A1), [T2bt](SmsDictionary#T2bt) [(1)](#A1), [T2tt](SmsDictionary#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary#T2ttoff) [(1)](#A1), [T3GQ](SmsDictionary#T3GQ) [(1)](#A1), [T5](SmsDictionary#T5) [(1)](#A1), [T5WW](SmsDictionary#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary#T5ZZ) [(1)](#A1), [T5bbbb](SmsDictionary#T5bbbb) [(1)](#A1), [T5tttt](SmsDictionary#T5tttt) [(1)](#A1), [T6WW](SmsDictionary#T6WW) [(1)](#A1), [T6bbWW](SmsDictionary#T6bbWW) [(1)](#A1), [T6bbWWoff](SmsDictionary#T6bbWWoff) [(1)](#A1), [TChiWW](SmsDictionary#TChiWW) [(1)](#A1), [TChiWZ](SmsDictionary#TChiWZ) [(1)](#A1), [TChiZZ](SmsDictionary#TChiZZ) [(1)](#A1) |
+| [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T1](SmsDictionary#T1), [T1bbbb](SmsDictionary#T1bbbb) [(1)](#A1), [T1btbt](SmsDictionary#T1btbt) [(1)](#A1), [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff), [T2](SmsDictionary#T2), [T2bb](SmsDictionary#T2bb) [(1)](#A1), [T2tt](SmsDictionary#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary#T2ttoff) [(1)](#A1), [T3GQ](SmsDictionary#T3GQ) [(1)](#A1), [T5](SmsDictionary#T5) [(1)](#A1), [T5WW](SmsDictionary#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary#T5ZZ) [(1)](#A1), [T5bbbb](SmsDictionary#T5bbbb) [(1)](#A1), [T5tttt](SmsDictionary#T5tttt) [(1)](#A1), [T6bbWW](SmsDictionary#T6bbWW) [(1)](#A1), [T6bbWWoff](SmsDictionary#T6bbWWoff) [(1)](#A1), [TChiWW](SmsDictionary#TChiWW) [(1)](#A1), [TChiWZ](SmsDictionary#TChiWZ) [(1)](#A1), [TChiZZ](SmsDictionary#TChiZZ) [(1)](#A1) |
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)<a name="CMS-SUS-13-013"></a> | 2 SS leptons + (b-)jets + Etmiss | 19.5 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |
 
 <a name="ATLASupperlimits8"></a>
@@ -174,7 +174,7 @@ Link to list of results [including superseded results](ListOfAnalysesWithSuperse
 | [ATLAS-SUSY-2014-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2014-03/)<a name="ATLAS-SUSY-2014-03"></a> | &ge; 2(c-)jets + Etmiss | 20.3 | [TScharm](SmsDictionary#TScharm) |
 
 
-<a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like !MadAnalysis5 or CheckMATE.
+<a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
 
 <a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
