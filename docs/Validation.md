@@ -23,8 +23,10 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 15 analyses, 28 results
  * [CMS upper limits](#CMSupperlimits8): 19 analyses, 68 results
  * [CMS efficiency maps](#CMSefficiencymaps8): 8 analyses, 20 results
-## ATLAS upper limits, 13 TeV: 9 analyses, 15 results total
+
+
 <a name="ATLASupperlimits13"></a>
+## ATLAS upper limits, 13 TeV: 9 analyses, 15 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -43,16 +45,20 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [ATLAS-SUSY-2016-33](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-33/)| [T5ZZ](SmsDictionary#T5ZZ)| 36.1|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"></img></a><BR><a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassBy+100.0_EqMassCy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassBy+100.0_EqMassCy_pretty.png"></img></a><BR><a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T5ZZ_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"></img></a>  | <img src=http://smodels.hephy.at/images/new.png></img> in 1.2.2!  |
 | | [T6ZZ](SmsDictionary#T6ZZ)| 36.1|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T6ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2016-33/validation/T6ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"></img></a>  | <img src=http://smodels.hephy.at/images/new.png></img> in 1.2.2!  |
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)| [TChiWZ](SmsDictionary#TChiWZ)| 36.1|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2017-03/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2017-03/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png"></img></a>  | <img src=http://smodels.hephy.at/images/new.png></img> in 1.2.2!  |
-## ATLAS efficiency maps, 13 TeV: 2 analyses, 3 results total
+
+
 <a name="ATLASefficiencymaps13"></a>
+## ATLAS efficiency maps, 13 TeV: 2 analyses, 3 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)| [T2tt](SmsDictionary#T2tt)| 3.2|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-02-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-02-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)| [T1](SmsDictionary#T1)| 3.2|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T2](SmsDictionary#T2)| 3.2|<a href="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png"></img></a>  | <img src=http://smodels.hephy.at/images/new.png></img> in 1.2.2! [comment](http://smodels.hephy.at/validation_v122/13TeV/ATLAS/ATLAS-SUSY-2015-06-eff/validation/T2.comment) |
-## CMS upper limits, 13 TeV: 28 analyses, 121 results total
+
+
 <a name="CMSupperlimits13"></a>
+## CMS upper limits, 13 TeV: 28 analyses, 121 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -177,16 +183,20 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-17-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)| [T2tt](SmsDictionary#T2tt)| 35.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T2ttoff](SmsDictionary#T2ttoff)| 35.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T6bbWW](SmsDictionary#T6bbWW)| 35.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-SUS-17-001/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"></img></a>  | |
-## CMS efficiency maps, 13 TeV: 2 analyses, 3 results total
+
+
 <a name="CMSefficiencymaps13"></a>
+## CMS efficiency maps, 13 TeV: 2 analyses, 3 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary#THSCPM1b)| 12.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-EXO-16-036-eff/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-EXO-16-036-eff/validation/THSCPM1b_2EqMassAx_pretty.png"></img></a>  |[comment](http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-EXO-16-036-eff/validation/THSCPM1b.comment) |
 | [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)| [T2bbWWoff](SmsDictionary#T2bbWWoff)| 35.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png"></img></a>  | |
 | | [T6bbWWoff](SmsDictionary#T6bbWWoff)| 35.9|<a href="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png"><img src="http://smodels.hephy.at/validation_v122/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png"></img></a>  | |
-## ATLAS upper limits, 8 TeV: 28 analyses, 58 results total
+
+
 <a name="ATLASupperlimits8"></a>
+## ATLAS upper limits, 8 TeV: 28 analyses, 58 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -248,8 +258,10 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [ATLAS-SUSY-2013-19](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-19/)| [T2bbWW](SmsDictionary#T2bbWW)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T2tt](SmsDictionary#T2tt)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"></img></a>  |[comment](http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2tt.comment) |
 | [ATLAS-SUSY-2013-23](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/)| [TChiWH](SmsDictionary#TChiWH)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-23/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-23/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
-## ATLAS efficiency maps, 8 TeV: 15 analyses, 28 results total
+
+
 <a name="ATLASefficiencymaps8"></a>
+## ATLAS efficiency maps, 8 TeV: 15 analyses, 28 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -281,8 +293,10 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T2bbWW](SmsDictionary#T2bbWW)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T2bbWWoff](SmsDictionary#T2bbWWoff)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2013-21-eff/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | [ATLAS-SUSY-2014-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2014-03/)| [TScharm](SmsDictionary#TScharm)| 20.3|<a href="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2014-03-eff/validation/TScharm_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/ATLAS/ATLAS-SUSY-2014-03-eff/validation/TScharm_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
-## CMS upper limits, 8 TeV: 19 analyses, 68 results total
+
+
 <a name="CMSupperlimits8"></a>
+## CMS upper limits, 8 TeV: 19 analyses, 68 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -354,8 +368,10 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T1ttttoff](SmsDictionary#T1ttttoff)| 19.5|<a href="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-010/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-010/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary#T2bbWW)| 19.7|<a href="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-021/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-021/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
 | | [T2bbWWoff](SmsDictionary#T2bbWWoff)| 19.7|<a href="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-021/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png"><img src="http://smodels.hephy.at/validation_v122/8TeV/CMS/CMS-SUS-14-021/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png"></img></a>  | |
-## CMS efficiency maps, 8 TeV: 8 analyses, 20 results total
+
+
 <a name="CMSefficiencymaps8"></a>
+## CMS efficiency maps, 8 TeV: 8 analyses, 20 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
