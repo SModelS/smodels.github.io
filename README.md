@@ -61,7 +61,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 * We also provide an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS
 
 # Publications and Talks
-See the [publications and talks](docs/SmodelsTalks) page
+See the [publications and talks](docs/SModelSTalks) page
 
 # SMS wishlist
 A wishlist regarding the presentation of SMS results was worked out at the 2013 Les Houches workshop, see [this page](http://phystev.in2p3.fr/wiki/2013:groups:np:susysms).

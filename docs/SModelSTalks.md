@@ -16,11 +16,11 @@
 ## Talks on SModelS
 * **Hands-On SModelS**, Wolfgang Waltenberger, talk given at the [TOOLS 2017](https://indico.cern.ch/event/629037/) workshop in Corfu, Greece, 10-13 Sept 2017.
 * **Simplified models of heavy Higgs bosons decaying to supersymmetric particles**, Lukas Lechner, talk given at [SPS/OePG joint annual meeting](http://www.sps.ch/events/gemeinsame-jahrestagung-2017/), 21 - 25 Aug 2017, Geneva.
-* **On the Coverage of the pMSSM by Simplified Model Results**, Uschi Laa, EPSHEP July 2017, https://indico.cern.ch/event/466934/contributions/2588477/
+* **On the Coverage of the pMSSM by Simplified Model Results**, Uschi Laa, [EPSHEP](https://indico.cern.ch/event/466934/contributions/2588477/), July 2017
 * **On the coverage of the pMSSM by Simplified Model results**, Suchita Kulkarni, Seminar IJS, Ljubljana, January 2017
 * **SModelS -- future directions**<BR>Wolfgang Waltenberger at [(Re)interpreting the results of new physics searches at the LHC](https://indico.cern.ch/event/571190/), 12-14 Dec 2016, CERN.
 * **SModelS -- upgrading to LHC Run-2**, Wolfgang Waltenberger, talk given at Fit(s) for LHC run-2 conference, Edinburgh, Oct 2016.
-* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016], 4 July 2016 [slides](../attachments/FedericoA_SModelS_SUSY2016.pdf], [link](https://indico.cern.ch/event/443176/)
+* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016], 4 July 2016 [slides](../attachments/FedericoA_SModelS_SUSY2016.pdf), [link](https://indico.cern.ch/event/443176/)
 * **SModelS**<BR>Andre Lessa at [CERN Re-interpretation Workshop], 15 June 2016 [slides](../attachments/interpretation.pdf), [link](https://indico.cern.ch/event/525142/)
 * **Constraining Low Fine Tuned Supersymmetric Models With Simplified Models Spectra Results Based On CMS And ATLAS Searches**<BR>Veronika Magerl, applying for a PhD position, October 2015 [slides](../attachments/presentation_Veronika_Magerl.pdf)
 * **SModels: A Tool for Making Systematic Use of Simplified Models**<BR> Andre Lessa, at [GOAL Workshop](http://www.ictp-saifr.org/?page_id=5313) in Sao Paulo, 15 August 2014
