@@ -20,24 +20,24 @@
 * **On the coverage of the pMSSM by Simplified Model results**, Suchita Kulkarni, Seminar IJS, Ljubljana, January 2017
 * **SModelS -- future directions**<BR>Wolfgang Waltenberger at [(Re)interpreting the results of new physics searches at the LHC](https://indico.cern.ch/event/571190/), 12-14 Dec 2016, CERN.
 * **SModelS -- upgrading to LHC Run-2**, Wolfgang Waltenberger, talk given at Fit(s) for LHC run-2 conference, Edinburgh, Oct 2016.
-* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016], 4 July 2016 attachment:FedericoA_SModelS_SUSY2016.pdf](https://indico.cern.ch/event/443176/)
-* **SModelS**<BR>Andre Lessa at [CERN Re-interpretation Workshop], 15 June 2016 [slides](../attachments/interpretation.pdf)[link](https://indico.cern.ch/event/525142/)
+* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016], 4 July 2016 [slides](../attachments/FedericoA_SModelS_SUSY2016.pdf], [link](https://indico.cern.ch/event/443176/)
+* **SModelS**<BR>Andre Lessa at [CERN Re-interpretation Workshop], 15 June 2016 [slides](../attachments/interpretation.pdf), [link](https://indico.cern.ch/event/525142/)
 * **Constraining Low Fine Tuned Supersymmetric Models With Simplified Models Spectra Results Based On CMS And ATLAS Searches**<BR>Veronika Magerl, applying for a PhD position, October 2015 [slides](../attachments/presentation_Veronika_Magerl.pdf)
 * **SModels: A Tool for Making Systematic Use of Simplified Models**<BR> Andre Lessa, at [GOAL Workshop](http://www.ictp-saifr.org/?page_id=5313) in Sao Paulo, 15 August 2014
 * **Making the most of the SMS results**<BR>Suchita Kulkarni, at [PASCOS](http://indico.fuw.edu.pl/contributionDisplay.py?sessionId=53&contribId=235&confId=0) in Warsaw, 26 June 2014.
 * **From experimental LHC data to the Next Standard Model -- the simplified models approach**<BR>Wolfgang Waltenberger at the TU Wien theory seminar 12 june 2014 [slides](http://www.hephy.at/user/walten/grumi_seminar.pdf)
 * **SModelS - Interpreting Simplified Models Results**<BR>Ursula Laa at GDR terascale 03 June 2014 [slides](https://indico.in2p3.fr/getFile.py/access?contribId=10&sessionId=4&resId=0&materialId=slides&confId=8565)
-* **Introducing SModelS - a tool for testing LHC results using simplified  models**<BR>Suchita Kulkarni at PASCOS-2013, Taipei 20 Nov 2013 attachment::Kulkarni_PASCOS.pdf
-* **Progress Report from SModelS and Aachen**<BR>Suchita Kulkarni at the CERN, co-ordinating simplified models effort 29 Oct 2013 attachment::Kulkarni_CERN.pdf
-* **Introducing SModelS**<BR>Suchita Kulkarni at the GDR terascale 29 Oct 2013 attachment::Kulkarni_Annecy.pdf
-* **Introducing SModelS with an application to light neutralino**<BR>Suchita Kulkarni at the Dark Side of the Universe meeting 15 Oct 2013 attachment::Kulkarni_DSU.pdf
-* **Making systematic use of the experimental simplified model results.**<BR>Wolfgang Waltenberger in the CMS SUSY group, 1 Oct 2013 attachment::susypag.pdf
-* **Application of ATLAS and CMS simplified models results to theories beyond the Standard Model**<BR>Ursula Laa at the [OePG / SPS annual meeting] in Linz, 4 Sep 2013  attachment::uschi_oepg2013.pdf](http://www.oepg.at/index.php?item=156&lang=en)
+* **Introducing SModelS - a tool for testing LHC results using simplified  models**<BR>Suchita Kulkarni at PASCOS-2013, Taipei 20 Nov 2013 [slides](../attachments/Kulkarni_PASCOS.pdf)
+* **Progress Report from SModelS and Aachen**<BR>Suchita Kulkarni at the CERN, co-ordinating simplified models effort 29 Oct 2013 [slides](../attachments/Kulkarni_CERN.pdf)
+* **Introducing SModelS**<BR>Suchita Kulkarni at the GDR terascale 29 Oct 2013 [slides](../attachments/Kulkarni_Annecy.pdf)
+* **Introducing SModelS with an application to light neutralino**<BR>Suchita Kulkarni at the Dark Side of the Universe meeting 15 Oct 2013 [slides](../attachments/Kulkarni_DSU.pdf)
+* **Making systematic use of the experimental simplified model results.**<BR>Wolfgang Waltenberger in the CMS SUSY group, 1 Oct 2013 [slides](../attachments/susypag.pdf)
+* **Application of ATLAS and CMS simplified models results to theories beyond the Standard Model**<BR>Ursula Laa at the [OePG / SPS annual meeting] in Linz, 4 Sep 2013 [slides](../attachments/uschi_oepg2013.pdf), [link](http://www.oepg.at/index.php?item=156&lang=en)
 * **Making systematic use of the experimental simplified model results.** <BR> Andre Lessa (for W Waltenberger) at [SUSY13](http://susy2013.ictp.it), 26-31 Aug 2013, Trieste [slides](http://susy2013.ictp.it/lecturenotes/01_Monday/SUSY_Phenomenology/Lessa.pdf)
 * **A generic SMS decomposition of SUSY spectra.** <BR> Suchita Kulkarni at the Helmholtz Allianz [SUSY Workshop](https://indico.desy.de/conferenceDisplay.py?confId=7204), 6-8 May 2013, DESY [slides](https://indico.desy.de/getFile.py/access?contribId=27&sessionId=3&resId=0&materialId=slides&confId=7204)
 ### Related talks
-* **Constraining Exotic Signatures Using Simplified Models**<BR> Andre Lessa at [SUSY2016](https://indico.cern.ch/event/443176/), 7 July 2016 attachment::susy2016.pdf]]
-* **On the coverage of the pMSSM by Simplified Model results**<BR> Ursula Laa at  [CERN Re-interpretation Workshop](https://indico.cern.ch/event/525142/), 17 June 2016 attachment::reinterpretation_LAA.pdf]]
-* **Simplified Models for HSCP**<BR> Jan Heisig at [CERN Re-interpretation Workshop](https://indico.cern.ch/event/525142/), 17 June 2016 attachment::Heisig_HSCP_SMS_CERN.pdf
+* **Constraining Exotic Signatures Using Simplified Models**<BR> Andre Lessa at [SUSY2016](https://indico.cern.ch/event/443176/), 7 July 2016 [slides](../attachments/susy2016.pdf).
+* **On the coverage of the pMSSM by Simplified Model results**<BR> Ursula Laa at  [CERN Re-interpretation Workshop](https://indico.cern.ch/event/525142/), 17 June 2016 [slides](../attachments/reinterpretation_LAA.pdf)
+* **Simplified Models for HSCP**<BR> Jan Heisig at [CERN Re-interpretation Workshop](https://indico.cern.ch/event/525142/), 17 June 2016 [slides](../attachments/Heisig_HSCP_SMS_CERN.pdf)
 * **Reinterpretation efforts: (Tools for) testing BSM scenarios against the LHC results**<BR>Sabine Kraml at the [Bethe Forum "Model Building in the 13 TeV Era"](https://indico.desy.de/conferenceDisplay.py?confid=13792), 3 June 2016 in Bonn.
 * **Limits and Fits from Simplified Models**<BR> Jory Sonneveld, at [Nikhef Theory Center Meeting](http://www.nikhef.nl/pub/theory/center.html) in Amsterdam, 24 October 2014 [slides](http://phys.onmybike.nl/sonneveld_nikhef.pdf)
