@@ -1,7 +1,7 @@
 # SModelS on the python index
  * [package](https://pypi.org/project/smodels/)
  * [stats](http://pepy.tech/project/smodels)
- * <img src=../logos/downloads.png></img>
+ * <img src=https://smodels.github.io/logos/downloads.png></img>
 
 
 # SModelS workshops 
