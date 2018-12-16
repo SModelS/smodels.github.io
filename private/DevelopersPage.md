@@ -2,7 +2,7 @@
  * [package](https://pypi.org/project/smodels/)
  * [stats](http://pepy.tech/project/smodels)
 
-<img src=../pics/downloads.png></img>
+<img src="../pics/downloads.png" />
 
 
 # SModelS workshops 
