@@ -1,4 +1,4 @@
-<p align="center"><img src="https://smodels.github.io/banner.png" alt="banner"></p>
+<p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
 Federico Ambrogi, Juhi Dutta, Jan Heisig, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Humberto Reyes-Gonzalez, Jory Sonneveld, Michael Traub, Wolfgang Waltenberger, Matthias Wolf, Alicia Wongel
@@ -44,7 +44,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  * a database of experimental SMS results                   
  * the interface between decomposition and results database (to check limits) 
  
- <p align="center"><img src="http://www.hephy.at/user/wwaltenberger/smodels/smodelsScheme.png" width="680"></p>
+ <p align="center"><img src="https://smodels.github.io/pics/smodelsScheme.png" width="680"></p>
 
 -------------------------------------------------------------------------
 
