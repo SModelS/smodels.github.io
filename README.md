@@ -66,4 +66,4 @@ See the [publications and talks](docs/SModelSTalks) page
 # SMS wishlist
 A wishlist regarding the presentation of SMS results was worked out at the 2013 Les Houches workshop, see [this page](http://phystev.in2p3.fr/wiki/2013:groups:np:susysms).
 
-<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="250pt" align="top"><img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"><img src="logos/CCNH-logo.jpg" width="250pt" align="top"><img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"><img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="bottom">
+<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="250pt" align="top"><img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"><img src="logos/CCNH-logo.jpg" width="250pt" align="top"><img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"><img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top">
