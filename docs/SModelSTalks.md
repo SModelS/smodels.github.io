@@ -15,14 +15,14 @@
 <BR><BR>**A complete list of publications referring to SModelS can be found at [inspire](http://inspirehep.net/search?ln=en&p=refersto%3Arecid%3A1269436&sf=earliestdate)**
 ## Talks on SModelS
 * **Update on SModelS**, Wolfgang Waltenberger, [ACAT 2019](https://indico.cern.ch/event/708041/), 10-15 March 2019, [slides](https://indico.cern.ch/event/708041/contributions/3266765/attachments/1811530/2958912/SModelS_ACAT2019.pdf)
-* **SModelS - development beyond Missing Energy**, Suchita Kulkarni, talk given at the [DISCRETE 2018](https://www.discrete2018.at/) symposium in Vienna, Austria, 26-30 Nov 2018.
+* **SModelS - development beyond Missing Energy**, Suchita Kulkarni, talk given at the [DISCRETE 2018](https://www.discrete2018.at/) symposium in Vienna, Austria, 26-30 Nov 2018, [slides](https://indico.cern.ch/event/732911/contributions/3169764/attachments/1761043/2858414/Kulkarni_DISCRETE_2018.pdf).
 * **Hands-On SModelS**, Wolfgang Waltenberger, talk given at the [TOOLS 2017](https://indico.cern.ch/event/629037/) workshop in Corfu, Greece, 10-13 Sept 2017.
 * **Simplified models of heavy Higgs bosons decaying to supersymmetric particles**, Lukas Lechner, talk given at [SPS/OePG joint annual meeting](http://www.sps.ch/events/gemeinsame-jahrestagung-2017/), 21 - 25 Aug 2017, Geneva.
 * **On the Coverage of the pMSSM by Simplified Model Results**, Uschi Laa, [EPSHEP](https://indico.cern.ch/event/466934/contributions/2588477/), July 2017
 * **On the coverage of the pMSSM by Simplified Model results**, Suchita Kulkarni, Seminar IJS, Ljubljana, January 2017
 * **SModelS -- future directions**<BR>Wolfgang Waltenberger at [(Re)interpreting the results of new physics searches at the LHC](https://indico.cern.ch/event/571190/), 12-14 Dec 2016, CERN.
 * **SModelS -- upgrading to LHC Run-2**, Wolfgang Waltenberger, talk given at Fit(s) for LHC run-2 conference, Edinburgh, Oct 2016.
-* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016], 4 July 2016 [slides](../attachments/FedericoA_SModelS_SUSY2016.pdf), [link](https://indico.cern.ch/event/443176/)
+* **Interpreting the simplified models results from the LHC with SModelS**<BR> Federico Ambrogi at [SUSY 2016](https://indico.cern.ch/event/443176/), 4 July 2016 [slides](../attachments/FedericoA_SModelS_SUSY2016.pdf).
 * **SModelS**<BR>Andre Lessa at [CERN Re-interpretation Workshop](https://indico.cern.ch/event/525142/), 15 June 2016 [slides](../attachments/interpretation.pdf)
 * **Constraining Low Fine Tuned Supersymmetric Models With Simplified Models Spectra Results Based On CMS And ATLAS Searches**<BR>Veronika Magerl, applying for a PhD position, October 2015 [slides](../attachments/presentation_Veronika_Magerl.pdf)
 * **SModels: A Tool for Making Systematic Use of Simplified Models**<BR> Andre Lessa, at [GOAL Workshop](http://www.ictp-saifr.org/?page_id=5313) in Sao Paulo, 15 August 2014
