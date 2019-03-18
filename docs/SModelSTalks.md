@@ -14,6 +14,7 @@
 * **LHC constraints on light neutralino dark matter in the MSSM** <BR>  by Genevieve Belanger, Guillaume Drieu La Rochelle, Beranger Dumont, Rohini M. Godbole, Sabine Kraml, Suchita Kulkarni, [arXiv:1308.3735](http://arxiv.org/abs/arXiv:1308.3735)
 <BR><BR>**A complete list of publications referring to SModelS can be found at [inspire](http://inspirehep.net/search?ln=en&p=refersto%3Arecid%3A1269436&sf=earliestdate)**
 ## Talks on SModelS
+* **Update on SModelS**, Wolfgang Waltenberger, [ACAT 2019](https://indico.cern.ch/event/708041/), 11-15 March 2019.
 * **SModelS - development beyond Missing Energy**, Suchita Kulkarni, talk given at the [DISCRETE 2018](https://www.discrete2018.at/) symposium in Vienna, Austria, 26-30 Nov 2018.
 * **Hands-On SModelS**, Wolfgang Waltenberger, talk given at the [TOOLS 2017](https://indico.cern.ch/event/629037/) workshop in Corfu, Greece, 10-13 Sept 2017.
 * **Simplified models of heavy Higgs bosons decaying to supersymmetric particles**, Lukas Lechner, talk given at [SPS/OePG joint annual meeting](http://www.sps.ch/events/gemeinsame-jahrestagung-2017/), 21 - 25 Aug 2017, Geneva.
