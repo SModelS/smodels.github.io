@@ -66,9 +66,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
-, date: sex mar  2 15:30:38 -03 2018
-, comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stau < 360 GeV is excluded, which agrees with the plot."
+| [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa , date: sex mar  2 15:30:38 -03 2018 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stau < 360 GeV is excluded, which agrees with the plot." | |
 | | [TRHadGM1](SmsDictionary200rc6#TRHadGM1)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadGM1_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadGM1_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sex mar  2 15:30:38 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_gluino < 1720 GeV is excluded, which agrees with the plot."
