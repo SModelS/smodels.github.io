@@ -59,6 +59,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , comment: "There is some overexclusion around msquark = 700 GeV. The cross-section and efficiencies seem consistent with the official result.
 , A possible reason is that the official data grid is quite sparse, resulting in some interpolation uncertainties. Otherwise everything
 , seems consistent and we use this result."
+ |
 
 
 <a name="CMSupperlimits13"></a>
@@ -66,13 +67,18 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa , date: sex mar  2 15:30:38 -03 2018 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stau < 360 GeV is excluded, which agrees with the plot." | |
+| [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
+, date: sex mar  2 15:30:38 -03 2018
+, comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stau < 360 GeV is excluded, which agrees with the plot."
+ |
 | | [TRHadGM1](SmsDictionary200rc6#TRHadGM1)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadGM1_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadGM1_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sex mar  2 15:30:38 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_gluino < 1720 GeV is excluded, which agrees with the plot."
+ |
 | | [TRHadQM1](SmsDictionary200rc6#TRHadQM1)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadQM1_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036/validation/TRHadQM1_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sex mar  2 15:30:38 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stop < 1200 GeV is excluded, which agrees with the plot."
+ |
 | [CMS-PAS-SUS-16-022](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/)| [T1tttt](SmsDictionary200rc6#T1tttt)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-022/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-022/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1ttttoff](SmsDictionary200rc6#T1ttttoff)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-022/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-022/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)| [T2bbWWoff](SmsDictionary200rc6#T2bbWWoff)| 35.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | |
@@ -169,6 +175,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 12.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036-eff/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-EXO-16-036-eff/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sex ago  3 06:59:28 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS is m_stau < 360 GeV is excluded, which agrees with the plot (m_stau < 360 GeV)."
+ |
 | [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)| [T2bbWWoff](SmsDictionary200rc6#T2bbWWoff)| 35.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T2bbWWoff_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | |
 | | [T6bbWWoff](SmsDictionary200rc6#T6bbWWoff)| 35.9|<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png" /></a>  | |
 
@@ -183,11 +190,13 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T5tttt](SmsDictionary200rc6#T5tttt)| 20.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T5tttt_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T5tttt_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  |comment_by: Suchita Kulkarni
 , date: Mon Dec 19 19:00:19 CET 2016
 , comment: "For T5tttt_2Eqmotherx_Eqinter0y_Eqlsp60.0: OK, no official data below gluino < 800 - 900 GeV, validation OK"
+ |
 | | [T6ttWW](SmsDictionary200rc6#T6ttWW)| 20.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWW_2EqMassAx_EqMassBy_EqMassC0.5y_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWW_2EqMassAx_EqMassBy_EqMassC0.5y_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  |comment_by: Suchita Kulkarni
 , date: Mon Dec 19 19:01:08 CET 2016
 , comment: "T6ttWW_2Eqmotherx_Eqinter0y_Eqlsp0.5y: OK, no official data below LSP < 150 GeV,
 , T6ttWW_2Eqmotherx_Eqinter0y_Eqlsp60.0: OK, no official data below LSP < 150 GeV,
 , validation OK"
+ |
 | | [T6ttWWoff](SmsDictionary200rc6#T6ttWWoff)| 20.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWWoff_2EqMassAx_EqMassBy_EqMassC0.5y_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-007/validation/T6ttWWoff_2EqMassAx_EqMassBy_EqMassC0.5y_pretty.png" /></a>  | |
 | [ATLAS-CONF-2013-061](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-061/)| [T1bbbb](SmsDictionary200rc6#T1bbbb)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1btbt](SmsDictionary200rc6#T1btbt)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1btbt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1btbt_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Suchita Kulkarni
@@ -197,6 +206,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , of 600 GeV, the limit for 200 GeV LSP 218, while for higher (lower) LSP 
 , mass is 157 (85) fb. This fluctuation causes region below 
 , 450 GeV < mother < 600 GeV, LSP < 200 GeV, to be unconstrained."
+ |
 | | [T1tttt](SmsDictionary200rc6#T1tttt)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-061/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: Sab Dez 24 19:21:27 BRST 2016
 , comment: "The original data has a bin at mgluino = 800 which is 858 fb and should not be
@@ -204,10 +214,12 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , But the result seems consistent."
 , 
 , 
+ |
 | [ATLAS-CONF-2013-089](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-089/; https://cds.cern.ch/record/1595272)| [T6WW](SmsDictionary200rc6#T6WW)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-089/validation/T6WW_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-089/validation/T6WW_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-089/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-CONF-2013-089/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | |
 | [ATLAS-SUSY-2013-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/)| [T1](SmsDictionary200rc6#T1)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T1_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Suchita Kulkarni
 , date: Tue Dec 20 17:20:04 CET 2016
 , comment: "OK, one non-excluded point for mmother ~ 150 GeV , because no official UL are available for this point"
+ |
 | | [T2](SmsDictionary200rc6#T2)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T2_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T5WW](SmsDictionary200rc6#T5WW)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WW_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WW_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | |
 | | [T5WWoff](SmsDictionary200rc6#T5WWoff)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WWoff_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-02/validation/T5WWoff_2EqMassAx_EqMassByx-60.0+60.0_EqMassC60.0_pretty.png" /></a>  | |
@@ -216,6 +228,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , date: Sex Dez 23 21:36:25 BRST 2016
 , comment: "The exclusion curve only considers left handed squarks. Therefore the plot has to be validated
 , with T6WW_left."
+ |
 | [ATLAS-SUSY-2013-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/)| [T1tttt](SmsDictionary200rc6#T1tttt)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-04/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-04/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [ATLAS-SUSY-2013-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/)| [T2bb](SmsDictionary200rc6#T2bb)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-05/validation/T2bb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-05/validation/T2bb_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T6bbWW](SmsDictionary200rc6#T6bbWW)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-05/validation/T6bbWW_2EqMassA300.0_EqMassBx_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-05/validation/T6bbWW_2EqMassA300.0_EqMassBx_EqMassCy_pretty.png" /></a>  | |
@@ -240,11 +253,13 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , Also, the ATLAS data file contained entries with UL = 0. As a result, any 
 , point close to this data entry would be excluded, independent of how 
 , small its cross-section. I have removed such entries from the orig file."
+ |
 | | [TSlepSlep](SmsDictionary200rc6#TSlepSlep)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: Sab Dez 24 19:41:40 BRST 2016
 , comment: "There is one bin at (225.24,89.82) which is about 2 orders of magnitude higher
 , than the surrounding bins. Correspondingly a few points around this region region are not excluded in SModelS validation.
 , This point is not shown in the original plot, but is present in the data."
+ |
 | [ATLAS-SUSY-2013-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/)| [TChiChipmSlepL](SmsDictionary200rc6#TChiChipmSlepL)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiChipmSlepL_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiChipmSlepL_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | |
 | | [TChiChipmStauL](SmsDictionary200rc6#TChiChipmStauL)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiChipmStauL_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiChipmStauL_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  |comment_by: Suchita Kulkarni
 , date: Wed Dec 21 09:24:07 CET 2016
@@ -253,6 +268,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , m_mother = 150 GeV. As a result there is an allowed 
 , area below the curve in the low x value region. 
 , Otherwise, the results seem consistent."
+ |
 | | [TChiWH](SmsDictionary200rc6#TChiWH)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [TChiWZ](SmsDictionary200rc6#TChiWZ)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [TChiWZoff](SmsDictionary200rc6#TChiWZoff)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-12/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
@@ -263,11 +279,13 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , As a result the interpolation in this area
 , slightly undershoots and there is a small region of non-excluded points.
 , Nonetheless the results seem consistent."
+ |
 | [ATLAS-SUSY-2013-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/)| [T2tt](SmsDictionary200rc6#T2tt)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-16/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-16/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [ATLAS-SUSY-2013-18](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/)| [T1bbbb](SmsDictionary200rc6#T1bbbb)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-18/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-18/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1tttt](SmsDictionary200rc6#T1tttt)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-18/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-18/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Suchita Kulkarni
 , date: Wed Dec 21 09:28:49 CET 2016
 , comment: "The digitized data (but not the one on the official plot) starts at 600 GeV. That is why there is no points in the validation plot for lower values."
+ |
 | [ATLAS-SUSY-2013-19](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-19/)| [T2bbWW](SmsDictionary200rc6#T2bbWW)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T2tt](SmsDictionary200rc6#T2tt)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-19/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: Sab Dez 24 12:12:31 BRST 2016
@@ -276,6 +294,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , As a result the interpolation in this area
 , slightly undershoots and there is a small region of non-excluded points.
 , Nonetheless the results seem consistent."
+ |
 | [ATLAS-SUSY-2013-23](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/)| [TChiWH](SmsDictionary200rc6#TChiWH)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-23/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-23/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 
 
@@ -305,18 +324,21 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , data selects the best SR as SRA-mCT200 in this region, while SModelS selects SRA-mCT250. As a result
 , this region is excluded by SModelS, but not by ATLAS. This is probably due to slightly larger efficiencies
 , in the SRA-mCT250 from recasting. Everything else seems consistent and we keep this result."
+ |
 | [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)| [TChiWW](SmsDictionary200rc6#TChiWW)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChiWW_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChiWW_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Andre_lessa
 , date: 06/02/2017
 , comment: "There is some overexclusion at low chargino masses. ATLAS only provides official efficiencies and acceptances
 , for one signal region, so we use MA5 efficiencies. The production cross-sections seem consistent with the ones assumed by ATLAS.
 , Therefore the differences are likely due to recasting and we keep this result."
 , 
+ |
 | | [TChiWWoff](SmsDictionary200rc6#TChiWWoff)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChiWWoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChiWWoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [TChipChimSlepSnu](SmsDictionary200rc6#TChipChimSlepSnu)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChipChimSlepSnu_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TChipChimSlepSnu_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  |comment_by: Andre_lessa
 , date: 06/02/2017
 , comment: "There is some overexclusion at low chargino masses. ATLAS only provides official efficiencies and acceptances
 , for one signal region, so we use MA5 efficiencies. Therefore the small differences are likely due to recasting and we keep this result."
 , 
+ |
 | | [TSlepSlep](SmsDictionary200rc6#TSlepSlep)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-11-eff/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [ATLAS-SUSY-2013-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/)| [T2tt](SmsDictionary200rc6#T2tt)| 20.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-15-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-15-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [ATLAS-SUSY-2013-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/)| [T2tt](SmsDictionary200rc6#T2tt)| 20.1|<a href="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-16-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/ATLAS/ATLAS-SUSY-2013-16-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
@@ -337,12 +359,15 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-EXO-12-026](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html)| [THSCPM1b](SmsDictionary200rc6#THSCPM1b)| 18.8|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/THSCPM1b_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/THSCPM1b_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sat abr 14 22:41:55 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS (8 TeV data only) is m_stau < 340 GeV is excluded, which agrees with the plot."
+ |
 | | [TRHadGM1](SmsDictionary200rc6#TRHadGM1)| 18.8|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/TRHadGM1_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/TRHadGM1_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sat abr 14 22:41:55 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS (8 TeV data only) is m_gluino < 1225 GeV is excluded, which agrees with the plot."
+ |
 | | [TRHadQM1](SmsDictionary200rc6#TRHadQM1)| 18.8|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/TRHadQM1_2EqMassAx_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-EXO-12-026/validation/TRHadQM1_2EqMassAx_pretty.png" /></a>  |comment_by: Andre Lessa
 , date: sat abr 14 22:41:55 -03 2018
 , comment: "The validation curve is a single point, since the UL is a 1D map. The value quoted by CMS (8 TeV data only) is m_stop < 900 GeV is excluded, which agrees with the plot."
+ |
 | [CMS-PAS-SUS-13-016](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13016)| [T1tttt](SmsDictionary200rc6#T1tttt)| 19.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1ttttoff](SmsDictionary200rc6#T1ttttoff)| 19.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [CMS-PAS-SUS-13-018](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13018)| [T2bb](SmsDictionary200rc6#T2bb)| 19.4|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-018/validation/T2bb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-018/validation/T2bb_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
@@ -354,6 +379,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , comment: "All the plots seem ok, except for a single (over)excluded point in the inter=0.75*x+0.25*y plane.
 , This is due to the bin (290,160) in the original data which has a smaller upper limit value. Hence this
 , point gets excluded. Since everything is consistent, we use this result."
+ |
 | [CMS-SUS-12-024](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS12024)| [T1tttt](SmsDictionary200rc6#T1tttt)| 19.4|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-024/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-024/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1ttttoff](SmsDictionary200rc6#T1ttttoff)| 19.4|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-024/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-024/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [CMS-SUS-12-028](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS12028)| [T1](SmsDictionary200rc6#T1)| 11.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-028/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-12-028/validation/T1_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
@@ -373,6 +399,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , date: Sex Dez 23 23:59:12 BRST 2016
 , comment: "The excluded region is very small and very sensitive to the input cross-sections.
 , Nonetheless the excluded points are consistent within the 20% uncertainty."
+ |
 | | [TChiWZ](SmsDictionary200rc6#TChiWZ)| 19.5|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [TChiWZoff](SmsDictionary200rc6#TChiWZoff)| 19.5|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [TSlepSlep](SmsDictionary200rc6#TSlepSlep)| 19.5|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-006/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png" /></a>  |comment_by: Andre Lessa
@@ -380,6 +407,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , comment: "The plot include only left-handed sleptons and must be validated with TSlepSlep_left."
 , 
 , 
+ |
 | [CMS-SUS-13-007](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13007)| [T1tttt](SmsDictionary200rc6#T1tttt)| 19.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1ttttoff](SmsDictionary200rc6#T1ttttoff)| 19.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T5tttt](SmsDictionary200rc6#T5tttt)| 19.3|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T5tttt_2EqMassA1000.0_EqMassBx_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T5tttt_2EqMassA1000.0_EqMassBx_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T5tttt_2EqMassAx_EqMassBy_EqMassC50.0_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-13-007/validation/T5tttt_2EqMassAx_EqMassBy_EqMassC50.0_pretty.png" /></a>  | |
@@ -420,6 +448,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 , Although the value obtained in the validation plot is somewhat smaller, the difference is due to the fact that the official CMS value
 , includes an optimization of the mass cut (signal regions). When compared to the fast simulation curve from https://arxiv.org/pdf/1502.02522.pdf the
 , efficiencies/upper limits agree within 8%."
+ |
 | [CMS-PAS-SUS-13-015](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13015)| [T2tt](SmsDictionary200rc6#T2tt)| 19.4|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-015-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-015-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T2ttoff](SmsDictionary200rc6#T2ttoff)| 19.4|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-015-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-015-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | [CMS-PAS-SUS-13-016](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13016)| [T1tttt](SmsDictionary200rc6#T1tttt)| 19.7|<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-PAS-SUS-13-016-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
