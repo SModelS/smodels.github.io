@@ -209,7 +209,7 @@ To [official validation plots](Validation200rc6)
 | | [THSCPM7](SmsDictionary200rc6#THSCPM7)| 12.9| n/a |  | |
 | | [THSCPM8](SmsDictionary200rc6#THSCPM8)| 12.9| n/a |  | |
 | [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)| [T2bbWWoff](SmsDictionary200rc6#T2bbWWoff)| 35.9| True |  | |
-| | [T6bbWWoff](SmsDictionary200rc6#T6bbWWoff)| 35.9| True |<a href="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y.png"><img src="https://smodels.github.io/validation/200rc6/13TeV/CMS/CMS-PAS-SUS-16-052-agg/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y.png" /></a>  | |
+| | [T6bbWWoff](SmsDictionary200rc6#T6bbWWoff)| 35.9| True |  | |
 
 
 <a name="ATLASupperlimits8"></a>
@@ -585,4 +585,4 @@ To [official validation plots](Validation200rc6)
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary200rc6#T2bbWW)| 19.7| False |<a href="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/200rc6/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc6!  |
 | | [T2bbWWoff](SmsDictionary200rc6#T2bbWWoff)| 19.7| False |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc6!  |
 
-This page was created Thu Mar 21 00:39:10 2019
+This page was created Thu Mar 21 11:28:32 2019
