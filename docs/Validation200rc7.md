@@ -17,4 +17,12 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 1 - 8 TeV
 
-This page was created Wed Mar 27 14:18:58 2019
+
+<a name="ATLASupperlimits13"></a>
+## ATLAS upper limits, 13 TeV: 1 analyses, 1 results total
+
+| **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
+|------------|------------|--------------|----------------------|-------------|
+| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)| [T5Disp](SmsDictionary200rc7#T5Disp)| 32.8|<a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAx6.582119514e-16_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAx6.582119514e-16_EqMassBy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAxy_EqMassBx-100.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAxy_EqMassBx-100.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAxy_EqMassB100.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-08/validation/T5Disp_2EqMassAxy_EqMassB100.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
+
+This page was created Wed Mar 27 14:59:57 2019
