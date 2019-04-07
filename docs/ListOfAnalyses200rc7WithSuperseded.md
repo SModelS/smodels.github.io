@@ -2,7 +2,7 @@
 
 # List Of Analyses 2.0.0rc7 (including superseded results) 
 List of analyses and topologies in the SMS results database,
-comprising 1 individual maps from 1 distinct signal regions, 1 different SMS topologies, from a total of 1 analyses.
+comprising 5 individual maps from 5 distinct signal regions, 2 different SMS topologies, from a total of 2 analyses.
 The list has been created from the database version `2.0.0rc7`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary200rc7) and a [validation page](Validation200rc7).
 Link to list of results [without superseded results](ListOfAnalyses200rc7).
@@ -10,6 +10,7 @@ Link to list of results [without superseded results](ListOfAnalyses200rc7).
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 1  results
 ### Run 1 - 8 TeV
+ * [CMS efficiency maps](#CMSefficiencymaps8): 1  analyses, 1 (of which 1 LLP) results
 
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (1 analyses)
@@ -18,6 +19,14 @@ Link to list of results [without superseded results](ListOfAnalyses200rc7).
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T5Disp](SmsDictionary200rc7#T5Disp) | |
+
+<a name="CMSefficiencymaps8"></a>
+## CMS, efficiency maps, 8 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
+|--------|-----------------------|--------------|--------------|-------------------|
+| **Publications** | | | | |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1Disp](SmsDictionary200rc7#THSCPM1Disp) [(1)](#A1) | |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.

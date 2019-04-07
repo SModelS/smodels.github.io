@@ -9,3 +9,4 @@ There is also a [ListOfAnalyses200rc7](https://smodels.github.io/docs/ListOfAnal
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
 | 1 | <a name="T5Disp"></a>**T5Disp**<br> | `[[[q,q]],[[q,q]]]`<BR>`(MET,MET)` | ![T5Disp](../feyn/straight/T5Disp.png) | [ATLAS-SUSY-2016-08](ListOfAnalyses200rc7#ATLAS-SUSY-2016-08)|
+| 2 | <a name="THSCPM1Disp"></a>**THSCPM1D-<br>isp**<br> | `[[],[]]`<BR>`(HSCP,HSCP)` | ![THSCPM1Disp](../feyn/straight/THSCPM1Disp.png) | [CMS-EXO-13-006](ListOfAnalyses200rc7#CMS-EXO-13-006)|
