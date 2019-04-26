@@ -2,14 +2,14 @@
 
 # List Of Analyses 2.0.0rc7 (including superseded results) 
 List of analyses and topologies in the SMS results database,
-comprising 27 individual maps from 27 distinct signal regions, 3 different SMS topologies, from a total of 3 analyses.
+comprising 159 individual maps from 27 distinct signal regions, 9 different SMS topologies, from a total of 3 analyses.
 The list has been created from the database version `2.0.0rc7`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary200rc7) and a [validation page](Validation200rc7).
 Link to list of results [without superseded results](ListOfAnalyses200rc7).
 ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 1  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 1  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 7  results
 ### Run 1 - 8 TeV
  * [CMS efficiency maps](#CMSefficiencymaps8): 1  analyses, 1 (of which 1 LLP) results
 
@@ -27,7 +27,7 @@ Link to list of results [without superseded results](ListOfAnalyses200rc7).
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** |
 |--------|-----------------------|--------------|--------------|-------------------|
 | **Publications** | | | | |
-| [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | hadronic jets + MET | 36.1 | [T5WZh](SmsDictionary200rc7#T5WZh) | |
+| [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | hadronic jets + MET | 36.1 | [T1](SmsDictionary200rc7#T1), [T2](SmsDictionary200rc7#T2), [T5WW](SmsDictionary200rc7#T5WW), [T5WZh](SmsDictionary200rc7#T5WZh), [T5ZZ](SmsDictionary200rc7#T5ZZ), [T6WW](SmsDictionary200rc7#T6WW), [T6WZh](SmsDictionary200rc7#T6WZh) | |
 
 <a name="CMSefficiencymaps8"></a>
 ## CMS, efficiency maps, 8 TeV (1 analyses)
