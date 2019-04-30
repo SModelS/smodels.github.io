@@ -14,7 +14,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses, 1 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 8 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 9 results
 
 ### Run 1 - 8 TeV
  * [CMS efficiency maps](#CMSefficiencymaps8): 1 analyses, 1 results
@@ -29,7 +29,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 1 analyses, 8 results total
+## ATLAS efficiency maps, 13 TeV: 1 analyses, 9 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -40,6 +40,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T5WZh](SmsDictionary200rc7#T5WZh)| 36.1|<a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T5WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T5WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
 | | [T5ZZ](SmsDictionary200rc7#T5ZZ)| 36.1|<a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
 | | [T6WW](SmsDictionary200rc7#T6WW)| 36.1|<a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
+| | [T6WWoff](SmsDictionary200rc7#T6WWoff)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
 | | [T6WZh](SmsDictionary200rc7#T6WZh)| 36.1|<a href="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/200rc7/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
 
 
@@ -50,4 +51,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 |------------|------------|--------------|----------------------|-------------|
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)| [THSCPM1Disp](SmsDictionary200rc7#THSCPM1Disp)| 18.8|<a href="https://smodels.github.io/validation/200rc7/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1Disp_2EqMassAxy_pretty.png"><img src="https://smodels.github.io/validation/200rc7/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1Disp_2EqMassAxy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0rc7!  |
 
-This page was created Tue Apr 30 16:17:12 2019
+This page was created Tue Apr 30 18:15:31 2019
