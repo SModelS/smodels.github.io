@@ -2,14 +2,14 @@
 
 # List Of Analyses 1.2.3  
 List of analyses and topologies in the SMS results database,
-comprising 2778 individual maps from 323 distinct signal regions, 78 different SMS topologies, from a total of 76 analyses.
+comprising 2888 individual maps from 345 distinct signal regions, 78 different SMS topologies, from a total of 77 analyses.
 The list has been created from the database version `1.2.3`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
 Link to list of results [including superseded results](ListOfAnalyses123WithSuperseded).
 ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 10  analyses, 16  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 2  analyses, 3  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3  analyses, 8  results
  * [CMS upper limits](#CMSupperlimits13): 21  analyses, 89 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 10 (of which 8 LLP) results
 ### Run 1 - 8 TeV
@@ -75,13 +75,14 @@ Link to list of results [including superseded results](ListOfAnalyses123WithSupe
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary123#TChiWZ) |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (2 analyses)
+## ATLAS, efficiency maps, 13 TeV (3 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** |
 |--------|-----------------------|--------------|--------------|
 | **Publications** | | | |
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary123#T2tt) |
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)<a name="ATLAS-SUSY-2015-06"></a> | 0 leptons + 2-6 jets + MET | 3.2 | [T1](SmsDictionary123#T1), [T2](SmsDictionary123#T2) |
+| [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | hadronic jets + MET | 36.1 | [T1](SmsDictionary123#T1), [T2](SmsDictionary123#T2), [T5WW](SmsDictionary123#T5WW), [T5WWoff](SmsDictionary123#T5WWoff), [T5ZZ](SmsDictionary123#T5ZZ) |
 
 <a name="CMSupperlimits8"></a>
 ## CMS, upper limits, 8 TeV (16 analyses)
