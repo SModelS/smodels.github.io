@@ -1,11 +1,11 @@
 
 
 # List Of Analyses 1.2.3 (including superseded results)
-    List of analyses and topologies in the SMS results database,
-    comprising 2953 individual maps from 368 distinct signal regions, 78 different SMS topologies, from a total of 94 analyses.
-    The list has been created from the database version `1.2.3`.
-    Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
-    Link to list of results [without superseded results](ListOfAnalyses123).
+List of analyses and topologies in the SMS results database,
+comprising 2953 individual maps from 368 distinct signal regions, 78 different SMS topologies, from a total of 94 analyses.
+The list has been created from the database version `1.2.3`.
+Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
+Link to list of results [without superseded results](ListOfAnalyses123).
     ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 10  analyses, 16  results
@@ -21,8 +21,8 @@
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (28 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **PAS** | | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary123#THSCPM1b), [TRHadGM1](SmsDictionary123#TRHadGM1), [TRHadQM1](SmsDictionary123#TRHadQM1) | | |
 | [CMS-PAS-SUS-15-002](http://cms-results.web.cern.ch/cms-results/public-results/superseded/SUS-15-002/index.html)<a name="CMS-PAS-SUS-15-002"></a> | &ge; 4jets + MET, HT, HTmiss | 2.2 | [T1](SmsDictionary123#T1), [T1bbbb](SmsDictionary123#T1bbbb) |[CMS-SUS-15-002](#CMS-SUS-15-002) | |
@@ -57,8 +57,8 @@
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (2 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **PAS** | | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary123#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary123#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary123#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary123#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary123#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary123#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary123#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary123#THSCPM8) [(1)](#A1) | |&#10004; |
 | **PAS** | | | | | |
@@ -67,8 +67,8 @@
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (10 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
 | [ATLAS-SUSY-2015-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-01/)<a name="ATLAS-SUSY-2015-01"></a> | 2 b-jets + MET | 3.2 | [T2bb](SmsDictionary123#T2bb) | | |
 | [ATLAS-SUSY-2015-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary123#T2tt) | | |
@@ -84,8 +84,8 @@
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (3 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary123#T2tt) | |&#10004; |
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)<a name="ATLAS-SUSY-2015-06"></a> | 0 leptons + 2-6 jets + MET | 3.2 | [T1](SmsDictionary123#T1), [T2](SmsDictionary123#T2) | |&#10004; |
@@ -94,8 +94,8 @@
 <a name="CMSupperlimits8"></a>
 ## CMS, upper limits, 8 TeV (19 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
 | [CMS-EXO-12-026](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html)<a name="CMS-EXO-12-026"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary123#THSCPM1b), [TRHadGM1](SmsDictionary123#TRHadGM1), [TRHadQM1](SmsDictionary123#TRHadQM1) | | |
 | **PAS** | | | | | |
@@ -122,8 +122,8 @@
 <a name="CMSefficiencymaps8"></a>
 ## CMS, efficiency maps, 8 TeV (8 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1Disp](SmsDictionary123#THSCPM1Disp) [(1)](#A1) | |&#10004; |
 | **PAS** | | | | | |
@@ -139,8 +139,8 @@
 <a name="ATLASupperlimits8"></a>
 ## ATLAS, upper limits, 8 TeV (28 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Conf Notes** | | | | | |
 | [ATLAS-CONF-2012-105](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-105/)<a name="ATLAS-CONF-2012-105"></a> | 2 SS leptons + &ge; 4 jets + MET | 5.8 | [T1tttt](SmsDictionary123#T1tttt) |[ATLAS-SUSY-2013-09](#ATLAS-SUSY-2013-09) | |
 | [ATLAS-CONF-2012-166](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-166/)<a name="ATLAS-CONF-2012-166"></a> | 1 lepton + 4(1 b-)jets + MET | 13.0 | [T2tt](SmsDictionary123#T2tt) |[ATLAS-SUSY-2013-15](#ATLAS-SUSY-2013-15) | |
@@ -175,8 +175,8 @@
 <a name="ATLASefficiencymaps8"></a>
 ## ATLAS, efficiency maps, 8 TeV (18 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **likelihoods** |
-|--------|-----------------------|--------------|--------------|-------------------|-----------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Conf Notes** | | | | | |
 | [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/)<a name="ATLAS-CONF-2013-024"></a> | 0 lepton + 6 (2 b-)jets + MET | 20.5 | [T1bbbb](SmsDictionary123#T1bbbb), [T1bbbt](SmsDictionary123#T1bbbt), [T1bbqq](SmsDictionary123#T1bbqq), [T1bbtt](SmsDictionary123#T1bbtt), [T1btbt](SmsDictionary123#T1btbt), [T1btqq](SmsDictionary123#T1btqq), [T1bttt](SmsDictionary123#T1bttt), [T1qqtt](SmsDictionary123#T1qqtt), [T1tttt](SmsDictionary123#T1tttt), [T2bb](SmsDictionary123#T2bb), [T2bt](SmsDictionary123#T2bt), [T2tt](SmsDictionary123#T2tt), [T5bbbb](SmsDictionary123#T5bbbb), [T5bbbt](SmsDictionary123#T5bbbt), [T5btbt](SmsDictionary123#T5btbt), [T5tbtb](SmsDictionary123#T5tbtb), [T5tbtt](SmsDictionary123#T5tbtt), [T5tttt](SmsDictionary123#T5tttt), [TGQbbq](SmsDictionary123#TGQbbq), [TGQbtq](SmsDictionary123#TGQbtq), [TGQqtt](SmsDictionary123#TGQqtt) (from FastLim [(2)](#A2)) | |&#10004; |
 | [ATLAS-CONF-2013-037](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-037/)<a name="ATLAS-CONF-2013-037"></a> | 1 lepton + &ge; 4(1 b-)jets + MET | 20.7 | [T1bbbb](SmsDictionary123#T1bbbb), [T1bbbt](SmsDictionary123#T1bbbt), [T1bbtt](SmsDictionary123#T1bbtt), [T1btbt](SmsDictionary123#T1btbt), [T1btqq](SmsDictionary123#T1btqq), [T1bttt](SmsDictionary123#T1bttt), [T1qqtt](SmsDictionary123#T1qqtt), [T1tttt](SmsDictionary123#T1tttt), [T2bt](SmsDictionary123#T2bt), [T2tt](SmsDictionary123#T2tt), [T5bbbb](SmsDictionary123#T5bbbb), [T5bbbt](SmsDictionary123#T5bbbt), [T5btbt](SmsDictionary123#T5btbt), [T5tbtb](SmsDictionary123#T5tbtb), [T5tbtt](SmsDictionary123#T5tbtt), [T5tttt](SmsDictionary123#T5tttt), [TGQbtq](SmsDictionary123#TGQbtq), [TGQqtt](SmsDictionary123#TGQqtt) (from FastLim [(2)](#A2)) | |&#10004; |
