@@ -1,12 +1,12 @@
 
 
 # List Of Analyses 1.2.3 
-    List of analyses and topologies in the SMS results database,
-    comprising 2888 individual maps from 345 distinct signal regions, 78 different SMS topologies, from a total of 77 analyses.
-    The list has been created from the database version `1.2.3`.
-    Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
-    Link to list of results [including superseded results](ListOfAnalyses123WithSuperseded).
-    ## Individual tables
+List of analyses and topologies in the SMS results database,
+comprising 2888 individual maps from 345 distinct signal regions, 78 different SMS topologies, from a total of 77 analyses.
+The list has been created from the database version `1.2.3`.
+Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
+Link to list of results [including superseded results](ListOfAnalyses123WithSuperseded).
+## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 10  analyses, 16  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3  analyses, 8  results
