@@ -13,8 +13,8 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 13 analyses, 27 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 8 analyses, 24 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 13 analyses, 29 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 8 analyses, 26 results
 
 ### Run 1 - 8 TeV
  * [ATLAS upper limits](#ATLASupperlimits8): 32 analyses, 84 results
@@ -24,7 +24,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS upper limits, 13 TeV: 13 analyses, 27 results total
+## ATLAS upper limits, 13 TeV: 13 analyses, 29 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -37,12 +37,14 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T5WWoff](SmsDictionary123phil#T5WWoff)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WWoff_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WWoff_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T5WZh](SmsDictionary123phil#T5WZh)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T5ZZ](SmsDictionary123phil#T5ZZ)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T5ZZ_2EqMassAx_EqMassBy_EqMassC1.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| | [T6WW](SmsDictionary123phil#T6WW)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WW_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| | [T6WWoff](SmsDictionary123phil#T6WWoff)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoff_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoff_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T6WWleft](SmsDictionary123phil#T6WWleft)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T6WWoffleft](SmsDictionary123phil#T6WWoffleft)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T6WZh](SmsDictionary123phil#T6WZh)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)| [T2tt](SmsDictionary123phil#T2tt)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T2ttg](SmsDictionary123phil#T2ttg)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T2ttoff](SmsDictionary123phil#T2ttoff)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2016-19](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-19/)| [T4bnutaubnutau](SmsDictionary123phil#T4bnutaubnutau)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)| [TChiChipmSlepSlep](SmsDictionary123phil#TChiChipmSlepSlep)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)| [TChiChipmSlepL](SmsDictionary123phil#TChiChipmSlepL)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TChiWZ](SmsDictionary123phil#TChiWZ)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TChipChimSlepSlep](SmsDictionary123phil#TChipChimSlepSlep)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TSlepSlep](SmsDictionary123phil#TSlepSlep)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
@@ -57,7 +59,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 8 analyses, 24 results total
+## ATLAS efficiency maps, 13 TeV: 8 analyses, 26 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -76,6 +78,8 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T6WZh](SmsDictionary123phil#T6WZh)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TGQ](SmsDictionary123phil#TGQ)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)| [T2tt](SmsDictionary123phil#T2tt)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T2ttoff](SmsDictionary123phil#T2ttoff)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| | [T2bb](SmsDictionary123phil#T2bb)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)| [TChipChimSlepSlep](SmsDictionary123phil#TChipChimSlepSlep)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TSlepSlep](SmsDictionary123phil#TSlepSlep)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TChiWZ](SmsDictionary123phil#TChiWZ)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
@@ -84,7 +88,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T5ZGamma](SmsDictionary123phil#T5ZGamma)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T6Gamma](SmsDictionary123phil#T6Gamma)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [TChipChimGamma](SmsDictionary123phil#TChipChimGamma)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiChipmWH](SmsDictionary123phil#TChiChipmWH)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
+| [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiWH](SmsDictionary123phil#TChiWH)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
 
 <a name="ATLASupperlimits8"></a>
@@ -418,4 +422,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary123phil#T2bbWW)| 19.7|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T2bbWWoff](SmsDictionary123phil#T2bbWWoff)| 19.7|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
-This page was created Mon Jul 15 18:30:04 2019
+This page was created Tue Jul 16 17:38:34 2019
