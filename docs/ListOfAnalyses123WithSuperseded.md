@@ -6,7 +6,8 @@ comprising 2857 individual maps from 347 distinct signal regions, 78 different S
 The list has been created from the database version `1.2.3`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
 Link to list of results [without superseded results](ListOfAnalyses123).
-    ## Individual tables
+
+## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 11  analyses, 18  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 2  analyses, 3  results
