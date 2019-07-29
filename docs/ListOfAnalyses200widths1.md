@@ -1,0 +1,36 @@
+
+
+# List Of Analyses 2.0.0widths1 
+List of analyses and topologies in the SMS results database,
+comprising 5 individual maps from 5 distinct signal regions, 2 different SMS topologies, from a total of 2 analyses.
+The list has been created from the database version `2.0.0widths1`.
+Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary200widths1) and a [validation page](Validation200widths1).
+Link to list of results [including superseded results](ListOfAnalyses200widths1WithSuperseded).
+    ## Individual tables
+### Run 2 - 13 TeV
+ * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 1  results
+### Run 1 - 8 TeV
+ * [CMS efficiency maps](#CMSefficiencymaps8): 1  analyses, 1 (of which 1 LLP) results
+
+<a name="ATLASupperlimits13"></a>
+## ATLAS, upper limits, 13 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
+|--------|-----------------------|--------------|--------------|-----------|
+| **Publications** | | | | |
+| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T5Disp](SmsDictionary200widths1#T5Disp) |&#10004; |
+
+<a name="CMSefficiencymaps8"></a>
+## CMS, efficiency maps, 8 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
+|--------|-----------------------|--------------|--------------|-----------|
+| **Publications** | | | | |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1Disp](SmsDictionary200widths1#THSCPM1Disp) [(1)](#A1) |&#10004; |
+
+
+<a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
+
+<a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
+
+<a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
