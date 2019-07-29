@@ -16,7 +16,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
  * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses, 1 results
 
 ### Run 1 - 8 TeV
- * [CMS efficiency maps](#CMSefficiencymaps8): 2 analyses, 9 results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 2 analyses, 12 results
 
 
 <a name="ATLASupperlimits13"></a>
@@ -28,7 +28,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="CMSefficiencymaps8"></a>
-## CMS efficiency maps, 8 TeV: 2 analyses, 9 results total
+## CMS efficiency maps, 8 TeV: 2 analyses, 12 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -41,5 +41,8 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [THSCPM7](SmsDictionary200widths1#THSCPM7)| 18.8|  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM8](SmsDictionary200widths1#THSCPM8)| 18.8|  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)| [THSCPM1b](SmsDictionary200widths1#THSCPM1b)| 18.8|<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1b_2EqMassAx_EqWidthAy_pretty.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1b_2EqMassAx_EqWidthAy_pretty.png" /></a>  |[comment](https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1b.txt) |
+| | [THSCPM2b](SmsDictionary200widths1#THSCPM2b)| 18.8|  | |
+| | [THSCPM3](SmsDictionary200widths1#THSCPM3)| 18.8|  | |
+| | [THSCPM4](SmsDictionary200widths1#THSCPM4)| 18.8|  | |
 
-This page was created Mon Jul 29 19:18:31 2019
+This page was created Mon Jul 29 20:13:06 2019
