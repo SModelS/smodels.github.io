@@ -37,7 +37,7 @@ To [official validation plots](Validation200widths1)
 |------------|------------|--------------|----------------|----------------------|-------------|
 | [CMS-EXO-13-006-andre](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)| [THSCPM1b](SmsDictionary200widths1#THSCPM1b)| 18.8| True |<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM1b_2EqMassAx.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM1b_2EqMassAx.png" /></a><BR><a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM1b_2EqMassAx_EqWidthAy.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM1b_2EqMassAx_EqWidthAy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1! [comment](https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM1b.txt) |
 | | [THSCPM2b](SmsDictionary200widths1#THSCPM2b)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
-| | [THSCPM3](SmsDictionary200widths1#THSCPM3)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
+| | [THSCPM3](SmsDictionary200widths1#THSCPM3)| 18.8| n/a |<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-andre/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM4](SmsDictionary200widths1#THSCPM4)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM5](SmsDictionary200widths1#THSCPM5)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM6](SmsDictionary200widths1#THSCPM6)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
@@ -48,4 +48,4 @@ To [official validation plots](Validation200widths1)
 | | [THSCPM3](SmsDictionary200widths1#THSCPM3)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png" /></a>  | |
 | | [THSCPM4](SmsDictionary200widths1#THSCPM4)| 18.8| tbd |  | |
 
-This page was created Thu Aug  1 17:07:47 2019
+This page was created Thu Aug  1 17:24:02 2019
