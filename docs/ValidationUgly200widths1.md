@@ -43,9 +43,9 @@ To [official validation plots](Validation200widths1)
 | | [THSCPM6](SmsDictionary200widths1#THSCPM6)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM7](SmsDictionary200widths1#THSCPM7)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
 | | [THSCPM8](SmsDictionary200widths1#THSCPM8)| 18.8| n/a |  | <img src="https://smodels.github.io/pics/new.png" /> in 2.0.0widths1!  |
-| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)| [THSCPM1b](SmsDictionary200widths1#THSCPM1b)| 18.8| tbd |  | |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)| [THSCPM1b](SmsDictionary200widths1#THSCPM1b)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1b_2EqMassAx_EqWidthAy.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM1b_2EqMassAx_EqWidthAy.png" /></a>  | |
 | | [THSCPM2b](SmsDictionary200widths1#THSCPM2b)| 18.8| tbd |  | |
 | | [THSCPM3](SmsDictionary200widths1#THSCPM3)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png"><img src="https://smodels.github.io/validation/200widths1/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM3_2EqMassAx_EqMassBy_EqWidthB1e-17.png" /></a>  | |
 | | [THSCPM4](SmsDictionary200widths1#THSCPM4)| 18.8| tbd |  | |
 
-This page was created Thu Aug  1 16:59:46 2019
+This page was created Thu Aug  1 17:07:47 2019
