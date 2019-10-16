@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3charan 
 List of analyses and topologies in the SMS results database,
-comprising 2815 individual maps from 326 distinct signal regions, 76 different SMS topologies, from a total of 79 analyses.
+comprising 2816 individual maps from 326 distinct signal regions, 77 different SMS topologies, from a total of 79 analyses.
 The list has been created from the database version `1.2.3charan`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123charan) and a [validation page](Validation123charan).
 Link to list of results [including superseded results](ListOfAnalyses123charanWithSuperseded).
@@ -10,7 +10,7 @@ Link to list of results [including superseded results](ListOfAnalyses123charanWi
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 9  analyses, 15  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 2  analyses, 3  results
- * [CMS upper limits](#CMSupperlimits13): 25  analyses, 99 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 25  analyses, 100 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 10 (of which 8 LLP) results
 ### Run 1 - 8 TeV
  * [ATLAS upper limits](#ATLASupperlimits8): 15  analyses, 37  results
@@ -48,8 +48,8 @@ Link to list of results [including superseded results](ListOfAnalyses123charanWi
 | [CMS-SUS-16-051](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-051/index.html)<a name="CMS-SUS-16-051"></a> | 1L stop | 35.9 | [T2tt](SmsDictionary123charan#T2tt), [T2ttoff](SmsDictionary123charan#T2ttoff), [T6bbWW](SmsDictionary123charan#T6bbWW) | |
 | [CMS-SUS-17-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary123charan#T2tt), [T2ttoff](SmsDictionary123charan#T2ttoff), [T6bbWW](SmsDictionary123charan#T6bbWW) | |
 | [CMS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-004/index.html)<a name="CMS-SUS-17-004"></a> | Chargino-neutralino production with WZ topology | 35.9 | [TChiWH](SmsDictionary123charan#TChiWH), [TChiWZ](SmsDictionary123charan#TChiWZ) | |
-| [CMS-SUS-17-005](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-005/)<a name="CMS-SUS-17-005"></a> | multijets + Etmiss, top tagging | 35.9 | [T2bbWWoff](SmsDictionary123charan#T2bbWWoff) |&#10004; |
-| [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)<a name="CMS-SUS-17-010"></a> | hadronic stop | 35.9 | [T2tt](SmsDictionary123charan#T2tt), [T2ttoff](SmsDictionary123charan#T2ttoff), [T6bbWW](SmsDictionary123charan#T6bbWW) |&#10004; |
+| [CMS-SUS-17-005](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-005/)<a name="CMS-SUS-17-005"></a> | multijets + Etmiss, top tagging | 35.9 | [T2bbffff](SmsDictionary123charan#T2bbffff) |&#10004; |
+| [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)<a name="CMS-SUS-17-010"></a> | hadronic stop | 35.9 | [T2tt](SmsDictionary123charan#T2tt), [T2ttoff](SmsDictionary123charan#T2ttoff), [T6bbWW](SmsDictionary123charan#T6bbWW), [TChipChimSlepSnu](SmsDictionary123charan#TChipChimSlepSnu) |&#10004; |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (2 analyses)
