@@ -61,7 +61,7 @@ BLOCK MASS  # Mass Spectrum
    2000002     1E+06            # ~u_R
    1000003     1000000.0         # ~s_L
    2000003     1E+06            # ~s_R
-   1000004     1000000.0         # ~c_L
+   1000004     767.4         # ~c_L
    2000004     1E+06            # ~c_R
    1000005     1000000.0         # ~b_1
    2000005     861.2         # ~b_2
@@ -69,7 +69,7 @@ BLOCK MASS  # Mass Spectrum
    2000006     1000000.0         # ~t_2
    1000011     1000000.0         # ~e_L
    2000011     1E+06            # ~e_R
-   1000012     1000000.0         # ~nu_eL
+   1000012     492.9         # ~nu_eL
    1000013     1000000.0         # ~mu_L
    2000013     1E+06            # ~mu_R
    1000014     1000000.0         # ~nu_muL
@@ -281,10 +281,10 @@ DECAY   2000006     7.27235497E+00   # stop2 decays
 DECAY   2000005     1.34903869E+01   # sbottom2 decays
 #          BR         NDA      ID1       ID2
      0.00000    2     1000006       -24   # BR(~b_2 -> ~t_1    W-)
-     0.00000    2     1000021         5   # BR(~b_2 -> ~g      b )
-     0.86595    2     1000022         5   # BR(~b_2 -> ~chi_10 b )
-     0.01799    2     1000023         5   # BR(~b_2 -> ~chi_20 b )
-     0.11606    2    -1000024         6   # BR(~b_2 -> ~chi_1- t )
+     0.04982    2     1000021         5   # BR(~b_2 -> ~g      b )
+     0.78026    2     1000022         5   # BR(~b_2 -> ~chi_10 b )
+     0.03988    2     1000023         5   # BR(~b_2 -> ~chi_20 b )
+     0.13003    2    -1000024         6   # BR(~b_2 -> ~chi_1- t )
      0.00000    2     1000025         5   # BR(~b_2 -> ~chi_30 b )
      0.00000    2    -1000037         6   # BR(~b_2 -> ~chi_2- t )
 
@@ -334,12 +334,12 @@ DECAY   1000003     1.48506929E+01   # sstrange_L decays
 #         PDG            Width
 DECAY   1000004     1.48506929E+01   # scharm_L decays
 #          BR         NDA      ID1       ID2
-     0.82053       2     1000022         4   # BR(~d_L -> ~chi_10 c)
+     0.82814       2     1000022         4   # BR(~d_L -> ~chi_10 c)
      0.00000       2     1000023         4   # BR(~d_L -> ~chi_20 c)
      0.00000       2     1000025         4   # BR(~d_L -> ~chi_30 c)
-     0.00000       2    -1000024         3   # BR(~d_L -> ~chi_1- s)
+     0.02749       2    -1000024         3   # BR(~d_L -> ~chi_1- s)
      0.00000       2    -1000037         3   # BR(~d_L -> ~chi_2- s)
-     0.17947       2     1000021         4   # BR(~d_L -> ~g      c)
+     0.14437       2     1000021         4   # BR(~d_L -> ~g      c)
 #
 #         PDG            Width
 #          BR         NDA      ID1       ID2
@@ -375,11 +375,11 @@ DECAY   1000015     3.37170888E+01   # stau_1 decays
 #         PDG            Width
 DECAY   1000012     6.78182499E+01   # snu_eL decays
 #          BR         NDA      ID1       ID2
-     0.65560  2     1000022        12   # BR(~nu_eL -> ~chi_10 nu_e)
-     0.01975  2     1000023        12   # BR(~nu_eL -> ~chi_20 nu_e)
-     0.02541  2     1000025        12   # BR(~nu_eL -> ~chi_30 nu_e)
-     0.22270  2     1000035        12   # BR(~nu_eL -> ~chi_40 nu_e)
-     0.07655  2     1000024        11   # BR(~nu_eL -> ~chi_1+ e-)
+     0.97076  2     1000022        12   # BR(~nu_eL -> ~chi_10 nu_e)
+     0.02924  2     1000023        12   # BR(~nu_eL -> ~chi_20 nu_e)
+     0.00000  2     1000025        12   # BR(~nu_eL -> ~chi_30 nu_e)
+     0.00000  2     1000035        12   # BR(~nu_eL -> ~chi_40 nu_e)
+     0.00000  2     1000024        11   # BR(~nu_eL -> ~chi_1+ e-)
      0.00000  2     1000037        11   # BR(~nu_eL -> ~chi_2+ e-)
 #
 #         PDG            Width
@@ -434,57 +434,57 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
 #     0.08544  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
 XSECTION  8.00E+03  2212 2212 2 -1000024 1000023 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    1.09753274E-03 SModelSv2.0.0rc9
+  0  0  0  0  0  0    1.09087998E-03 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    5.48766371E-04 SModelSv2.0.0rc9
+  0  0  0  0  0  0    1.09087998E-03 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000021 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    4.19013900E-04 SModelSv2.0.0rc9
+  0  0  0  0  0  0    4.80244681E-04 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000001 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    3.98981256E-04 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.97314725E-04 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000021 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    9.31929263E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    1.10651921E-04 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 -1000024 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    1.03547696E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    1.10651921E-05 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000021 2000005 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    4.70558830E-06 SModelSv2.0.0rc9
+  0  0  0  0  0  0    5.02843042E-06 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 -2000005 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    3.13705887E-06 SModelSv2.0.0rc9
-
-XSECTION  8.00E+03  2212 2212 2 -2000005 2000005 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    2.88883021E-06 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.35228694E-06 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    1.14296437E-02 SModelSv2.0.0rc9
+  0  0  0  0  0  0    7.53837279E-03 SModelSv2.0.0rc9
+
+XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # 2000 events, [pb], pythia6 for LO
+  0  0  0  0  0  0    4.09953766E-03 SModelSv2.0.0rc9
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 1000024 # 2000 events, [pb], pythia6 for LO
+  0  0  0  0  0  0    3.46545568E-03 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000021 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    2.91053618E-03 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.32541205E-03 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000001 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    2.76997878E-03 SModelSv2.0.0rc9
+  0  0  0  0  0  0    2.05919067E-03 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000021 1000024 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    2.15667967E-04 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.05857819E-04 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000021 1000022 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    1.83012968E-04 SModelSv2.0.0rc9
-
-XSECTION  1.30E+04  2212 2212 2 -1000024 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    7.18893222E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    1.94660157E-04 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 -2000005 2000005 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    6.01682281E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.97589421E-05 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000021 2000005 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    3.81140120E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    3.47482617E-05 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 -2000005 1000021 # 2000 events, [pb], pythia6 for LO
-  0  0  0  0  0  0    2.17794354E-05 SModelSv2.0.0rc9
+  0  0  0  0  0  0    2.89568847E-05 SModelSv2.0.0rc9
 
-# Signal strength multipliers: 1000001:0.0778, 2000005:0.0595, 1000021:0.01615, 1000022:1, 1000023:0.8561, 1000024:0.7856
+# Signal strength multipliers: 1000001:0.0778, 1000004:0.04918, 2000005:0.0595, 1000012:0.03419, 1000021:0.01733, 1000022:1, 1000023:0.8545, 1000024:0.7856
