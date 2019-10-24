@@ -5,6 +5,8 @@ Federico Ambrogi, Juhi Dutta, Jan Heisig, Sabine Kraml, Suchita Kulkarni, Ursula
 
 ------------------------------------------------------------------------   
                                                                            
+## 24 Oct 2019: Our old smodels.hephy.at server is down! If you use e.g. ``official'' as your database path, this will not work anymore (sorry!). Please use instead full database path names, e.g. "http://smodels.github.io/database/official122" for the official 1.2.2 database. We apologize.
+
 ## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 ------------------------------------------------------------------------
