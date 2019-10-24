@@ -35,4 +35,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T6bbWW](SmsDictionary123charan#T6bbWW)| 35.9|<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-17-010/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-17-010/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 | | [TChipChimSlepSnu](SmsDictionary123charan#TChipChimSlepSnu)| 35.9|<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-17-010/validation/TChipChimSlepSnu_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-17-010/validation/TChipChimSlepSnu_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 
-This page was created Thu Oct 17 17:11:20 2019
+This page was created Thu Oct 24 17:05:29 2019
