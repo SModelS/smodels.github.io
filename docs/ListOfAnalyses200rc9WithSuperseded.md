@@ -2,7 +2,7 @@
 
 # List Of Analyses 2.0.0rc9 (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 45 individual maps from 9 distinct signal regions, 9 different SMS topologies, from a total of 3 analyses.
+comprising 49 individual maps from 9 distinct signal regions, 9 different SMS topologies, from a total of 3 analyses.
 The list has been created from the database version `2.0.0rc9`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary200rc9) and a [validation page](Validation200rc9).
 Link to list of results [without superseded results](ListOfAnalyses200rc9).
@@ -10,7 +10,7 @@ Link to list of results [without superseded results](ListOfAnalyses200rc9).
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 1  results
 ### Run 1 - 8 TeV
- * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 11 (of which 8 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 12 (of which 8 LLP) results
 
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (1 analyses)
@@ -26,7 +26,7 @@ Link to list of results [without superseded results](ListOfAnalyses200rc9).
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
-| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary200rc9#THSCPM1b) [(1)](#A1), [THSCPM3](SmsDictionary200rc9#THSCPM3) [(1)](#A1), [THSCPM8](SmsDictionary200rc9#THSCPM8) [(1)](#A1) | |&#10004; |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary200rc9#THSCPM1b) [(1)](#A1), [THSCPM3](SmsDictionary200rc9#THSCPM3) [(1)](#A1), [THSCPM5](SmsDictionary200rc9#THSCPM5) [(1)](#A1), [THSCPM8](SmsDictionary200rc9#THSCPM8) [(1)](#A1) | |&#10004; |
 | **Publications** | | | | | |
 | [CMS-EXO-13-006-andre](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006-andre"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary200rc9#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary200rc9#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary200rc9#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary200rc9#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary200rc9#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary200rc9#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary200rc9#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary200rc9#THSCPM8) [(1)](#A1) | |&#10004; |
 
