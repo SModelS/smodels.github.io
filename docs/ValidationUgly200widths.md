@@ -49,4 +49,4 @@ To [official validation plots](Validation200widths)
 | | [THSCPM6](SmsDictionary200widths#THSCPM6)| 18.8| tbd |  | |
 | | [THSCPM8](SmsDictionary200widths#THSCPM8)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM8_2EqMassAx_EqMassBy_EqWidthB1e-16.png"><img src="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM8_2EqMassAx_EqMassBy_EqWidthB1e-16.png" /></a>  | |
 
-This page was created Thu Nov  7 18:50:47 2019
+This page was created Sat Nov  9 12:33:07 2019
