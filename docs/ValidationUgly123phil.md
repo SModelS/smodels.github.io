@@ -87,4 +87,4 @@ To [official validation plots](Validation123phil)
 | | [TChipChimGamma](SmsDictionary123phil#TChipChimGamma)| 36.1| tbd |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiWH](SmsDictionary123phil#TChiWH)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
-This page was created Thu Nov 14 14:26:15 2019
+This page was created Thu Nov 14 14:29:11 2019
