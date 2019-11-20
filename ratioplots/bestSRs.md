@@ -1,5 +1,5 @@
 # plots of best expected signal regions
-as of Wed Nov 20 16:34:18 2019
+as of Wed Nov 20 16:40:30 2019
 
 ## Topology: THSCPM3
 
