@@ -1,15 +1,25 @@
 # plots of best expected signal regions
-as of Wed Nov 20 17:10:16 2019
+as of Fri Nov 22 12:50:41 2019
 
 ## Topology: THSCPM1b
 
 | andre | suchi |
 | <img src="bestSR_CMS-EXO-13-006-andre_THSCPM1b.png" /> | <img src="bestSR_CMS-EXO-13-006_THSCPM1b.png" /> |
 
+## Topology: THSCPM2b
+
+| andre | suchi |
+| <img src="bestSR_CMS-EXO-13-006-andre_THSCPM2b.png" /> | <img src="bestSR_CMS-EXO-13-006_THSCPM2b.png" /> |
+
 ## Topology: THSCPM3
 
 | andre | suchi |
 | <img src="bestSR_CMS-EXO-13-006-andre_THSCPM3.png" /> | <img src="bestSR_CMS-EXO-13-006_THSCPM3.png" /> |
+
+## Topology: THSCPM4
+
+| andre | suchi |
+| <img src="bestSR_CMS-EXO-13-006-andre_THSCPM4.png" /> | <img src="bestSR_CMS-EXO-13-006_THSCPM4.png" /> |
 
 ## Topology: THSCPM5
 
