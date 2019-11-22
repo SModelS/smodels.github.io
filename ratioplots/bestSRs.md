@@ -1,6 +1,6 @@
 # plots of best expected signal regions
-as of Fri Nov 22 13:27:52 2019
-checkout also the [README.md](ratio plots)
+as of Fri Nov 22 13:49:29 2019
+checkout also the [ratio plots](README.md)
 
 ## Topology: THSCPM1b
 
