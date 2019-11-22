@@ -51,4 +51,4 @@ To [official validation plots](Validation200widths)
 | | [THSCPM6](SmsDictionary200widths#THSCPM6)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM6_EqMassA__EqmassAx_EqmassBx-100_EqmassCy_EqwidthC1e-22.png"><img src="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM6_EqMassA__EqmassAx_EqmassBx-100_EqmassCy_EqwidthC1e-22.png" /></a>  | |
 | | [THSCPM8](SmsDictionary200widths#THSCPM8)| 18.8| tbd |<a href="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM8_2EqMassAx_EqMassBy_EqWidthB1e-22.png"><img src="https://smodels.github.io/validation/200widths/8TeV/CMS/CMS-EXO-13-006-eff/validation/THSCPM8_2EqMassAx_EqMassBy_EqWidthB1e-22.png" /></a>  | |
 
-This page was created Fri Nov 22 12:23:18 2019
+This page was created Fri Nov 22 12:30:49 2019
