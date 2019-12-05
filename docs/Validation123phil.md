@@ -78,4 +78,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [TChipChimGamma](SmsDictionary123phil#TChipChimGamma)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/TChipChimGamma_2EqMassAx_EqMassBy_EqMassC0.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/TChipChimGamma_2EqMassAx_EqMassBy_EqMassC0.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiWH](SmsDictionary123phil#TChiWH)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
-This page was created Thu Dec  5 09:43:14 2019
+This page was created Thu Dec  5 12:05:38 2019
