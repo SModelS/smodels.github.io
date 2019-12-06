@@ -14,6 +14,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses, 1 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 1 results
 
 ### Run 1 - 8 TeV
 
@@ -23,6 +24,14 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)| [T6bbHH](SmsDictionary123pyhf#T6bbHH)| 139.0|<a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy+130.0_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy+130.0_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3pyhf!  |
+| [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)| [T6bbHH](SmsDictionary123pyhf#T6bbHH)| 139.0|<a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3pyhf!  |
 
-This page was created Wed Dec  4 19:28:30 2019
+
+<a name="ATLASefficiencymaps13"></a>
+## ATLAS efficiency maps, 13 TeV: 1 analyses, 1 results total
+
+| **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
+|------------|------------|--------------|----------------------|-------------|
+| [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)| [T6bbHH](SmsDictionary123pyhf#T6bbHH)| 139.0|<a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy+130.0_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy+130.0_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3pyhf!  |
+
+This page was created Fri Dec  6 21:09:35 2019
