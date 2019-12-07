@@ -2,12 +2,11 @@
 
 # List Of Analyses 1.2.3 (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 2857 individual maps from 347 distinct signal regions, 78 different SMS topologies, from a total of 94 analyses.
+comprising 2873 individual maps from 347 distinct signal regions, 78 different SMS topologies, from a total of 94 analyses.
 The list has been created from the database version `1.2.3`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
 Link to list of results [without superseded results](ListOfAnalyses123).
-
-## Individual tables
+    ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 11  analyses, 18  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 2  analyses, 3  results
@@ -17,7 +16,7 @@ Link to list of results [without superseded results](ListOfAnalyses123).
  * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results
  * [CMS upper limits](#CMSupperlimits8): 19  analyses, 68 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 40 (of which 4 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
 
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (28 analyses)
@@ -126,7 +125,7 @@ Link to list of results [without superseded results](ListOfAnalyses123).
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
-| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary123#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary123#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary123#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary123#THSCPM4) [(1)](#A1) | |&#10004; |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary123#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary123#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary123#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary123#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary123#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary123#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary123#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary123#THSCPM8) [(1)](#A1) | |&#10004; |
 | **PAS** | | | | | |
 | [CMS-PAS-SUS-13-015](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13015)<a name="CMS-PAS-SUS-13-015"></a> | &ge; 5(1b-)jets + MET | 19.4 | [T2tt](SmsDictionary123#T2tt), [T2ttoff](SmsDictionary123#T2ttoff) | |&#10004; |
 | [CMS-PAS-SUS-13-016](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13016)<a name="CMS-PAS-SUS-13-016"></a> | 2 OS leptons + &ge; 4 (2b-)jets + MET | 19.7 | [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff) | |&#10004; |
