@@ -34,25 +34,16 @@
 												[[x,995],[y,995]]		?				/
 
 #	ATLAS-SUSY-2016-15	UL		T2tt			2*[[x,y]]				done			/
-								T2ttoff			2*[[x,y]]				done			/
-								T2ttg			2*[[x,y]]				/				comment: same constraint as T2tt, will be ignored	
+								T2ttoff			2*[[x,y]]				done			still a little off-shell sliver left?
+								T2ttg			2*[[x,y]]				not done		no good points for validation plot	
 	
-#						EFF		T2bb			2*[[x,y]]				/				comment: same constraint as T2tt, will be ignored
-								T2tt			2*[[x,y]]				done			/
-								T2ttoff			2*[[x,y]]				done			/
-
-
-#	ATLAS-SUSY-2016-16	UL		T2tt			2*[[x,y]]				done			added only one of two T2tt UL maps
-								T2bbWW			2*[[x,y]]				done			/
-								T2bbffff		2*[[x,y]]				done			/
-								T6bbWW			2*[[x,x-10,y]]			done			small underexclusion in low x axis area / added only one of two T2tt UL maps
-								T6bbWWoff		2*[[x,x-10,y]]			/				runValidation keeps crashing
-
-						EFF		to be done
+#						EFF		T2bb			2*[[x,y]]				not done		very wrong results
+								T2tt			2*[[x,y]]				not done		very wrong results
+								T2ttoff			2*[[x,y]]				not done		very wrong results
 
 
 #	ATLAS-SUSY-2016-24	UL		TChiChipmSlepL	2*[[x,0.5(x+y),y]]		done			/
-							  TChipChimSlepSlep	2*[[x,0.5(x+y),y]]		done			/
+							  TChipChimSlepSlep	2*[[x,0.5(x+y),y]]		done			heavily underexcluding
 								TChiWZ			2*[[x,y]]				done			comment: "No data points given in [x<300GeV,y<50GeV] mass region."
 								TSlepSlep		2*[[x,y]]				done			comment: "Discrepancy due to fluctuations in original data that the ATLAS group smoothed out in their results."
 
@@ -83,7 +74,7 @@
 
 #	ATLAS-SUSY-2017-01	UL		TChiWH			2*[[x,y]]				done			help with pretty name
 
-#						EFF		TChiWH			2*[[x,y]]				not done		/
+#						EFF		TChiWH			2*[[x,y]]				not done		probably wrong implementation
 
 
-#	ATLAS-SUSY-2017-02	UL		TChiZ			2*[[x,1]]				not done		FIXME error, cant handle 1d
+#	ATLAS-SUSY-2017-02	UL		TChiZ			2*[[x,1]]				not done		smodels crashing or no good points for validation, depending on patch, for other formats of constraints/massplanes: slhacreater not working
