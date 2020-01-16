@@ -260,11 +260,11 @@ DECAY   1000021     4.56539663E-02   # gluino decays
 DECAY   1000006     7.27235497E+00   # stop1 decays
 #          BR         NDA      ID1       ID2
      0.    2     1000005        24   # BR(~t_1 -> ~b_1    W )
-     0.93602    2     1000022         6   # BR(~t_1 -> ~chi_10 t )
+     0.95166    2     1000022         6   # BR(~t_1 -> ~chi_10 t )
      0.    2     1000023         6   # BR(~t_1 -> ~chi_20 t )
      0.    2     1000024         5   # BR(~t_1 -> ~chi_1+ b )
      0.    2     1000037         5   # BR(~t_1 -> ~chi_2+ b )
-	   0.06398    2    -1000021         6   # BR(~t_1 -> ~g t)
+	   0.04834    2    -1000021         6   # BR(~t_1 -> ~g t)
 #         PDG            Width
 DECAY   1000005     1.34903869E+01   # sbottom1 decays
 #          BR         NDA      ID1       ID2
@@ -291,14 +291,14 @@ DECAY   2000006     7.27235497E+00   # stop2 decays
 #         PDG            Width
 DECAY   2000005     1.34903869E+01   # sbottom2 decays
 #          BR         NDA      ID1       ID2
-     0.03629    2     1000006       -24   # BR(~b_2 -> ~t_1    W-)
-     0.02703    2     1000021         5   # BR(~b_2 -> ~g      b )
-     0.84301    2     1000022         5   # BR(~b_2 -> ~chi_10 b )
+     0.03924    2     1000006       -24   # BR(~b_2 -> ~t_1    W-)
+     0.02923    2     1000021         5   # BR(~b_2 -> ~g      b )
+     0.91156    2     1000022         5   # BR(~b_2 -> ~chi_10 b )
      0.    2     1000023         5   # BR(~b_2 -> ~chi_20 b )
-     0.01847    2    -1000024         6   # BR(~b_2 -> ~chi_1- t )
-     0.03667    2     1000025         5   # BR(~b_2 -> ~chi_30 b )
-     0.03854    2    -1000037         6   # BR(~b_2 -> ~chi_2- t )
-	   0.02703    2    -1000021         5   # BR(~b_2 -> ~g b)
+     0.01997    2    -1000024         6   # BR(~b_2 -> ~chi_1- t )
+     0.    2     1000025         5   # BR(~b_2 -> ~chi_30 b )
+     0.    2    -1000037         6   # BR(~b_2 -> ~chi_2- t )
+	   0.02923    2    -1000021         5   # BR(~b_2 -> ~g b)
 
 #         PDG            Width
 DECAY   2000001     1.0              # sdown_R decays
@@ -365,11 +365,11 @@ DECAY   1000011     6.78035696E+01   # selectron_L decays
 #         PDG            Width
 DECAY   1000013     6.78035696E+01   # smuon_L decays
 #          BR         NDA      ID1       ID2
-     1.00000  2     1000022        13   # BR(~mu_L -> ~chi_10 mu-)
+     0.95579  2     1000022        13   # BR(~mu_L -> ~chi_10 mu-)
      0.  2     1000023        13   # BR(~mu_L -> ~chi_20 mu-)
      0.  2     1000025        13   # BR(~mu_L -> ~chi_30 mu-)
 #     D1000013_1000035  2     1000035        13   # BR(~mu_L -> ~chi_40 mu-)
-     0.  2    -1000024        14   # BR(~mu_L -> ~chi_1- nu_mu)
+     0.04421  2    -1000024        14   # BR(~mu_L -> ~chi_1- nu_mu)
      0.  2    -1000037        14   # BR(~mu_L -> ~chi_2- nu_mu)
 #
 #         PDG            Width
@@ -404,11 +404,11 @@ DECAY   1000014     6.78182499E+01   # snu_muL decays
 #         PDG            Width
 DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #          BR         NDA      ID1       ID2
-     1.00000  2     1000022        16   # BR(~nu_tauL -> ~chi_10 nu_tau)
+     0.95384  2     1000022        16   # BR(~nu_tauL -> ~chi_10 nu_tau)
      0.  2     1000023        16   # BR(~nu_tauL -> ~chi_20 nu_tau)
      0.  2     1000025        16   # BR(~nu_tauL -> ~chi_30 nu_tau)
 #     D1000016_1000035  2     1000035        16   # BR(~nu_tauL -> ~chi_40 nu_tau)
-     0.  2     1000024        15   # BR(~nu_tauL -> ~chi_1+ tau-)
+     0.04616  2     1000024        15   # BR(~nu_tauL -> ~chi_1+ tau-)
      0.  2     1000037        15   # BR(~nu_tauL -> ~chi_2+ tau-)
 #
 #         PDG            Width
@@ -430,36 +430,36 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 DECAY   1000023     1.12364506E-03   # neutralino2 decays
 #          BR         NDA      ID1       ID2
-     0.91604       2     1000022        23   # BR(~chi_20 -> ~chi_10  Z )
-     0.08396       2     1000022        25   # BR(~chi_20 -> ~chi_10  h )
-     0.          2     1000024       -24   # BR(~chi_20 -> ~chi_1+  W- )
+     0.94415       2     1000022        23   # BR(~chi_20 -> ~chi_10  Z )
+     0.04106       2     1000022        25   # BR(~chi_20 -> ~chi_10  h )
+     0.01479          2     1000024       -24   # BR(~chi_20 -> ~chi_1+  W- )
 #
 #         PDG            Width
 DECAY   1000025     4.86632501E+00   # neutralino3 decays
 #          BR         NDA      ID1       ID2
-     0.88874  2     1000022        23   # BR(~chi_30 -> ~chi_10   Z )
-     0.04231  2     1000023        23   # BR(~chi_30 -> ~chi_20   Z )
-     0.01392     2     1000024       -24   # BR(~chi_30 -> ~chi_1+   W-)
-     0.03865  2     1000022        25   # BR(~chi_30 -> ~chi_10   h )
-     0.01639  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
+     0.91604  2     1000022        23   # BR(~chi_30 -> ~chi_10   Z )
+     0.  2     1000023        23   # BR(~chi_30 -> ~chi_20   Z )
+     0.     2     1000024       -24   # BR(~chi_30 -> ~chi_1+   W-)
+     0.08396  2     1000022        25   # BR(~chi_30 -> ~chi_10   h )
+     0.  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
 XSECTION  8.00E+03  2212 2212 2 -1000005 1000005 # recycled
-  0  2  0  0  0  0    1.02879588E-01 SModelSv2.0.0rc9
+  0  2  0  0  0  0    9.91139054E-02 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000021 1000021 # recycled
-  0  2  0  0  0  0    4.50108233E-02 SModelSv2.0.0rc9
+  0  2  0  0  0  0    4.50102665E-02 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 -2000006 2000006 # recycled
-  0  2  0  0  0  0    3.40345174E-04 SModelSv2.0.0rc9
+  0  2  0  0  0  0    3.42209536E-04 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # recycled
-  0  2  0  0  0  0    1.43598940E-04 SModelSv2.0.0rc9
+  0  2  0  0  0  0    1.56008505E-04 SModelSv2.0.0rc9
 
 XSECTION  8.00E+03  2212 2212 2 1000005 1000005 # recycled
-  0  2  0  0  0  0    1.14297286E-04 SModelSv2.0.0rc9
+  0  2  0  0  0  0    1.10107244E-04 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 -1000005 1000005 # recycled
-  0  2  0  0  0  0    4.74230634E-01 SModelSv2.0.0rc9
+  0  2  0  0  0  0    4.56839665E-01 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000021 1000021 # recycled
   0  2  0  0  0  0    2.68101577E-01 SModelSv2.0.0rc9
@@ -468,10 +468,10 @@ XSECTION  1.30E+04  2212 2212 2 -2000006 2000006 # recycled
   0  2  0  0  0  0    2.80626134E-03 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 1000005 1000005 # recycled
-  0  2  0  0  0  0    1.10435319E-03 SModelSv2.0.0rc9
+  0  2  0  0  0  0    1.06385439E-03 SModelSv2.0.0rc9
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # recycled
-  0  2  0  0  0  0    9.40292394E-04 SModelSv2.0.0rc9
+  0  2  0  0  0  0    1.02153720E-03 SModelSv2.0.0rc9
 
-# Signal strength multipliers: (1000005, 1000005):0.1662, (-1000005, 1000005):0.1662, (-1000006, 1000006):0.007239, (-2000006, 2000006):0.04471, (1000021, 1000021):0.01319
-# produced at step 3
+# Signal strength multipliers: (1000005, 1000005):0.1601, (-1000005, 1000005):0.1601, (-1000006, 1000006):0.007865, (-2000006, 2000006):0.04471, (1000021, 1000021):0.01319
+# produced at step 6
