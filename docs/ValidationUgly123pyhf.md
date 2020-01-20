@@ -37,4 +37,4 @@ To [official validation plots](Validation123pyhf)
 |------------|------------|--------------|----------------|----------------------|-------------|
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)| [T6bbHH](SmsDictionary123pyhf#T6bbHH)| 139.0| tbd |<a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0.png" /></a><BR><a href="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0.png"><img src="https://smodels.github.io/validation/123pyhf/13TeV/ATLAS/ATLAS-SUSY-2018-31-eff/validation/T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3pyhf!  |
 
-This page was created Mon Jan 20 21:12:11 2020
+This page was created Mon Jan 20 21:28:25 2020
