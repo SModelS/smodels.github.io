@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3phil (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 79 individual maps from 59 distinct signal regions, 16 different SMS topologies, from a total of 7 analyses.
+comprising 79 individual maps from 59 distinct signal regions, 15 different SMS topologies, from a total of 7 analyses.
 The list has been created from the database version `1.2.3phil`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123phil) and a [validation page](Validation123phil).
 Link to list of results [without superseded results](ListOfAnalyses123phil).
@@ -24,7 +24,7 @@ Link to list of results [without superseded results](ListOfAnalyses123phil).
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> |  | 36.1 | [T5Gamma](SmsDictionary123phil#T5Gamma), [T5ZGamma](SmsDictionary123phil#T5ZGamma), [T6Gamma](SmsDictionary123phil#T6Gamma), [TChipChimGamma](SmsDictionary123phil#TChipChimGamma) | | |
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)<a name="ATLAS-SUSY-2017-01"></a> | EWK WH(bb) + MET | 36.1 | [TChiWH](SmsDictionary123phil#TChiWH) | | |
 | [ATLAS-SUSY-2017-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-02/)<a name="ATLAS-SUSY-2017-02"></a> | 0L + jets + Etmiss | 36.1 | [TChiH](SmsDictionary123phil#TChiH) | | |
-| [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 leptons + MET | 139.0 | [TChiWW](SmsDictionary123phil#TChiWW), [TChipChimSlepSlepAll](SmsDictionary123phil#TChipChimSlepSlepAll), [TSlepSlep](SmsDictionary123phil#TSlepSlep) | | |
+| [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 leptons + MET | 139.0 | [TChiWW](SmsDictionary123phil#TChiWW), [TChipChimSlepSlepAll](SmsDictionary123phil#TChipChimSlepSlepAll), [TSlepSlepAll](SmsDictionary123phil#TSlepSlepAll) | | |
 
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (6 analyses)
