@@ -8,7 +8,7 @@ There is also a [ListOfAnalyses123phil](https://smodels.github.io/docs/ListOfAna
 
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
-| 1 | <a name="T2bbffff"></a>**T2bbffff**<br> | `[[[b,l,nu]],[[b,q,q]]]`<BR>`(MET,MET);`<BR>`[[[b,q,q]],[[b,q,q]]]`<BR>`(MET,MET);`<BR>`[[[b,l,nu]],[[b,q,q]]]`<BR>`(MET,MET)` | ![T2bbffff](../feyn/straight/T2bbffff.png) | [ATLAS-SUSY-2016-15](ListOfAnalyses123phil#ATLAS-SUSY-2016-15)<BR>[ATLAS-SUSY-2016-16](ListOfAnalyses123phil#ATLAS-SUSY-2016-16)|
+| 1 | <a name="T2bbffff"></a>**T2bbffff**<br> | `[[[b,l,nu]],[[b,q,q]]]`<BR>`(MET,MET);`<BR>`[[[b,l,nu]],[[b,q,q]]]`<BR>`(MET,MET);`<BR>`[[[b,q,q]],[[b,q,q]]]`<BR>`(MET,MET)` | ![T2bbffff](../feyn/straight/T2bbffff.png) | [ATLAS-SUSY-2016-15](ListOfAnalyses123phil#ATLAS-SUSY-2016-15)<BR>[ATLAS-SUSY-2016-16](ListOfAnalyses123phil#ATLAS-SUSY-2016-16)|
 | 2 | <a name="T2tt"></a>**T2tt**<br> | `[[[t]],[[t]]]`<BR>`(MET,MET)` | ![T2tt](../feyn/straight/T2tt.png) | [ATLAS-SUSY-2016-15](ListOfAnalyses123phil#ATLAS-SUSY-2016-15)<BR>[ATLAS-SUSY-2016-16](ListOfAnalyses123phil#ATLAS-SUSY-2016-16)|
 | 3 | <a name="T2ttoff"></a>**T2ttoff**<br> | `[[[b,W]],[[b,W]]]`<BR>`(MET,MET)` | ![T2ttoff](../feyn/straight/T2ttoff.png) | [ATLAS-SUSY-2016-15](ListOfAnalyses123phil#ATLAS-SUSY-2016-15)<BR>[ATLAS-SUSY-2016-16](ListOfAnalyses123phil#ATLAS-SUSY-2016-16)|
 | 4 | <a name="T5Gamma"></a>**T5Gamma**<br> | `[[[q,q],[y]],[[q,q],[y]]]`<BR>`(MET,MET)` | ![T5Gamma](../feyn/straight/T5Gamma.png) | [ATLAS-SUSY-2016-27](ListOfAnalyses123phil#ATLAS-SUSY-2016-27)|
