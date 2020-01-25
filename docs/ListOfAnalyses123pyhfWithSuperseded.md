@@ -2,22 +2,23 @@
 
 # List Of Analyses 1.2.3pyhf (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 4 individual maps from 4 distinct signal regions, 1 different SMS topologies, from a total of 1 analyses.
+comprising 5 individual maps from 5 distinct signal regions, 2 different SMS topologies, from a total of 2 analyses.
 The list has been created from the database version `1.2.3pyhf`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123pyhf) and a [validation page](Validation123pyhf).
 Link to list of results [without superseded results](ListOfAnalyses123pyhf).
     ## Individual tables
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 1  results
+ * [ATLAS upper limits](#ATLASupperlimits13): 2  analyses, 2  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 1  results
 ### Run 1 - 8 TeV
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (1 analyses)
+## ATLAS, upper limits, 13 TeV (2 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
 | **Publications** | | | | | |
+| [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04"></a> | 2 hadronic taus | 139.0 | [TStauStau](SmsDictionary123pyhf#TStauStau) | | |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary123pyhf#T6bbHH) | | |
 
 <a name="ATLASefficiencymaps13"></a>
