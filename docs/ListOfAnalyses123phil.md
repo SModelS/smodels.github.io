@@ -2,22 +2,23 @@
 
 # List Of Analyses 1.2.3phil 
 List of analyses and topologies in the SMS results database,
-comprising 80 individual maps from 60 distinct signal regions, 16 different SMS topologies, from a total of 8 analyses.
+comprising 126 individual maps from 83 distinct signal regions, 18 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `1.2.3phil`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123phil) and a [validation page](Validation123phil).
 Link to list of results [including superseded results](ListOfAnalyses123philWithSuperseded).
     ## Individual tables
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 8  analyses, 21  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 12  results
+ * [ATLAS upper limits](#ATLASupperlimits13): 9  analyses, 23  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7  analyses, 14  results
 ### Run 1 - 8 TeV
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (8 analyses)
+## ATLAS, upper limits, 13 TeV (9 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **Publications** | | | | |
+| [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | hadronic jets + MET | 36.1 | [T5WWoff](SmsDictionary123phil#T5WWoff), [T6WWoffleft](SmsDictionary123phil#T6WWoffleft) | |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | stop to lsp + MET | 36.1 | [T2bbffff](SmsDictionary123phil#T2bbffff), [T2tt](SmsDictionary123phil#T2tt), [T2ttoff](SmsDictionary123phil#T2ttoff) | |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | stop to lsp + MET | 36.1 | [T2bbffff](SmsDictionary123phil#T2bbffff), [T2tt](SmsDictionary123phil#T2tt), [T2ttoff](SmsDictionary123phil#T2ttoff), [T6bbWW](SmsDictionary123phil#T6bbWW) | |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiChipmSlep](SmsDictionary123phil#TChiChipmSlep), [TChiWZ](SmsDictionary123phil#TChiWZ), [TChipChimSlepSlepAll](SmsDictionary123phil#TChipChimSlepSlepAll), [TSlepSlepAll](SmsDictionary123phil#TSlepSlepAll) | |
@@ -28,11 +29,12 @@ Link to list of results [including superseded results](ListOfAnalyses123philWith
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | l + higgs + MET | 139.0 | [TChiWH](SmsDictionary123phil#TChiWH) | |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (6 analyses)
+## ATLAS, efficiency maps, 13 TeV (7 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **Publications** | | | | |
+| [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | hadronic jets + MET | 36.1 | [T5WWoff](SmsDictionary123phil#T5WWoff), [T6WWoffleft](SmsDictionary123phil#T6WWoffleft) |&#10004; |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | stop to lsp | 36.1 | [T2tt](SmsDictionary123phil#T2tt), [T2ttoff](SmsDictionary123phil#T2ttoff) |&#10004; |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | stop to lsp + MET | 36.1 | [T2bbffff](SmsDictionary123phil#T2bbffff), [T2tt](SmsDictionary123phil#T2tt), [T2ttoff](SmsDictionary123phil#T2ttoff) |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiChipmSlep](SmsDictionary123phil#TChiChipmSlep), [TChiWZ](SmsDictionary123phil#TChiWZ), [TChipChimSlepSlepAll](SmsDictionary123phil#TChipChimSlepSlepAll), [TSlepSlepAll](SmsDictionary123phil#TSlepSlepAll) |&#10004; |
