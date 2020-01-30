@@ -17,7 +17,7 @@ To [official validation plots](Validation123phil)
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 9 analyses, 30 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7 analyses, 23 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7 analyses, 22 results
 
 ### Run 1 - 8 TeV
 
@@ -60,7 +60,7 @@ To [official validation plots](Validation123phil)
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 7 analyses, 23 results total
+## ATLAS efficiency maps, 13 TeV: 7 analyses, 22 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -74,7 +74,6 @@ To [official validation plots](Validation123phil)
 | | [T6WWoffleft](SmsDictionary123phil#T6WWoffleft)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T6WZh](SmsDictionary123phil#T6WZh)| 36.1| False |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh.txt) |
 | | [TGQ](SmsDictionary123phil#TGQ)| 36.1| False |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| | [TGQ12](SmsDictionary123phil#TGQ12)| 36.1| False |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12.txt) |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)| [T2tt](SmsDictionary123phil#T2tt)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2tt_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2tt_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T2ttoff](SmsDictionary123phil#T2ttoff)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff.txt) |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)| [T2bbffff](SmsDictionary123phil#T2bbffff)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/validation/T2bbffff_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/validation/T2bbffff_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
@@ -88,4 +87,4 @@ To [official validation plots](Validation123phil)
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiWH](SmsDictionary123phil#TChiWH)| 36.1| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH.txt) |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)| [TChiWW](SmsDictionary123phil#TChiWW)| 139.0| tbd |<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/validation/TChiWW_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/validation/TChiWW_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
-This page was created Tue Jan 28 11:10:06 2020
+This page was created Thu Jan 30 12:06:12 2020

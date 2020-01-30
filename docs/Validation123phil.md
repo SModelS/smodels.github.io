@@ -14,7 +14,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 9 analyses, 30 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7 analyses, 23 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7 analyses, 22 results
 
 ### Run 1 - 8 TeV
 
@@ -57,7 +57,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 7 analyses, 23 results total
+## ATLAS efficiency maps, 13 TeV: 7 analyses, 22 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -71,7 +71,6 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T6WWoffleft](SmsDictionary123phil#T6WWoffleft)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WWoffleft_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T6WZh](SmsDictionary123phil#T6WZh)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh_2EqMassAx_EqMassBy_EqMassC60.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T6WZh.txt) |
 | | [TGQ](SmsDictionary123phil#TGQ)| 36.1|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
-| | [TGQ12](SmsDictionary123phil#TGQ12)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ12.txt) |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)| [T2tt](SmsDictionary123phil#T2tt)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 | | [T2ttoff](SmsDictionary123phil#T2ttoff)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/validation/T2ttoff.txt) |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)| [T2bbffff](SmsDictionary123phil#T2bbffff)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/validation/T2bbffff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2016-16-eff/validation/T2bbffff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
@@ -85,4 +84,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)| [TChiWH](SmsDictionary123phil#TChiWH)| 36.1|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil! [comment](https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/validation/TChiWH.txt) |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)| [TChiWW](SmsDictionary123phil#TChiWW)| 139.0|<a href="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/validation/TChiWW_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123phil/13TeV/ATLAS/ATLAS-SUSY-2018-32-eff/validation/TChiWW_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3phil!  |
 
-This page was created Tue Jan 28 11:09:13 2020
+This page was created Thu Jan 30 12:05:59 2020

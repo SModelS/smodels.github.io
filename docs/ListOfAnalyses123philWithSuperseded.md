@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3phil (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 126 individual maps from 83 distinct signal regions, 18 different SMS topologies, from a total of 9 analyses.
+comprising 154 individual maps from 111 distinct signal regions, 18 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `1.2.3phil`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123phil) and a [validation page](Validation123phil).
 Link to list of results [without superseded results](ListOfAnalyses123phil).
