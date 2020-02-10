@@ -16,14 +16,14 @@ To [official validation plots](Validation123charan)
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [CMS upper limits](#CMSupperlimits13): 5 analyses, 14 results
+ * [CMS upper limits](#CMSupperlimits13): 6 analyses, 16 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 1 analyses, 9 results
 
 ### Run 1 - 8 TeV
 
 
 <a name="CMSupperlimits13"></a>
-## CMS upper limits, 13 TeV: 5 analyses, 14 results total
+## CMS upper limits, 13 TeV: 6 analyses, 16 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -56,6 +56,6 @@ To [official validation plots](Validation123charan)
 | | [T2bb](SmsDictionary123charan#T2bb)| 35.9| tbd |<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2bb_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2bb_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 | | [T2tt](SmsDictionary123charan#T2tt)| 35.9| tbd |<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 | | [T3GQ](SmsDictionary123charan#T3GQ)| 35.9| tbd |<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB0.0__EqmassAx_EqmassBy_EqmassC0.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB0.0__EqmassAx_EqmassBy_EqmassC0.0.png" /></a><BR><a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB695.0__EqmassAx_EqmassBy_EqmassC695.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB695.0__EqmassAx_EqmassBy_EqmassC695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB995.0__EqmassAx_EqmassBy_EqmassC995.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/T3GQ_EqMassAy_EqMassB995.0__EqmassAx_EqmassBy_EqmassC995.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
-| | [TGQ](SmsDictionary123charan#TGQ)| 35.9| tbd |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
+| | [TGQ](SmsDictionary123charan#TGQ)| 35.9| tbd |<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 
-This page was created Mon Feb 10 14:35:03 2020
+This page was created Mon Feb 10 15:49:15 2020
