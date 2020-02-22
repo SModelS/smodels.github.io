@@ -60,4 +60,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T5GQ](SmsDictionary123charan#T5GQ)| 35.9|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 | | [TGQ](SmsDictionary123charan#TGQ)| 35.9|<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0_pretty.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0_pretty.png" /></a><BR><a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0_pretty.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 
-This page was created Fri Feb 21 14:21:45 2020
+This page was created Sat Feb 22 12:31:10 2020
