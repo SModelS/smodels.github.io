@@ -63,4 +63,4 @@ To [official validation plots](Validation123charan)
 | | [T5GQ](SmsDictionary123charan#T5GQ)| 35.9| tbd |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 | | [TGQ](SmsDictionary123charan#TGQ)| 35.9| tbd |<a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123charan/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3charan!  |
 
-This page was created Sat Feb 22 12:31:44 2020
+This page was created Sun Feb 23 13:42:13 2020
