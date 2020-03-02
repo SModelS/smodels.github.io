@@ -14,6 +14,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses, 2 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 1 results
 
 ### Run 1 - 8 TeV
 
@@ -23,7 +24,14 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoff](SmsDictionary123rola#TChiWZoff)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoff_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoff_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
-This page was created Tue Feb 11 17:43:39 2020
+
+<a name="ATLASefficiencymaps13"></a>
+## ATLAS efficiency maps, 13 TeV: 1 analyses, 1 results total
+
+| **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
+|------------|------------|--------------|----------------------|-------------|
+
+This page was created Mon Mar  2 16:28:02 2020
