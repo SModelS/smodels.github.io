@@ -24,7 +24,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
 
@@ -34,4 +34,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
 
-This page was created Mon Mar  2 16:28:02 2020
+This page was created Mon Mar  2 16:36:05 2020
