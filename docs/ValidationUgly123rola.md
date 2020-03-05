@@ -28,12 +28,13 @@ To [official validation plots](Validation123rola)
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
-| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqqHiggsino](SmsDictionary123rola#TChiWZoffqq)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqqHino_2EqMassAx_EqMassBx-y.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqqHino_2EqMassAx_EqMassBx-y.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
-| | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0| tbd |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
 
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS efficiency maps, 13 TeV: 1 analyses, 1 results total
 
+| **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
+|------------|------------|--------------|----------------|----------------------|-------------|
 
-This page was created Mon Mar  2 16:36:06 2020
+This page was created Thu Mar  5 19:03:14 2020
