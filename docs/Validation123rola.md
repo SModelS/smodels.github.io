@@ -34,5 +34,6 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
+| [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16-eff/validation/TSlepSlep_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16-eff/validation/TSlepSlep_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
-This page was created Fri Mar  6 18:36:13 2020
+This page was created Fri Mar  6 18:48:38 2020
