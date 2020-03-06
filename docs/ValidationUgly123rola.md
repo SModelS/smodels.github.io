@@ -16,17 +16,18 @@ To [official validation plots](Validation123rola)
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses, 2 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 2 analyses, 3 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 1 results
 
 ### Run 1 - 8 TeV
 
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS upper limits, 13 TeV: 1 analyses, 2 results total
+## ATLAS upper limits, 13 TeV: 2 analyses, 3 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
+| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)| [TChiWZ](SmsDictionary123rola#TChiWZ)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZ_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZ_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0| tbd |<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
@@ -37,4 +38,4 @@ To [official validation plots](Validation123rola)
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
 
-This page was created Thu Mar  5 19:03:14 2020
+This page was created Fri Mar  6 18:36:14 2020

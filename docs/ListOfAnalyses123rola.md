@@ -2,22 +2,23 @@
 
 # List Of Analyses 1.2.3rola 
 List of analyses and topologies in the SMS results database,
-comprising 5 individual maps from 4 distinct signal regions, 2 different SMS topologies, from a total of 1 analyses.
+comprising 6 individual maps from 5 distinct signal regions, 3 different SMS topologies, from a total of 2 analyses.
 The list has been created from the database version `1.2.3rola`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rola) and a [validation page](Validation123rola).
 Link to list of results [including superseded results](ListOfAnalyses123rolaWithSuperseded).
     ## Individual tables
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 2  results
+ * [ATLAS upper limits](#ATLASupperlimits13): 2  analyses, 3  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 1  results
 ### Run 1 - 8 TeV
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (1 analyses)
+## ATLAS, upper limits, 13 TeV (2 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **Publications** | | | | |
+| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | EW to 3-slep | 139.0 | [TChiWZ](SmsDictionary123rola#TChiWZ) |&#10004; |
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)<a name="ATLAS-SUSY-2018-16"></a> | EW production in models with compressed mass spectra | 139.0 | [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq), [TSlepSlep](SmsDictionary123rola#TSlepSlep) |&#10004; |
 
 <a name="ATLASefficiencymaps13"></a>
