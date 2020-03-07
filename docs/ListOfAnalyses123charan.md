@@ -2,14 +2,14 @@
 
 # List Of Analyses 1.2.3charan 
 List of analyses and topologies in the SMS results database,
-comprising 139 individual maps from 20 distinct signal regions, 26 different SMS topologies, from a total of 9 analyses.
+comprising 151 individual maps from 20 distinct signal regions, 26 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `1.2.3charan`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123charan) and a [validation page](Validation123charan).
 Link to list of results [including superseded results](ListOfAnalyses123charanWithSuperseded).
     ## Individual tables
 ### Run 2 - 13 TeV
  * [CMS upper limits](#CMSupperlimits13): 8  analyses, 20  results
- * [CMS efficiency maps](#CMSefficiencymaps13): 1  analyses, 10  results
+ * [CMS efficiency maps](#CMSefficiencymaps13): 1  analyses, 11  results
 ### Run 1 - 8 TeV
 
 <a name="CMSupperlimits13"></a>
@@ -33,7 +33,7 @@ Link to list of results [including superseded results](ListOfAnalyses123charanWi
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **Publications** | | | | |
-| [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)<a name="CMS-SUS-16-033"></a> | 0L + jets + MET (using MHT) | 35.9 | [T1](SmsDictionary123charan#T1), [T1bbbb](SmsDictionary123charan#T1bbbb), [T1tttt](SmsDictionary123charan#T1tttt), [T1ttttoff](SmsDictionary123charan#T1ttttoff), [T2](SmsDictionary123charan#T2), [T2bb](SmsDictionary123charan#T2bb), [T2tt](SmsDictionary123charan#T2tt), [T3GQ](SmsDictionary123charan#T3GQ), [T5GQ](SmsDictionary123charan#T5GQ), [TGQ](SmsDictionary123charan#TGQ) |&#10004; |
+| [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)<a name="CMS-SUS-16-033"></a> | 0L + jets + MET (using MHT) | 35.9 | [T1](SmsDictionary123charan#T1), [T1bbbb](SmsDictionary123charan#T1bbbb), [T1tttt](SmsDictionary123charan#T1tttt), [T1ttttoff](SmsDictionary123charan#T1ttttoff), [T2](SmsDictionary123charan#T2), [T2bb](SmsDictionary123charan#T2bb), [T2tt](SmsDictionary123charan#T2tt), [T2ttoff](SmsDictionary123charan#T2ttoff), [T3GQ](SmsDictionary123charan#T3GQ), [T5GQ](SmsDictionary123charan#T5GQ), [TGQ](SmsDictionary123charan#TGQ) |&#10004; |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
