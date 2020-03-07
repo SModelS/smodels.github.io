@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3rola (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 6 individual maps from 5 distinct signal regions, 3 different SMS topologies, from a total of 2 analyses.
+comprising 14 individual maps from 6 distinct signal regions, 11 different SMS topologies, from a total of 3 analyses.
 The list has been created from the database version `1.2.3rola`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rola) and a [validation page](Validation123rola).
 Link to list of results [without superseded results](ListOfAnalyses123rola).
@@ -10,7 +10,16 @@ Link to list of results [without superseded results](ListOfAnalyses123rola).
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 2  analyses, 3  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 1  results
+ * [CMS upper limits](#CMSupperlimits13): 1  analyses, 8  results
 ### Run 1 - 8 TeV
+
+<a name="CMSupperlimits13"></a>
+## CMS, upper limits, 13 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
+|--------|-----------------------|--------------|--------------|-------------------|-----------|
+| **Publications** | | | | | |
+| [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + multijets with MHT | 137.0 | [T1](SmsDictionary123rola#T1), [T1bbbb](SmsDictionary123rola#T1bbbb), [T1tttt](SmsDictionary123rola#T1tttt), [T1ttttoff](SmsDictionary123rola#T1ttttoff), [T2](SmsDictionary123rola#T2), [T2bb](SmsDictionary123rola#T2bb), [T2tt](SmsDictionary123rola#T2tt), [T2ttoff](SmsDictionary123rola#T2ttoff) | | |
 
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (2 analyses)
