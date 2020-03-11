@@ -2,13 +2,13 @@
 
 # List Of Analyses 1.2.3charan (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 151 individual maps from 20 distinct signal regions, 26 different SMS topologies, from a total of 9 analyses.
+comprising 152 individual maps from 20 distinct signal regions, 27 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `1.2.3charan`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123charan) and a [validation page](Validation123charan).
 Link to list of results [without superseded results](ListOfAnalyses123charan).
     ## Individual tables
 ### Run 2 - 13 TeV
- * [CMS upper limits](#CMSupperlimits13): 8  analyses, 20  results
+ * [CMS upper limits](#CMSupperlimits13): 8  analyses, 21  results
  * [CMS efficiency maps](#CMSefficiencymaps13): 1  analyses, 11  results
 ### Run 1 - 8 TeV
 
@@ -20,7 +20,7 @@ Link to list of results [without superseded results](ListOfAnalyses123charan).
 | **Publications** | | | | | |
 | [CMS-SUS-16-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-009/)<a name="CMS-SUS-16-009"></a> | multijets + Etmiss, top tagging | 2.3 | [T1tttt](SmsDictionary123charan#T1tttt), [T1ttttoff](SmsDictionary123charan#T1ttttoff), [T2tt](SmsDictionary123charan#T2tt), [T5tctc](SmsDictionary123charan#T5tctc) | |&#10004; |
 | [CMS-SUS-17-003](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-003/)<a name="CMS-SUS-17-003"></a> | a tau lepton pair + Etmiss | 35.9 | [TChiChipmStauStau](SmsDictionary123charan#TChiChipmStauStau) | | |
-| [CMS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-004/index.html)<a name="CMS-SUS-17-004"></a> | Chargino-neutralino production with WZ topology | 35.9 | [TChiWH](SmsDictionary123charan#TChiWH), [TChiWZ](SmsDictionary123charan#TChiWZ) | | |
+| [CMS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-004/index.html)<a name="CMS-SUS-17-004"></a> | Chargino-neutralino production with WZ topology | 35.9 | [TChiWH](SmsDictionary123charan#TChiWH), [TChiWZ](SmsDictionary123charan#TChiWZ), [TChiWZoff](SmsDictionary123charan#TChiWZoff) | | |
 | [CMS-SUS-17-005](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-005/)<a name="CMS-SUS-17-005"></a> | multijets + Etmiss, top tagging | 35.9 | [T2bbffff](SmsDictionary123charan#T2bbffff), [T6bbWWoff](SmsDictionary123charan#T6bbWWoff) | |&#10004; |
 | [CMS-SUS-17-006](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-006/)<a name="CMS-SUS-17-006"></a> | High momentum Higgs Boson+ Etmiss | 35.9 | [T5HH](SmsDictionary123charan#T5HH), [T5HZ](SmsDictionary123charan#T5HZ) | |&#10004; |
 | [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)<a name="CMS-SUS-17-009"></a> | leptons + Etmiss | 35.9 | [TSlepSlep](SmsDictionary123charan#TSlepSlep) | |&#10004; |
