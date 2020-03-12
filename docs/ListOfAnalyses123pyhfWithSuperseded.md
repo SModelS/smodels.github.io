@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3pyhf (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 7 individual maps from 7 distinct signal regions, 2 different SMS topologies, from a total of 2 analyses.
+comprising 13 individual maps from 13 distinct signal regions, 2 different SMS topologies, from a total of 2 analyses.
 The list has been created from the database version `1.2.3pyhf`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123pyhf) and a [validation page](Validation123pyhf).
 Link to list of results [without superseded results](ListOfAnalyses123pyhf).
