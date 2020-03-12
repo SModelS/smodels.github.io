@@ -13,19 +13,20 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 2 analyses, 3 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 2 analyses, 4 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1 analyses, 1 results
- * [CMS upper limits](#CMSupperlimits13): 1 analyses, 8 results
+ * [CMS upper limits](#CMSupperlimits13): 2 analyses, 16 results
 
 ### Run 1 - 8 TeV
 
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS upper limits, 13 TeV: 2 analyses, 3 results total
+## ATLAS upper limits, 13 TeV: 2 analyses, 4 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
 | [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)| [TChiWZ](SmsDictionary123rola#TChiWZ)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZ_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [TChiWZoff](SmsDictionary123rola#TChiWZoff)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-06/validation/TChiWZoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)| [TChiWZoffqq](SmsDictionary123rola#TChiWZoffqq)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TChiWZoffqq_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [TSlepSlep](SmsDictionary123rola#TSlepSlep)| 139.0|<a href="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/ATLAS/ATLAS-SUSY-2018-16/validation/TSlepSlep_2EqMassAx_EqMassBx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
@@ -39,10 +40,18 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="CMSupperlimits13"></a>
-## CMS upper limits, 13 TeV: 1 analyses, 8 results total
+## CMS upper limits, 13 TeV: 2 analyses, 16 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
+| [CMS-SUS-19-006-2](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)| [T1](SmsDictionary123rola#T1)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T1bbbb](SmsDictionary123rola#T1bbbb)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T1tttt](SmsDictionary123rola#T1tttt)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T1ttttoff](SmsDictionary123rola#T1ttttoff)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T2](SmsDictionary123rola#T2)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T2bb](SmsDictionary123rola#T2bb)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2bb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2bb_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T2tt](SmsDictionary123rola#T2tt)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
+| | [T2ttoff](SmsDictionary123rola#T2ttoff)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006-2/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)| [T1](SmsDictionary123rola#T1)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [T1bbbb](SmsDictionary123rola#T1bbbb)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1bbbb_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [T1tttt](SmsDictionary123rola#T1tttt)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
@@ -52,4 +61,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T2tt](SmsDictionary123rola#T2tt)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 | | [T2ttoff](SmsDictionary123rola#T2ttoff)| 137.0|<a href="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rola/13TeV/CMS/CMS-SUS-19-006/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rola!  |
 
-This page was created Sat Mar  7 10:32:34 2020
+This page was created Thu Mar 12 12:29:31 2020
