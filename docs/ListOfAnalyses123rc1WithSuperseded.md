@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3rc1 (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 3439 individual maps from 498 distinct signal regions, 99 different SMS topologies, from a total of 115 analyses.
+comprising 3441 individual maps from 498 distinct signal regions, 101 different SMS topologies, from a total of 115 analyses.
 The list has been created from the database version `1.2.3rc1`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rc1) and a [validation page](Validation123rc1).
 Link to list of results [without superseded results](ListOfAnalyses123rc1).
@@ -10,7 +10,7 @@ Link to list of results [without superseded results](ListOfAnalyses123rc1).
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 23  analyses, 47  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 12  analyses, 33  results
- * [CMS upper limits](#CMSupperlimits13): 37  analyses, 158 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 37  analyses, 160 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results
 ### Run 1 - 8 TeV
  * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
@@ -57,7 +57,7 @@ Link to list of results [without superseded results](ListOfAnalyses123rc1).
 | [CMS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-004/index.html)<a name="CMS-SUS-17-004"></a> | Chargino-neutralino production with WZ topology | 35.9 | [TChiWH](SmsDictionary123rc1#TChiWH), [TChiWZ](SmsDictionary123rc1#TChiWZ), [TChiWZoff](SmsDictionary123rc1#TChiWZoff) | | |
 | [CMS-SUS-17-005](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-005/)<a name="CMS-SUS-17-005"></a> | 1L + multijets + Etmiss, top tagging | 35.9 | [T2bbffff](SmsDictionary123rc1#T2bbffff), [T6bbWWoff](SmsDictionary123rc1#T6bbWWoff) | |&#10004; |
 | [CMS-SUS-17-006](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-006/)<a name="CMS-SUS-17-006"></a> | High momentum Higgs Boson+ Etmiss | 35.9 | [T5HH](SmsDictionary123rc1#T5HH), [T5HZ](SmsDictionary123rc1#T5HZ) | |&#10004; |
-| [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)<a name="CMS-SUS-17-009"></a> | leptons + Etmiss | 35.9 | [TSlepSlep](SmsDictionary123rc1#TSlepSlep) | |&#10004; |
+| [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)<a name="CMS-SUS-17-009"></a> | leptons + Etmiss | 35.9 | [TSelSel](SmsDictionary123rc1#TSelSel), [TSlepSlep](SmsDictionary123rc1#TSlepSlep), [TSmuSmu](SmsDictionary123rc1#TSmuSmu) | |&#10004; |
 | [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)<a name="CMS-SUS-17-010"></a> | 2L stop | 35.9 | [T2tt](SmsDictionary123rc1#T2tt), [T2ttoff](SmsDictionary123rc1#T2ttoff), [T6bbWW](SmsDictionary123rc1#T6bbWW), [TChipChimSlepSnu](SmsDictionary123rc1#TChipChimSlepSnu) | |&#10004; |
 | [CMS-SUS-18-002](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-002/)<a name="CMS-SUS-18-002"></a> | photon, jets, b-jets+ Etmiss, top tagging | 35.9 | [T5Hg](SmsDictionary123rc1#T5Hg), [T5bbbbZg](SmsDictionary123rc1#T5bbbbZg), [T5ttttZg](SmsDictionary123rc1#T5ttttZg), [T6ttZg](SmsDictionary123rc1#T6ttZg) | |&#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + multijets with MHT | 137.0 | [T1](SmsDictionary123rc1#T1), [T1bbbb](SmsDictionary123rc1#T1bbbb), [T1tttt](SmsDictionary123rc1#T1tttt), [T1ttttoff](SmsDictionary123rc1#T1ttttoff), [T2](SmsDictionary123rc1#T2), [T2bb](SmsDictionary123rc1#T2bb), [T2tt](SmsDictionary123rc1#T2tt), [T2ttoff](SmsDictionary123rc1#T2ttoff) | |&#10004; |

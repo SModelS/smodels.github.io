@@ -15,7 +15,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 23 analyses, 54 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13 analyses, 34 results
- * [CMS upper limits](#CMSupperlimits13): 38 analyses, 164 results
+ * [CMS upper limits](#CMSupperlimits13): 38 analyses, 166 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses, 21 results
 
 ### Run 1 - 8 TeV
@@ -129,7 +129,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 
 <a name="CMSupperlimits13"></a>
-## CMS upper limits, 13 TeV: 38 analyses, 164 results total
+## CMS upper limits, 13 TeV: 38 analyses, 166 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
@@ -234,7 +234,9 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T6bbWWoff](SmsDictionary123rc1#T6bbWWoff)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-005/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-005/validation/T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | [CMS-SUS-17-006](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-006/)| [T5HH](SmsDictionary123rc1#T5HH)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-006/validation/T5HH_2EqMassAx_EqMassBx-50_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-006/validation/T5HH_2EqMassAx_EqMassBx-50_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T5HZ](SmsDictionary123rc1#T5HZ)| 35.9|  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)| [TSlepSlep](SmsDictionary123rc1#TSlepSlep)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
+| [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)| [TSelSel](SmsDictionary123rc1#TSelSel)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSelSel_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSelSel_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
+| | [TSlepSlep](SmsDictionary123rc1#TSlepSlep)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSlepSlep_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
+| | [TSmuSmu](SmsDictionary123rc1#TSmuSmu)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSmuSmu_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-009/validation/TSmuSmu_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)| [T2tt](SmsDictionary123rc1#T2tt)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T2ttoff](SmsDictionary123rc1#T2ttoff)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T6bbWW](SmsDictionary123rc1#T6bbWW)| 35.9|<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-17-010/validation/T6bbWW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
@@ -620,4 +622,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary123rc1#T2bbWW)| 19.7|<a href="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T2bbWWoff](SmsDictionary123rc1#T2bbWWoff)| 19.7|<a href="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWWoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 
-This page was created Fri Mar 13 20:36:43 2020
+This page was created Fri Mar 13 20:57:45 2020
