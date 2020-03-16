@@ -58,7 +58,7 @@ Link to list of results [without superseded results](ListOfAnalyses123new).
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)<a name="ATLAS-SUSY-2018-16"></a> | EW production in models with compressed mass spectra | 139.0 | [TChiWZoffqq](SmsDictionary123new#TChiWZoffqq), [TSlepSlep](SmsDictionary123new#TSlepSlep) | |&#10004; |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + Etmiss | 139.0 | [T6bbHH](SmsDictionary123new#T6bbHH) | | |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary123new#TChiWW), [TChipChimSlepSlepAll](SmsDictionary123new#TChipChimSlepSlepAll), [TSlepSlepAll](SmsDictionary123new#TSlepSlepAll) | | |
-| [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | l + higgs + Etmiss | 139.0 | [TChiWH](SmsDictionary123new#TChiWH) | | |
+| [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss | 139.0 | [TChiWH](SmsDictionary123new#TChiWH) | | |
 
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (10 analyses)
