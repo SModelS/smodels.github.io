@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3new 
 List of analyses and topologies in the SMS results database,
-comprising 580 individual maps from 156 distinct signal regions, 51 different SMS topologies, from a total of 25 analyses.
+comprising 580 individual maps from 156 distinct signal regions, 54 different SMS topologies, from a total of 25 analyses.
 The list has been created from the database version `1.2.3new`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123new) and a [validation page](Validation123new).
 Link to list of results [including superseded results](ListOfAnalyses123newWithSuperseded).
@@ -50,7 +50,7 @@ Link to list of results [including superseded results](ListOfAnalyses123newWithS
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop | 36.1 | [T2bbffff](SmsDictionary123new#T2bbffff), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) | |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.1 | [T2bbffff](SmsDictionary123new#T2bbffff), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff), [T6bbWW](SmsDictionary123new#T6bbWW) | |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2-3 leptons + Etmiss, EWino | 36.1 | [TChiChipmSlepSlep](SmsDictionary123new#TChiChipmSlepSlep), [TChiWZ](SmsDictionary123new#TChiWZ), [TChipChimSlepSlep](SmsDictionary123new#TChipChimSlepSlep), [TSlepSlep](SmsDictionary123new#TSlepSlep) | |
-| [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5Zg](SmsDictionary123new#T5Zg), [T5g](SmsDictionary123new#T5g), [T6g](SmsDictionary123new#T6g), [TChipChimg](SmsDictionary123new#TChipChimg) | |
+| [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5Zg](SmsDictionary123new#T5Zg), [T5gg](SmsDictionary123new#T5gg), [T6gg](SmsDictionary123new#T6gg), [TChipChimgg](SmsDictionary123new#TChipChimgg) | |
 | [ATLAS-SUSY-2016-28](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-28/)<a name="ATLAS-SUSY-2016-28"></a> | 2 b-jets + Etmiss | 36.1 | [T2bb](SmsDictionary123new#T2bb) | |
 | [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)<a name="ATLAS-SUSY-2017-01"></a> | EWK WH(bb) + Etmiss | 36.1 | [TChiWH](SmsDictionary123new#TChiWH) | |
 | [ATLAS-SUSY-2017-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-02/)<a name="ATLAS-SUSY-2017-02"></a> | 0L + jets + Etmiss | 36.1 | [TChiH](SmsDictionary123new#TChiH) | |
