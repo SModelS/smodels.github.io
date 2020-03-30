@@ -2,20 +2,20 @@
 
 # List Of Analyses 1.2.3new 
 List of analyses and topologies in the SMS results database,
-comprising 573 individual maps from 150 distinct signal regions, 47 different SMS topologies, from a total of 24 analyses.
+comprising 548 individual maps from 137 distinct signal regions, 47 different SMS topologies, from a total of 23 analyses.
 The list has been created from the database version `1.2.3new`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123new) and a [validation page](Validation123new).
 Link to list of results [including superseded results](ListOfAnalyses123newWithSuperseded).
     ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 13  analyses, 35  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 8  analyses, 29  results
- * [CMS upper limits](#CMSupperlimits13): 10  analyses, 41  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 8  analyses, 27  results
+ * [CMS upper limits](#CMSupperlimits13): 9  analyses, 33  results
  * [CMS efficiency maps](#CMSefficiencymaps13): 1  analyses, 11  results
 ### Run 1 - 8 TeV
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (10 analyses)
+## CMS, upper limits, 13 TeV (9 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
@@ -29,8 +29,6 @@ Link to list of results [including superseded results](ListOfAnalyses123newWithS
 | [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)<a name="CMS-SUS-17-010"></a> | 2L stop | 35.9 | [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff), [T6bbWW](SmsDictionary123new#T6bbWW), [TChipChimSlepSnu](SmsDictionary123new#TChipChimSlepSnu) |&#10004; |
 | [CMS-SUS-18-002](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-002/)<a name="CMS-SUS-18-002"></a> | photon, jets, b-jets+ Etmiss, top tagging | 35.9 | [T5Hg](SmsDictionary123new#T5Hg), [T5bbbbZg](SmsDictionary123new#T5bbbbZg), [T5ttttZg](SmsDictionary123new#T5ttttZg), [T6ttZg](SmsDictionary123new#T6ttZg) |&#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary123new#T1), [T1bbbb](SmsDictionary123new#T1bbbb), [T1tttt](SmsDictionary123new#T1tttt), [T1ttttoff](SmsDictionary123new#T1ttttoff), [T2](SmsDictionary123new#T2), [T2bb](SmsDictionary123new#T2bb), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) |&#10004; |
-| **Publications** | | | | |
-| [CMS-SUS-19-006-2](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-2"></a> | 0L + jets + Etmiss | 137.0 | [T1](SmsDictionary123new#T1), [T1bbbb](SmsDictionary123new#T1bbbb), [T1tttt](SmsDictionary123new#T1tttt), [T1ttttoff](SmsDictionary123new#T1ttttoff), [T2](SmsDictionary123new#T2), [T2bb](SmsDictionary123new#T2bb), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) | |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (1 analyses)
@@ -67,7 +65,7 @@ Link to list of results [including superseded results](ListOfAnalyses123newWithS
 |--------|-----------------------|--------------|--------------|-----------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T1](SmsDictionary123new#T1) [(1)](#A1), [T2](SmsDictionary123new#T2) [(1)](#A1), [T3GQ](SmsDictionary123new#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary123new#T5GQ) [(1)](#A1), [T5WW](SmsDictionary123new#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary123new#T5WWoff) [(1)](#A1), [T5WZh](SmsDictionary123new#T5WZh) [(1)](#A1), [T5ZZ](SmsDictionary123new#T5ZZ) [(1)](#A1), [T6WW](SmsDictionary123new#T6WW) [(1)](#A1), [T6WWoff](SmsDictionary123new#T6WWoff) [(1)](#A1), [T6WZh](SmsDictionary123new#T6WZh) [(1)](#A1), [TGQ](SmsDictionary123new#TGQ) [(1)](#A1) |&#10004; |
-| [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop + MET | 36.1 | [T2bb](SmsDictionary123new#T2bb), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) |&#10004; |
+| [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop + MET | 36.1 | [T2bb](SmsDictionary123new#T2bb) |&#10004; |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.1 | [T2bbffff](SmsDictionary123new#T2bbffff), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiChipmSlepSlep](SmsDictionary123new#TChiChipmSlepSlep), [TChiWZ](SmsDictionary123new#TChiWZ), [TChipChimSlepSlep](SmsDictionary123new#TChipChimSlepSlep), [TSlepSlep](SmsDictionary123new#TSlepSlep) |&#10004; |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5Zg](SmsDictionary123new#T5Zg), [T5gg](SmsDictionary123new#T5gg), [T6gg](SmsDictionary123new#T6gg), [TChipChimgg](SmsDictionary123new#TChipChimgg) |&#10004; |
