@@ -2,14 +2,14 @@
 
 # List Of Analyses 1.2.3new (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 516 individual maps from 105 distinct signal regions, 47 different SMS topologies, from a total of 23 analyses.
+comprising 502 individual maps from 91 distinct signal regions, 47 different SMS topologies, from a total of 23 analyses.
 The list has been created from the database version `1.2.3new`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123new) and a [validation page](Validation123new).
 Link to list of results [without superseded results](ListOfAnalyses123new).
     ## Individual tables
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 13  analyses, 35  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7  analyses, 26  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 5  analyses, 24  results
  * [CMS upper limits](#CMSupperlimits13): 9  analyses, 33  results
  * [CMS efficiency maps](#CMSefficiencymaps13): 1  analyses, 11  results
 ### Run 1 - 8 TeV
@@ -59,7 +59,7 @@ Link to list of results [without superseded results](ListOfAnalyses123new).
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary123new#TChiWH) | | |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (7 analyses)
+## ATLAS, efficiency maps, 13 TeV (5 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
@@ -69,8 +69,6 @@ Link to list of results [without superseded results](ListOfAnalyses123new).
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.0 | [T2bbffff](SmsDictionary123new#T2bbffff), [T2tt](SmsDictionary123new#T2tt), [T2ttoff](SmsDictionary123new#T2ttoff) | |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiChipmSlepSlep](SmsDictionary123new#TChiChipmSlepSlep), [TChiWZ](SmsDictionary123new#TChiWZ), [TChipChimSlepSlep](SmsDictionary123new#TChipChimSlepSlep), [TSlepSlep](SmsDictionary123new#TSlepSlep) | |&#10004; |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5Zg](SmsDictionary123new#T5Zg), [T5gg](SmsDictionary123new#T5gg), [T6gg](SmsDictionary123new#T6gg), [TChipChimgg](SmsDictionary123new#TChipChimgg) | |&#10004; |
-| [ATLAS-SUSY-2017-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-01/)<a name="ATLAS-SUSY-2017-01"></a> | EWK WH(bb) + Etmiss | 36.1 | [TChiWH](SmsDictionary123new#TChiWH) | |&#10004; |
-| [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | 2b + 2H(bb) + Etmiss | 139.0 | [T6bbHH](SmsDictionary123new#T6bbHH) | |&#10004; |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
