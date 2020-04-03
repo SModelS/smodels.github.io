@@ -76,5 +76,5 @@ A wishlist regarding the presentation of SMS results was worked out at the 2013 
 <img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
 <img src="logos/CCNH-logo.jpg" width="250pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top"> &bnsp;
+<img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/logo_UCLouvain.jpeg" width="250pt" align="top">
