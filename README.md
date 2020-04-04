@@ -69,8 +69,9 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 # Publications and Talks
 See the [publications and talks](docs/SModelSTalks) page
 
-# wishlist to the experiments
-A wishlist regarding the presentation of results was compiled by the LHC reinterpretation form, see [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
+# Recommendations about the presentation of results
+A wishlist regarding the presentation of results was compiled by the LHC
+reinterpretation forum, see [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
 <img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="250pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
