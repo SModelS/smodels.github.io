@@ -78,4 +78,4 @@ reinterpretation forum, see [arXiv:2003.07868](https://arxiv.org/abs/2003.07868)
 <img src="logos/CCNH-logo.jpg" width="250pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/logo_UCLouvain.jpeg" width="270pt" align="top">
+<img src="https://smodels.github.io/logos/logo_UCLouvain.jpeg" width="280pt" align="top">
