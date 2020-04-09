@@ -17,8 +17,8 @@ To [official validation plots](Validation123rc1)
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 23 analyses, 52 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13 analyses, 35 results
- * [CMS upper limits](#CMSupperlimits13): 39 analyses, 168 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13 analyses, 36 results
+ * [CMS upper limits](#CMSupperlimits13): 38 analyses, 160 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses, 21 results
 
 ### Run 1 - 8 TeV
@@ -88,7 +88,7 @@ To [official validation plots](Validation123rc1)
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 13 analyses, 35 results total
+## ATLAS efficiency maps, 13 TeV: 13 analyses, 36 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -118,6 +118,8 @@ To [official validation plots](Validation123rc1)
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)| [TChiChipmSlepSlep](SmsDictionary123rc1#TChiChipmSlepSlep)| 36.1| False |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChiChipmSlepSlep_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChiChipmSlepSlep_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [TChiWZ](SmsDictionary123rc1#TChiWZ)| 36.1| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChiWZ_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChiWZ_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [TChipChimSlepSlep](SmsDictionary123rc1#TChipChimSlepSlep)| 36.1| False |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChipChimSlepSlep_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TChipChimSlepSlep_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
+| | [TSelSel](SmsDictionary123rc1#TSelSel)| 36.1| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSelSel_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSelSel_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
+| | [TSlepSlep](SmsDictionary123rc1#TSlepSlep)| 36.1| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSlepSlep_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSlepSlep_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [TSmuSmu](SmsDictionary123rc1#TSmuSmu)| 36.1| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSmuSmu_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-24-eff/validation/TSmuSmu_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)| [T5Zg](SmsDictionary123rc1#T5Zg)| 36.1| False |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/T5Zg_2EqMassAx_EqMassBy_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/T5Zg_2EqMassAx_EqMassBy_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T5gg](SmsDictionary123rc1#T5gg)| 36.1| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/T5gg_2EqMassAx_EqMassBy_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/ATLAS/ATLAS-SUSY-2016-27-eff/validation/T5gg_2EqMassAx_EqMassBy_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
@@ -131,7 +133,7 @@ To [official validation plots](Validation123rc1)
 
 
 <a name="CMSupperlimits13"></a>
-## CMS upper limits, 13 TeV: 39 analyses, 168 results total
+## CMS upper limits, 13 TeV: 38 analyses, 160 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -287,14 +289,6 @@ To [official validation plots](Validation123rc1)
 | | [T5bbbbZg](SmsDictionary123rc1#T5bbbbZg)| 35.9| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T5bbbbZg_2EqMassAx_EqMassBy_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T5bbbbZg_2EqMassAx_EqMassBy_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T5ttttZg](SmsDictionary123rc1#T5ttttZg)| 35.9| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T5ttttZg_2EqMassAx_EqMassBy_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T5ttttZg_2EqMassAx_EqMassBy_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T6ttZg](SmsDictionary123rc1#T6ttZg)| 35.9| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T6ttZg_2EqMassAx_EqMassBy_EqMassC1.0.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-18-002/validation/T6ttZg_2EqMassAx_EqMassBy_EqMassC1.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| [CMS-SUS-19-006-2](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)| [T1](SmsDictionary123rc1#T1)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| | [T1bbbb](SmsDictionary123rc1#T1bbbb)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1bbbb_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1bbbb_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1! [comment](https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1bbbb.txt) |
-| | [T1tttt](SmsDictionary123rc1#T1tttt)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1tttt_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1tttt_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| | [T1ttttoff](SmsDictionary123rc1#T1ttttoff)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1ttttoff_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T1ttttoff_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| | [T2](SmsDictionary123rc1#T2)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| | [T2bb](SmsDictionary123rc1#T2bb)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2bb_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2bb_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
-| | [T2tt](SmsDictionary123rc1#T2tt)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2tt_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2tt_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1! [comment](https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2tt.txt) |
-| | [T2ttoff](SmsDictionary123rc1#T2ttoff)| 137.0| tbd |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2ttoff_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006-2/validation/T2ttoff_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)| [T1](SmsDictionary123rc1#T1)| 137.0| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T1bbbb](SmsDictionary123rc1#T1bbbb)| 137.0| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1bbbb_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1bbbb_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1! [comment](https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1bbbb.txt) |
 | | [T1tttt](SmsDictionary123rc1#T1tttt)| 137.0| True |<a href="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1tttt_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/13TeV/CMS/CMS-SUS-19-006/validation/T1tttt_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
@@ -706,4 +700,4 @@ To [official validation plots](Validation123rc1)
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary123rc1#T2bbWW)| 19.7| False |<a href="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123rc1/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 | | [T2bbWWoff](SmsDictionary123rc1#T2bbWWoff)| 19.7| False |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3rc1!  |
 
-This page was created Thu Apr  2 14:00:15 2020
+This page was created Thu Apr  9 19:22:43 2020
