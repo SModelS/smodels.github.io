@@ -235,3 +235,5 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 <a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
+
+This page was created Tue Apr 14 12:24:39 2020.
