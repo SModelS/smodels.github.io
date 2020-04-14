@@ -6,13 +6,16 @@ comprising 3248 individual maps from 398 distinct signal regions, 96 different S
 The list has been created from the database version `1.2.3rc1`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rc1) and a [validation page](Validation123rc1).
 Link to list of results [including superseded results](ListOfAnalyses123rc1WithSuperseded).
-    ## Individual tables
+    
+## Individual tables
+
 ### Run 2 - 13 TeV
 In total, we have results from 23 ATLAS and 31 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21  results
  * [CMS upper limits](#CMSupperlimits13): 30  analyses, 122 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results
+
 ### Run 1 - 8 TeV
 In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 15  analyses, 37  results
@@ -209,3 +212,4 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
+This page was created Tue Apr 14 12:17:09 2020.
