@@ -2,17 +2,19 @@
 
 # List Of Analyses 1.2.3rc1 (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 3315 individual maps from 423 distinct signal regions, 96 different SMS topologies, from a total of 114 analyses.
+comprising 3313 individual maps from 421 distinct signal regions, 96 different SMS topologies, from a total of 114 analyses.
 The list has been created from the database version `1.2.3rc1`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rc1) and a [validation page](Validation123rc1).
 Link to list of results [without superseded results](ListOfAnalyses123rc1).
     ## Individual tables
 ### Run 2 - 13 TeV
+In total, we have results from 23 ATLAS and 38 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7  analyses, 22  results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21  results
  * [CMS upper limits](#CMSupperlimits13): 37  analyses, 154 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results
 ### Run 1 - 8 TeV
+In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results
  * [CMS upper limits](#CMSupperlimits8): 19  analyses, 68 (of which 3 LLP) results
@@ -105,7 +107,7 @@ Link to list of results [without superseded results](ListOfAnalyses123rc1).
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary123rc1#TChiWH) | | |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (7 analyses)
+## ATLAS, efficiency maps, 13 TeV (6 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
@@ -113,7 +115,6 @@ Link to list of results [without superseded results](ListOfAnalyses123rc1).
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary123rc1#T2tt) | |&#10004; |
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)<a name="ATLAS-SUSY-2015-06"></a> | 0 leptons + 2-6 jets + Etmiss | 3.2 | [T1](SmsDictionary123rc1#T1), [T2](SmsDictionary123rc1#T2) | |&#10004; |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T1](SmsDictionary123rc1#T1) [(1)](#A1), [T2](SmsDictionary123rc1#T2) [(1)](#A1), [T3GQ](SmsDictionary123rc1#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary123rc1#T5GQ) [(1)](#A1), [T5WW](SmsDictionary123rc1#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary123rc1#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary123rc1#T5ZZ) [(1)](#A1), [T6WW](SmsDictionary123rc1#T6WW) [(1)](#A1), [T6WWoff](SmsDictionary123rc1#T6WWoff) [(1)](#A1), [TGQ](SmsDictionary123rc1#TGQ) [(1)](#A1) | |&#10004; |
-| [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop + MET | 36.1 | [T2bb](SmsDictionary123rc1#T2bb) | |&#10004; |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.0 | [T2bbffff](SmsDictionary123rc1#T2bbffff), [T2tt](SmsDictionary123rc1#T2tt), [T2ttoff](SmsDictionary123rc1#T2ttoff) | |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiWZ](SmsDictionary123rc1#TChiWZ), [TSelSel](SmsDictionary123rc1#TSelSel), [TSmuSmu](SmsDictionary123rc1#TSmuSmu) | |&#10004; |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5gg](SmsDictionary123rc1#T5gg), [T6gg](SmsDictionary123rc1#T6gg) | |&#10004; |
