@@ -11,15 +11,15 @@ Link to list of results [without superseded results](ListOfAnalyses123rc1).
 
 ### Run 2 - 13 TeV
 In total, we have results from 23 ATLAS and 38 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21  results, 261 individual maps
+ * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21 results, 261 individual maps
  * [CMS upper limits](#CMSupperlimits13): 37  analyses, 154 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results, 197 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results, 1557 individual maps
+ * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18  (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results, 1557 individual maps
  * [CMS upper limits](#CMSupperlimits8): 19  analyses, 68 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results, 968 individual maps
 
@@ -236,4 +236,4 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Tue Apr 14 12:38:05 2020.
+This page was created Tue Apr 14 12:42:58 2020.
