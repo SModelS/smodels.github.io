@@ -6,13 +6,16 @@ comprising 3313 individual maps from 421 distinct signal regions, 96 different S
 The list has been created from the database version `1.2.3rc1`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rc1) and a [validation page](Validation123rc1).
 Link to list of results [without superseded results](ListOfAnalyses123rc1).
-    ## Individual tables
+    
+## Individual tables
+
 ### Run 2 - 13 TeV
 In total, we have results from 23 ATLAS and 38 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50  results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21  results
  * [CMS upper limits](#CMSupperlimits13): 37  analyses, 154 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results
+
 ### Run 1 - 8 TeV
 In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 28  analyses, 58  results
