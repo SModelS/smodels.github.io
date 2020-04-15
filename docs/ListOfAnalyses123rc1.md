@@ -2,21 +2,26 @@
 
 # List Of Analyses 1.2.3rc1 
 List of analyses and topologies in the SMS results database,
-comprising 3250 individual maps from 400 distinct signal regions, 96 different SMS topologies, from a total of 97 analyses.
+comprising 3248 individual maps from 398 distinct signal regions, 96 different SMS topologies, from a total of 97 analyses.
 The list has been created from the database version `1.2.3rc1`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123rc1) and a [validation page](Validation123rc1).
 Link to list of results [including superseded results](ListOfAnalyses123rc1WithSuperseded).
-    ## Individual tables
+    
+## Individual tables
+
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 7  analyses, 22  results
+In total, we have results from 23 ATLAS and 31 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21 results, 261 individual maps
  * [CMS upper limits](#CMSupperlimits13): 30  analyses, 122 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results, 197 individual maps
+
 ### Run 1 - 8 TeV
- * [ATLAS upper limits](#ATLASupperlimits8): 15  analyses, 37  results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18 (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results
+In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits8): 15  analyses, 37 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18  (of which 9 FastLim) analyses, 191 (of which 163 FastLim) results, 1557 individual maps (of which 1299 FastLim)
  * [CMS upper limits](#CMSupperlimits8): 16  analyses, 56 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results
+ * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results, 968 individual maps
 
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (30 analyses)
@@ -98,7 +103,7 @@ Link to list of results [including superseded results](ListOfAnalyses123rc1WithS
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary123rc1#TChiWH) | |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (7 analyses)
+## ATLAS, efficiency maps, 13 TeV (6 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
@@ -106,7 +111,6 @@ Link to list of results [including superseded results](ListOfAnalyses123rc1WithS
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary123rc1#T2tt) |&#10004; |
 | [ATLAS-SUSY-2015-06](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-06/)<a name="ATLAS-SUSY-2015-06"></a> | 0 leptons + 2-6 jets + Etmiss | 3.2 | [T1](SmsDictionary123rc1#T1), [T2](SmsDictionary123rc1#T2) |&#10004; |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T1](SmsDictionary123rc1#T1) [(1)](#A1), [T2](SmsDictionary123rc1#T2) [(1)](#A1), [T3GQ](SmsDictionary123rc1#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary123rc1#T5GQ) [(1)](#A1), [T5WW](SmsDictionary123rc1#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary123rc1#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary123rc1#T5ZZ) [(1)](#A1), [T6WW](SmsDictionary123rc1#T6WW) [(1)](#A1), [T6WWoff](SmsDictionary123rc1#T6WWoff) [(1)](#A1), [TGQ](SmsDictionary123rc1#TGQ) [(1)](#A1) |&#10004; |
-| [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop + MET | 36.1 | [T2bb](SmsDictionary123rc1#T2bb) |&#10004; |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.0 | [T2bbffff](SmsDictionary123rc1#T2bbffff), [T2tt](SmsDictionary123rc1#T2tt), [T2ttoff](SmsDictionary123rc1#T2ttoff) |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiWZ](SmsDictionary123rc1#TChiWZ), [TSelSel](SmsDictionary123rc1#TSelSel), [TSmuSmu](SmsDictionary123rc1#TSmuSmu) |&#10004; |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5gg](SmsDictionary123rc1#T5gg), [T6gg](SmsDictionary123rc1#T6gg) |&#10004; |
@@ -208,3 +212,5 @@ Link to list of results [including superseded results](ListOfAnalyses123rc1WithS
 <a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
+
+This page was created Tue Apr 14 14:29:48 2020.
