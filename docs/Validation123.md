@@ -20,7 +20,7 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 
 ### Run 1 - 8 TeV
  * [ATLAS upper limits](#ATLASupperlimits8): 28 analyses, 58 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 15 analyses, 28 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 9 analyses, 18 results
  * [CMS upper limits](#CMSupperlimits8): 19 analyses, 68 results
  * [CMS efficiency maps](#CMSefficiencymaps8): 8 analyses, 20 results
 
@@ -478,4 +478,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)| [T1tttt](SmsDictionary123#T1tttt)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 | | [T1ttttoff](SmsDictionary123#T1ttttoff)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  | |
 
-This page was created Sat Apr 18 12:04:56 2020
+This page was created Sat Apr 18 12:23:55 2020
