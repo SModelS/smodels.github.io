@@ -1,15 +1,8 @@
 
-# Validation plots for SModelS-v1.2.3 
+# Changes in SModelS-v1.2.3
 
-This page lists validation plots for all analyses and topologies available in
-the SMS results database that can be validated against official results.
-Superseded results are listed; fastlim results are not. The list has been created from the
-database version 1.2.3, including the Fastlim tarball that is shipped separately.
-There is also a [list of all analyses](ListOfAnalyses123), and
-a list of [all SMS topologies](SmsDictionary123).
-
-The validation procedure for upper limit maps used here is explained in [arXiv:1312.4175](http://arxiv.org/abs/1312.4175),  [EPJC May 2014, 74:2868](http://link.springer.com/article/10.1140/epjc/s10052-014-2868-5), section 4. For validating efficiency maps, a very similar procedure is followed. For every input point, the best signal region is chosen. If a covariance matrix has been published, we present the combined limit of all signal regions. The experimental upper limits are compared with the theoretical predictions for that signal region.
-
+This page lists only results that are either new or have changed. For a complete 
+list of results see the main [validation page](Validation1.2.3)
 ## Individual tables
 
 ### Run 2 - 13 TeV
@@ -286,4 +279,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T2tt](SmsDictionary123#T2tt)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 | | [T2ttoff](SmsDictionary123#T2ttoff)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 
-This page was created Sat Apr 18 13:33:04 2020
+This page was created Sat Apr 18 13:40:41 2020
