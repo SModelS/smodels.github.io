@@ -286,4 +286,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | | [T2tt](SmsDictionary123#T2tt)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 | | [T2ttoff](SmsDictionary123#T2ttoff)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 
-This page was created Sat Apr 18 13:29:13 2020
+This page was created Sat Apr 18 13:33:04 2020
