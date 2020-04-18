@@ -3,7 +3,7 @@
 
 This page lists validation plots for all analyses and topologies available in
 the SMS results database that can be validated against official results.
-Superseded results are listed; fastlim results are not.. The list has been created from the
+Superseded results are listed; fastlim results are not. The list has been created from the
 database version 1.2.3, including the Fastlim tarball that is shipped separately.
 There is also a [list of all analyses](ListOfAnalyses123), and
 a list of [all SMS topologies](SmsDictionary123).
@@ -478,4 +478,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)| [T1tttt](SmsDictionary123#T1tttt)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: CMS |
 | | [T1ttttoff](SmsDictionary123#T1ttttoff)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: CMS |
 
-This page was created Sat Apr 18 12:47:52 2020
+This page was created Sat Apr 18 12:52:22 2020
