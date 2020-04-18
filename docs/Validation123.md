@@ -13,16 +13,16 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 22 analyses, 50 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6 analyses, 18 results
- * [CMS upper limits](#CMSupperlimits13): 37 analyses, 154 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses, 11 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 22 analyses (13 new), 50 results (35 new)
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6 analyses (4 new), 18 results (15 new)
+ * [CMS upper limits](#CMSupperlimits13): 37 analyses (13 new), 154 results (60 new)
+ * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses (1 new), 11 results (8 new)
 
 ### Run 1 - 8 TeV
- * [ATLAS upper limits](#ATLASupperlimits8): 28 analyses, 58 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 9 analyses, 18 results
- * [CMS upper limits](#CMSupperlimits8): 19 analyses, 68 results
- * [CMS efficiency maps](#CMSefficiencymaps8): 8 analyses, 20 results
+ * [ATLAS upper limits](#ATLASupperlimits8): 28 analyses (no new), 58 results (no new)
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 9 analyses (no new), 18 results (no new)
+ * [CMS upper limits](#CMSupperlimits8): 19 analyses (no new), 68 results (no new)
+ * [CMS efficiency maps](#CMSefficiencymaps8): 8 analyses (no new), 20 results (no new)
 
 
 <a name="ATLASupperlimits13"></a>
@@ -478,4 +478,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)| [T1tttt](SmsDictionary123#T1tttt)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: CMS<br> |
 | | [T1ttttoff](SmsDictionary123#T1ttttoff)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: CMS<br> |
 
-This page was created Sat Apr 18 14:11:10 2020
+This page was created Sat Apr 18 14:40:50 2020
