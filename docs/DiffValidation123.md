@@ -2,7 +2,7 @@
 # Changes in SModelS-v1.2.3
 
 This page lists only results that are either new or have changed. For a complete 
-list of results see the main [validation page](Validation1.2.3)
+list of results see the main [validation page](Validation123)
 ## Individual tables
 
 ### Run 2 - 13 TeV
@@ -279,4 +279,4 @@ list of results see the main [validation page](Validation1.2.3)
 | | [T2tt](SmsDictionary123#T2tt)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 | | [T2ttoff](SmsDictionary123#T2ttoff)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 
-This page was created Sat Apr 18 13:40:41 2020
+This page was created Sat Apr 18 13:46:39 2020
