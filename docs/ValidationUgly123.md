@@ -16,16 +16,16 @@ To [official validation plots](Validation123)
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 23 analyses, 52 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13 analyses, 36 results
- * [CMS upper limits](#CMSupperlimits13): 38 analyses, 160 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses, 21 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 23 analyses (14 new), 52 results (37 new)
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13 analyses (11 new), 36 results (33 new)
+ * [CMS upper limits](#CMSupperlimits13): 38 analyses (15 new), 160 results (66 new)
+ * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses (1 new), 21 results (11 new)
 
 ### Run 1 - 8 TeV
- * [ATLAS upper limits](#ATLASupperlimits8): 32 analyses, 84 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 10 analyses, 31 results
- * [CMS upper limits](#CMSupperlimits8): 20 analyses, 72 results
- * [CMS efficiency maps](#CMSefficiencymaps8): 10 analyses, 47 results
+ * [ATLAS upper limits](#ATLASupperlimits8): 32 analyses (12 new), 84 results (26 new)
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 10 analyses (2 new), 31 results (3 new)
+ * [CMS upper limits](#CMSupperlimits8): 20 analyses (3 new), 72 results (4 new)
+ * [CMS efficiency maps](#CMSefficiencymaps8): 10 analyses (2 new), 47 results (3 new)
 
 
 <a name="ATLASupperlimits13"></a>
@@ -508,4 +508,4 @@ To [official validation plots](Validation123)
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)| [T2bbWW](SmsDictionary123#T2bbWW)| 19.7| False |<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-14-021-eff/validation/T2bbWW_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3! <br>source: CMS<br> |
 | | [T2bbWWoff](SmsDictionary123#T2bbWWoff)| 19.7| False |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3! <br>source: CMS<br> |
 
-This page was created Sat Apr 18 12:58:42 2020
+This page was created Sat Apr 18 14:43:51 2020
