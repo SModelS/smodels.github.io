@@ -6,16 +6,12 @@ list of results see the main [validation page](Validation123)
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [ATLAS upper limits](#ATLASupperlimits13): 22 analyses, 50 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6 analyses, 18 results
- * [CMS upper limits](#CMSupperlimits13): 37 analyses, 154 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 3 analyses, 11 results
+ * [ATLAS upper limits](#ATLASupperlimits13): 13 analyses, 35 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4 analyses, 15 results
+ * [CMS upper limits](#CMSupperlimits13): 13 analyses, 60 results
+ * [CMS efficiency maps](#CMSefficiencymaps13): 1 analyses, 8 results
 
 ### Run 1 - 8 TeV
- * [ATLAS upper limits](#ATLASupperlimits8): 28 analyses, 58 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 9 analyses, 18 results
- * [CMS upper limits](#CMSupperlimits8): 19 analyses, 68 results
- * [CMS efficiency maps](#CMSefficiencymaps8): 8 analyses, 20 results
 
 
 <a name="ATLASupperlimits13"></a>
@@ -279,4 +275,4 @@ list of results see the main [validation page](Validation123)
 | | [T2tt](SmsDictionary123#T2tt)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2tt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 | | [T2ttoff](SmsDictionary123#T2ttoff)| 35.9|<a href="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2ttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br>source: SModelS<br> |
 
-This page was created Sat Apr 18 13:46:39 2020
+This page was created Sat Apr 18 13:55:12 2020
