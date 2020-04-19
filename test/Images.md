@@ -4,7 +4,9 @@
 This page intends to collect information about how we map the SModelS description of
 events onto the Tx nomenclature. The list has been created from the database version 1.2.2, considering also superseded results.
 
-Fri 07 Feb 2020 11:47:37 AM CET 
+Let me also try out <font color='red'>font colors</font>
+
+Fri 07 Feb 2020 11:47:37 AM CET
 
 There is also a [ListOfAnalyses](https://smodels.github.io/docs/ListOfAnalyses), a [ListOfAnalysesWithSuperseded](https://smodels.github.io/docs/ListOfAnalysesWithSuperseded), and [Validation](Validation).
 
