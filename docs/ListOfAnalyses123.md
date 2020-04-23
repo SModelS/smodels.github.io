@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3 
 List of analyses and topologies in the SMS results database,
-comprising 3248 individual maps from 398 distinct signal regions, 96 different SMS topologies, from a total of 97 analyses.
+comprising 3246 individual maps from 397 distinct signal regions, 96 different SMS topologies, from a total of 96 analyses.
 The list has been created from the database version `1.2.3`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123) and a [validation page](Validation123).
 Link to list of results [including superseded results](ListOfAnalyses123WithSuperseded).
@@ -10,10 +10,10 @@ Link to list of results [including superseded results](ListOfAnalyses123WithSupe
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 23 ATLAS and 31 CMS 13 TeV searches.
+In total, we have results from 23 ATLAS and 30 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21 results, 261 individual maps
- * [CMS upper limits](#CMSupperlimits13): 30  analyses, 122 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 29  analyses, 120 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results, 197 individual maps
 
 ### Run 1 - 8 TeV
@@ -24,13 +24,12 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
  * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 44 (of which 8 LLP) results, 968 individual maps
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (30 analyses)
+## CMS, upper limits, 13 TeV (29 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **PAS** | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary123#THSCPM1b), [TRHadGM1](SmsDictionary123#TRHadGM1), [TRHadQM1](SmsDictionary123#TRHadQM1) | |
-| [CMS-PAS-SUS-16-022](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/)<a name="CMS-PAS-SUS-16-022"></a> | &ge; 3 leptons + Etmiss | 12.9 | [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff) |&#10004; |
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary123#T2bbWWoff), [T6bbWWoff](SmsDictionary123#T6bbWWoff) | |
 | [CMS-PAS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-17-004/index.html)<a name="CMS-PAS-SUS-17-004"></a> | Multilepton EWK searches | 35.9 | [TChiWH](SmsDictionary123#TChiWH), [TChiWZ](SmsDictionary123#TChiWZ), [TChiWZoff](SmsDictionary123#TChiWZoff) | |
 | **Publications** | | | | |
@@ -213,4 +212,4 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Wed Apr 15 18:10:54 2020.
+This page was created Thu Apr 23 21:41:24 2020.

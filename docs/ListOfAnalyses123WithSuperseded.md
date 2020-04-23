@@ -35,7 +35,7 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 | [CMS-PAS-SUS-16-015](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-015/)<a name="CMS-PAS-SUS-16-015"></a> | jets + Etmiss, M<sub>T2</sub> | 12.9 | [T1](SmsDictionary123#T1), [T1bbbb](SmsDictionary123#T1bbbb), [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff), [T2](SmsDictionary123#T2), [T2bb](SmsDictionary123#T2bb), [T2tt](SmsDictionary123#T2tt), [T2ttoff](SmsDictionary123#T2ttoff) |[CMS-SUS-16-036](#CMS-SUS-16-036) |&#10004; |
 | [CMS-PAS-SUS-16-016](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-016/index.html)<a name="CMS-PAS-SUS-16-016"></a> | &ge; 1 jet + Etmiss, &alpha;<sub>T</sub> | 12.9 | [T1bbbb](SmsDictionary123#T1bbbb), [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff), [T2bb](SmsDictionary123#T2bb), [T2tt](SmsDictionary123#T2tt), [T2ttoff](SmsDictionary123#T2ttoff) |[CMS-SUS-16-033](#CMS-SUS-16-033) |&#10004; |
 | [CMS-PAS-SUS-16-019](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-019/index.html)<a name="CMS-PAS-SUS-16-019"></a> | jets + 1 lepton | 12.9 | [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff) |[CMS-SUS-16-037](#CMS-SUS-16-037) |&#10004; |
-| [CMS-PAS-SUS-16-022](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/)<a name="CMS-PAS-SUS-16-022"></a> | &ge; 3 leptons + Etmiss | 12.9 | [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff) | |&#10004; |
+| [CMS-PAS-SUS-16-022](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/)<a name="CMS-PAS-SUS-16-022"></a> | &ge; 3 leptons + Etmiss | 12.9 | [T1tttt](SmsDictionary123#T1tttt), [T1ttttoff](SmsDictionary123#T1ttttoff) |[CMS-SUS-16-041](#CMS-SUS-16-041) |&#10004; |
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary123#T2bbWWoff), [T6bbWWoff](SmsDictionary123#T6bbWWoff) | | |
 | [CMS-PAS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-17-004/index.html)<a name="CMS-PAS-SUS-17-004"></a> | Multilepton EWK searches | 35.9 | [TChiWH](SmsDictionary123#TChiWH), [TChiWZ](SmsDictionary123#TChiWZ), [TChiWZoff](SmsDictionary123#TChiWZoff) | | |
 | **Publications** | | | | | |
@@ -236,4 +236,4 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Wed Apr 15 18:10:48 2020.
+This page was created Thu Apr 23 21:41:14 2020.
