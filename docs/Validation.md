@@ -411,4 +411,4 @@ The validation procedure for upper limit maps used here is explained in [arXiv:1
 | [CMS-SUS-13-013](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13013)| [T1tttt](SmsDictionary#T1tttt)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1tttt_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br><font color='grey'>source: CMS</font><br> |
 | | [T1ttttoff](SmsDictionary#T1ttttoff)| 19.5|<a href="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/123/8TeV/CMS/CMS-SUS-13-013-eff/validation/T1ttttoff_2EqMassAx_EqMassBy_pretty.png" /></a>  |<br><font color='grey'>source: CMS</font><br> |
 
-This page was created Sun Apr 26 21:09:08 2020
+This page was created Mon Apr 27 11:37:24 2020
