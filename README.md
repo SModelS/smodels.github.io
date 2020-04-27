@@ -7,6 +7,7 @@ Federico Ambrogi, Juhi Dutta, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Such
                                                                            
 ## 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
+* A preprint describing the database update and SModelS' increase in constraining power will be available in the near future.
 * SModelS is registered in the python package index, try *pip install smodels*.
 
 ## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/v1.2.2/ReleaseUpdate.html)
