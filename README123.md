@@ -13,7 +13,7 @@ Please use instead full database path names, e.g.
 *http://smodels.github.io/database/official122* for the official 1.2.2
 database. We apologize for the inconvenience.
 
-## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/v1.2.2/ReleaseUpdate.html)
 
 ------------------------------------------------------------------------
 
