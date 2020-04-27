@@ -1,17 +1,13 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Federico Ambrogi, Juhi Dutta, Jan Heisig, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Humberto Reyes-Gonzalez, Jory Sonneveld, Michael Traub, Wolfgang Waltenberger, Matthias Wolf, Alicia Wongel
+Federico Ambrogi, Juhi Dutta, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Humberto Reyes-Gonzalez, Jory Sonneveld, Michael Traub, Wolfgang Waltenberger, Matthias Wolf, Alicia Wongel
 
 ------------------------------------------------------------------------   
                                                                            
-## 24 Oct 2019: Our old smodels.hephy.at server is down! 
-Using e.g. **official** as your database path will currently not work (sorry!).
-Please use instead full database path names, e.g.
-*http://smodels.github.io/database/official122* for the official 1.2.2
-database. We apologize for the inconvenience.
+## 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
-## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+## 28 Nov 2018: [SModelS version 1.2.2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/v1.2.2/ReleaseUpdate.html)
 
 ------------------------------------------------------------------------
 
