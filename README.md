@@ -19,7 +19,8 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
-------------------------------------------------------------------------   
+### Mailing lists:
+   
 * For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at> 
 * To receive updates and announcements, subscribe to [smodels-info](https://lists.oeaw.ac.at/mailman/listinfo/smodels-info).
 ------------------------------------------------------------------------
