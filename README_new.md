@@ -1,13 +1,13 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Current collaboration: Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
+Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
 
  <font color='grey'>(previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf)</font>
 
 ------------------------------------------------------------------------   
                                                                            
-## 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 * A preprint describing the database update and SModelS' increase in constraining power will be available shortly.
 
@@ -15,15 +15,16 @@ Current collaboration: Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kram
 * For instructions on how to install SModelS, check the [installation section in the manual](http://smodels.readthedocs.io/en/latest/Installation.html).
 * You may also want to check the [release notes](https://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
+* Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 
-* For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at> 
-* To receive updates and announcements, subscribe to [smodels-info](https://lists.oeaw.ac.at/mailman/listinfo/smodels-info).
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
-* More information see below
+------------------------------------------------------------------------   
+* For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at> 
+* To receive updates and announcements, subscribe to [smodels-info](https://lists.oeaw.ac.at/mailman/listinfo/smodels-info).
 ------------------------------------------------------------------------
 
-# If you use SModelS, please cite the following papers:
+## If you use SModelS, please cite the following papers:
 
 * *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://www.sciencedirect.com/science/article/pii/S0010465519302255?via%3Dihub)
 * *Constraining new physics with searches for long-lived
@@ -42,7 +43,7 @@ Likewise, a .bib file is provided in the database folder with references to all 
 
 ------------------------------------------------------------------------
 
-# Introduction                                            
+## Introduction                                            
                                                           
 SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z<sub>2</sub> symmetry into Simplified Model Spectrum (SMS) topologies. Our method provides a way to cast BSM predictions for the LHC in a model independent framework,  which can be directly confronted with the relevant experimental constraints.  The main SModelS ingredients are
 
@@ -54,23 +55,23 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 
 -------------------------------------------------------------------------
 
-# Code and Database updates
+## Code and Database updates
 * For code and database releases, see [Download](docs/CodeReleases)
 
-# Experimental results in the database
+## Experimental results in the database
 * Here is the [list of analyses contained in the latest database version](docs/ListOfAnalyses)
 * Same as above but [including superseded analyses](docs/ListOfAnalysesWithSuperseded)
 * Pretty [validation plots](docs/Validation) for all analyses
 * We also provide an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS
 
-# Publications and Talks
+## Publications and Talks
 See the [publications and talks](docs/SModelSTalks) page
 
 
 
-<img src="logos/CCNH-logo.jpg" height="150pt" align="top"> &nbsp;
-<img src="logos/hephy-logo.png" height="150pt" align="top"> &nbsp;
-<img src="logos/LPSC_Grenoble_Modane.jpg" height="150pt" align="top"> <br>
+<img src="logos/CCNH-logo.jpg" height="140pt" align="bottom"> &nbsp;
+<img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp;
+<img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
 <img src="logos/unihh.jpg" width="300pt" align="middle"> &nbsp;
 <img src="logos/monash_university_logo.png" width="230pt" align="middle"> &nbsp;
 <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
