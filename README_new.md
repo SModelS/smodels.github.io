@@ -69,8 +69,8 @@ See the [publications and talks](docs/SModelSTalks) page
 
 
 <img src="logos/CCNH-logo.jpg" width="250pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/LPSC_Grenoble_Modane.jpg" width="250pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/logo_UCLouvain.jpeg" width="280pt" align="top">
+<img src="logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
+<img src="logos/LPSC_Grenoble_Modane.jpg" width="250pt" align="top"> &nbsp;
+<img src="logos/unihh.jpg" width="300pt" align="top"> &nbsp;
+<img src="logos/monash_university_logo.png" width="230pt" align="top"> &nbsp;
+<img src="logos/logo_UCLouvain.jpeg" width="280pt" align="top">
