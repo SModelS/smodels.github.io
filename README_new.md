@@ -18,6 +18,8 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 * For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at> 
 * To receive updates and announcements, subscribe to [smodels-info](https://lists.oeaw.ac.at/mailman/listinfo/smodels-info).
+* A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
+
 * More information see below
 ------------------------------------------------------------------------
 
@@ -64,12 +66,11 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
 # Publications and Talks
 See the [publications and talks](docs/SModelSTalks) page
 
-# Recommendations about the presentation of results
-See the [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
-<img src="http://micheldesvignes38.free.fr/ITSarchitep/logos/logoLPSC.jpg" width="250pt" align="top"> &nbsp;
-<img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
+
 <img src="logos/CCNH-logo.jpg" width="250pt" align="top"> &nbsp;
+<img src="https://smodels.github.io/logos/hephy-logo.png" width="300pt" align="top"> &nbsp;
+<img src="https://smodels.github.io/logos/LPSC_Grenoble_Modane.jpg" width="250pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/unihh.jpg" width="300pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/monash_university_logo.png" width="230pt" align="top"> &nbsp;
 <img src="https://smodels.github.io/logos/logo_UCLouvain.jpeg" width="280pt" align="top">
