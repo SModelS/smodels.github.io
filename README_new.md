@@ -5,9 +5,9 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 
  <font color='grey'>(previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf)</font>
 
-------------------------------------------------------------------------   
-                                                                           
+------------------------------------------------------------------------ 
 ### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+------------------------------------------------------------------------   
 
 * A preprint describing the database update and SModelS' increase in constraining power will be available shortly.
 
@@ -43,7 +43,7 @@ Likewise, a .bib file is provided in the database folder with references to all 
 
 ------------------------------------------------------------------------
 
-## Introduction                                            
+## Working principle                                            
                                                           
 SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z<sub>2</sub> symmetry into Simplified Model Spectrum (SMS) topologies. Our method provides a way to cast BSM predictions for the LHC in a model independent framework,  which can be directly confronted with the relevant experimental constraints.  The main SModelS ingredients are
 
@@ -53,7 +53,6 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  
  <p align="center"><img src="https://smodels.github.io/pics/smodelsScheme.png" width="680"></p>
 
--------------------------------------------------------------------------
 
 ## Code and Database updates
 * For code and database releases, see [Download](docs/CodeReleases)
