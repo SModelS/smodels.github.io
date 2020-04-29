@@ -3,7 +3,7 @@
 # A tool for interpreting simplified-model results from the LHC 
 Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
 
- <font color='grey'>(previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf)</font>
+ <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf</font>
 
 ------------------------------------------------------------------------ 
 ### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
@@ -21,8 +21,9 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 ### Mailing lists:
    
-* For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at> 
+* For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at>. 
 * To receive updates and announcements, subscribe to [smodels-info](https://lists.oeaw.ac.at/mailman/listinfo/smodels-info).
+
 ------------------------------------------------------------------------
 
 ## If you use SModelS, please cite the following papers:
