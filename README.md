@@ -51,7 +51,7 @@ SModelS is based on a general procedure to decompose Beyond the Standard Model (
  * a database of experimental SMS results
  * the interface between decomposition and results database to compute limits
  
- <p align="center"><img src="https://smodels.github.io/pics/smodelsScheme.png" width="640" height="800"></p>
+ <p align="center"><img src="https://smodels.github.io/pics/smodelsScheme.png" width="640" height="500"></p>
 
 
 ## Code and Database updates
