@@ -3,7 +3,7 @@
 # A tool for interpreting simplified-model results from the LHC 
 Current collaboration: Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
 
-<font size=-1 color="#999999">(people previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf)</font>
+ <font color='grey'>(previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf)</font>
 
 ------------------------------------------------------------------------   
                                                                            
