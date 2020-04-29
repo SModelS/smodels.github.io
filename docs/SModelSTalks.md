@@ -16,8 +16,7 @@
 * **Simplified Models for Exotic BSM Searches** <BR>  Jan Heisig, Andre Lessa, Loic Quertenmont, [arXiv:1509.00473](http://arxiv.org/abs/arXiv:1509.00473)
 * **LHC constraints on light neutralino dark matter in the MSSM** <BR>  by Genevieve Belanger, Guillaume Drieu La Rochelle, Beranger Dumont, Rohini M. Godbole, Sabine Kraml, Suchita Kulkarni, [arXiv:1308.3735](http://arxiv.org/abs/arXiv:1308.3735)
 
-<BR><BR>**See this [inspire](http://inspirehep.net/search?ln=en&p=refersto%3Arecid%3A1269436&sf=earliestdate) link for a complete list of publications referring to SModelS**
-
+<BR>
 
 ## Talks on or related to SModelS (incomplete...)
 
@@ -28,17 +27,17 @@
 
 ### 2018
 
-* **SModelS - development beyond Missing Energy**, Suchita Kulkarni, talk given at the [DISCRETE 2018](https://www.discrete2018.at/) symposium in Vienna, Austria, 26-30 Nov 2018, [slides](https://indico.cern.ch/event/732911/contributions/3169764/attachments/1761043/2858414/Kulkarni_DISCRETE_2018.pdf).
+* **SModelS - development beyond Missing Energy**, Suchita Kulkarni, talk given at the [DISCRETE 2018](https://www.discrete2018.at/) symposium in Vienna, Austria, 26-30 Nov 2018, [slides](https://indico.cern.ch/event/732911/contributions/3169764/attachments/1761043/2858414/Kulkarni_DISCRETE_2018.pdf)
 
 ### 2017 
 
 * **On the coverage of the pMSSM by simplified-model results**, Sabine Kraml, 
-[ReInterpretation Forum meeting](https://indico.cern.ch/event/639314/) at Fermilab, 16-18 Oct 2017
+[ReInterpretation Forum meeting](https://indico.cern.ch/event/639314/), 16-18 Oct 2017, Fermilab, Chicago, USA
 * **Use and limitations of (SUSY) simplified model results from the LHC**, Sabine Kraml, 
-Seminar at Univ. of Liverpool, 11 Oct 2017 
-* **Hands-On SModelS**, Wolfgang Waltenberger, talk given at the [TOOLS 2017](https://indico.cern.ch/event/629037/) workshop in Corfu, Greece, 10-13 Sept 2017.
-* **Simplified models of heavy Higgs bosons decaying to supersymmetric particles**, Lukas Lechner, talk given at [SPS/OePG joint annual meeting](http://www.sps.ch/events/gemeinsame-jahrestagung-2017/), 21 - 25 Aug 2017, Geneva.
-* **On the Coverage of the pMSSM by Simplified Model Results**, Uschi Laa, [EPSHEP](https://indico.cern.ch/event/466934/contributions/2588477/), July 2017
+Seminar, 11 Oct 2017, Univ. of Liverpool, UK
+* **Hands-On SModelS**, Wolfgang Waltenberger, talk given at the [TOOLS 2017](https://indico.cern.ch/event/629037/) workshop in Corfu, Greece, 10-13 Sept 2017
+* **Simplified models of heavy Higgs bosons decaying to supersymmetric particles**, Lukas Lechner, talk given at [SPS/OePG joint annual meeting](http://www.sps.ch/events/gemeinsame-jahrestagung-2017/), 21 - 25 Aug 2017, Geneva, CH
+* **On the Coverage of the pMSSM by Simplified Model Results**, Ursula Laa, [EPSHEP 2017](https://indico.cern.ch/event/466934/contributions/2588477/), July 2017, Venice, Italy
 * **On the coverage of the pMSSM by simplified-model results**, Sabine Kraml, 
 [IRN Terascale meeting](https://indico.in2p3.fr/event/14481/), 3-5 July 2017, Montpellier, France 
 * **Re-interpreting BSM searches**, Sabine Kraml, 
