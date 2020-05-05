@@ -8,7 +8,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 ------------------------------------------------------------------------ 
 ### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
-*The v1.2.3 database update and SModelS' increase in constraining power are described in [arXiv:2005.00555](https://arxiv.org/abs/2005.00555)*
+### The v1.2.3 database update and SModelS' increase in constraining power are described in [arXiv:2005.00555](https://arxiv.org/abs/2005.00555)*
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](http://smodels.readthedocs.io/)
@@ -16,7 +16,6 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 * You may also want to check the [release notes](https://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
-
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
 ### Mailing lists:
