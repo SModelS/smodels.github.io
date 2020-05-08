@@ -59,7 +59,7 @@ BLOCK MASS  # Mass Spectrum
    2000001     1E+06            # ~d_R
    1000002     1000000.0         # ~u_L
    2000002     1E+06            # ~u_R
-   1000003     1093.0         # ~s_L
+   1000003     1000000.0         # ~s_L
    2000003     1E+06            # ~s_R
    1000004     1000000.0         # ~c_L
    2000004     1E+06            # ~c_R
@@ -446,62 +446,47 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
      0.00000  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.87969509E-04 SModelSv2.0.0rc10
+  0  0  0  0  0  0    9.90712055E-04 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.17573590E-04 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.27909260E-05 SModelSv2.0.0rc10
+  0  0  0  0  0  0    4.17579154E-04 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.86027332E-05 SModelSv2.0.0rc10
+  0  0  0  0  0  0    4.77817934E-05 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    5.39918186E-06 SModelSv2.0.0rc10
+  0  0  0  0  0  0    6.36958233E-06 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.80782000E-07 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000001 1000001 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    3.71511703E-07 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.92950445E-03 SModelSv2.0.0rc10
+  0  2  0  0  0  0    1.93486064E-03 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    8.64502604E-04 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    2.16165741E-04 SModelSv2.0.0rc10
+  0  2  0  0  0  0    8.64514123E-04 SModelSv2.0.0rc10
 
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.43314058E-03 SModelSv2.0.0rc10
+  0  0  0  0  0  0    9.46350758E-03 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    5.63946298E-03 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.79494171E-03 SModelSv2.0.0rc10
+  0  0  0  0  0  0    5.54694245E-03 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.28718211E-04 SModelSv2.0.0rc10
+  0  0  0  0  0  0    3.01129768E-04 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    2.73874938E-05 SModelSv2.0.0rc10
+  0  0  0  0  0  0    2.10917143E-05 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.87755900E-06 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.87755900E-06 SModelSv2.0.0rc10
+  0  0  0  0  0  0    4.69539500E-06 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.62259451E-02 SModelSv2.0.0rc10
+  0  2  0  0  0  0    1.62781794E-02 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.01465218E-02 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    3.37359295E-03 SModelSv2.0.0rc10
+  0  2  0  0  0  0    9.98005885E-03 SModelSv2.0.0rc10
 
 # Signal strength multipliers: (1000001, 1000001):0.786, (-1000001, 1000001):0.786, (1000001, 1000006):1.123, (-1000006, 1000001):1.123, (1000001, 1000022):1.087, (-1000001, -1000001):1.123, (-1000001, 1000006):1.123, (-1000006, -1000001):1.123, (-1000001, 1000022):1.123, (-1000006, 1000006):0.239
-# produced at step 249
+# produced at step 251
