@@ -55,13 +55,13 @@ BLOCK MASS  # Mass Spectrum
         36     2.00000001E+05   # A
         37     2.00174344E+05   # H+
          5     4.85697885E+00   # b-quark pole mass calculated from mb(mb)_Msbar
-   1000001     1000000.0         # ~d_L
+   1000001     900.8         # ~d_L
    2000001     1E+06            # ~d_R
    1000002     1000000.0         # ~u_L
    2000002     1E+06            # ~u_R
-   1000003     1097.8         # ~s_L
+   1000003     1000000.0         # ~s_L
    2000003     1E+06            # ~s_R
-   1000004     1000000.0         # ~c_L
+   1000004     1360.7         # ~c_L
    2000004     1E+06            # ~c_R
    1000005     1000000.0         # ~b_1
    2000005     1000000.0         # ~b_2
@@ -69,7 +69,7 @@ BLOCK MASS  # Mass Spectrum
    2000006     1000000.0         # ~t_2
    1000011     1000000.0         # ~e_L
    2000011     1E+06            # ~e_R
-   1000012     1000000.0         # ~nu_eL
+   1000012     1355.3         # ~nu_eL
    1000013     1000000.0         # ~mu_L
    2000013     1E+06            # ~mu_R
    1000014     1000000.0         # ~nu_muL
@@ -446,35 +446,68 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
      0.00000  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.03137069E-03 SModelSv2.0.0rc10
+  0  0  0  0  0  0    1.02707953E-03 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    8.40454244E-05 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    4.17993889E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    8.80056800E-07 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    4.62239749E-05 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000004 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    8.79814260E-06 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    7.68468878E-06 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 1000001 1000001 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    3.84185560E-07 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    2.01426695E-03 SModelSv2.0.0rc10
+  0  2  0  0  0  0    2.00588631E-03 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.96666293E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
+  0  2  0  0  0  0    8.65372749E-04 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000004 # 10000 events, [pb], pythia8 for LO
+  0  2  0  0  0  0    2.49005032E-05 SModelSv2.0.0rc10
 
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.71100799E-03 SModelSv2.0.0rc10
+  0  0  0  0  0  0    9.74161999E-03 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.70693511E-03 SModelSv2.0.0rc10
+XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    5.56872240E-03 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.69422840E-05 SModelSv2.0.0rc10
+XSECTION  1.30E+04  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    3.16057750E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000004 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    2.85915475E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    2.17683443E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000001 1000004 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    9.69205000E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000012 1000012 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    4.84602500E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000001 1000001 # 10000 evts, pythia8 [pb]
+  0  0  0  0  0  0    3.80897565E-06 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.66038815E-02 SModelSv2.0.0rc10
+  0  2  0  0  0  0    1.66562219E-02 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    3.22610736E-03 SModelSv2.0.0rc10
+XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
+  0  2  0  0  0  0    1.00192453E-02 SModelSv2.0.0rc10
 
-# Signal strength multipliers: (-1000006, 1000006):0.239
-# produced at step 254
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000004 # 10000 events, [pb], pythia8 for LO
+  0  2  0  0  0  0    5.75833767E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000001 1000004 # 10000 events, [pb], pythia8 for LO
+  0  2  0  0  0  0    1.84197410E-05 SModelSv2.0.0rc10
+
+# Signal strength multipliers: (1000001, 1000001):0.786, (-1000001, 1000001):0.786, (1000001, 1000006):1.123, (-1000006, 1000001):1.123, (1000001, 1000022):1.087, (-1000001, -1000001):1.123, (-1000001, 1000006):1.123, (-1000006, -1000001):1.123, (-1000001, 1000022):1.123, (-1000006, 1000006):0.239
+# produced at step 253
