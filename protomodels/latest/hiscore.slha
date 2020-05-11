@@ -55,17 +55,17 @@ BLOCK MASS  # Mass Spectrum
         36     2.00000001E+05   # A
         37     2.00174344E+05   # H+
          5     4.85697885E+00   # b-quark pole mass calculated from mb(mb)_Msbar
-   1000001     905.0         # ~d_L
+   1000001     1000000.0         # ~d_L
    2000001     1E+06            # ~d_R
    1000002     1000000.0         # ~u_L
    2000002     1E+06            # ~u_R
-   1000003     1099.1         # ~s_L
+   1000003     1097.8         # ~s_L
    2000003     1E+06            # ~s_R
-   1000004     1000000.0         # ~c_L
+   1000004     960.6         # ~c_L
    2000004     1E+06            # ~c_R
    1000005     1000000.0         # ~b_1
    2000005     1000000.0         # ~b_2
-   1000006     697.1         # ~t_1
+   1000006     696.6         # ~t_1
    2000006     1000000.0         # ~t_2
    1000011     1000000.0         # ~e_L
    2000011     1E+06            # ~e_R
@@ -315,10 +315,10 @@ DECAY   1000035     1.0              # neutralino4 decays
 #         PDG            Width
 DECAY   1000001     1.48506929E+01   # sdown_L decays
 #          BR         NDA      ID1       ID2
-     1.00000       2     1000022         1   # BR(~d_L -> ~chi_10 d)
+     0.00000       2     1000022         1   # BR(~d_L -> ~chi_10 d)
      0.00000       2     1000023         1   # BR(~d_L -> ~chi_20 d)
      0.00000       2     1000025         1   # BR(~d_L -> ~chi_30 d)
-     0.00000       2    -1000024         2   # BR(~d_L -> ~chi_1- u)
+     1.00000       2    -1000024         2   # BR(~d_L -> ~chi_1- u)
      0.00000       2    -1000037         2   # BR(~d_L -> ~chi_2- u)
 	   0.00000       2    -1000021         1   # BR(~d_L -> ~g d)
 
@@ -445,66 +445,167 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
      0.00000  2     1000022        25   # BR(~chi_30 -> ~chi_10   h )
      0.00000  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
-XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.01883712E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000024 1000024 # recycled
+  0  0  0  0  0  0    2.22903201E-02 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.98097341E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # recycled
+  0  0  0  0  0  0    1.02535859E-03 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    8.83404360E-05 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000004 # recycled
+  0  0  0  0  0  0    2.98468152E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.69460708E-05 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000024 1000004 # recycled
+  0  0  0  0  0  0    1.65262921E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    6.61375398E-06 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000003 1000024 # recycled
+  0  0  0  0  0  0    1.26296246E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.90780200E-07 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000024 1000006 # recycled
+  0  0  0  0  0  0    1.25467168E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.85753237E-07 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000006 1000024 # recycled
+  0  0  0  0  0  0    1.21321777E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.98978889E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # recycled
+  0  0  0  0  0  0    8.84350080E-05 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    8.28281327E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000024 # recycled
+  0  0  0  0  0  0    8.70532110E-05 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    2.06716620E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000024 -1000003 # recycled
+  0  0  0  0  0  0    1.54761264E-05 SModelSv2.0.0rc10
 
+XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # recycled
+  0  0  0  0  0  0    8.56714140E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.68725240E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000003 1000004 # recycled
+  0  0  0  0  0  0    6.63262560E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    5.46778519E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000003 1000004 # recycled
+  0  0  0  0  0  0    3.03995340E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.62169301E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000024 1000022 # recycled
+  0  0  0  0  0  0    2.76359400E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.22459811E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000003 1000022 # recycled
+  0  0  0  0  0  0    1.65815640E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    2.77616044E-05 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000003 1000006 # recycled
+  0  0  0  0  0  0    1.38179700E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.94418600E-06 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000003 1000022 # recycled
+  0  0  0  0  0  0    1.38179700E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.94418600E-06 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000003 # recycled
+  0  0  0  0  0  0    1.10543760E-06 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.65632642E-02 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000004 1000022 # recycled
+  0  0  0  0  0  0    5.52718800E-07 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    9.83763911E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000022 # recycled
+  0  0  0  0  0  0    2.76359400E-07 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    3.06499979E-03 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 -1000006 -1000003 # recycled
+  0  0  0  0  0  0    2.76359400E-07 SModelSv2.0.0rc10
 
-# Signal strength multipliers: (1000001, 1000001):0.786, (-1000001, 1000001):0.786, (1000001, 1000006):1.123, (-1000006, 1000001):1.123, (1000001, 1000022):1.087, (-1000001, -1000001):1.123, (-1000001, 1000006):1.123, (-1000006, -1000001):1.123, (-1000001, 1000022):1.123, (-1000006, 1000006):0.239
-# produced at step 254
+XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # recycled
+  0  2  0  0  0  0    2.00252534E-03 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000004 # recycled
+  0  2  0  0  0  0    6.39438169E-04 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # recycled
+  0  2  0  0  0  0    2.06937919E-04 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000003 1000004 # recycled
+  0  2  0  0  0  0    1.48995301E-05 SModelSv2.0.0rc10
+
+XSECTION  8.00E+03  2212 2212 2 -1000004 1000003 # recycled
+  0  2  0  0  0  0    2.48325502E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 1000024 # recycled
+  0  0  0  0  0  0    6.36396107E-02 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # recycled
+  0  0  0  0  0  0    9.63885933E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000004 # recycled
+  0  0  0  0  0  0    4.49835454E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # recycled
+  0  0  0  0  0  0    1.75972201E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 1000004 # recycled
+  0  0  0  0  0  0    1.39016880E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000006 1000024 # recycled
+  0  0  0  0  0  0    1.06347913E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 1000006 # recycled
+  0  0  0  0  0  0    1.04726050E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000024 # recycled
+  0  0  0  0  0  0    9.03609720E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000003 1000024 # recycled
+  0  0  0  0  0  0    8.19041118E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 -1000003 # recycled
+  0  0  0  0  0  0    1.93465158E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000004 # recycled
+  0  0  0  0  0  0    6.25575960E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000003 1000004 # recycled
+  0  0  0  0  0  0    3.47542200E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # recycled
+  0  0  0  0  0  0    3.01203240E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000003 1000006 # recycled
+  0  0  0  0  0  0    2.20110060E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000003 # recycled
+  0  0  0  0  0  0    1.96940580E-05 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000004 1000022 # recycled
+  0  0  0  0  0  0    8.10931800E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000024 1000022 # recycled
+  0  0  0  0  0  0    6.95084400E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000022 # recycled
+  0  0  0  0  0  0    5.79237000E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000003 1000022 # recycled
+  0  0  0  0  0  0    5.79237000E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000022 # recycled
+  0  0  0  0  0  0    3.47542200E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # recycled
+  0  0  0  0  0  0    1.15847400E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000006 # recycled
+  0  0  0  0  0  0    1.15847400E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 -1000003 # recycled
+  0  0  0  0  0  0    1.15847400E-06 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # recycled
+  0  2  0  0  0  0    1.64805217E-02 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000004 # recycled
+  0  2  0  0  0  0    8.18700527E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # recycled
+  0  2  0  0  0  0    3.32587459E-03 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000003 1000004 # recycled
+  0  2  0  0  0  0    1.15156023E-04 SModelSv2.0.0rc10
+
+XSECTION  1.30E+04  2212 2212 2 -1000004 1000003 # recycled
+  0  2  0  0  0  0    3.62528220E-05 SModelSv2.0.0rc10
+
+# Signal strength multipliers: (-1000006, 1000006):0.239
+# produced at step 257
