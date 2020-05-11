@@ -55,7 +55,7 @@ BLOCK MASS  # Mass Spectrum
         36     2.00000001E+05   # A
         37     2.00174344E+05   # H+
          5     4.85697885E+00   # b-quark pole mass calculated from mb(mb)_Msbar
-   1000001     900.8         # ~d_L
+   1000001     1000000.0         # ~d_L
    2000001     1E+06            # ~d_R
    1000002     1000000.0         # ~u_L
    2000002     1E+06            # ~u_R
@@ -446,65 +446,35 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
      0.00000  2     1000023        25   # BR(~chi_30 -> ~chi_20   h )
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.02516354E-03 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.16701484E-04 SModelSv2.0.0rc10
+  0  0  0  0  0  0    1.03137069E-03 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.38194866E-05 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.80231672E-05 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    6.13202179E-06 SModelSv2.0.0rc10
+  0  0  0  0  0  0    8.40454244E-05 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.96399400E-07 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.90169928E-07 SModelSv2.0.0rc10
+  0  0  0  0  0  0    8.80056800E-07 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    2.00214440E-03 SModelSv2.0.0rc10
-
-XSECTION  8.00E+03  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    8.62697081E-04 SModelSv2.0.0rc10
+  0  2  0  0  0  0    2.01426695E-03 SModelSv2.0.0rc10
 
 XSECTION  8.00E+03  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    2.19537599E-04 SModelSv2.0.0rc10
+  0  2  0  0  0  0    1.96666293E-04 SModelSv2.0.0rc10
 
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    9.72129976E-03 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    5.62479670E-03 SModelSv2.0.0rc10
+  0  0  0  0  0  0    9.71100799E-03 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    1.67443819E-03 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    3.19603406E-04 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    2.79820549E-05 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.98344700E-06 SModelSv2.0.0rc10
+  0  0  0  0  0  0    1.70693511E-03 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 1000003 1000022 # 10000 evts, pythia8 [pb]
-  0  0  0  0  0  0    4.98344700E-06 SModelSv2.0.0rc10
+  0  0  0  0  0  0    1.69422840E-05 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.66214783E-02 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000001 1000001 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    1.01201342E-02 SModelSv2.0.0rc10
+  0  2  0  0  0  0    1.66038815E-02 SModelSv2.0.0rc10
 
 XSECTION  1.30E+04  2212 2212 2 -1000003 1000003 # 10000 events, [pb], pythia8 for LO
-  0  2  0  0  0  0    3.16468818E-03 SModelSv2.0.0rc10
+  0  2  0  0  0  0    3.22610736E-03 SModelSv2.0.0rc10
 
-# Signal strength multipliers: (1000001, 1000001):0.786, (-1000001, 1000001):0.786, (1000001, 1000006):1.123, (-1000006, 1000001):1.123, (1000001, 1000022):1.087, (-1000001, -1000001):1.123, (-1000001, 1000006):1.123, (-1000006, -1000001):1.123, (-1000001, 1000022):1.123, (-1000006, 1000006):0.239
-# produced at step 252
+# Signal strength multipliers: (-1000006, 1000006):0.239
+# produced at step 254
