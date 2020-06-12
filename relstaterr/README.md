@@ -1,5 +1,5 @@
 # plots of rel stat errs
-as of Fri Jun 12 19:48:20 2020
+as of Fri Jun 12 19:54:05 2020
 
 | <img src="relstaterr_ATLAS-SUSY-2016-07_T1.png" /> |
 | <img src="relstaterr_ATLAS-SUSY-2016-07_T2.png" /> |
@@ -24,3 +24,4 @@ as of Fri Jun 12 19:48:20 2020
 | <img src="relstaterr_CMS-SUS-16-033_T2ttoff.png" /> |
 | <img src="relstaterr_CMS-SUS-16-033_T3GQ.png" /> |
 | <img src="relstaterr_CMS-SUS-16-033_T5GQ.png" /> |
+| <img src="relstaterr_CMS-SUS-16-033_TGQ.png" /> |
