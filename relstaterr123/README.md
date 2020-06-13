@@ -1,4 +1,4 @@
-# Plots of relative statistical errors
+# Plots of relative statistical errors, database v1.2.3
 as of Sat Jun 13 13:29:03 2020
 
 ## stats
