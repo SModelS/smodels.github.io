@@ -1,9 +1,6 @@
-# ratio plots
-as of Fri Nov 22 16:42:31 2019
+# ratio plots on the upper limits, andre / suchi 
+as of Tue Jun 16 21:24:51 2020
 see also [best signal regions](bestSRs)
 
-| topo | topo |
-| <img src="https://smodels.github.io/ratioplots/ratio_THSCPM1b.png" /> | <img src="https://smodels.github.io/ratioplots/ratio_THSCPM2b.png" /> |
-| <img src="https://smodels.github.io/ratioplots/ratio_THSCPM3.png" /> | <img src="https://smodels.github.io/ratioplots/ratio_THSCPM4.png" /> |
-| <img src="https://smodels.github.io/ratioplots/ratio_THSCPM5.png" /> | <img src="https://smodels.github.io/ratioplots/ratio_THSCPM6.png" /> |
-| <img src="https://smodels.github.io/ratioplots/ratio_THSCPM8.png" />  | |
+| ratio plots | ratio plots |
+ | |
