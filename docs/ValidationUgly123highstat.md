@@ -17,9 +17,9 @@ To [official validation plots](Validation123highstat)
 
 ### Run 2 - 13 TeV
  * [ATLAS upper limits](#ATLASupperlimits13): 1 analyses (no new), 9 results (no new)
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3 analyses (2 new), 17 results (14 new)
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3 analyses (2 new), 18 results (14 new)
  * [CMS upper limits](#CMSupperlimits13): 1 analyses (no new), 8 results (no new)
- * [CMS efficiency maps](#CMSefficiencymaps13): 2 analyses (1 new), 14 results (11 new)
+ * [CMS efficiency maps](#CMSefficiencymaps13): 2 analyses (1 new), 15 results (11 new)
 
 ### Run 1 - 8 TeV
 
@@ -41,7 +41,7 @@ To [official validation plots](Validation123highstat)
 
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS efficiency maps, 13 TeV: 3 analyses, 17 results total
+## ATLAS efficiency maps, 13 TeV: 3 analyses, 18 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -61,6 +61,7 @@ To [official validation plots](Validation123highstat)
 | | [T2](SmsDictionary123highstat#T2)| 36.1| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-orig/validation/T2_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-orig/validation/T2_2EqMassAx_EqMassBy.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3highstat! <br><font color='grey'>source: SModelS</font><br> |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)| [T1](SmsDictionary123highstat#T1)| 36.1| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T1_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T1_2EqMassAx_EqMassBy.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
 | | [T2](SmsDictionary123highstat#T2)| 36.1| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T2_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/T2_2EqMassAx_EqMassBy.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
+| | [T3GQ](SmsDictionary123highstat#T3GQ)| 36.1| tbd |  |<br><font color='grey'>source: SModelS</font><br> |
 | | [TGQ](SmsDictionary123highstat#TGQ)| 36.1| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/ATLAS/ATLAS-SUSY-2016-07-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
 | | [TGQ12](SmsDictionary123highstat#TGQ12)| 36.1| tbd |  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3highstat! <br><font color='grey'>source: SModelS</font><br> |
 
@@ -81,7 +82,7 @@ To [official validation plots](Validation123highstat)
 
 
 <a name="CMSefficiencymaps13"></a>
-## CMS efficiency maps, 13 TeV: 2 analyses, 14 results total
+## CMS efficiency maps, 13 TeV: 2 analyses, 15 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validated?** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------|----------------------|-------------|
@@ -98,6 +99,7 @@ To [official validation plots](Validation123highstat)
 | | [TGQ](SmsDictionary123highstat#TGQ)| 35.9| n/a |<a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-old/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 1.2.3highstat! <br><font color='grey'>source: SModelS</font><br> |
 | [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)| [T1](SmsDictionary123highstat#T1)| 35.9| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/T1_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/T1_2EqMassAx_EqMassBy.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
 | | [T2](SmsDictionary123highstat#T2)| 35.9| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2_2EqMassAx_EqMassBy.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/T2_2EqMassAx_EqMassBy.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
+| | [T3GQ](SmsDictionary123highstat#T3GQ)| 35.9| tbd |  |<br><font color='grey'>source: SModelS</font><br> |
 | | [TGQ](SmsDictionary123highstat#TGQ)| 35.9| tbd |<a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB0.0__EqmassAy_EqmassB0.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0.png" /></a><BR><a href="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png"><img src="https://smodels.github.io/validation/123highstat/13TeV/CMS/CMS-SUS-16-033-eff/validation/TGQ_EqMassAx_EqMassB995.0__EqmassAy_EqmassB995.0.png" /></a>  |<br><font color='grey'>source: SModelS</font><br> |
 
-This page was created Tue Jun 16 16:27:12 2020
+This page was created Tue Jun 16 21:27:37 2020
