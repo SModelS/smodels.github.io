@@ -27,4 +27,4 @@ There is also a [ListOfAnalyses123highstat](https://smodels.github.io/docs/ListO
 | 17 | <a name="T6WZh"></a>**T6WZh**<br> | `[[[jet],[Z]],[[jet],[W]]]+`<BR>`[[[jet],[h]],[[jet],[W]]]+`<BR>`[[[jet],[W]],[[jet],[W]]]+`<BR>`[[[jet],[Z]],[[jet],[Z]]]+`<BR>`[[[jet],[h]],[[jet],[h]]]+`<BR>`[[[jet],[Z]],[[jet],[h]]]`<BR>`(MET,MET)` | <img alt="T6WZh" src="../feyn/straight/T6WZh.png" height="130"> | [ATLAS-SUSY-2016-07](ListOfAnalyses123highstat#ATLAS-SUSY-2016-07)|
 | 18 | <a name="TGQ"></a>**TGQ**<br> | `[[[jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="TGQ" src="../feyn/straight/TGQ.png" height="130"> | [ATLAS-SUSY-2016-07](ListOfAnalyses123highstat#ATLAS-SUSY-2016-07)<BR>[ATLAS-SUSY-2016-07-old](ListOfAnalyses123highstat#ATLAS-SUSY-2016-07-old)<BR>[CMS-SUS-16-033](ListOfAnalyses123highstat#CMS-SUS-16-033)<BR>[CMS-SUS-16-033-old](ListOfAnalyses123highstat#CMS-SUS-16-033-old)|
 
-<font color='grey'>This page was created Tue Jun 16 21:22:35 2020</font>
+<font color='grey'>This page was created Tue Jun 16 21:41:35 2020</font>
