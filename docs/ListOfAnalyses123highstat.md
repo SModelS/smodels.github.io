@@ -2,7 +2,7 @@
 
 # List Of Analyses 1.2.3highstat 
 List of analyses and topologies in the SMS results database,
-comprising 741 individual maps from 102 distinct signal regions, 18 different SMS topologies, from a total of 6 analyses.
+comprising 762 individual maps from 102 distinct signal regions, 18 different SMS topologies, from a total of 6 analyses.
 The list has been created from the database version `1.2.3highstat`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary123highstat) and a [validation page](Validation123highstat).
 Link to list of results [including superseded results](ListOfAnalyses123highstatWithSuperseded).
@@ -12,7 +12,7 @@ Link to list of results [including superseded results](ListOfAnalyses123highstat
 ### Run 2 - 13 TeV
 In total, we have results from 3 ATLAS and 2 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 9 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3  analyses, 22 results, 463 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3  analyses, 22 results, 484 individual maps
  * [CMS upper limits](#CMSupperlimits13): 1  analyses, 8 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 21 results, 251 individual maps
 
@@ -73,4 +73,4 @@ In total, we have results from 1 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Wed Jun 24 13:31:43 2020.
+This page was created Wed Jun 24 14:39:50 2020.
