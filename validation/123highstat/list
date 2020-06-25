@@ -48,7 +48,7 @@
 
 ./slurm.py -T T5WW -a "atlas_susy_2016_07" -b "@@mingap1 1. @n 30000 @a" -m "[(200,2201,50),(150,1901,50),(60)]" -p 30 -B 1
 
-./slurm.py -T T5WW -a "atlas_susy_2016_07" -b "@@mingap2 81. @n 30000 @a" -m "[(300,2201,50),'half',(1.,1700,50)]" -p 30 -B 1
+./slurm.py -T T5WW -a "atlas_susy_2016_07" -b "@@mingap2 81. @n 30000 @a" -m "[(300,2201,50),'half',(0.,1700,50)]" -p 30 -B 1
 
 ./slurm.py -T T5WW -a "atlas_susy_2016_07" -b "@@mingap2 80. @n 30000 @a" -m "[(200,2201,200),(100,2101,200),(0,1801,200)]" -p 30 -B 1
 
