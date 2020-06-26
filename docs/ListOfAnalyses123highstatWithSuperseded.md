@@ -73,4 +73,4 @@ In total, we have results from 1 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Thu Jun 25 16:00:36 2020.
+This page was created Fri Jun 26 11:14:57 2020.

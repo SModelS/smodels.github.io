@@ -72,7 +72,7 @@
 ./slurm.py -T T1tttt -a "cms_sus_16_033" -b "@@mingap1 345 @n 50000 @a" -m "[(350,691,50),(0,2351,50)]" -p 30 -B 1
 
 ./slurm.py -T T1ttttoff -a "cms_sus_16_033" -b "@@mingap1 1 @@maxgap1 360 @n 30000 @a" -m "[(700,2401,50),(0,2351,50)]" -p 30 -B 1
-./slurm.py -T T1ttttoff -a "cms_sus_16_033" -b "@@mingap1 1 @@maxgap1 360 @n 50000 @a" -m "[(350,691,50),(0,400,50)]" -p 30 -B 1
+./slurm.py -T T1ttttoff -a "cms_sus_16_033" -b "@@mingap1 1 @@maxgap1 360 @n 50000 @a" -m "[(350,691,50),(0,690,50)]" -p 30 -B 1
 
 ./slurm.py -T T2bb -a "cms_sus_16_033" -b "@@mingap1 251. @n 30000 @a" -m "[(700,2101,50),(0,2001,50)]" -p 30 -B 1
 ./slurm.py -T T2bb -a "cms_sus_16_033" -b "@@mingap1 251. @n 50000 @a" -m "[(200,691,50),(0,651,50)]" -p 30 -B 1
