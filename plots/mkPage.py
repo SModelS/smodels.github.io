@@ -9,7 +9,7 @@ def main():
         for F in files:
             if F.endswith ( ".py" ) or F.endswith ( ".md" ):
                 continue
-            f.write ( f"<img src={F}>\n" )
+            f.write ( f'<img src="{F}" />\n' )
         
 
 main()
