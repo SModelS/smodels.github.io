@@ -48,6 +48,9 @@
 
 ## Talks on or related to SModelS (incomplete...)
 
+### 2020 
+* **SModelS - a tool for interpreting simplified-model results from the LHC**, Wolfgang Waltenberger, [PYHEP2020](https://indico.cern.ch/event/882824/), 13-17 July 2020, [notebook](https://github.com/SModelS/pyhep2020)
+* **SModelS -- from Model Constraints to the Inverse Problem**, Wolfgang Waltenberger, ATLAS internal SUSY meeting, June 2020 [slides](https://smodels.github.io/docs/atlas.pdf)
 
 ### 2019 
 
