@@ -1,4 +1,4 @@
-## Some pheno studies using SModelS (incomplete)
+## Pheno studies using SModelS (likely incomplete)
 
 **A complete list of publications referring to SModelS can be found on [inspire](http://inspirehep.net/search?ln=en&p=refersto%3Arecid%3A1269436&sf=earliestdate)**
 
@@ -13,17 +13,29 @@
   
 ### 2019 
 
-needs update
+* **The Light Higgsino-dominated NLSPs in the Semi-constrained NMSSM**<BR> Kun Wang, Jingya Zhu, https://arxiv.org/abs/1911.08319
+* **The current status of fine-tuning in supersymmetry**<BR> Melissa van Beekveld, Sascha Caron, Roberto Ruiz de Austri, https://arxiv.org/abs/1906.10706
+* **Revealing mass-degenerate states in Higgs boson signals**<BR> Shehu AbdusSalam, Maria Eugenia Cabrera, https://arxiv.org/abs/1905.04249
+* **A feeble window on leptophilic dark matter**<BR> Sam Junius, Laura Lopez-Honorez, Alberto Mariotti, https://arxiv.org/abs/1904.07513
 
 ### 2018
 
 * **LHC limits on gluinos and squarks in the minimal Dirac gaugino model**<BR>Guillaume Chalons, Mark D. Goodsell, Sabine Kraml, Humberto Reyes-González, Sophie L. Williamson, https://arxiv.org/abs/1812.09293
+* **Current Status of Natural NMSSM in Light of LHC 13TeV Data and XENON-1T Results**<BR> Junjie Cao, Yangle He, Liangliang Shang, Yang Zhang, Pengxuan Zhu, https://arxiv.org/abs/1810.09143  
+* **The semi-constrained NMSSM in light of muon g-2, LHC, and dark matter constraints**<BR> Kun Wang, Fei Wang, Jingya Zhu, Quanlin Jie, https://arxiv.org/abs/1811.04435  
+* **Confronting SUSY GUT with Dark Matter, Sparticle Spectroscopy and Muon (g−2)** <BR>, M.E. Gomez, S. Lola, R. Ruiz de Austri, Q. Shafi, https://arxiv.org/abs/1806.11152
 * **Dark Matter, Sparticle Spectroscopy and Muon (g−2) in SU(4)c×SU(2)L×SU(2)R**<BR>  M.E. Gómez, S. Lola, R. Ruiz De Austri, Q. Shafi [arXiv:1806.06220](http://arxiv.org/abs/arXiv:1806.06220)
 * **The Power of Genetic Algorithms: what remains of the pMSSM?**<BR> Steven Abel, David G. Cerdeño, Sandra Robles [arXiv:1805.03615](http://arxiv.org/abs/arXiv:1805.03615)
+  
+### 2017
+  
 * **Characterizing simplified models for heavy Higgs decays to supersymmetric particles** <BR> Suchita Kulkarni, Lukas Lechner [arXiv:1711.00056](http://arxiv.org/abs/arXiv:1711.00056)
 * **A phenomenological NMSSM race for 125 GeV Higgs boson** <BR> S. S. Abdus Salam,  [arXiv:1710.10785](https://arxiv.org/abs/1710.10785)
 * **On the coverage of the pMSSM by simplified model results** <BR> Federico Ambrogi, Sabine Kraml, Suchita Kulkarni, Ursula Laa, Andre Lessa, Wolfgang Waltenberger [arXiv:1707.09036](http://arxiv.org/abs/arXiv:1707.09036)
 * **Dark matter in U(1) extensions of the MSSM with gauge kinetic mixing** <BR> G. Belanger, J. Da Silva and H. M. Tran, [arXiv:1703.03275](https://arxiv.org/abs/1703.03275)
+  
+### 2016 and before
+
 * **Low-mass neutralino dark matter in supergravity scenarios: phenomenology and naturalness**<BR> M. Peiro, S. Robles, [arXiv:1612.00460](https://arxiv.org/abs/1612.00460)
 * **Sparticle spectroscopy of the minimal SO(10) model**<BR> Takeshi Fukuyama, Nobuchika Okada, Hieu Minh Tran, [arXiv:1611.08341](https://arxiv.org/abs/1611.08341)
 * **Collider and Dark Matter Searches in the Inert Doublet Model from Peccei-Quinn Symmetry** <BR> A. Alves et al,  [arXiv:1606.07086](https://arxiv.org/abs/1606.07086)
