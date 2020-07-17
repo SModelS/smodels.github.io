@@ -7,23 +7,23 @@
 * **Constraining Electroweakinos in the Minimal Dirac Gaugino Model**<BR> Mark D. Goodsell, Sabine Kraml, Humberto Reyes-González, Sophie L. Williamson  [arXiv:2007.08498](http://arxiv.org/abs/arXiv:2007.08498)
 * **Funnel annihilations of light dark matter and the invisible decay of the Higgs boson** <BR> Kun Wang, Jingya Zhu, [arXiv:2003.01662](http://arxiv.org/abs/arXiv:2003.01662)
 * **Confronting Grand Unification with Lepton Flavour Violation, Dark Matter and LHC Data** <BR> J. Ellis, M.E. Gomez, S. Lola, R. Ruiz de Austri, Q. Shafi, [arXiv:2002.11057](https://arxiv.org/abs/2002.11057)
-* **Testing Yukawa Unification at LHC Run-3 and HL-LHC**<br> Mario Gomez, Qaisar Shafi, Cem Salih Un, https://arxiv.org/abs/2002.07517
-* **Searching for heavy Higgs in supersymmetric final states at the LHC**<br> Amit Adhikary, Biplob Bhattacherjee, Rohini M. Godbole, Najimuddin Khan, Suchita Kulkarni, https://arxiv.org/abs/2002.07137
-* **A Novel Scenario in the Semi-constrained NMSSM**<BR> Kun Wang, Jingya Zhu, https://arxiv.org/abs/2002.05554
+* **Testing Yukawa Unification at LHC Run-3 and HL-LHC**<br> Mario Gomez, Qaisar Shafi, Cem Salih Un, [arXiv:2002.07517](https://arxiv.org/abs/2002.07517)
+* **Searching for heavy Higgs in supersymmetric final states at the LHC**<br> Amit Adhikary, Biplob Bhattacherjee, Rohini M. Godbole, Najimuddin Khan, Suchita Kulkarni, [arXiv:2002.07137](https://arxiv.org/abs/2002.07137)
+* **A Novel Scenario in the Semi-constrained NMSSM**<BR> Kun Wang, Jingya Zhu, [arXiv:2002.05554](https://arxiv.org/abs/2002.05554)
   
 ### 2019 
 
-* **The Light Higgsino-dominated NLSPs in the Semi-constrained NMSSM**<BR> Kun Wang, Jingya Zhu, https://arxiv.org/abs/1911.08319
-* **The current status of fine-tuning in supersymmetry**<BR> Melissa van Beekveld, Sascha Caron, Roberto Ruiz de Austri, https://arxiv.org/abs/1906.10706
-* **Revealing mass-degenerate states in Higgs boson signals**<BR> Shehu AbdusSalam, Maria Eugenia Cabrera, https://arxiv.org/abs/1905.04249
-* **A feeble window on leptophilic dark matter**<BR> Sam Junius, Laura Lopez-Honorez, Alberto Mariotti, https://arxiv.org/abs/1904.07513
+* **The Light Higgsino-dominated NLSPs in the Semi-constrained NMSSM**<BR> Kun Wang, Jingya Zhu, [arXiv:1911.08319](https://arxiv.org/abs/1911.08319)
+* **The current status of fine-tuning in supersymmetry**<BR> Melissa van Beekveld, Sascha Caron, Roberto Ruiz de Austri, [arXiv:1906.10706](https://arxiv.org/abs/1906.10706)
+* **Revealing mass-degenerate states in Higgs boson signals**<BR> Shehu AbdusSalam, Maria Eugenia Cabrera, [arXiv:1905.04249](https://arxiv.org/abs/1905.04249)
+* **A feeble window on leptophilic dark matter**<BR> Sam Junius, Laura Lopez-Honorez, Alberto Mariotti, [arXiv:1904.07513](https://arxiv.org/abs/1904.07513)
 
 ### 2018
 
-* **LHC limits on gluinos and squarks in the minimal Dirac gaugino model**<BR>Guillaume Chalons, Mark D. Goodsell, Sabine Kraml, Humberto Reyes-González, Sophie L. Williamson, https://arxiv.org/abs/1812.09293
-* **Current Status of Natural NMSSM in Light of LHC 13TeV Data and XENON-1T Results**<BR> Junjie Cao, Yangle He, Liangliang Shang, Yang Zhang, Pengxuan Zhu, https://arxiv.org/abs/1810.09143  
-* **The semi-constrained NMSSM in light of muon g-2, LHC, and dark matter constraints**<BR> Kun Wang, Fei Wang, Jingya Zhu, Quanlin Jie, https://arxiv.org/abs/1811.04435  
-* **Confronting SUSY GUT with Dark Matter, Sparticle Spectroscopy and Muon (g−2)** <BR>, M.E. Gomez, S. Lola, R. Ruiz de Austri, Q. Shafi, https://arxiv.org/abs/1806.11152
+* **LHC limits on gluinos and squarks in the minimal Dirac gaugino model**<BR>Guillaume Chalons, Mark D. Goodsell, Sabine Kraml, Humberto Reyes-González, Sophie L. Williamson, [arXiv:1812.09293](https://arxiv.org/abs/1812.09293)
+* **The semi-constrained NMSSM in light of muon g-2, LHC, and dark matter constraints**<BR> Kun Wang, Fei Wang, Jingya Zhu, Quanlin Jie, [arXiv:1811.04435](https://arxiv.org/abs/1811.04435)  
+* **Current Status of Natural NMSSM in Light of LHC 13TeV Data and XENON-1T Results**<BR> Junjie Cao, Yangle He, Liangliang Shang, Yang Zhang, Pengxuan Zhu, [arXiv:1810.09143](https://arxiv.org/abs/1810.09143)  
+* **Confronting SUSY GUT with Dark Matter, Sparticle Spectroscopy and Muon (g−2)** <BR>, M.E. Gomez, S. Lola, R. Ruiz de Austri, Q. Shafi, [arXiv:1806.11152](https://arxiv.org/abs/1806.11152)
 * **Dark Matter, Sparticle Spectroscopy and Muon (g−2) in SU(4)c×SU(2)L×SU(2)R**<BR>  M.E. Gómez, S. Lola, R. Ruiz De Austri, Q. Shafi [arXiv:1806.06220](http://arxiv.org/abs/arXiv:1806.06220)
 * **The Power of Genetic Algorithms: what remains of the pMSSM?**<BR> Steven Abel, David G. Cerdeño, Sandra Robles [arXiv:1805.03615](http://arxiv.org/abs/arXiv:1805.03615)
   
