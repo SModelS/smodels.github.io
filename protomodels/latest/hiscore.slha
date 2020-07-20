@@ -57,7 +57,7 @@ BLOCK MASS  # Mass Spectrum
          5     4.85697885E+00   # b-quark pole mass calculated from mb(mb)_Msbar
    1000001     1000000.0         # ~d_L
    2000001     1E+06            # ~d_R
-   1000002     830.4         # ~u_L
+   1000002     1000000.0         # ~u_L
    2000002     1E+06            # ~u_R
    1000003     1000000.0         # ~s_L
    2000003     1E+06            # ~s_R
@@ -76,7 +76,7 @@ BLOCK MASS  # Mass Spectrum
    1000015     1000000.0         # ~tau_1
    2000015     1E+06            # ~tau_2
    1000016     1000000.0         # ~nu_tauL
-   1000021     1000000.0         # ~g
+   1000021     831.7         # ~g
    1000022     353.6         # ~chi_10
    1000023     1000000.0         # ~chi_20
    1000025     1000000.0         # ~chi_30
@@ -226,6 +226,7 @@ DECAY         6     1.45136155E+00   # top decays
 #         PDG            Width
 DECAY   1000021     4.56539663E-02   # gluino decays
 #          BR         NDA      ID1       ID2
+     1.00000 3     1000022         1        -1   # BR(~g -> ~chi_10 d  db)
 #
 #         PDG            Width
 DECAY   1000006     7.27235497E+00   # stop1 decays
@@ -261,7 +262,6 @@ DECAY   1000001     1.48506929E+01   # sdown_L decays
 #         PDG            Width
 DECAY   1000002     1.48506929E+01   # sup_L decays
 #          BR         NDA      ID1       ID2
-     1.00000       2     1000022         2   # BR(~u_L -> ~chi_10 u)
 #
 #         PDG            Width
 DECAY   1000003     1.48506929E+01   # sstrange_L decays
@@ -315,29 +315,17 @@ DECAY   1000023     1.12364506E-03   # neutralino2 decays
 DECAY   1000025     4.86632501E+00   # neutralino3 decays
 #          BR         NDA      ID1       ID2
 
-XSECTION  8.00E+03  2212 2212 2 -1000002 1000002
-  0  0  0  0  0  0    1.49775438E-04 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000021 1000021
+  0  0  0  0  0  0    5.21014398E-05 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000022 1000022
-  0  0  0  0  0  0    3.02170437E-07 SModelSv2.0.0rc10
+XSECTION  8.00E+03  2212 2212 2 1000021 1000021
+  0  2  0  0  0  0    1.19828101E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 1000002 1000002
-  0  0  0  0  0  0    2.88013735E-07 SModelSv2.0.0rc10
+XSECTION  1.30E+04  2212 2212 2 1000021 1000021
+  0  0  0  0  0  0    5.83721124E-04 SModelSv2.0.0rc10
 
-XSECTION  8.00E+03  2212 2212 2 -1000002 1000002
-  0  2  0  0  0  0    3.00823967E-04 SModelSv2.0.0rc10
+XSECTION  1.30E+04  2212 2212 2 1000021 1000021
+  0  2  0  0  0  0    1.17561434E-03 SModelSv2.0.0rc10
 
-XSECTION  1.30E+04  2212 2212 2 -1000002 1000002
-  0  0  0  0  0  0    1.79093296E-03 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 1000022 1000022
-  0  0  0  0  0  0    6.69254618E-06 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 1000002 1000002
-  0  0  0  0  0  0    1.44977273E-06 SModelSv2.0.0rc10
-
-XSECTION  1.30E+04  2212 2212 2 -1000002 1000002
-  0  2  0  0  0  0    3.16636947E-03 SModelSv2.0.0rc10
-
-# Signal strength multipliers: (1000022, 1000022):2.491, (1000002, 1000002):0.2158, (-1000002, 1000002):0.1421, (1000002, 1000022):0, (-1000002, -1000002):0.1421, (-1000002, 1000022):0
-# produced at step 289
+# Signal strength multipliers: (1000022, 1000022):2.293, (1000021, 1000021):0.00101, (1000021, 1000022):0.00101
+# produced at step 290
