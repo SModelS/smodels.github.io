@@ -6,7 +6,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf</font>
 
 ------------------------------------------------------------------------ 
-### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 
 ### [arXiv:2005.00555](https://arxiv.org/abs/2005.00555): preprint describing the v1.2.3 database update and SModelS' increase in constraining power 
 ------------------------------------------------------------------------   
