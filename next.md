@@ -8,7 +8,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 ------------------------------------------------------------------------ 
 ### 02 Sep 2020: [SModelS version 1.2.4](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 
-### [arXiv:2005.00555](https://arxiv.org/abs/2005.00555): preprint describing the v1.2.3 database update and SModelS' increase in constraining power 
+### [arXiv:2005.00555](https://arxiv.org/abs/2005.00555): preprint describing the v1.2.4 update
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](http://smodels.readthedocs.io/)
