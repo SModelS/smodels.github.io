@@ -1,9 +1,9 @@
 
 
-# List Of Analyses 1.2.3 (including superseded results)
+# List Of Analyses 1.2.4 (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 3313 individual maps from 421 distinct signal regions, 96 different SMS topologies, from a total of 114 analyses.
-The list has been created from the database version `1.2.3`.
+comprising 3332 individual maps from 440 distinct signal regions, 96 different SMS topologies, from a total of 114 analyses.
+The list has been created from the database version `1.2.4`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary) and a [validation page](Validation).
 Link to list of results [without superseded results](ListOfAnalyses).
     
@@ -12,7 +12,7 @@ Link to list of results [without superseded results](ListOfAnalyses).
 ### Run 2 - 13 TeV
 In total, we have results from 23 ATLAS and 38 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 22  analyses, 50 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 6  analyses, 21 results, 261 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 9  analyses, 24 results, 280 individual maps
  * [CMS upper limits](#CMSupperlimits13): 37  analyses, 154 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 21 (of which 8 LLP) results, 197 individual maps
 
@@ -37,7 +37,7 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 | [CMS-PAS-SUS-16-019](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-019/index.html)<a name="CMS-PAS-SUS-16-019"></a> | jets + 1 lepton | 12.9 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |[CMS-SUS-16-037](#CMS-SUS-16-037) |&#10004; |
 | [CMS-PAS-SUS-16-022](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/)<a name="CMS-PAS-SUS-16-022"></a> | &ge; 3 leptons + Etmiss | 12.9 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |[CMS-SUS-16-041](#CMS-SUS-16-041) |&#10004; |
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary#T2bbWWoff), [T6bbWWoff](SmsDictionary#T6bbWWoff) | | |
-| [CMS-PAS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-17-004/index.html)<a name="CMS-PAS-SUS-17-004"></a> | Multilepton EWK searches | 35.9 | [TChiWH](SmsDictionary#TChiWH), [TChiWZ](SmsDictionary#TChiWZ), [TChiWZoff](SmsDictionary#TChiWZoff) | | |
+| [CMS-PAS-SUS-17-004](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-17-004/index.html)<a name="CMS-PAS-SUS-17-004"></a> | Multilepton EWK searches | 35.9 | [TChiWH](SmsDictionary#TChiWH), [TChiWZ](SmsDictionary#TChiWZ), [TChiWZoff](SmsDictionary#TChiWZoff) |[CMS-SUS-17-004](#CMS-SUS-17-004) | |
 | **Publications** | | | | | |
 | [CMS-SUS-15-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-15-002/)<a name="CMS-SUS-15-002"></a> | multijets + Etmiss, HT | 2.2 | [T1](SmsDictionary#T1), [T1bbbb](SmsDictionary#T1bbbb), [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |[CMS-SUS-16-033](#CMS-SUS-16-033) |&#10004; |
 | [CMS-SUS-15-008](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-15-008/index.html)<a name="CMS-SUS-15-008"></a> | same-sign dilepton | 2.3 | [T1tttt](SmsDictionary#T1tttt), [T1ttttoff](SmsDictionary#T1ttttoff) |[CMS-SUS-16-035](#CMS-SUS-16-035) | |
@@ -110,7 +110,7 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary#TChiWH) | | |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (6 analyses)
+## ATLAS, efficiency maps, 13 TeV (9 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **llhds** |
 |--------|-----------------------|--------------|--------------|-------------------|-----------|
@@ -121,6 +121,9 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.0 | [T2bbffff](SmsDictionary#T2bbffff), [T2tt](SmsDictionary#T2tt), [T2ttoff](SmsDictionary#T2ttoff) | |&#10004; |
 | [ATLAS-SUSY-2016-24](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-24/)<a name="ATLAS-SUSY-2016-24"></a> | 2+ leptons (e,mu) + jets + Etmiss | 36.1 | [TChiWZ](SmsDictionary#TChiWZ), [TSelSel](SmsDictionary#TSelSel), [TSmuSmu](SmsDictionary#TSmuSmu) | |&#10004; |
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5gg](SmsDictionary#T5gg), [T6gg](SmsDictionary#T6gg) | |&#10004; |
+| [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04"></a> | 2 hadronic taus | 139.0 | [TStauStau](SmsDictionary#TStauStau) | |&#10004; |
+| [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary#T6bbHH) | |&#10004; |
+| [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary#TChiWH) | |&#10004; |
 
 <a name="CMSupperlimits8"></a>
 ## CMS, upper limits, 8 TeV (19 analyses)
@@ -236,4 +239,4 @@ In total, we have results from 32 ATLAS and 21 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Mon Apr 27 11:35:56 2020.
+This page was created Thu Sep  3 13:42:11 2020.
