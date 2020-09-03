@@ -26,7 +26,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (28 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **llhds** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **likeli- hoods** |
 |--------|-----------------------|--------------|--------------|-----------|
 | **PAS** | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary#THSCPM1b), [TRHadGM1](SmsDictionary#TRHadGM1), [TRHadQM1](SmsDictionary#TRHadQM1) | |
