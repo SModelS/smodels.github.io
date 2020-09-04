@@ -10,6 +10,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 |GitHub Project|
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
 [![CodeFactor](https://www.codefactor.io/repository/github/smodels/smodels/badge/master)](https://www.codefactor.io/repository/github/smodels/smodels/overview/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/pyhep2020/master?filepath=index.ipynb) 
 
 ------------------------------------------------------------------------
 ### 03 Sep 2020: [SModelS version 1.2.4](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
