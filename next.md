@@ -7,6 +7,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 
 ------------------------------------------------------------------------
 
+|GitHub Project|
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
 [![CodeFactor](https://www.codefactor.io/repository/github/smodels/smodels/badge/master)](https://www.codefactor.io/repository/github/smodels/smodels/overview/master)
 
