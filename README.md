@@ -6,9 +6,9 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf</font>
 
 ------------------------------------------------------------------------ 
-### 27 Apr 2020: [SModelS version 1.2.3](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
+### 03 Sep 2020: [SModelS version 1.2.4](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 
-### [arXiv:2005.00555](https://arxiv.org/abs/2005.00555): preprint describing the v1.2.3 database update and SModelS' increase in constraining power 
+### [arXiv:2009.01809](https://arxiv.org/abs/2009.01809): preprint describing v1.2.4 with its support for [pyhf](https://github.com/scikit-hep/pyhf)
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](http://smodels.readthedocs.io/)
@@ -27,7 +27,7 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 ## If you use SModelS, please cite the following papers:
 
-* *SModelS database update v1.2.3*, Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, Wolfgang Waltenberger, [arXiv:2005.00555](https://arxiv.org/abs/2005.00555)
+* *SModelS database update v1.2.3*, Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, Wolfgang Waltenberger, [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [LHEP 158 2020](https://doi.org/10.31526/lhep.2020.158)
 * *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://www.sciencedirect.com/science/article/pii/S0010465519302255?via%3Dihub)
 * *Constraining new physics with searches for long-lived
 particles: Implementation into SModelS*, Jan Heisig, Sabine Kraml, Andre Lessa, [arXiv:1808.05229](https://arxiv.org/abs/1808.05229), [Phys.Lett. B788 (2019) 87-95](https://doi.org/10.1016/j.physletb.2018.10.049).
