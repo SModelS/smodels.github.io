@@ -49,8 +49,10 @@
 ## Talks on or related to SModelS (incomplete...)
 
 ### 2020 
+
+* ** Feedback on use of public likelihoods**, Sabine Kraml, ATLAS SUSY & Exotics workshop, 9 Sep 2020 [slides](https://smodels.github.io/docs/slides/kraml_public_likelihoods_20200924.pdf)
 * **SModelS - a tool for interpreting simplified-model results from the LHC**, Wolfgang Waltenberger, [PyHEP2020](https://indico.cern.ch/event/882824/), 13-17 July 2020, [notebook](https://github.com/SModelS/pyhep2020), [youtube](https://www.youtube.com/watch?v=QnUtehNfd-w)
-* **SModelS -- from Model Constraints to the Inverse Problem**, Wolfgang Waltenberger, ATLAS internal SUSY meeting, June 2020 [slides](https://smodels.github.io/docs/atlas.pdf)
+* **SModelS -- from Model Constraints to the Inverse Problem**, Wolfgang Waltenberger, ATLAS internal SUSY meeting, June 2020 [slides](https://smodels.github.io/docs/slides/walten_atlas_202006.pdf)
 
 ### 2019 
 
