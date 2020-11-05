@@ -13,7 +13,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 03 Sep 2020: [SModelS version 1.2.4](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
+### 05 Nov 2020: [SModelS version 1.2.4.post2](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/stable/ReleaseUpdate.html)
 
 ### [arXiv:2009.01809](https://arxiv.org/abs/2009.01809): preprint describing v1.2.4 with its support for [pyhf](https://github.com/scikit-hep/pyhf)
 ------------------------------------------------------------------------   
