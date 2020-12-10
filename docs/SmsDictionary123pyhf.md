@@ -8,4 +8,5 @@ There is also a [ListOfAnalyses123pyhf](https://smodels.github.io/docs/ListOfAna
 
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
-| 1 | <a name="T6bbHH"></a>**T6bbHH**<br> | `[[[b],[h]],[[b],[h]]]`<BR>`(MET,MET)` | ![T6bbHH](../feyn/straight/T6bbHH.png) | [ATLAS-SUSY-2018-31](ListOfAnalyses123pyhf#ATLAS-SUSY-2018-31)|
+| 1 | <a name="T6bbHH"></a>**T6bbHH**<br> | `[[[b],[h]],[[b],[h]]]`<BR>`(MET,MET)` | <img alt="T6bbHH" src="../feyn/straight/T6bbHH.png" height="130"> | [ATLAS-SUSY-2018-31](ListOfAnalyses123pyhf#ATLAS-SUSY-2018-31)|
+| 2 | <a name="TStauStau"></a>**TStauStau**<br> | `[[[ta]],[[ta]]]`<BR>`(MET,MET)` | <img alt="TStauStau" src="../feyn/straight/TStauStau.png" height="130"> | [ATLAS-SUSY-2018-04](ListOfAnalyses123pyhf#ATLAS-SUSY-2018-04)|
