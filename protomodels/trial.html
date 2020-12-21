@@ -1,0 +1,96 @@
+<html>
+<body>
+
+
+<table width=80%>
+
+<tr><td>
+  <table width=100%>
+	<td width=20%><img height=80px align=left valign=middle src=logos/protomodel_lego.png>
+	<td width=60% align=center valign=bottom><h1>Protomodel Builder</h1>
+	<td width=20%><img height=60px src=https://smodels.github.io/pics/banner.png>
+  </table>
+  <hr noshade size="1">
+</td></tr>
+
+<tr><td>
+
+<p>
+<b>Working principle:</b> The purpose of the Protomodel Builder is to identify potential dispersed signals of new physics in the slew of published LHC results. It employs a random walk algorithm to introduce sets of new particles, dubbed <i>protomodels</i>, which are tested against simplified-model results from ATLAS and CMS, exploiting the <a href=https://smodels.github.io/>SModelS</a> software framework.
+A combinatorial algorithm identifies the set of analyses and/or signal regions
+that maximally violates the SM hypothesis, while remaining compatible with the entirety of LHC constraints in our database. Employing a multi-level optimization procedure, we may thus bring to light potential dispersed signals, which might otherwise be missed simply because each individual experimental analysis only looks at a fraction of the LHC data.
+</p>
+
+<h3>Results from section 5.2 of pioneer paper (draft), 2020</h3>
+
+<!-- img src="2020_PioneerStudy/real4_spectrum.png" align=left valign=top height=200px -->
+<table><tr>
+<td align=center valign=top><img src="plots/highScore_massesv1.png" align=left valign=top height=260px><br>Fig. 8 from paper</td>
+<td valign=middle>
+	<p>In this paper, we performed 10 runs over the &quot;real&quot; SModelS database (v1.2.4), each employing 50 walkers and 1000 steps/walker. The <b>characteristics of the winning models</b> (i.e. the protomodels with highest test statistic <i>K</i>, shown in Fig. 8 in the paper) from each run can be found here:</p>
+    <p align=center>
+	   <a href="2020_PioneerStudy/real1/index.html">real #1</a> -
+	   <a href="2020_PioneerStudy/real2/index.html">real #2</a> -
+	   <a href="2020_PioneerStudy/real3/index.html">real #3</a> -
+	   <a href="2020_PioneerStudy/real4/index.html">real #4</a> -
+	   <a href="2020_PioneerStudy/real5/index.html">real #5</a> -
+	   <a href="2020_PioneerStudy/real6/index.html">real #6</a> -
+	   <a href="2020_PioneerStudy/real7/index.html">real #7</a> -
+	   <a href="2020_PioneerStudy/real8/index.html">real #8</a> -
+	   <a href="2020_PioneerStudy/real9/index.html">real #9</a> -
+	   <a href="2020_PioneerStudy/real10/index.html">real #10</a>
+    </p>
+    <p>
+	The absolute winner is the hiscore model from run <a href="2020_PioneerStudy/real9/index.html">#9</a> with <i>K</i>=6.9 (see plot on the left).
+	<p><b>Closure tests</b>, using the winning model of run <a href="2020_PioneerStudy/real9/index.html">#9</a> above as injected signal:
+
+   <ul>
+    <li> with sampling from signal+background (Fig. 10 in the paper):
+   <a href="2020_PioneerStudy/closure_sampling1/index.html">#1</a> -
+   <a href="2020_PioneerStudy/closure_sampling2/index.html">#2</a> -
+   <a href="2020_PioneerStudy/closure_sampling3/index.html">#3</a> -
+   <a href="2020_PioneerStudy/closure_sampling4/index.html">#4</a> -
+   <a href="2020_PioneerStudy/closure_sampling5/index.html">#5</a> -
+   <a href="2020_PioneerStudy/closure_sampling6/index.html">#6</a> -
+   <a href="2020_PioneerStudy/closure_sampling7/index.html">#7</a> -
+   <a href="2020_PioneerStudy/closure_sampling8/index.html">#8</a> -
+   <a href="2020_PioneerStudy/closure_sampling9/index.html">#9</a> -
+   <a href="2020_PioneerStudy/closure_sampling10/index.html">#10</a>
+<li> without sampling (technical test, Fig. 11 in the paper):
+<a href="2020_PioneerStudy/closure_nonsampling1/index.html">#1</a> -
+<a href="2020_PioneerStudy/closure_nonsampling2/index.html">#2</a> -
+<a href="2020_PioneerStudy/closure_nonsampling3/index.html">#3</a> -
+<a href="2020_PioneerStudy/closure_nonsampling4/index.html">#4</a> -
+<a href="2020_PioneerStudy/closure_nonsampling5/index.html">#5</a> -
+<a href="2020_PioneerStudy/closure_nonsampling6/index.html">#6</a> -
+<a href="2020_PioneerStudy/closure_nonsampling7/index.html">#7</a> -
+<a href="2020_PioneerStudy/closure_nonsampling8/index.html">#8</a> -
+<a href="2020_PioneerStudy/closure_nonsampling9/index.html">#9</a> -
+<a href="2020_PioneerStudy/closure_nonsampling10/index.html">#10</a>
+</ul>
+
+	The random walks have been visualized in these <a href=videos/index.html>animation videos</a>.</p>
+</td>
+</table>
+<video width="320" height="240" controls autoplay muted poster="videos/poster.png">
+<source src="videos/short.webm" type="video/webm">
+<source src="videos/short.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+</td></tr>
+
+<tr><td>
+
+<hr noshade size="1">
+<font size=2><i>last update 21-12-2020</i></font>
+
+<br>
+<br>
+
+</td></tr>
+</table>
+
+
+</body>
+</html>
