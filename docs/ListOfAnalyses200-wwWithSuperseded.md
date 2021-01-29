@@ -2,7 +2,7 @@
 
 # List Of Analyses 2.0.0-ww (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 471 individual maps from 94 distinct signal regions, 6 different SMS topologies, from a total of 2 analyses.
+comprising 541 individual maps from 108 distinct signal regions, 6 different SMS topologies, from a total of 2 analyses.
 The list has been created from the database version `2.0.0-ww`.
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary200-ww) and a [validation page](Validation200-ww).
 Link to list of results [without superseded results](ListOfAnalyses200-ww).
@@ -12,7 +12,7 @@ Link to list of results [without superseded results](ListOfAnalyses200-ww).
 ### Run 2 - 13 TeV
 In total, we have results from 0 ATLAS and 2 CMS 13 TeV searches.
  * [CMS upper limits](#CMSupperlimits13): 1  analyses, 6 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 10 results, 465 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps13): 2  analyses, 10 results, 535 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
@@ -42,4 +42,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-This page was created Tue Jan 26 14:48:12 2021.
+This page was created Fri Jan 29 11:11:17 2021.
