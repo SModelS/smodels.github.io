@@ -13,14 +13,14 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 12 Feb 2021: [SModelS version 2.0.0.beta](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/develop/ReleaseUpdate.html)
+### 12 Feb 2021: [SModelS version 2.0.0.beta](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 ### [arXiv:2009.01809](https://arxiv.org/abs/2009.01809): preprint describing v1.2.4 with its support for [pyhf](https://github.com/scikit-hep/pyhf)
 ------------------------------------------------------------------------   
 
-* A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/develop/)
-* For instructions on how to install SModelS, check the [installation section in the manual](https://smodels.readthedocs.io/en/develop/Installation.html).
-* You may also want to check the [release notes](https://smodels.readthedocs.io/en/develop/ReleaseUpdate.html)
+* A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
+* For instructions on how to install SModelS, check the [installation section in the manual](https://smodels.readthedocs.io/en/latest/Installation.html).
+* You may also want to check the [release notes](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
