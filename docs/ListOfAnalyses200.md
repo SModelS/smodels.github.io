@@ -68,7 +68,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 | **Publications** | | | | |
 | [CMS-EXO-19-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-001/index.html)<a name="CMS-EXO-19-001"></a> | displaced vertices | 137.0 | [T2Disp](SmsDictionary200#T2Disp) | |
 | **PAS** | | | | |
-| [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052-agg"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary200#T2bbWWoff) [(3)](#A3), [T6bbWWoff](SmsDictionary200#T6bbWWoff) [(3)](#A3) | |
+| [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052-agg"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary200#T2bbWWoff) [(3)](#A3), [T6bbWWoff](SmsDictionary200#T6bbWWoff) [(3)](#A3) |cov. |
 | **Publications** | | | | |
 | [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)<a name="CMS-SUS-16-033"></a> | 0L + jets + Etmiss (using MHT) | 35.9 | [T1](SmsDictionary200#T1) [(1)](#A1), [T1bbbb](SmsDictionary200#T1bbbb) [(1)](#A1), [T1tttt](SmsDictionary200#T1tttt) [(1)](#A1), [T1ttttoff](SmsDictionary200#T1ttttoff) [(1)](#A1), [T2](SmsDictionary200#T2) [(1)](#A1), [T2bb](SmsDictionary200#T2bb) [(1)](#A1), [T2tt](SmsDictionary200#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary200#T2ttoff) [(1)](#A1), [T3GQ](SmsDictionary200#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary200#T5GQ) [(1)](#A1), [TGQ](SmsDictionary200#TGQ) [(1)](#A1) | |
 
@@ -221,4 +221,4 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Fri Mar 12 17:00:43 2021.
+This page was created Fri Mar 12 17:09:30 2021.
