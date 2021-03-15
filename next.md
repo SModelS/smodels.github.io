@@ -9,7 +9,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/SModelS)
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/pyhep2020/master?filepath=index.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/tutorials/master?filepath=index.ipynb) 
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
