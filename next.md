@@ -14,10 +14,9 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 
 ------------------------------------------------------------------------ 
 ### 15 Mar 2021: [SModelS version 2.0.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
-
-### SModelS [tutorials](https://github.com/SModelS/tutorials) have been given in recent workshops and conferences
 ------------------------------------------------------------------------   
 
+* SModelS [tutorials](https://github.com/SModelS/tutorials) have been given in recent workshops and conferences
 * [arXiv:2009.01809](https://arxiv.org/abs/2009.01809): preprint describing v1.2.4 with its support for [pyhf](https://github.com/scikit-hep/pyhf)
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
 * For instructions on how to install SModelS, check the [installation section in the manual](https://smodels.readthedocs.io/en/latest/Installation.html).
