@@ -26,8 +26,8 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (29 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **expected ULs** |
-|--------|-----------------------|--------------|--------------|------------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+|--------|-----------------------|--------------|--------------|-------------------------|
 | **PAS** | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary200#THSCPM1b), [TRHadGM1](SmsDictionary200#TRHadGM1), [TRHadQM1](SmsDictionary200#TRHadQM1) |  |
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary200#T2bbWWoff), [T6bbWWoff](SmsDictionary200#T6bbWWoff) |  |
@@ -63,7 +63,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (3 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-19-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-001/index.html)<a name="CMS-EXO-19-001"></a> | displaced vertices | 137.0 | [T2Disp](SmsDictionary200#T2Disp) |  |
@@ -75,8 +75,8 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (24 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **expected ULs** |
-|--------|-----------------------|--------------|--------------|------------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+|--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2015-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-01/)<a name="ATLAS-SUSY-2015-01"></a> | 2 b-jets + Etmiss | 3.2 | [T2bb](SmsDictionary200#T2bb) |  |
 | [ATLAS-SUSY-2015-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary200#T2tt) |  |
@@ -106,7 +106,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (11 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary200#T2tt) |  |
@@ -124,8 +124,8 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSupperlimits8"></a>
 ## CMS, upper limits, 8 TeV (16 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **expected ULs** |
-|--------|-----------------------|--------------|--------------|------------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+|--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-12-026](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html)<a name="CMS-EXO-12-026"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary200#THSCPM1b), [TRHadGM1](SmsDictionary200#TRHadGM1), [TRHadUM1](SmsDictionary200#TRHadUM1) |  |
 | **PAS** | | | | |
@@ -149,7 +149,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSefficiencymaps8"></a>
 ## CMS, efficiency maps, 8 TeV (8 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary200#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary200#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary200#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary200#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary200#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary200#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary200#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary200#THSCPM8) [(1)](#A1), [THSCPM9](SmsDictionary200#THSCPM9) [(1)](#A1) |  |
@@ -166,8 +166,8 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASupperlimits8"></a>
 ## ATLAS, upper limits, 8 TeV (15 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **expected ULs** |
-|--------|-----------------------|--------------|--------------|------------------|
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+|--------|-----------------------|--------------|--------------|-------------------------|
 | **Conf Notes** | | | | |
 | [ATLAS-CONF-2013-007](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-007/)<a name="ATLAS-CONF-2013-007"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.7 | [T1btbt](SmsDictionary200#T1btbt), [T1tttt](SmsDictionary200#T1tttt), [T5tttt](SmsDictionary200#T5tttt), [T6ttWW](SmsDictionary200#T6ttWW), [T6ttWWoff](SmsDictionary200#T6ttWWoff) |  |
 | [ATLAS-CONF-2013-061](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-061/)<a name="ATLAS-CONF-2013-061"></a> | 0 or &ge;1 leptons + jets + &ge; 3 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary200#T1bbbb), [T1btbt](SmsDictionary200#T1btbt), [T1tttt](SmsDictionary200#T1tttt) |  |
@@ -189,7 +189,7 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASefficiencymaps8"></a>
 ## ATLAS, efficiency maps, 8 TeV (18 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Conf Notes** | | | | |
 | [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/)<a name="ATLAS-CONF-2013-024"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.5 | [T1bbbb](SmsDictionary200#T1bbbb), [T1bbbt](SmsDictionary200#T1bbbt), [T1bbqq](SmsDictionary200#T1bbqq), [T1bbtt](SmsDictionary200#T1bbtt), [T1btbt](SmsDictionary200#T1btbt), [T1btqq](SmsDictionary200#T1btqq), [T1bttt](SmsDictionary200#T1bttt), [T1qqtt](SmsDictionary200#T1qqtt), [T1tttt](SmsDictionary200#T1tttt), [T2bb](SmsDictionary200#T2bb), [T2bt](SmsDictionary200#T2bt), [T2tt](SmsDictionary200#T2tt), [T5bbbb](SmsDictionary200#T5bbbb), [T5bbbt](SmsDictionary200#T5bbbt), [T5btbt](SmsDictionary200#T5btbt), [T5tbtb](SmsDictionary200#T5tbtb), [T5tbtt](SmsDictionary200#T5tbtt), [T5tttt](SmsDictionary200#T5tttt), [TGQbbq](SmsDictionary200#TGQbbq), [TGQbtq](SmsDictionary200#TGQbtq), [TGQqtt](SmsDictionary200#TGQqtt) (from FastLim [(2)](#A2)) |  |
@@ -219,6 +219,8 @@ In total, we have results from 25 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-<a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
+<a name='A4'>(4)</a> Expected upper limits ('exp. ULs'): Can be used to compute a crude approximation of a likelihood, modelled as a truncated Gaussian.
 
-This page was created Fri Mar 12 17:34:25 2021.
+<a name='A5'>(5)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
+
+This page was created Mon Mar 15 21:23:18 2021.
