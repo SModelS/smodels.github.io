@@ -26,8 +26,6 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 
-* Here's also the [online manual](https://smodels.readthedocs.io/en/stable/)
-
 ### Mailing lists:
    
 * For questions and comments, send an e-mail to: <smodels-users@lists.oeaw.ac.at>. 
