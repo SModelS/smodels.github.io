@@ -9,6 +9,7 @@ def sizeof_fmt(num, suffix='B'):
 
 import glob, os, pickle, time, sys, json
 files = glob.glob("*" )
+files.sort()
 
 f=open("README.md","w")
 f.write ( "# SModelS Databases\n\n" )
@@ -24,7 +25,7 @@ for F in files:
         if "mtime" in d:
             mtime = d["mtime" ]
         size = sizeof_fmt ( d["size"] )
-        line = f'| {F:23.23} | {mtime:25.25} | {size:8.8} |\n'
+        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} |\n'
         f.write ( line )
 
 f.close()
