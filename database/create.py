@@ -12,7 +12,7 @@ files = glob.glob("*" )
 files.sort()
 
 f=open("README.md","w")
-f.write ( '<p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>\n\n' )
+##f.write ( '<p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>\n\n' )
 f.write ( "# SModelS Databases\n\n" )
 f.write ( "|        **label**        |         **mtime**         | **size** | **server** |\n" )
 f.write ( "|-------------------------|---------------------------|----------|------------|\n" )
@@ -27,7 +27,8 @@ for F in files:
         if "mtime" in d:
             mtime = d["mtime" ]
         size = sizeof_fmt ( d["size"] )
-        server = "SModelS"
+        #server = "SModelS"
+        server = '<img height=30 src="https://smodels.github.io/pics/banner.png" alt="SModelS">'
         if "zenodo" in d["url"]:
             server = "zenodo"
         line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>10.10} |\n'
