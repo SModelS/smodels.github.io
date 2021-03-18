@@ -13,19 +13,23 @@ files.sort()
 
 f=open("README.md","w")
 f.write ( "# SModelS Databases\n\n" )
-f.write ( "|        **label**        |         **mtime**         | **size** |\n" )
-f.write ( "|-------------------------|---------------------------|----------|\n" )
+f.write ( "|        **label**        |         **mtime**         | **size** | **server** |\n" )
+f.write ( "|-------------------------|---------------------------|----------|------------|\n" )
 for F in files:
     if F.endswith(".py") or F.endswith(".md") or F.endswith(".html"):
         continue
-    print ( "open",F )
     with open(F,"rt") as g:
         d = json.load( g )
         mtime = "???"
         if "mtime" in d:
             mtime = d["mtime" ]
         size = sizeof_fmt ( d["size"] )
-        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} |\n'
+        server = "SModelS"
+        if "zenodo" in d["url"]:
+            server = "zenodo"
+        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>8.8} |\n'
         f.write ( line )
+
+f.write ( f"\nPage created {time.asctime()}.\n" )
 
 f.close()
