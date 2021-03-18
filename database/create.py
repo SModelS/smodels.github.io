@@ -25,7 +25,8 @@ for F in files:
         d = json.load( g )
         mtime = "???"
         if "mtime" in d:
-            mtime = d["mtime" ]
+            tokens = d["mtime" ].split(" ")
+            mtime = " ".join ( ( tokens[0], tokens[1], tokens[2], tokens[4] ) )
         size = sizeof_fmt ( d["size"] )
         #server = "SModelS"
         server = '<img height=20 src="https://smodels.github.io/pics/banner.png" alt="SModelS">'
