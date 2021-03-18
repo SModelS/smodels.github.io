@@ -32,7 +32,7 @@ for F in files:
         if "zenodo" in d["url"]:
             # server = "zenodo"
             server = '<img height=30 src="https://smodels.github.io/logos/zenodo_small.png" alt="SModelS">'
-        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>10.10} |\n'
+        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>40.40} |\n'
         f.write ( line )
 
 f.write ( f"\nPage created {time.asctime()}.\n" )
