@@ -14,8 +14,8 @@ files.sort()
 f=open("README.md","w")
 ##f.write ( '<p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>\n\n' )
 f.write ( "# SModelS Databases\n\n" )
-f.write ( "|        **label**        |         **mtime**         | **size** | **server** |\n" )
-f.write ( "|-------------------------|---------------------------|----------|------------|\n" )
+f.write ( "|         **label**         |         **mtime**         | **size** | **server** |\n" )
+f.write ( "|---------------------------|---------------------------|----------|------------|\n" )
 for F in files:
     if F.endswith(".py") or F.endswith(".md") or F.endswith(".html"):
         continue
@@ -32,7 +32,7 @@ for F in files:
         if "zenodo" in d["url"]:
             # server = "zenodo"
             server = '<img height=20 src="https://smodels.github.io/logos/zenodo_small.png" alt="zenodo">'
-        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server} |\n'
+        line = f'| {F:25.25} | {mtime:25.25} | {size:>8.8} | {server} |\n'
         f.write ( line )
 
 f.write ( f"\nPage created {time.asctime()}.\n" )
