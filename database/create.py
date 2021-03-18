@@ -12,11 +12,14 @@ files = glob.glob("*" )
 files.sort()
 
 f=open("README.md","w")
+f.write ( '<p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>\n\n' )
 f.write ( "# SModelS Databases\n\n" )
 f.write ( "|        **label**        |         **mtime**         | **size** | **server** |\n" )
 f.write ( "|-------------------------|---------------------------|----------|------------|\n" )
 for F in files:
     if F.endswith(".py") or F.endswith(".md") or F.endswith(".html"):
+        continue
+    if F in  [ "obsolete" ]:
         continue
     with open(F,"rt") as g:
         d = json.load( g )
