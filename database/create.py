@@ -28,10 +28,10 @@ for F in files:
             mtime = d["mtime" ]
         size = sizeof_fmt ( d["size"] )
         #server = "SModelS"
-        server = '<img height=30 src="https://smodels.github.io/pics/banner.png" alt="SModelS">'
+        server = '<img height=25 src="https://smodels.github.io/pics/banner.png" alt="SModelS">'
         if "zenodo" in d["url"]:
             # server = "zenodo"
-            server = '<img height=30 src="https://smodels.github.io/logos/zenodo_small.png" alt="zenodo">'
+            server = '<img height=25 src="https://smodels.github.io/logos/zenodo_small.png" alt="zenodo">'
         line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server} |\n'
         f.write ( line )
 
