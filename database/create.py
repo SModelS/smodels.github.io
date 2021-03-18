@@ -30,7 +30,8 @@ for F in files:
         #server = "SModelS"
         server = '<img height=30 src="https://smodels.github.io/pics/banner.png" alt="SModelS">'
         if "zenodo" in d["url"]:
-            server = "zenodo"
+            # server = "zenodo"
+            server = '<img height=30 src="https://smodels.github.io/logos/zenodo_small.png" alt="SModelS">'
         line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>10.10} |\n'
         f.write ( line )
 
