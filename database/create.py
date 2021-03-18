@@ -27,7 +27,7 @@ for F in files:
         server = "SModelS"
         if "zenodo" in d["url"]:
             server = "zenodo"
-        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>8.8} |\n'
+        line = f'| {F:23.23} | {mtime:25.25} | {size:>8.8} | {server:>10.10} |\n'
         f.write ( line )
 
 f.write ( f"\nPage created {time.asctime()}.\n" )
