@@ -29,7 +29,6 @@ In total, we have results from 2 ATLAS and 1 CMS 8 TeV searches.
 | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary210-ww#T2bbWWoff) [(1)](#A1), [T6bbWWoff](SmsDictionary210-ww#T6bbWWoff) [(1)](#A1) | | cov. |
 | **Publications** | | | | | |
 | [CMS-SUS-16-050](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary210-ww#T1tttt), [T1ttttoff](SmsDictionary210-ww#T1ttttoff), [T2tt](SmsDictionary210-ww#T2tt), [T2ttoff](SmsDictionary210-ww#T2ttoff), [T5tctc](SmsDictionary210-ww#T5tctc) | | cov. |
-| **Publications** | | | | | |
 | [CMS-SUS-16-050-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-agg"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary210-ww#T1tttt), [T1ttttoff](SmsDictionary210-ww#T1ttttoff), [T2tt](SmsDictionary210-ww#T2tt), [T2ttoff](SmsDictionary210-ww#T2ttoff), [T5tctc](SmsDictionary210-ww#T5tctc) | | cov. |
 
 <a name="ATLASupperlimits13"></a>
@@ -80,4 +79,4 @@ In total, we have results from 2 ATLAS and 1 CMS 8 TeV searches.
 
 <a name='A5'>(5)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Sun Apr 11 14:33:02 2021.
+This page was created Sun Apr 11 15:35:38 2021.
