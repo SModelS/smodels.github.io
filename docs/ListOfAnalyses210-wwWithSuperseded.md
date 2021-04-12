@@ -2,7 +2,7 @@
 
 # List Of Analyses 2.1.0-ww (including superseded results)
 List of analyses and topologies in the SMS results database,
-comprising 756 individual maps from 204 distinct signal regions, 17 different SMS topologies, from a total of 9 analyses.
+comprising 779 individual maps from 209 distinct signal regions, 17 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `2.1.0-ww.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210-ww) and a [validation page](Validation210-ww).
 Link to list of results [without superseded results](ListOfAnalyses210-ww).
@@ -17,7 +17,8 @@ In total, we have results from 3 ATLAS and 3 CMS 13 TeV searches.
 
 ### Run 1 - 8 TeV
 In total, we have results from 2 ATLAS and 1 CMS 8 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits8): 2  analyses, 8 results
+ * [ATLAS upper limits](#ATLASupperlimits8): 2  analyses, 10 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 1  analyses, 5 results, 21 individual maps
  * [CMS upper limits](#CMSupperlimits8): 1  analyses, 5 results
 
 <a name="CMSefficiencymaps13"></a>
@@ -66,7 +67,15 @@ In total, we have results from 2 ATLAS and 1 CMS 8 TeV searches.
 | **Conf Notes** | | | | | |
 | [ATLAS-CONF-2013-007](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-007/)<a name="ATLAS-CONF-2013-007"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.7 | [T1btbt](SmsDictionary210-ww#T1btbt), [T1tttt](SmsDictionary210-ww#T1tttt), [T5tttt](SmsDictionary210-ww#T5tttt), [T6ttWW](SmsDictionary210-ww#T6ttWW), [T6ttWWoff](SmsDictionary210-ww#T6ttWWoff) | |  |
 | **Publications** | | | | | |
-| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary210-ww#T1tttt), [T6ttWW](SmsDictionary210-ww#T6ttWW), [T6ttWWoff](SmsDictionary210-ww#T6ttWWoff) | |  |
+| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary210-ww#T1tttt), [T5WW](SmsDictionary210-ww#T5WW), [T5tctc](SmsDictionary210-ww#T5tctc), [T6ttWW](SmsDictionary210-ww#T6ttWW), [T6ttWWoff](SmsDictionary210-ww#T6ttWWoff) | |  |
+
+<a name="ATLASefficiencymaps8"></a>
+## ATLAS, efficiency maps, 8 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(5)](#A5)** |
+|--------|-----------------------|--------------|--------------|-------------------|-------------------------|
+| **Publications** | | | | | |
+| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary210-ww#T1tttt), [T5WW](SmsDictionary210-ww#T5WW), [T5tctc](SmsDictionary210-ww#T5tctc), [T6ttWW](SmsDictionary210-ww#T6ttWW), [T6ttWWoff](SmsDictionary210-ww#T6ttWWoff) | |  |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
@@ -79,4 +88,4 @@ In total, we have results from 2 ATLAS and 1 CMS 8 TeV searches.
 
 <a name='A5'>(5)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Sun Apr 11 16:46:20 2021.
+This page was created Mon Apr 12 10:04:22 2021.
