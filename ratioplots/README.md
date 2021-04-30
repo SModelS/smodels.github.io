@@ -1,9 +1,9 @@
 # ratio plots on the upper limits
-as of Wed Jun 17 15:07:13 2020
+as of Fri Apr 30 12:24:08 2021
 see also [best signal regions](bestSRs)
 
 | ratio plots | ratio plots |
-| <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_low_vs_high_T1.png?399233" /> | <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_low_vs_high_T2.png?399233" /> |
-| <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_orig_vs_high_T1.png?399233" /> | <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_orig_vs_high_T2.png?399233" /> |
-| <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_orig_vs_high_T2_2jMeff1600.png?399233" /> | <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_orig_vs_low_T1.png?399233" /> |
-| <img src="https://smodels.github.io/ratioplots/atlas_susy_2016_07_orig_vs_low_T2.png?399233" />  | |
+| <img src="https://smodels.github.io/ratioplots/ratios_T1bbbb_ATLAS-SUSY-2013-18.png?27778248" /> | <img src="https://smodels.github.io/ratioplots/ratios_T1tttt_ATLAS-SUSY-2013-09.png?27778248" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_T1tttt_ATLAS-SUSY-2013-18.png?27778248" /> | <img src="https://smodels.github.io/ratioplots/ratios_T5WW_ATLAS-SUSY-2013-20.png?27778248" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_T5WWoff_ATLAS-SUSY-2013-20.png?27778248" /> | <img src="https://smodels.github.io/ratioplots/ratios_T6WW_ATLAS-SUSY-2013-20.png?27778248" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_T6WWoff_ATLAS-SUSY-2013-20.png?27778248" /> | <img src="https://smodels.github.io/ratioplots/ratios_T6ttWW_ATLAS-SUSY-2013-09.png?27778248" /> |
