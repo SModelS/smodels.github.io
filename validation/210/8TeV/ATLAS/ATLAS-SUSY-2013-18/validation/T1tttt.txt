@@ -1,3 +1,7 @@
-comment_by: Suchita Kulkarni
-date: Wed Dec 21 09:28:49 CET 2016
-comment: "The digitized data (but not the one on the official plot) starts at 600 GeV. That is why there is no points in the validation plot for lower values."
+comment_by: Andre Lessa
+date: Sab Dez 24 19:21:27 BRST 2016
+comment: "The original data has a bin at mgluino = 800 which is 858 fb and should not be
+excluded. This results in a few non-excluded points below the official curve in this region.
+But the result seems consistent."
+
+
