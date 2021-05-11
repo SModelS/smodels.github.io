@@ -2,9 +2,9 @@
 
 # List Of Analyses 2.1.0 
 List of analyses and topologies in the SMS results database,
-comprising 3181 individual maps from 438 distinct signal regions, 106 different SMS topologies, from a total of 102 analyses.
+comprising 2053 individual maps from 378 distinct signal regions, 93 different SMS topologies, from a total of 94 analyses.
 The list has been created from the database version `2.1.0.`
-Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210) and a [validation page](Validation210).
+210There is also an  [sms dictionary](SmsDictionary) and a [validation page](Validation210).
 Link to list of results [including superseded results](ListOfAnalyses210WithSuperseded).
     
 ## Individual tables
@@ -17,16 +17,16 @@ In total, we have results from 29 ATLAS and 32 CMS 13 TeV searches.
  * [CMS efficiency maps](#CMSefficiencymaps13): 4  analyses, 16 results, 172 individual maps
 
 ### Run 1 - 8 TeV
-In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
+In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 13  analyses, 34 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 18  (of which 8 FastLim) analyses, 173 (of which 142 FastLim) results, 1397 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 10  analyses, 31 results, 269 individual maps
  * [CMS upper limits](#CMSupperlimits8): 16  analyses, 56 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps8): 8  analyses, 45 (of which 9 LLP) results, 972 individual maps
 
 <a name="CMSupperlimits13"></a>
 ## CMS, upper limits, 13 TeV (29 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **PAS** | | | | |
 | [CMS-PAS-EXO-16-036](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/EXO-16-036/index.html)<a name="CMS-PAS-EXO-16-036"></a> | hscp search | 12.9 | [THSCPM1b](SmsDictionary210#THSCPM1b), [TRHadGM1](SmsDictionary210#TRHadGM1), [TRHadQM1](SmsDictionary210#TRHadQM1) |  |
@@ -63,20 +63,20 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (4 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-19-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-001/index.html)<a name="CMS-EXO-19-001"></a> | displaced vertices | 137.0 | [T2Disp](SmsDictionary210#T2Disp) |  |
 | [CMS-EXO-19-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-010/)<a name="CMS-EXO-19-010"></a> | disappearing track | 101.0 | [TDTM1F](SmsDictionary210#TDTM1F), [TDTM2F](SmsDictionary210#TDTM2F) |  |
 | **PAS** | | | | |
-| [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052-agg"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary210#T2bbWWoff) [(3)](#A3), [T6bbWWoff](SmsDictionary210#T6bbWWoff) [(3)](#A3) | cov. |
+| [CMS-PAS-SUS-16-052-agg](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)<a name="CMS-PAS-SUS-16-052-agg"></a> | soft lepton, <= 2 jets | 35.9 | [T2bbWWoff](SmsDictionary210#T2bbWWoff) [(2)](#A2), [T6bbWWoff](SmsDictionary210#T6bbWWoff) [(2)](#A2) | cov. |
 | **Publications** | | | | |
 | [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)<a name="CMS-SUS-16-033"></a> | 0L + jets + Etmiss (using MHT) | 35.9 | [T1](SmsDictionary210#T1) [(1)](#A1), [T1bbbb](SmsDictionary210#T1bbbb) [(1)](#A1), [T1tttt](SmsDictionary210#T1tttt) [(1)](#A1), [T1ttttoff](SmsDictionary210#T1ttttoff) [(1)](#A1), [T2](SmsDictionary210#T2) [(1)](#A1), [T2bb](SmsDictionary210#T2bb) [(1)](#A1), [T2tt](SmsDictionary210#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary210#T2ttoff) [(1)](#A1), [T3GQ](SmsDictionary210#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary210#T5GQ) [(1)](#A1), [TGQ](SmsDictionary210#TGQ) [(1)](#A1) |  |
 
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (27 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2015-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-01/)<a name="ATLAS-SUSY-2015-01"></a> | 2 b-jets + Etmiss | 3.2 | [T2bb](SmsDictionary210#T2bb) |  |
@@ -110,7 +110,7 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (12 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary210#T2tt) |  |
@@ -129,7 +129,7 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSupperlimits8"></a>
 ## CMS, upper limits, 8 TeV (16 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-12-026](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-026/index.html)<a name="CMS-EXO-12-026"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary210#THSCPM1b), [TRHadGM1](SmsDictionary210#TRHadGM1), [TRHadUM1](SmsDictionary210#TRHadUM1) |  |
@@ -154,7 +154,7 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name="CMSefficiencymaps8"></a>
 ## CMS, efficiency maps, 8 TeV (8 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary210#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary210#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary210#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary210#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary210#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary210#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary210#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary210#THSCPM8) [(1)](#A1), [THSCPM9](SmsDictionary210#THSCPM9) [(1)](#A1) |  |
@@ -171,7 +171,7 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name="ATLASupperlimits8"></a>
 ## ATLAS, upper limits, 8 TeV (13 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(4)](#A4)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2013-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/)<a name="ATLAS-SUSY-2013-02"></a> | 0 leptons + 2-6 jets + Etmiss | 20.3 | [T1](SmsDictionary210#T1), [T2](SmsDictionary210#T2), [T5WW](SmsDictionary210#T5WW), [T5WWoff](SmsDictionary210#T5WWoff), [T5tctc](SmsDictionary210#T5tctc), [T6WW](SmsDictionary210#T6WW) |  |
@@ -189,19 +189,10 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2013-23](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-23/)<a name="ATLAS-SUSY-2013-23"></a> | 1 lepton + 2 b-jets (or 2 photons) + Etmiss (mbb = mH) | 20.3 | [TChiWH](SmsDictionary210#TChiWH) |  |
 
 <a name="ATLASefficiencymaps8"></a>
-## ATLAS, efficiency maps, 8 TeV (18 analyses)
+## ATLAS, efficiency maps, 8 TeV (10 analyses)
 
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(5)](#A5)** |
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
-| **Conf Notes** | | | | |
-| [ATLAS-CONF-2013-024](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-024/)<a name="ATLAS-CONF-2013-024"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.5 | [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbqq](SmsDictionary210#T1bbqq), [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1btqq](SmsDictionary210#T1btqq), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2bb](SmsDictionary210#T2bb), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQbbq](SmsDictionary210#TGQbbq), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-037](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-037/)<a name="ATLAS-CONF-2013-037"></a> | 1 lepton + &ge; 4(1 b-)jets + Etmiss | 20.7 | [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1btqq](SmsDictionary210#T1btqq), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-047](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-047/)<a name="ATLAS-CONF-2013-047"></a> | 0 leptons + 2-6 jets + Etmiss | 20.3 | [T1](SmsDictionary210#T1), [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbqq](SmsDictionary210#T1bbqq), [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1btqq](SmsDictionary210#T1btqq), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2](SmsDictionary210#T2), [T2bb](SmsDictionary210#T2bb), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQ](SmsDictionary210#TGQ), [TGQbbq](SmsDictionary210#TGQbbq), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-048](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-048/)<a name="ATLAS-CONF-2013-048"></a> | 2 leptons + (b)jets + Etmiss | 20.3 | [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2tt](SmsDictionary210#T2tt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-053](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-053/)<a name="ATLAS-CONF-2013-053"></a> | 0 leptons + 2 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbqq](SmsDictionary210#T1bbqq), [T1bbtt](SmsDictionary210#T1bbtt), [T1btqq](SmsDictionary210#T1btqq), [T2bb](SmsDictionary210#T2bb), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQbbq](SmsDictionary210#TGQbbq), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-054](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-054/)<a name="ATLAS-CONF-2013-054"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1](SmsDictionary210#T1), [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbqq](SmsDictionary210#T1bbqq), [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1btqq](SmsDictionary210#T1btqq), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2](SmsDictionary210#T2), [T2bb](SmsDictionary210#T2bb), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQ](SmsDictionary210#TGQ), [TGQbbq](SmsDictionary210#TGQbbq), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-062](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-062/)<a name="ATLAS-CONF-2013-062"></a> | 1 lepton + jets + Etmiss | 20.3 | [T1](SmsDictionary210#T1), [T1bbbb](SmsDictionary210#T1bbbb), [T1bbbt](SmsDictionary210#T1bbbt), [T1bbqq](SmsDictionary210#T1bbqq), [T1bbtt](SmsDictionary210#T1bbtt), [T1btbt](SmsDictionary210#T1btbt), [T1btqq](SmsDictionary210#T1btqq), [T1bttt](SmsDictionary210#T1bttt), [T1qqtt](SmsDictionary210#T1qqtt), [T1tttt](SmsDictionary210#T1tttt), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbb](SmsDictionary210#T5bbbb), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb), [T5tbtt](SmsDictionary210#T5tbtt), [T5tttt](SmsDictionary210#T5tttt), [TGQbbq](SmsDictionary210#TGQbbq), [TGQbtq](SmsDictionary210#TGQbtq), [TGQqtt](SmsDictionary210#TGQqtt) (from FastLim [(2)](#A2)) |  |
-| [ATLAS-CONF-2013-093](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2013-093/)<a name="ATLAS-CONF-2013-093"></a> | 1 lepton + 2 b-jets + Etmiss (mbb = mH) | 20.3 | [T1bbbt](SmsDictionary210#T1bbbt), [T2bt](SmsDictionary210#T2bt), [T2tt](SmsDictionary210#T2tt), [T5bbbt](SmsDictionary210#T5bbbt), [T5btbt](SmsDictionary210#T5btbt), [T5tbtb](SmsDictionary210#T5tbtb) (from FastLim [(2)](#A2)) |  |
 | **Publications** | | | | |
 | [ATLAS-SUSY-2013-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/)<a name="ATLAS-SUSY-2013-02"></a> | jets and met | 20.3 | [T1](SmsDictionary210#T1), [T2](SmsDictionary210#T2) [(1)](#A1), [T3GQ](SmsDictionary210#T3GQ) [(1)](#A1), [T5](SmsDictionary210#T5) [(1)](#A1) |  |
 | [ATLAS-SUSY-2013-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/)<a name="ATLAS-SUSY-2013-04"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1bbbb](SmsDictionary210#T1bbbb) [(1)](#A1), [T1btbt](SmsDictionary210#T1btbt) [(1)](#A1), [T1tttt](SmsDictionary210#T1tttt), [T2tt](SmsDictionary210#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary210#T2ttoff) [(1)](#A1), [T5](SmsDictionary210#T5) [(1)](#A1), [T5WW](SmsDictionary210#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary210#T5ZZ) [(1)](#A1), [T6bbWW](SmsDictionary210#T6bbWW) [(1)](#A1) |  |
@@ -217,12 +208,10 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
 
-<a name='A2'>(2)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
+<a name='A2'>(2)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
-<a name='A3'>(3)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
+<a name='A3'>(3)</a> Expected upper limits ('exp. ULs'): Can be used to compute a crude approximation of a likelihood, modelled as a truncated Gaussian.
 
-<a name='A4'>(4)</a> Expected upper limits ('exp. ULs'): Can be used to compute a crude approximation of a likelihood, modelled as a truncated Gaussian.
+<a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-<a name='A5'>(5)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
-
-This page was created Thu May  6 20:23:00 2021.
+This page was created Tue May 11 12:36:53 2021.
