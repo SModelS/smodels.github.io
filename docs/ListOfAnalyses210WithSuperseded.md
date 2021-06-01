@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0 (including superseded results)
-List of analyses and topologies in the SMS results database,comprising 2132 individual maps from 406 distinct signal regions, 93 different SMS topologies, from a total of 122 analyses.
+List of analyses and topologies in the SMS results database,comprising 2231 individual maps from 432 distinct signal regions, 93 different SMS topologies, from a total of 122 analyses.
 The list has been created from the database version `2.1.0.`
 There is also an  [sms dictionary](SmsDictionary210) and a [validation page](Validation210).
 Link to list of results [without superseded results](ListOfAnalyses210).
@@ -9,7 +9,7 @@ Link to list of results [without superseded results](ListOfAnalyses210).
 ### Run 2 - 13 TeV
 In total, we have results from 29 ATLAS and 41 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 27  analyses, 64 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 12  analyses, 40 (of which 9 LLP) results, 366 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 13  analyses, 44 (of which 9 LLP) results, 465 individual maps
  * [CMS upper limits](#CMSupperlimits13): 38  analyses, 157 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 4  analyses, 16 results, 172 individual maps
 
@@ -114,7 +114,7 @@ In total, we have results from 31 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary210+superseded#TChiWH) | |  |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (12 analyses)
+## ATLAS, efficiency maps, 13 TeV (13 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -128,6 +128,7 @@ In total, we have results from 31 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2016-27](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-27/)<a name="ATLAS-SUSY-2016-27"></a> | jets + photon + Etmiss | 36.1 | [T5gg](SmsDictionary210+superseded#T5gg), [T6gg](SmsDictionary210+superseded#T6gg) | |  |
 | [ATLAS-SUSY-2016-32](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-32/index.html)<a name="ATLAS-SUSY-2016-32"></a> | hscp search | 31.6 | [THSCPM1b](SmsDictionary210+superseded#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary210+superseded#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary210+superseded#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary210+superseded#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary210+superseded#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary210+superseded#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary210+superseded#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary210+superseded#THSCPM8) [(1)](#A1), [THSCPM9](SmsDictionary210+superseded#THSCPM9) [(1)](#A1) | |  |
 | [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04"></a> | 2 hadronic taus | 139.0 | [TStauStau](SmsDictionary210+superseded#TStauStau) | | json |
+| [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary210+superseded#T5WW), [T5WWoff](SmsDictionary210+superseded#T5WWoff), [T6WW](SmsDictionary210+superseded#T6WW), [T6WWoff](SmsDictionary210+superseded#T6WWoff) | |  |
 | [ATLAS-SUSY-2018-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/)<a name="ATLAS-SUSY-2018-12"></a> | 0 leptons + jets + Etmiss | 139.0 | [T2bbffff](SmsDictionary210+superseded#T2bbffff), [T2tt](SmsDictionary210+superseded#T2tt), [T2ttoff](SmsDictionary210+superseded#T2ttoff) | |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary210+superseded#T6bbHH) | | json |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary210+superseded#TChiWH) | | json |
@@ -240,4 +241,4 @@ In total, we have results from 31 ATLAS and 21 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Tue May 11 12:54:58 2021.
+This page was created Tue Jun  1 14:08:44 2021.
