@@ -124,7 +124,7 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary210#T5WW), [T5WWoff](SmsDictionary210#T5WWoff), [T6WW](SmsDictionary210#T6WW), [T6WWoff](SmsDictionary210#T6WWoff) |  |
 | [ATLAS-SUSY-2018-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/)<a name="ATLAS-SUSY-2018-12"></a> | 0 leptons + jets + Etmiss | 139.0 | [T2bbffff](SmsDictionary210#T2bbffff), [T2tt](SmsDictionary210#T2tt), [T2ttoff](SmsDictionary210#T2ttoff) |  |
 | [ATLAS-SUSY-2018-14](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/)<a name="ATLAS-SUSY-2018-14"></a> | displaced vertices | 139.0 | [TSelSelDisp](SmsDictionary210#TSelSelDisp), [TSmuSmuDisp](SmsDictionary210#TSmuSmuDisp), [TStauStauDisp](SmsDictionary210#TStauStauDisp) | json |
-| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | jets + MET | 139.0 | [T1](SmsDictionary210#T1), [T2](SmsDictionary210#T2), [T5WW](SmsDictionary210#T5WW) | json |
+| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | jets + MET | 139.0 | [T1](SmsDictionary210#T1), [T2](SmsDictionary210#T2), [T5WW](SmsDictionary210#T5WW) |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary210#T6bbHH) | json |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary210#TChiWH) | json |
 
@@ -227,4 +227,4 @@ In total, we have results from 23 ATLAS and 18 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jun 17 10:08:34 2021.
+This page was created Thu Jun 17 12:13:53 2021.

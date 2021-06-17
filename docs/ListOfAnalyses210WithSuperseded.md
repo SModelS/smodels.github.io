@@ -133,7 +133,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary210+superseded#T5WW), [T5WWoff](SmsDictionary210+superseded#T5WWoff), [T6WW](SmsDictionary210+superseded#T6WW), [T6WWoff](SmsDictionary210+superseded#T6WWoff) | |  |
 | [ATLAS-SUSY-2018-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/)<a name="ATLAS-SUSY-2018-12"></a> | 0 leptons + jets + Etmiss | 139.0 | [T2bbffff](SmsDictionary210+superseded#T2bbffff), [T2tt](SmsDictionary210+superseded#T2tt), [T2ttoff](SmsDictionary210+superseded#T2ttoff) | |  |
 | [ATLAS-SUSY-2018-14](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/)<a name="ATLAS-SUSY-2018-14"></a> | displaced vertices | 139.0 | [TSelSelDisp](SmsDictionary210+superseded#TSelSelDisp), [TSmuSmuDisp](SmsDictionary210+superseded#TSmuSmuDisp), [TStauStauDisp](SmsDictionary210+superseded#TStauStauDisp) | | json |
-| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | jets + MET | 139.0 | [T1](SmsDictionary210+superseded#T1), [T2](SmsDictionary210+superseded#T2), [T5WW](SmsDictionary210+superseded#T5WW) | | json |
+| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | jets + MET | 139.0 | [T1](SmsDictionary210+superseded#T1), [T2](SmsDictionary210+superseded#T2), [T5WW](SmsDictionary210+superseded#T5WW) | |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary210+superseded#T6bbHH) | | json |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary210+superseded#TChiWH) | | json |
 
@@ -257,4 +257,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jun 17 10:06:04 2021.
+This page was created Thu Jun 17 12:11:26 2021.
