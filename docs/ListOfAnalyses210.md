@@ -2,7 +2,7 @@
 List of analyses and topologies in the SMS results database,comprising 2182 individual maps from 428 distinct signal regions, 96 different SMS topologies, from a total of 96 analyses.
 The list has been created from the database version `2.1.0.`
 There is also an  [sms dictionary](SmsDictionary210) and a [validation page](Validation210).
-Link to list of results [including superseded results](ListOfAnalyses210WithSuperseded).
+Link to list of results [including superseded and fastlim results](ListOfAnalyses210WithSuperseded).
 
 ## Individual tables
 
