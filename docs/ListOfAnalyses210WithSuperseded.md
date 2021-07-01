@@ -1,8 +1,8 @@
-# List Of Analyses 2.1.0 (including superseded results)
+# List Of Analyses 2.1.0 (including superseded and fastlim results)
 List of analyses and topologies in the SMS results database,comprising 3560 individual maps from 525 distinct signal regions, 109 different SMS topologies, from a total of 126 analyses.
 The list has been created from the database version `2.1.0.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210) and a [validation page](Validation210).
-Link to list of results [without superseded results](ListOfAnalyses210).
+Link to list of results [without superseded and fastlim results](ListOfAnalyses210).
 
 ## Individual tables
 
@@ -257,4 +257,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jul  1 15:24:56 2021.
+This page was created Thu Jul  1 16:09:19 2021.
