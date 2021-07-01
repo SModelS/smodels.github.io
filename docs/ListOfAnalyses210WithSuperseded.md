@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0 (including superseded results)
-List of analyses and topologies in the SMS results database,comprising 3563 individual maps from 525 distinct signal regions, 109 different SMS topologies, from a total of 126 analyses.
+List of analyses and topologies in the SMS results database,comprising 3560 individual maps from 525 distinct signal regions, 109 different SMS topologies, from a total of 126 analyses.
 The list has been created from the database version `2.1.0.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210) and a [validation page](Validation210).
 Link to list of results [without superseded results](ListOfAnalyses210).
@@ -9,7 +9,7 @@ Link to list of results [without superseded results](ListOfAnalyses210).
 ### Run 2 - 13 TeV
 In total, we have results from 31 ATLAS and 41 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 28  analyses, 70 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 16  analyses, 52 (of which 9 LLP) results, 492 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 16  analyses, 52 (of which 9 LLP) results, 489 individual maps
  * [CMS upper limits](#CMSupperlimits13): 38  analyses, 157 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 4  analyses, 16 results, 172 individual maps
 
@@ -257,4 +257,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jun 17 12:11:26 2021.
+This page was created Thu Jul  1 15:24:56 2021.
