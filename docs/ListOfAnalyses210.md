@@ -80,7 +80,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2015-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary210#T2tt) |  |
 | [ATLAS-SUSY-2015-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-09/)<a name="ATLAS-SUSY-2015-09"></a> | jets + 2 SS leptons or &ge;3 leptons | 3.2 | [T1tttt](SmsDictionary210#T1tttt) |  |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T1](SmsDictionary210#T1), [T2](SmsDictionary210#T2), [T5WW](SmsDictionary210#T5WW), [T5WWoff](SmsDictionary210#T5WWoff), [T5WZh](SmsDictionary210#T5WZh), [T5ZZ](SmsDictionary210#T5ZZ), [T6WW](SmsDictionary210#T6WW), [T6WWoff](SmsDictionary210#T6WWoff), [T6WZh](SmsDictionary210#T6WZh) |  |
-| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T5Disp](SmsDictionary210#T5Disp) |  |
+| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T1Disp](SmsDictionary210#T1Disp) |  |
 | [ATLAS-SUSY-2016-14](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-14/)<a name="ATLAS-SUSY-2016-14"></a> | 2 same-sign or 3 leptons + jets + Etmiss | 36.1 | [T1ttofftt](SmsDictionary210#T1ttofftt), [T1tttt](SmsDictionary210#T1tttt), [T1ttttoff](SmsDictionary210#T1ttttoff), [T6ttWW](SmsDictionary210#T6ttWW) |  |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop | 36.1 | [T2bbffff](SmsDictionary210#T2bbffff), [T2tt](SmsDictionary210#T2tt), [T2ttoff](SmsDictionary210#T2ttoff) |  |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.1 | [T2bbffff](SmsDictionary210#T2bbffff), [T2tt](SmsDictionary210#T2tt), [T2ttoff](SmsDictionary210#T2ttoff), [T6bbWW](SmsDictionary210#T6bbWW) |  |
@@ -216,4 +216,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Jul  7 14:14:35 2021.
+This page was created Thu Jul  8 17:04:40 2021.

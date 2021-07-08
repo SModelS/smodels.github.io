@@ -89,7 +89,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2015-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary210+superseded#T2tt) | |  |
 | [ATLAS-SUSY-2015-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-09/)<a name="ATLAS-SUSY-2015-09"></a> | jets + 2 SS leptons or &ge;3 leptons | 3.2 | [T1tttt](SmsDictionary210+superseded#T1tttt) | |  |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T1](SmsDictionary210+superseded#T1), [T2](SmsDictionary210+superseded#T2), [T5WW](SmsDictionary210+superseded#T5WW), [T5WWoff](SmsDictionary210+superseded#T5WWoff), [T5WZh](SmsDictionary210+superseded#T5WZh), [T5ZZ](SmsDictionary210+superseded#T5ZZ), [T6WW](SmsDictionary210+superseded#T6WW), [T6WWoff](SmsDictionary210+superseded#T6WWoff), [T6WZh](SmsDictionary210+superseded#T6WZh) | |  |
-| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T5Disp](SmsDictionary210+superseded#T5Disp) | |  |
+| [ATLAS-SUSY-2016-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-08/)<a name="ATLAS-SUSY-2016-08"></a> | displaced vertices | 32.8 | [T1Disp](SmsDictionary210+superseded#T1Disp) | |  |
 | [ATLAS-SUSY-2016-14](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-14/)<a name="ATLAS-SUSY-2016-14"></a> | 2 same-sign or 3 leptons + jets + Etmiss | 36.1 | [T1ttofftt](SmsDictionary210+superseded#T1ttofftt), [T1tttt](SmsDictionary210+superseded#T1tttt), [T1ttttoff](SmsDictionary210+superseded#T1ttttoff), [T6ttWW](SmsDictionary210+superseded#T6ttWW) | |  |
 | [ATLAS-SUSY-2016-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-15/)<a name="ATLAS-SUSY-2016-15"></a> | 0L stop | 36.1 | [T2bbffff](SmsDictionary210+superseded#T2bbffff), [T2tt](SmsDictionary210+superseded#T2tt), [T2ttoff](SmsDictionary210+superseded#T2ttoff) | |  |
 | [ATLAS-SUSY-2016-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-16/)<a name="ATLAS-SUSY-2016-16"></a> | 1L stop | 36.1 | [T2bbffff](SmsDictionary210+superseded#T2bbffff), [T2tt](SmsDictionary210+superseded#T2tt), [T2ttoff](SmsDictionary210+superseded#T2ttoff), [T6bbWW](SmsDictionary210+superseded#T6bbWW) | |  |
@@ -257,4 +257,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Jul  7 14:11:37 2021.
+This page was created Thu Jul  8 16:51:16 2021.
