@@ -1,5 +1,5 @@
 # collection of plots
-Sat Jul 10 21:30:20 2021
+Sat Jul 10 22:57:35 2021
 
 <img src="./TChiWZ_2EqMassAx_EqMassBy_combined_pretty.png" />
 <img src="./TSmuSmuDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png" />
