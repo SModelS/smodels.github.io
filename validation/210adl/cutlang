@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./slurm.py -T T1 -a "cms_sus_19_006" -b "@@cutlang @@mingap1 1. @n 1000 @a" -m "[(200,2501,200),(0,2001,200)]" -p 30 -B 20
