@@ -9,6 +9,10 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
 | 1 | <a name="T1"></a>**T1**<br> | `[[[jet,jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T1" src="../feyn/straight/T1.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
-| 2 | <a name="T2"></a>**T2**<br> | `[[[jet]],[[jet]]]`<BR>`(MET,MET)` | <img alt="T2" src="../feyn/straight/T2.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
+| 2 | <a name="T1bbbb"></a>**T1bbbb**<br> | `[[[b,b]],[[b,b]]]`<BR>`(MET,MET)` | <img alt="T1bbbb" src="../feyn/straight/T1bbbb.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)|
+| 3 | <a name="T1tttt"></a>**T1tttt**<br> | `[[[t,t]],[[t,t]]]`<BR>`(MET,MET)` | <img alt="T1tttt" src="../feyn/straight/T1tttt.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)|
+| 4 | <a name="T2"></a>**T2**<br> | `[[[jet]],[[jet]]]`<BR>`(MET,MET)` | <img alt="T2" src="../feyn/straight/T2.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
+| 5 | <a name="T2bb"></a>**T2bb**<br> | `[[[b]],[[b]]]`<BR>`(MET,MET)` | <img alt="T2bb" src="../feyn/straight/T2bb.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)|
+| 6 | <a name="T2tt"></a>**T2tt**<br> | `[[[t]],[[t]]]`<BR>`(MET,MET)` | <img alt="T2tt" src="../feyn/straight/T2tt.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)|
 
-<font color='grey'>This page was created Wed Jul 28 15:39:09 2021</font>
+<font color='grey'>This page was created Wed Jul 28 16:24:17 2021</font>
