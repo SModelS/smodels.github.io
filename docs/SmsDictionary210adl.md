@@ -9,6 +9,6 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
 | 1 | <a name="T1"></a>**T1**<br> | `[[[jet,jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T1" src="../feyn/straight/T1.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
-| 2 | <a name="T2"></a>**T2**<br> | `[[[jet]],[[jet]]]`<BR>`(MET,MET)` | <img alt="T2" src="../feyn/straight/T2.png" height="130"> | [CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
+| 2 | <a name="T2"></a>**T2**<br> | `[[[jet]],[[jet]]]`<BR>`(MET,MET)` | <img alt="T2" src="../feyn/straight/T2.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 
-<font color='grey'>This page was created Tue Jul 27 17:15:27 2021</font>
+<font color='grey'>This page was created Wed Jul 28 15:39:09 2021</font>

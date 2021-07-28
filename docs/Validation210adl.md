@@ -17,18 +17,19 @@ CMS are for on- and off-shell at once.
 ## Individual tables
 
 ### Run 2 - 13 TeV
- * [CMS efficiency maps](#CMSefficiencymaps13): 2 analyses (2 new), 3 results (3 new)
+ * [CMS efficiency maps](#CMSefficiencymaps13): 2 analyses (2 new), 4 results (4 new)
 
 ### Run 1 - 8 TeV
 
 
 <a name="CMSefficiencymaps13"></a>
-## CMS efficiency maps, 13 TeV: 2 analyses, 3 results total
+## CMS efficiency maps, 13 TeV: 2 analyses, 4 results total
 
 | **Result** | **Txname** | **L [1/fb]** | **Validation plots** | **comment** |
 |------------|------------|--------------|----------------------|-------------|
-| [CMS-SUS-19-005](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html) | [T1](SmsDictionary210adl#T1)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png?1468398928" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
-| [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html) | [T1](SmsDictionary210adl#T1)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png?1468398928" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
-| [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html) | [T2](SmsDictionary210adl#T2)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png?1468398928" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
+| [CMS-SUS-19-005](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html) | [T1](SmsDictionary210adl#T1)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png?1468479550" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
+| [CMS-SUS-19-005](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html) | [T2](SmsDictionary210adl#T2)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-005-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png?1468479550" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
+| [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html) | [T1](SmsDictionary210adl#T1)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T1_2EqMassAx_EqMassBy_pretty.png?1468479550" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
+| [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html) | [T2](SmsDictionary210adl#T2)| 137.0|<a href="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png"><img src="https://smodels.github.io/validation/210adl/13TeV/CMS/CMS-SUS-19-006-eff/validation/T2_2EqMassAx_EqMassBy_pretty.png?1468479550" /></a>  | <img src="https://smodels.github.io/pics/new.png" /> in 2.1.0adl! <br><font color='grey'>source: CMS</font><br>validated: tbd<br> |
 
-This page was created Tue Jul 27 17:15:28 2021
+This page was created Wed Jul 28 15:39:10 2021
