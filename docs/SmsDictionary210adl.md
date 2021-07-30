@@ -15,5 +15,6 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | 5 | <a name="T2"></a>**T2**<br> | `[[[jet]],[[jet]]]`<BR>`(MET,MET)` | <img alt="T2" src="../feyn/straight/T2.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 | 6 | <a name="T2bb"></a>**T2bb**<br> | `[[[b]],[[b]]]`<BR>`(MET,MET)` | <img alt="T2bb" src="../feyn/straight/T2bb.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 | 7 | <a name="T2tt"></a>**T2tt**<br> | `[[[t]],[[t]]]`<BR>`(MET,MET)` | <img alt="T2tt" src="../feyn/straight/T2tt.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
+| 8 | <a name="T2ttoff"></a>**T2ttoff**<br> | `[[[b,W]],[[b,W]]]`<BR>`(MET,MET)` | <img alt="T2ttoff" src="../feyn/straight/T2ttoff.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 
-<font color='grey'>This page was created Fri Jul 30 11:11:50 2021</font>
+<font color='grey'>This page was created Fri Jul 30 17:03:43 2021</font>
