@@ -8,7 +8,7 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
-| 1 | <a name="T1"></a>**T1**<br> | `[[[jet,jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T1" src="../feyn/straight/T1.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
+| 1 | <a name="T1"></a>**T1**<br> | `[[[jet,jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T1" src="../feyn/straight/T1.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)<BR>[CMS-SUS-19-006-ma5](ListOfAnalyses210adl#CMS-SUS-19-006-ma5)|
 | 2 | <a name="T1bbbb"></a>**T1bbbb**<br> | `[[[b,b]],[[b,b]]]`<BR>`(MET,MET)` | <img alt="T1bbbb" src="../feyn/straight/T1bbbb.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 | 3 | <a name="T1tttt"></a>**T1tttt**<br> | `[[[t,t]],[[t,t]]]`<BR>`(MET,MET)` | <img alt="T1tttt" src="../feyn/straight/T1tttt.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 | 4 | <a name="T1ttttoff"></a>**T1ttttoff**<br> | `[[[b,W,b,W]],[[b,W,b,W]]]`<BR>`(MET,MET)` | <img alt="T1ttttoff" src="../feyn/straight/T1ttttoff.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
@@ -17,4 +17,4 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | 7 | <a name="T2tt"></a>**T2tt**<br> | `[[[t]],[[t]]]`<BR>`(MET,MET)` | <img alt="T2tt" src="../feyn/straight/T2tt.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 | 8 | <a name="T2ttoff"></a>**T2ttoff**<br> | `[[[b,W]],[[b,W]]]`<BR>`(MET,MET)` | <img alt="T2ttoff" src="../feyn/straight/T2ttoff.png" height="130"> | [CMS-SUS-19-005](ListOfAnalyses210adl#CMS-SUS-19-005)<BR>[CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)|
 
-<font color='grey'>This page was created Sat Jul 31 11:51:59 2021</font>
+<font color='grey'>This page was created Tue Aug  3 10:38:37 2021</font>
