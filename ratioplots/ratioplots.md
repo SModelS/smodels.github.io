@@ -1,10 +1,12 @@
 # ratio plots on the upper limits
-as of Mon May  3 16:11:16 2021
+as of Wed Aug  4 09:50:10 2021
 
 | ratio plots | ratio plots |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-09-eff_T1tttt.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-09-eff_T6ttWW.png?28051076" /> |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-09_T1tttt.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-09_T6ttWW.png?28051076" /> |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-18-eff_T1bbbb.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-18-eff_T1tttt.png?28051076" /> |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-18_T1bbbb.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-18_T1tttt.png?28051076" /> |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-20_T5WW.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-20_T5WWoff.png?28051076" /> |
-| <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-20_T6WW.png?28051076" /> | <img src="https://smodels.github.io/ratioplots/ratios_ATLAS-SUSY-2013-20_T6WWoff.png?28051076" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T1.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T1bbbb.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T1tttt.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T1ttttoff.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T2.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T2bb.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T2tt.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_CMS-SUS-19-006_T2ttoff.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T1.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T1bbbb.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T1tttt.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T1ttttoff.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T2.png?36063410" /> | <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T2bb.png?36063410" /> |
+| <img src="https://smodels.github.io/ratioplots/ratios_MA5_CMS-SUS-19-006-ma5_T2tt.png?36063410" />  | |
