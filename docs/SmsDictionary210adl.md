@@ -22,4 +22,4 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | 12 | <a name="TChiWZoff"></a>**TChiWZoff**<br> | `[[[mu+,mu-]],[[l,nu]]]+`<BR>`[[[e+,e-]],[[l,nu]]]+`<BR>`[[[mu+,mu-]],[[jet,jet]]]+`<BR>`[[[e+,e-]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="TChiWZoff" src="../feyn/straight/TChiWZoff.png" height="130"> | [CMS-SUS-16-048-ma5](ListOfAnalyses210adl#CMS-SUS-16-048-ma5)|
 | 13 | <a name="TGQ"></a>**TGQ**<br> | `[[[jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="TGQ" src="../feyn/straight/TGQ.png" height="130"> | [CMS-SUS-19-006-ma5](ListOfAnalyses210adl#CMS-SUS-19-006-ma5)|
 
-<font color='grey'>This page was created Sat Aug  7 00:02:37 2021</font>
+<font color='grey'>This page was created Sat Aug  7 11:29:55 2021</font>
