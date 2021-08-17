@@ -24,4 +24,4 @@ There is also a [ListOfAnalyses210adl](https://smodels.github.io/docs/ListOfAnal
 | 14 | <a name="TChiZoff"></a>**TChiZoff**<br> | `[[[mu+,mu-]],[]]+`<BR>`[[[e+,e-]],[]]`<BR>`(MET,MET)` | <img alt="TChiZoff" src="../feyn/straight/TChiZoff.png" height="130"> | [CMS-SUS-16-048-ma5](ListOfAnalyses210adl#CMS-SUS-16-048-ma5)|
 | 15 | <a name="TGQ"></a>**TGQ**<br> | `[[[jet]],[[jet,jet]]]`<BR>`(MET,MET)` | <img alt="TGQ" src="../feyn/straight/TGQ.png" height="130"> | [CMS-SUS-19-006](ListOfAnalyses210adl#CMS-SUS-19-006)<BR>[CMS-SUS-19-006-ma5](ListOfAnalyses210adl#CMS-SUS-19-006-ma5)|
 
-<font color='grey'>This page was created Sat Aug 14 19:32:22 2021</font>
+<font color='grey'>This page was created Tue Aug 17 08:52:06 2021</font>
