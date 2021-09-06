@@ -1,5 +1,10 @@
 TODO:
 =====
+-) 16-048 wrong lumi
+-) make it explicitly where it is from
+-) have a look at index.html, non-reweighted xsecs compare reweighted cross section
+   they should be of same order of magnitude
+-) after matching, do events have the same weight?
 
 ATLAS / Philipp:
 -) ATLAS-SUSY-2016-15, ATLAS-SUSY-2016-24, ATLAS-SUSY-2016-27
