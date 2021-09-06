@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0offshellfix (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database,comprising 821 individual maps from 147 distinct signal regions, 29 different SMS topologies, from a total of 11 analyses.
+List of analyses and topologies in the SMS results database,comprising 437 individual maps from 140 distinct signal regions, 18 different SMS topologies, from a total of 10 analyses.
 The list has been created from the database version `2.1.0offshellfix.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210offshellfix) and a [validation page](Validation210offshellfix).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses210offshellfix).
@@ -11,9 +11,9 @@ In total, we have results from 4 ATLAS and 0 CMS 13 TeV searches.
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4  analyses, 13 results, 214 individual maps
 
 ### Run 1 - 8 TeV
-In total, we have results from 5 ATLAS and 2 CMS 8 TeV searches.
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 5  analyses, 23 results, 203 individual maps
- * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 13 results, 404 individual maps
+In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 4  analyses, 9 results, 71 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 6 results, 152 individual maps
 
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (4 analyses)
@@ -32,20 +32,19 @@ In total, we have results from 5 ATLAS and 2 CMS 8 TeV searches.
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
 | **Publications** | | | | | |
-| [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T2bb](SmsDictionary210offshellfix+superseded#T2bb) [(1)](#A1), [T2bt](SmsDictionary210offshellfix+superseded#T2bt) [(1)](#A1), [T5](SmsDictionary210offshellfix+superseded#T5) [(1)](#A1), [T5WW](SmsDictionary210offshellfix+superseded#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix+superseded#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary210offshellfix+superseded#T5ZZ) [(1)](#A1), [T5bbbb](SmsDictionary210offshellfix+superseded#T5bbbb) [(1)](#A1), [T5tttt](SmsDictionary210offshellfix+superseded#T5tttt) [(1)](#A1), [T6WW](SmsDictionary210offshellfix+superseded#T6WW) [(1)](#A1), [T6bbWW](SmsDictionary210offshellfix+superseded#T6bbWW) [(1)](#A1), [T6bbWWoff](SmsDictionary210offshellfix+superseded#T6bbWWoff) [(1)](#A1) | |  |
+| [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T5WW](SmsDictionary210offshellfix+superseded#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix+superseded#T5WWoff) [(1)](#A1), [T6bbWW](SmsDictionary210offshellfix+superseded#T6bbWW) [(1)](#A1), [T6bbWWoff](SmsDictionary210offshellfix+superseded#T6bbWWoff) [(1)](#A1) | |  |
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)<a name="CMS-SUS-14-021"></a> | soft leptons, low jet multiplicity, high ETmiss | 19.7 | [T2bbWW](SmsDictionary210offshellfix+superseded#T2bbWW), [T2bbWWoff](SmsDictionary210offshellfix+superseded#T2bbWWoff) | |  |
 
 <a name="ATLASefficiencymaps8"></a>
-## ATLAS, efficiency maps, 8 TeV (5 analyses)
+## ATLAS, efficiency maps, 8 TeV (4 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
 | **Publications** | | | | | |
-| [ATLAS-SUSY-2013-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/)<a name="ATLAS-SUSY-2013-04"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T1bbbb](SmsDictionary210offshellfix+superseded#T1bbbb) [(1)](#A1), [T1btbt](SmsDictionary210offshellfix+superseded#T1btbt) [(1)](#A1), [T1tttt](SmsDictionary210offshellfix+superseded#T1tttt), [T2tt](SmsDictionary210offshellfix+superseded#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary210offshellfix+superseded#T2ttoff) [(1)](#A1), [T5](SmsDictionary210offshellfix+superseded#T5) [(1)](#A1), [T5WW](SmsDictionary210offshellfix+superseded#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix+superseded#T5WWoff) [(1)](#A1), [T5ZZ](SmsDictionary210offshellfix+superseded#T5ZZ) [(1)](#A1), [T6bbWW](SmsDictionary210offshellfix+superseded#T6bbWW) [(1)](#A1) | |  |
-| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary210offshellfix+superseded#T1tttt), [T5WW](SmsDictionary210offshellfix+superseded#T5WW), [T5tctc](SmsDictionary210offshellfix+superseded#T5tctc), [T6ttWWoff](SmsDictionary210offshellfix+superseded#T6ttWWoff) | |  |
-| [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)<a name="ATLAS-SUSY-2013-11"></a> | 2 leptons (e,mu) + Etmiss | 20.3 | [TChiWW](SmsDictionary210offshellfix+superseded#TChiWW) [(1)](#A1), [TChiWWoff](SmsDictionary210offshellfix+superseded#TChiWWoff) [(1)](#A1), [TChipChimSlepSnu](SmsDictionary210offshellfix+superseded#TChipChimSlepSnu) [(1)](#A1), [TSlepSlep](SmsDictionary210offshellfix+superseded#TSlepSlep) [(1)](#A1) | |  |
-| [ATLAS-SUSY-2013-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/)<a name="ATLAS-SUSY-2013-16"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.1 | [T2tt](SmsDictionary210offshellfix+superseded#T2tt) | |  |
-| [ATLAS-SUSY-2013-21](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-21/)<a name="ATLAS-SUSY-2013-21"></a> | monojet or c-jet + Etmiss | 20.3 | [T2bb](SmsDictionary210offshellfix+superseded#T2bb), [T2bbWW](SmsDictionary210offshellfix+superseded#T2bbWW), [T2bbWWoff](SmsDictionary210offshellfix+superseded#T2bbWWoff), [T2cc](SmsDictionary210offshellfix+superseded#T2cc) | |  |
+| [ATLAS-SUSY-2013-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-04/)<a name="ATLAS-SUSY-2013-04"></a> | 0 leptons + &ge; 7-10 jets + Etmiss | 20.3 | [T5](SmsDictionary210offshellfix+superseded#T5) [(1)](#A1), [T5WW](SmsDictionary210offshellfix+superseded#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix+superseded#T5WWoff) [(1)](#A1) | |  |
+| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T6ttWWoff](SmsDictionary210offshellfix+superseded#T6ttWWoff) | |  |
+| [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)<a name="ATLAS-SUSY-2013-11"></a> | 2 leptons (e,mu) + Etmiss | 20.3 | [TChiWW](SmsDictionary210offshellfix+superseded#TChiWW) [(1)](#A1), [TChiWWoff](SmsDictionary210offshellfix+superseded#TChiWWoff) [(1)](#A1) | |  |
+| [ATLAS-SUSY-2013-21](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-21/)<a name="ATLAS-SUSY-2013-21"></a> | monojet or c-jet + Etmiss | 20.3 | [T2bbWW](SmsDictionary210offshellfix+superseded#T2bbWW), [T2bbWWoff](SmsDictionary210offshellfix+superseded#T2bbWWoff), [T2cc](SmsDictionary210offshellfix+superseded#T2cc) | |  |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
@@ -58,4 +57,4 @@ In total, we have results from 5 ATLAS and 2 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Mon Sep  6 12:59:17 2021.
+This page was created Mon Sep  6 13:19:24 2021.
