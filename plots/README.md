@@ -1,11 +1,8 @@
 # collection of plots
-Sun Sep 12 13:56:19 2021
+Sun Sep 12 14:21:13 2021
 
 |                    |                  |
 |--------------------|------------------|
-| ![./T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_combined_pretty.png](./T6bbWWoff_2EqMassAx_EqMassBx-0.5y_EqMassCx-y_combined_pretty.png?1631447779.7330308) | ![./TChiWZ_2EqMassAx_EqMassBy_combined_pretty.png](./TChiWZ_2EqMassAx_EqMassBy_combined_pretty.png?1631447779.7330308) |
-| ![./TSmuSmuDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png](./TSmuSmuDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png?1631447779.7330308) | ![./TChiWZoff_2EqMassAx_EqMassBy_combined_pretty.png](./TChiWZoff_2EqMassAx_EqMassBy_combined_pretty.png?1631447779.7330308) |
-| ![./TStauStau_2EqMassAx_EqMassBy_combined_pretty.png](./TStauStau_2EqMassAx_EqMassBy_combined_pretty.png?1631447779.7330308) | ![./TSelSelDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png](./TSelSelDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png?1631447779.7330308) |
-| ![./T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_combined_pretty.png](./T6bbHH_2EqMassAx_EqMassBy_EqMassCy-130.0_combined_pretty.png?1631447779.7330308) | ![./T2bbWWoff_2EqMassAx_EqMassBx-y_combined_pretty.png](./T2bbWWoff_2EqMassAx_EqMassBx-y_combined_pretty.png?1631447779.7330308) |
-| ![./TStauStauDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png](./TStauStauDisp_2EqMassAx_EqWidthAy_EqMassB0.0_combined_pretty.png?1631447779.7330308) | ![./TChiWH_2EqMassAx_EqMassBy_combined_pretty.png](./TChiWH_2EqMassAx_EqMassBy_combined_pretty.png?1631447779.7330308) |
-| ![./T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_combined_pretty.png](./T6bbHH_2EqMassAx_EqMassBy_EqMassC60.0_combined_pretty.png?1631447779.7330308) 
+| ![./combo_ATLAS-SUSY-2013-09_T6ttWW+off_[[x,2*y,y],[x,2*y,y]].png](./combo_ATLAS-SUSY-2013-09_T6ttWW+off_[[x,2*y,y],[x,2*y,y]].png?1631449273.9481065) | ![./combo_ATLAS-SUSY-2013-04_T5WW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png](./combo_ATLAS-SUSY-2013-04_T5WW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png?1631449273.9481065) |
+| ![./combo_ATLAS-SUSY-2013-11_TChiWW+off_[[x,y],[x,y]].png](./combo_ATLAS-SUSY-2013-11_TChiWW+off_[[x,y],[x,y]].png?1631449273.9481065) | ![./combo_CMS-SUS-13-012_T5WW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png](./combo_CMS-SUS-13-012_T5WW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png?1631449273.9481065) |
+| ![./combo_CMS-SUS-13-012_T6bbWW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png](./combo_CMS-SUS-13-012_T6bbWW+off_[[x,0.5*x+0.5*y,y],[x,0.5*x+0.5*y,y]].png?1631449273.9481065) | ![./combo_ATLAS-SUSY-2013-09_T6ttWW_[[x,2*y,y],[x,2*y,y]].png](./combo_ATLAS-SUSY-2013-09_T6ttWW_[[x,2*y,y],[x,2*y,y]].png?1631449273.9481065) |
