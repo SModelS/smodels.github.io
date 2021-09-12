@@ -11,7 +11,9 @@ def main():
         for F in files:
             if F.endswith ( ".py" ) or F.endswith ( ".md" ):
                 continue
-            f.write ( f'<img src="{F}?{t}" />\n' )
+            # f.write ( f'<img src="{F}?{t}" />\n' )
+            # [SModelS version 2.0.0](https://github.com/SModelS/smodels/releases) 
+            f.write ( f'![{F}]({F}?{t}) \n' )
         
 
 main()
