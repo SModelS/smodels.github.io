@@ -7,6 +7,10 @@ def main():
         f.write ( "# collection of plots\n" )
         f.write ( "%s\n\n" % time.asctime() )
         files = glob.glob("./*" )
+        def getAnaid ( x ):
+            x = x.replace("bestSR_","").replace("combo_","")
+            return str(x)
+        files.sort ( key = getAnaid )
         t = time.time()
         ncols = 2
         f.write ( "|                    |                  |\n" )
