@@ -10,7 +10,7 @@ def main():
         t = time.time()
         ncols = 2
         f.write ( "|                    |                  |\n" )
-        f.write ( "|--------------------|------------------|\n" )
+        f.write ( "|:------------------:|:----------------:|\n" )
         col = 0
         for F in files:
             if F.endswith ( ".py" ) or F.endswith ( ".md" ) or F.endswith( ".sh" ):
@@ -18,7 +18,8 @@ def main():
             f.write ( "| " )
             # f.write ( f'<img src="{F}?{t}" />\n' )
             # [SModelS version 2.0.0](https://github.com/SModelS/smodels/releases) 
-            name = F.replace(".png","").replace("combo_","")
+            name = F.replace(".png","").replace("combo_","").replace("bestSR_","")
+            name = name.replace("./","")
             f.write ( f' {name} ![{F}]({F}?{t}) ' )
             if col == 1:
                 f.write ( "|\n" )
