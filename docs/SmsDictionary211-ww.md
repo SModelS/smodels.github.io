@@ -17,5 +17,6 @@ There is also a [ListOfAnalyses211-ww](https://smodels.github.io/docs/ListOfAnal
 | 7 | <a name="T5tctc"></a>**T5tctc**<br> | `[[[t],[jet]],[[t],[jet]]]`<BR>`(MET,MET)` | <img alt="T5tctc" src="../feyn/straight/T5tctc.png" height="130"> | [CMS-SUS-16-050](ListOfAnalyses211-ww#CMS-SUS-16-050)|
 | 8 | <a name="T6bbHH"></a>**T6bbHH**<br> | `[[[b],[h]],[[b],[h]]]`<BR>`(MET,MET)` | <img alt="T6bbHH" src="../feyn/straight/T6bbHH.png" height="130"> | [ATLAS-SUSY-2018-40](ListOfAnalyses211-ww#ATLAS-SUSY-2018-40)|
 | 9 | <a name="T6bbWWoff"></a>**T6bbWWoff**<br> | `[[[b],[l,nu]],[[b],[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T6bbWWoff" src="../feyn/straight/T6bbWWoff.png" height="130"> | [CMS-PAS-SUS-16-052](ListOfAnalyses211-ww#CMS-PAS-SUS-16-052)|
+| 10 | <a name="TChiWZ"></a>**TChiWZ**<br> | `[[[W]],[[Z]]]`<BR>`(MET,MET)` | <img alt="TChiWZ" src="../feyn/straight/TChiWZ.png" height="130"> | [ATLAS-SUSY-2017-03](ListOfAnalyses211-ww#ATLAS-SUSY-2017-03)|
 
-<font color='grey'>This page was created Tue Aug 10 12:16:44 2021</font>
+<font color='grey'>This page was created Tue Sep 14 21:39:46 2021</font>
