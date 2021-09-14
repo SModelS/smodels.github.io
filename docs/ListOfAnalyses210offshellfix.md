@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0offshellfix 
-List of analyses and topologies in the SMS results database,comprising 422 individual maps from 138 distinct signal regions, 16 different SMS topologies, from a total of 10 analyses.
+List of analyses and topologies in the SMS results database,comprising 426 individual maps from 138 distinct signal regions, 16 different SMS topologies, from a total of 10 analyses.
 The list has been created from the database version `2.1.0offshellfix.`
 There is also an  [sms dictionary](SmsDictionary210offshellfix) and a [validation page](Validation210offshellfix).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses210offshellfixWithSuperseded).
@@ -8,7 +8,7 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 
 ### Run 2 - 13 TeV
 In total, we have results from 4 ATLAS and 0 CMS 13 TeV searches.
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4  analyses, 13 results, 214 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4  analyses, 13 results, 218 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
@@ -55,4 +55,4 @@ In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Mon Sep  6 15:15:37 2021.
+This page was created Tue Sep 14 15:27:55 2021.

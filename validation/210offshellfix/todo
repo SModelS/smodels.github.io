@@ -1,11 +1,13 @@
--) ATLAS-SUSY-2018-06-eff:TChiWZoff: seems fixed
--) ATLAS-SUSY-2018-12-eff:T2bbffff: seems fixed
--) ATLAS-SUSY-2018-10-eff:T5WWoff, T6WWoff: seems fixed
--) ATLAS-SUSY-2016-07-eff:T5WWoff, T6WWoff: seems fixed
--) CMS-SUS-14-021-eff:T2bbWWoff: seems fixed, coincidentally fixed also T2bbWW
--) CMS-SUS-13-012-eff:T5WWoff, T6bbWWoff: seems fixed but neigh impossible to tell from validation plots (small factor of 2.23)
--) ATLAS-SUSY-2013-21-eff:T2bbWWoff no coefficient in constraint (covers all of the offshell-Ws) -> was already ok
+-) ATLAS-SUSY-2018-06-eff:TChiWZoff: revisit
+-) CMS-SUS-13-012-eff:T5WWoff, T6bbWWoff: seems fixed but neigh impossible to tell from validation plots (small factor of 2.23) - make combined off+on plot, revisit
+-) ATLAS-SUSY-2013-11-eff:TChiWWoff: seems fixed, (order of magnitude of r value more sensible now) - make combined off+on plot, revisit
+-) ATLAS-SUSY-2013-09-eff:T6ttWWoff: seems fixed -- check the expected exclusion lines, some ugly plots seeem to be missing
+-) ATLAS-SUSY-2013-04-eff:T5WWoff: seems fixed but almost impossible to tell from validation plots (small factor of 2.23) -- make combined off+on plot, revisit
+
+done:
+-) ATLAS-SUSY-2018-12-eff:T2bbffff: seems fixed - approved
+-) ATLAS-SUSY-2018-10-eff:T5WWoff, T6WWoff: seems fixed - approved
+-) ATLAS-SUSY-2016-07-eff:T5WWoff, T6WWoff: seems fixed - approved
+-) CMS-SUS-14-021-eff:T2bbWWoff: seems fixed, coincidentally fixed also T2bbWW -- approved
 -) ATLAS-SUSY-2013-16-eff:T6bbWWoff: anyways not validated (could try to fix though) -> didn't fix
--) ATLAS-SUSY-2013-11-eff:TChiWWoff: seems fixed, (order of magnitude of r value more sensible now)
--) ATLAS-SUSY-2013-09-eff:T6ttWWoff: seems fixed
--) ATLAS-SUSY-2013-04-eff:T5WWoff: seems fixed but almost impossible to tell from validation plots (small factor of 2.23)
+-) ATLAS-SUSY-2013-21-eff:T2bbWWoff no coefficient in constraint (covers all of the offshell-Ws) -> was already ok
