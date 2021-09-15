@@ -8,7 +8,7 @@ def main():
         f.write ( "%s\n\n" % time.asctime() )
         files = glob.glob("./*" )
         def getAnaid ( x ):
-            x = x.replace("bestSR_","").replace("combo_","")
+            x = x.replace("bestSR_","").replace("combo_","").replace("ratios_","")
             return str(x)
         files.sort ( key = getAnaid )
         t = time.time()
