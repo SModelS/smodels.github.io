@@ -8,7 +8,7 @@ There is also a [ListOfAnalyses210offshellfix](https://smodels.github.io/docs/Li
 
 | **#** | **Tx** | **Topology** | **Graph** | **Appears in** |
 | ----- | ------ | ------------ | --------- | -------------- |
-| 2 | <a name="T2bbWWoff"></a>**T2bbWWoff**<br> | `[[[b,mu,nu]],[[b,jet,jet]]]`<BR>`(MET,MET);`<BR>`[[[b,L,nu]],[[b,L,nu]]]+`<BR>`[[[b,jet,jet]],[[b,jet,jet]]]+`<BR>`[[[b,jet,jet]],[[b,L,nu]]]`<BR>`(MET,MET)` | <img alt="T2bbWWoff" src="../feyn/straight/T2bbWWoff.png" height="130"> | [ATLAS-SUSY-2013-21](ListOfAnalyses210offshellfix#ATLAS-SUSY-2013-21)<BR>[CMS-SUS-14-021](ListOfAnalyses210offshellfix#CMS-SUS-14-021)|
+| 2 | <a name="T2bbWWoff"></a>**T2bbWWoff**<br> | `[[[b,L,nu]],[[b,L,nu]]]+`<BR>`[[[b,jet,jet]],[[b,jet,jet]]]+`<BR>`[[[b,jet,jet]],[[b,L,nu]]]`<BR>`(MET,MET);`<BR>`[[[b,mu,nu]],[[b,jet,jet]]]`<BR>`(MET,MET)` | <img alt="T2bbWWoff" src="../feyn/straight/T2bbWWoff.png" height="130"> | [ATLAS-SUSY-2013-21](ListOfAnalyses210offshellfix#ATLAS-SUSY-2013-21)<BR>[CMS-SUS-14-021](ListOfAnalyses210offshellfix#CMS-SUS-14-021)|
 | 3 | <a name="T2bbffff"></a>**T2bbffff**<br> | `[[[b,jet,jet]],[[b,jet,jet]]]`<BR>`(MET,MET)` | <img alt="T2bbffff" src="../feyn/straight/T2bbffff.png" height="130"> | [ATLAS-SUSY-2018-12](ListOfAnalyses210offshellfix#ATLAS-SUSY-2018-12)|
 | 4 | <a name="T2tt"></a>**T2tt**<br> | `[[[t]],[[t]]]`<BR>`(MET,MET)` | <img alt="T2tt" src="../feyn/straight/T2tt.png" height="130"> | [ATLAS-SUSY-2018-12](ListOfAnalyses210offshellfix#ATLAS-SUSY-2018-12)|
 | 5 | <a name="T2ttoff"></a>**T2ttoff**<br><BR><a name="T2bbWW"></a>**T2bbWW**<br> | `[[[b,W]],[[b,W]]]`<BR>`(MET,MET)` | <img alt="T2bbWW" src="../feyn/straight/T2bbWW.png" height="130"> | [ATLAS-SUSY-2018-12](ListOfAnalyses210offshellfix#ATLAS-SUSY-2018-12)<BR>[ATLAS-SUSY-2013-21](ListOfAnalyses210offshellfix#ATLAS-SUSY-2013-21)<BR>[CMS-SUS-14-021](ListOfAnalyses210offshellfix#CMS-SUS-14-021)|
@@ -24,4 +24,4 @@ There is also a [ListOfAnalyses210offshellfix](https://smodels.github.io/docs/Li
 | 15 | <a name="TChiWZ"></a>**TChiWZ**<br> | `[[[W]],[[Z]]]`<BR>`(MET,MET)` | <img alt="TChiWZ" src="../feyn/straight/TChiWZ.png" height="130"> | [ATLAS-SUSY-2018-06](ListOfAnalyses210offshellfix#ATLAS-SUSY-2018-06)|
 | 16 | <a name="TChiWZoff"></a>**TChiWZoff**<br> | `[[[mu+,mu-]],[[l,nu]]]+`<BR>`[[[e+,e-]],[[l,nu]]]`<BR>`(MET,MET)` | <img alt="TChiWZoff" src="../feyn/straight/TChiWZoff.png" height="130"> | [ATLAS-SUSY-2018-06](ListOfAnalyses210offshellfix#ATLAS-SUSY-2018-06)|
 
-<font color='grey'>This page was created Tue Sep 14 15:27:56 2021</font>
+<font color='grey'>This page was created Wed Sep 15 19:07:22 2021</font>

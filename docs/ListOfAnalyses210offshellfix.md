@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0offshellfix 
-List of analyses and topologies in the SMS results database,comprising 426 individual maps from 138 distinct signal regions, 16 different SMS topologies, from a total of 10 analyses.
+List of analyses and topologies in the SMS results database,comprising 428 individual maps from 139 distinct signal regions, 16 different SMS topologies, from a total of 10 analyses.
 The list has been created from the database version `2.1.0offshellfix.`
 There is also an  [sms dictionary](SmsDictionary210offshellfix) and a [validation page](Validation210offshellfix).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses210offshellfixWithSuperseded).
@@ -8,12 +8,21 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 
 ### Run 2 - 13 TeV
 In total, we have results from 4 ATLAS and 0 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 2 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4  analyses, 13 results, 218 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 4  analyses, 7 results, 56 individual maps
  * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 6 results, 152 individual maps
+
+<a name="ATLASupperlimits13"></a>
+## ATLAS, upper limits, 13 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
+|--------|-----------------------|--------------|--------------|-------------------------|
+| **Publications** | | | | |
+| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary210offshellfix#TChiWZ), [TChiWZoff](SmsDictionary210offshellfix#TChiWZoff) | &#10004; |
 
 <a name="ATLASefficiencymaps13"></a>
 ## ATLAS, efficiency maps, 13 TeV (4 analyses)
@@ -22,7 +31,7 @@ In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [ATLAS-SUSY-2016-07](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-07/)<a name="ATLAS-SUSY-2016-07"></a> | 0L + jets + Etmiss | 36.1 | [T5WW](SmsDictionary210offshellfix#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix#T5WWoff) [(1)](#A1), [T6WW](SmsDictionary210offshellfix#T6WW) [(1)](#A1), [T6WWoff](SmsDictionary210offshellfix#T6WWoff) [(1)](#A1) |  |
-| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary210offshellfix#TChiWZ), [TChiWZoff](SmsDictionary210offshellfix#TChiWZoff) |  |
+| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary210offshellfix#TChiWZ), [TChiWZoff](SmsDictionary210offshellfix#TChiWZoff) | json |
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary210offshellfix#T5WW), [T5WWoff](SmsDictionary210offshellfix#T5WWoff), [T6WW](SmsDictionary210offshellfix#T6WW), [T6WWoff](SmsDictionary210offshellfix#T6WWoff) |  |
 | [ATLAS-SUSY-2018-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-12/)<a name="ATLAS-SUSY-2018-12"></a> | 0 leptons + jets + Etmiss | 139.0 | [T2bbffff](SmsDictionary210offshellfix#T2bbffff), [T2tt](SmsDictionary210offshellfix#T2tt), [T2ttoff](SmsDictionary210offshellfix#T2ttoff) |  |
 
@@ -55,4 +64,4 @@ In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Tue Sep 14 15:27:55 2021.
+This page was created Wed Sep 15 19:07:22 2021.
