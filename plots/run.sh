@@ -15,9 +15,9 @@
 
 ../../smodels-utils/covariances/plotBestSRs.py -a ATLAS-SUSY-2013-04-eff -v "T5WW_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.py,T5WWoff_2EqMassAx_EqMassB0.5x+0.5y_EqMassCy.py"
 
-../../smodels-utils/covariances/plotBestSRs.py -a ATLAS-SUSY-2018-06-eff -v "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py"
-../../smodels-utils/validation/combineValidation.py -a ATLAS-SUSY-2018-06-eff -v "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py"
-../../smodels-utils/covariances/plotRatio.py -a1 ATLAS-SUSY-2018-06 -a2 ATLAS-SUSY-2018-06-eff -v1 "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py" -v2 "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py" -Z 4. -l1 'UL' -l2 'eff' -s
+#../../smodels-utils/covariances/plotBestSRs.py -a ATLAS-SUSY-2018-06-eff -v "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py"
+#../../smodels-utils/validation/combineValidation.py -a ATLAS-SUSY-2018-06-eff -v "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py"
+#../../smodels-utils/covariances/plotRatio.py -a1 ATLAS-SUSY-2018-06 -a2 ATLAS-SUSY-2018-06-eff -v1 "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py" -v2 "TChiWZ_2EqMassAx_EqMassBy.py,TChiWZoff_2EqMassAx_EqMassBy.py" -Z 4. -l1 'UL' -l2 'eff' -s
 
 ./mkPage.py
 
