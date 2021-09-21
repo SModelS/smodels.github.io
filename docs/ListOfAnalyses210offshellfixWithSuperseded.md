@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0offshellfix (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database,comprising 428 individual maps from 139 distinct signal regions, 16 different SMS topologies, from a total of 10 analyses.
+List of analyses and topologies in the SMS results database,comprising 431 individual maps from 140 distinct signal regions, 18 different SMS topologies, from a total of 10 analyses.
 The list has been created from the database version `2.1.0offshellfix.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210offshellfix) and a [validation page](Validation210offshellfix).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses210offshellfix).
@@ -13,6 +13,7 @@ In total, we have results from 4 ATLAS and 0 CMS 13 TeV searches.
 
 ### Run 1 - 8 TeV
 In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits8): 1  analyses, 3 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps8): 4  analyses, 7 results, 56 individual maps
  * [CMS efficiency maps](#CMSefficiencymaps8): 2  analyses, 6 results, 152 individual maps
 
@@ -44,6 +45,14 @@ In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
 | [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T5WW](SmsDictionary210offshellfix+superseded#T5WW) [(1)](#A1), [T5WWoff](SmsDictionary210offshellfix+superseded#T5WWoff) [(1)](#A1), [T6bbWW](SmsDictionary210offshellfix+superseded#T6bbWW) [(1)](#A1), [T6bbWWoff](SmsDictionary210offshellfix+superseded#T6bbWWoff) [(1)](#A1) | |  |
 | [CMS-SUS-14-021](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS14021)<a name="CMS-SUS-14-021"></a> | soft leptons, low jet multiplicity, high ETmiss | 19.7 | [T2bbWW](SmsDictionary210offshellfix+superseded#T2bbWW), [T2bbWWoff](SmsDictionary210offshellfix+superseded#T2bbWWoff) | |  |
 
+<a name="ATLASupperlimits8"></a>
+## ATLAS, upper limits, 8 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
+|--------|-----------------------|--------------|--------------|-------------------|-------------------------|
+| **Publications** | | | | | |
+| [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary210offshellfix+superseded#T1tttt), [T5WW](SmsDictionary210offshellfix+superseded#T5WW), [T5tctc](SmsDictionary210offshellfix+superseded#T5tctc) | |  |
+
 <a name="ATLASefficiencymaps8"></a>
 ## ATLAS, efficiency maps, 8 TeV (4 analyses)
 
@@ -66,4 +75,4 @@ In total, we have results from 4 ATLAS and 2 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Sep 15 21:02:49 2021.
+This page was created Mon Sep 20 16:42:55 2021.
