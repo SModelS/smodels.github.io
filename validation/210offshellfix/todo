@@ -1,10 +1,10 @@
--) ATLAS-SUSY-2018-06-eff:TChiWZoff: revisit
 -) CMS-SUS-13-012-eff:T5WWoff, T6bbWWoff: seems fixed but neigh impossible to tell from validation plots (small factor of 2.23) - make combined off+on plot, revisit
 -) ATLAS-SUSY-2013-11-eff:TChiWWoff: seems fixed, (order of magnitude of r value more sensible now) - make combined off+on plot, revisit
 -) ATLAS-SUSY-2013-09-eff:T6ttWWoff: seems fixed -- check the expected exclusion lines, some ugly plots seeem to be missing
 -) ATLAS-SUSY-2013-04-eff:T5WWoff: seems fixed but almost impossible to tell from validation plots (small factor of 2.23) -- make combined off+on plot, revisit
 
 done:
+-) ATLAS-SUSY-2018-06-eff:TChiWZoff: approved
 -) ATLAS-SUSY-2018-12-eff:T2bbffff: seems fixed - approved
 -) ATLAS-SUSY-2018-10-eff:T5WWoff, T6WWoff: seems fixed - approved
 -) ATLAS-SUSY-2016-07-eff:T5WWoff, T6WWoff: seems fixed - approved
