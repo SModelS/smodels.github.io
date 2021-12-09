@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0-ww 
-List of analyses and topologies in the SMS results database,comprising 701 individual maps from 194 distinct signal regions, 11 different SMS topologies, from a total of 6 analyses.
+List of analyses and topologies in the SMS results database,comprising 692 individual maps from 185 distinct signal regions, 11 different SMS topologies, from a total of 5 analyses.
 The list has been created from the database version `2.2.0-ww.`
 There is also an  [sms dictionary](SmsDictionary220-ww) and a [validation page](Validation220-ww).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses220-wwWithSuperseded).
@@ -7,9 +7,9 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 4 ATLAS and 3 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 4  analyses, 7 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 4  analyses, 7 results, 36 individual maps
+In total, we have results from 3 ATLAS and 3 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 3  analyses, 6 results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 3  analyses, 6 results, 28 individual maps
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 12 results, 658 individual maps
 
 ### Run 1 - 8 TeV
@@ -27,23 +27,21 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 | [CMS-SUS-16-050-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-agg-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary220-ww#T1tttt), [T1ttttoff](SmsDictionary220-ww#T1ttttoff), [T2tt](SmsDictionary220-ww#T2tt), [T2ttoff](SmsDictionary220-ww#T2ttoff), [T5tctc](SmsDictionary220-ww#T5tctc) | cov. |
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (4 analyses)
+## ATLAS, upper limits, 13 TeV (3 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
-| [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary220-ww#TChiWZ) |  |
 | [ATLAS-SUSY-2018-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-08/)<a name="ATLAS-SUSY-2018-08"></a> | OS leptons | 139.0 | [T2bbffff](SmsDictionary220-ww#T2bbffff), [T2tt](SmsDictionary220-ww#T2tt), [T2ttoff](SmsDictionary220-ww#T2ttoff) |  |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40"></a> | sbottoms with hadronic taus | 139.0 | [T6bbHH](SmsDictionary220-ww#T6bbHH) | &#10004; |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | three leptons | 139.0 | [TChiWH](SmsDictionary220-ww#TChiWH), [TChiWZ](SmsDictionary220-ww#TChiWZ) | &#10004; |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (4 analyses)
+## ATLAS, efficiency maps, 13 TeV (3 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
-| [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03-eff"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary220-ww#TChiWZ) |  |
 | [ATLAS-SUSY-2018-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-08/)<a name="ATLAS-SUSY-2018-08-eff"></a> | OS leptons | 139.0 | [T2bbffff](SmsDictionary220-ww#T2bbffff), [T2tt](SmsDictionary220-ww#T2tt), [T2ttoff](SmsDictionary220-ww#T2ttoff) |  |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | sbottoms with hadronic taus | 139.0 | [T6bbHH](SmsDictionary220-ww#T6bbHH) |  |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | three leptons | 139.0 | [TChiWH](SmsDictionary220-ww#TChiWH), [TChiWZ](SmsDictionary220-ww#TChiWZ) |  |
@@ -57,4 +55,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Thu Dec  9 19:06:19 2021.
+This page was created Thu Dec  9 19:33:30 2021.

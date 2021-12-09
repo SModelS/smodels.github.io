@@ -18,6 +18,6 @@ There is also a [ListOfAnalyses220-ww](https://smodels.github.io/docs/ListOfAnal
 | 8 | <a name="T6bbHH"></a>**T6bbHH**<br> | `[[[b],[h]],[[b],[h]]]`<BR>`(MET,MET)` | <img alt="T6bbHH" src="../feyn/straight/T6bbHH.png" height="130"> | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)|
 | 9 | <a name="T6bbWWoff"></a>**T6bbWWoff**<br> | `[[[b],[l,nu]],[[b],[jet,jet]]]`<BR>`(MET,MET)` | <img alt="T6bbWWoff" src="../feyn/straight/T6bbWWoff.png" height="130"> | [CMS-PAS-SUS-16-052](http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html)|
 | 10 | <a name="TChiWH"></a>**TChiWH**<br> | `[[[W]],[[h]]]`<BR>`(MET,MET)` | <img alt="TChiWH" src="../feyn/straight/TChiWH.png" height="130"> | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)|
-| 11 | <a name="TChiWZ"></a>**TChiWZ**<br> | `[[[W]],[[Z]]]`<BR>`(MET,MET)` | <img alt="TChiWZ" src="../feyn/straight/TChiWZ.png" height="130"> | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<BR>[ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)|
+| 11 | <a name="TChiWZ"></a>**TChiWZ**<br> | `[[[W]],[[Z]]]`<BR>`(MET,MET)` | <img alt="TChiWZ" src="../feyn/straight/TChiWZ.png" height="130"> | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)|
 
-<font color='grey'>This page was created Thu Dec  9 19:06:20 2021</font>
+<font color='grey'>This page was created Thu Dec  9 19:33:31 2021</font>
