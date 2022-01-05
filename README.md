@@ -14,6 +14,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 
 ------------------------------------------------------------------------ 
 ### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
@@ -34,6 +35,7 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 ## If you use SModelS, please cite the following papers:
 
+* *Constraining new physics with SModelS version 2*, Gael Alguero, Jan Heisig, Charanjit Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel, [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 * *A SModelS interface for pyhf likelihoods*, Gael Alguero, Sabine Kraml, Wolfgang Waltenberger, [arXiv:2009.01809](https://arxiv.org/abs/2009.01809), [CPC March 2021, 107909](https://doi.org/10.1016/j.cpc.2021.107909)
 * *SModelS database update v1.2.3*, Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, Wolfgang Waltenberger, [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [LHEP 158 2020](https://doi.org/10.31526/lhep.2020.158)
 * *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://www.sciencedirect.com/science/article/pii/S0010465519302255?via%3Dihub)
