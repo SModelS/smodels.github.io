@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0rc1 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database,comprising 3696 individual maps from 620 distinct signal regions, 112 different SMS topologies, from a total of 132 analyses.
+List of analyses and topologies in the SMS results database, comprising 3699 individual maps from 621 distinct signal regions, 112 different SMS topologies, from a total of 133 analyses.
 The list has been created from the database version `2.2.0rc1.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary220rc1) and a [validation page](Validation220rc1).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses220rc1).
@@ -7,10 +7,10 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 34 ATLAS and 45 CMS 13 TeV searches.
+In total, we have results from 34 ATLAS and 46 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 31  analyses, 77 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 61 (of which 11 LLP) results, 596 individual maps
- * [CMS upper limits](#CMSupperlimits13): 42  analyses, 171 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 43  analyses, 174 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 4  analyses, 16 results, 172 individual maps
 
 ### Run 1 - 8 TeV
@@ -21,7 +21,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
  * [CMS efficiency maps](#CMSefficiencymaps8): 9  analyses, 47 (of which 9 LLP) results, 980 individual maps
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (42 analyses)
+## CMS, upper limits, 13 TeV (43 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -63,6 +63,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [CMS-SUS-17-009](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-009/)<a name="CMS-SUS-17-009"></a> | SFOS leptons + Etmiss | 35.9 | [TSelSel](SmsDictionary220rc1+superseded#TSelSel), [TSlepSlep](SmsDictionary220rc1+superseded#TSlepSlep), [TSmuSmu](SmsDictionary220rc1+superseded#TSmuSmu) | | &#10004; |
 | [CMS-SUS-17-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-010)<a name="CMS-SUS-17-010"></a> | 2L stop | 35.9 | [T2tt](SmsDictionary220rc1+superseded#T2tt), [T2ttoff](SmsDictionary220rc1+superseded#T2ttoff), [T6bbWW](SmsDictionary220rc1+superseded#T6bbWW), [TChipChimSlepSnu](SmsDictionary220rc1+superseded#TChipChimSlepSnu) | | &#10004; |
 | [CMS-SUS-18-002](https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-002/)<a name="CMS-SUS-18-002"></a> | photon, jets, b-jets+ Etmiss, top tagging | 35.9 | [T5Hg](SmsDictionary220rc1+superseded#T5Hg), [T5bbbbZg](SmsDictionary220rc1+superseded#T5bbbbZg), [T5ttttZg](SmsDictionary220rc1+superseded#T5ttttZg), [T6ttZg](SmsDictionary220rc1+superseded#T6ttZg) | | &#10004; |
+| [CMS-SUS-18-007](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-007/index.html)<a name="CMS-SUS-18-007"></a> | H(diphoton) | 77.5 | [T6bbHH](SmsDictionary220rc1+superseded#T6bbHH), [TChiHH](SmsDictionary220rc1+superseded#TChiHH), [TChiWH](SmsDictionary220rc1+superseded#TChiWH) | | &#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary220rc1+superseded#T1), [T1bbbb](SmsDictionary220rc1+superseded#T1bbbb), [T1tttt](SmsDictionary220rc1+superseded#T1tttt), [T1ttttoff](SmsDictionary220rc1+superseded#T1ttttoff), [T2](SmsDictionary220rc1+superseded#T2), [T2bb](SmsDictionary220rc1+superseded#T2bb), [T2tt](SmsDictionary220rc1+superseded#T2tt), [T2ttoff](SmsDictionary220rc1+superseded#T2ttoff) | | &#10004; |
 | [CMS-SUS-19-008](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-008/index.html)<a name="CMS-SUS-19-008"></a> | 2-3L + jets | 137.0 | [T1tttt](SmsDictionary220rc1+superseded#T1tttt), [T1ttttoff](SmsDictionary220rc1+superseded#T1ttttoff), [T5WW](SmsDictionary220rc1+superseded#T5WW), [T5WZ](SmsDictionary220rc1+superseded#T5WZ), [T5tctc](SmsDictionary220rc1+superseded#T5tctc), [T5tttt](SmsDictionary220rc1+superseded#T5tttt) | | &#10004; |
 | [CMS-SUS-19-009](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html)<a name="CMS-SUS-19-009"></a> | 1L + jets, MHT | 137.0 | [T2tt](SmsDictionary220rc1+superseded#T2tt), [T2ttoff](SmsDictionary220rc1+superseded#T2ttoff), [T6bbWW](SmsDictionary220rc1+superseded#T6bbWW) | |  |
@@ -269,4 +270,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Jan  5 17:46:13 2022.
+This page was created Mon Jan 17 12:14:41 2022.
