@@ -17,7 +17,7 @@ def main():
         f.write ( "|:------------------:|:----------------:|\n" )
         col = 0
         for F in files:
-            if F.endswith ( ".py" ) or F.endswith ( ".md" ) or F.endswith( ".sh" ):
+            if F.endswith ( ".py" ) or F.endswith ( ".md" ) or F.endswith( ".sh" ) or F.endswith("old"):
                 continue
             f.write ( "| " )
             # f.write ( f'<img src="{F}?{t}" />\n' )
