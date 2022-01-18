@@ -1,11 +1,7 @@
 # collection of plots
-Tue Sep 21 18:42:19 2021
+Tue Jan 18 16:18:21 2022
 
 |                    |                  |
 |:------------------:|:----------------:|
-|  ATLAS-SUSY-2013-04-eff_T5WW+off ![./bestSR_ATLAS-SUSY-2013-04-eff_T5WW+off.png](./bestSR_ATLAS-SUSY-2013-04-eff_T5WW+off.png?1632242539.9602733) |  ATLAS-SUSY-2013-04_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy ![./combo_ATLAS-SUSY-2013-04_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy.png](./combo_ATLAS-SUSY-2013-04_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy.png?1632242539.9602733) |
-|  ATLAS-SUSY-2013-09-eff_T6ttWW+off ![./bestSR_ATLAS-SUSY-2013-09-eff_T6ttWW+off.png](./bestSR_ATLAS-SUSY-2013-09-eff_T6ttWW+off.png?1632242539.9602733) |  ratios_ATLAS-SUSY-2013-09_T6ttWW+off ![./ratios_ATLAS-SUSY-2013-09_T6ttWW+off.png](./ratios_ATLAS-SUSY-2013-09_T6ttWW+off.png?1632242539.9602733) |
-|  ATLAS-SUSY-2013-09_T6ttWW+off_x2yyx2yy ![./combo_ATLAS-SUSY-2013-09_T6ttWW+off_x2yyx2yy.png](./combo_ATLAS-SUSY-2013-09_T6ttWW+off_x2yyx2yy.png?1632242539.9602733) |  ATLAS-SUSY-2013-11-eff_TChiWW+off ![./bestSR_ATLAS-SUSY-2013-11-eff_TChiWW+off.png](./bestSR_ATLAS-SUSY-2013-11-eff_TChiWW+off.png?1632242539.9602733) |
-|  ATLAS-SUSY-2013-11_TChiWW+off_xyxy ![./combo_ATLAS-SUSY-2013-11_TChiWW+off_xyxy.png](./combo_ATLAS-SUSY-2013-11_TChiWW+off_xyxy.png?1632242539.9602733) |  CMS-SUS-13-012-eff_T5WW+off ![./bestSR_CMS-SUS-13-012-eff_T5WW+off.png](./bestSR_CMS-SUS-13-012-eff_T5WW+off.png?1632242539.9602733) |
-|  CMS-SUS-13-012-eff_T6bbWW+off ![./bestSR_CMS-SUS-13-012-eff_T6bbWW+off.png](./bestSR_CMS-SUS-13-012-eff_T6bbWW+off.png?1632242539.9602733) |  CMS-SUS-13-012_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy ![./combo_CMS-SUS-13-012_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy.png](./combo_CMS-SUS-13-012_T5WW+off_x0.5x+0.5yyx0.5x+0.5yy.png?1632242539.9602733) |
-|  CMS-SUS-13-012_T6bbWW+off_x0.5x+0.5yyx0.5x+0.5yy ![./combo_CMS-SUS-13-012_T6bbWW+off_x0.5x+0.5yyx0.5x+0.5yy.png](./combo_CMS-SUS-13-012_T6bbWW+off_x0.5x+0.5yyx0.5x+0.5yy.png?1632242539.9602733) 
+|  ratios_CMS-SUS-16-039-ma5_TChiWZ ![./ratios_CMS-SUS-16-039-ma5_TChiWZ.png](./ratios_CMS-SUS-16-039-ma5_TChiWZ.png?1642519101.3311977) |  ratios_CMS-SUS-16-039-ma5_TChiZZ ![./ratios_CMS-SUS-16-039-ma5_TChiZZ.png](./ratios_CMS-SUS-16-039-ma5_TChiZZ.png?1642519101.3311977) |
+|  ratios_CMS-SUS-16-039-ma5_TChiZZoff ![./ratios_CMS-SUS-16-039-ma5_TChiZZoff.png](./ratios_CMS-SUS-16-039-ma5_TChiZZoff.png?1642519101.3311977) |  old ![./old](./old?1642519101.3311977) |
