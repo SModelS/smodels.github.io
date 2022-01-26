@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0adl 
-List of analyses and topologies in the SMS results database, comprising 4082 individual maps from 510 distinct signal regions, 26 different SMS topologies, from a total of 9 analyses.
+List of analyses and topologies in the SMS results database, comprising 4083 individual maps from 510 distinct signal regions, 26 different SMS topologies, from a total of 9 analyses.
 The list has been created from the database version `2.1.0adl.`
 There is also an  [sms dictionary](SmsDictionary210adl) and a [validation page](Validation210adl).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses210adlWithSuperseded).
@@ -9,7 +9,7 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ### Run 2 - 13 TeV
 In total, we have results from 0 ATLAS and 11 CMS 13 TeV searches.
  * [CMS upper limits](#CMSupperlimits13): 3  analyses, 15 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 8  analyses, 56 results, 4067 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps13): 8  analyses, 56 results, 4068 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
@@ -48,4 +48,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Tue Jan 25 19:54:37 2022.
+This page was created Wed Jan 26 10:57:40 2022.
