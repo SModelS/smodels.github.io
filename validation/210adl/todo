@@ -1,16 +1,11 @@
 TODO:
 =====
--) CMS-SUS-16-043: https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-043/index.html
 
--) 16-048 wrong lumi
--) make it explicitly where it is from
--) have a look at index.html, non-reweighted xsecs compare reweighted cross section
-   they should be of same order of magnitude
--) after matching, do events have the same weight?
+-) CMS-SUS-16-048-agg/ (11 signal regions)
+   I propose we go for TChiWZoff only, drop T6bbWWoff (anyhow worthless)
 
-ATLAS / Philipp:
--) ATLAS-SUSY-2016-15, ATLAS-SUSY-2016-24, ATLAS-SUSY-2016-27
--) ATLAS-SUSY-2017-01, ATLAS-SUSY-2017-02
+-) CMS-SUS-16-039-agg/ (11 signal regions)
+   I propose we go for TChiWZ and TChiWZoff only, drop the rest
 
-ATLAS / WW:
--) ATLAS-SUSY-2016-07
+-) CMS-SUS-19-006-agg/
+   aggregation to 38 SRs works well, but is still a large number?
