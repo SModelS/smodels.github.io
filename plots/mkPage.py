@@ -8,9 +8,16 @@ def main():
         f.write ( "%s\n\n" % time.asctime() )
         files = glob.glob("./*" )
         def getAnaid ( x ):
-            x = x.replace("bestSR_","").replace("combo_","").replace("ratios_","")
+            x = x.replace("bestSR_","").replace("combo_","").replace("ratios_","").replace("-scalar","").replace("-ma5","")
+            x = x.replace ("pDatabase","")
+            x = x.replace("./","")
+            print ( "x", x )
             return str(x)
-        files.sort ( key = getAnaid )
+        def getType ( x ):
+            ## sort by type
+            return str(x)
+        files.sort ( key = getType )
+        print ( "files", files )
         t = time.time()
         ncols = 2
         f.write ( "|                    |                  |\n" )
