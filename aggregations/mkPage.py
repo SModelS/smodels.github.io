@@ -51,9 +51,9 @@ def footer ( numbers, topos ):
         f.close()
 
 def main():
-    numbers = getNumbers()[:3]
+    numbers = getNumbers()[:]
     print ( numbers )
-    topos = getTopos()[:2]
+    topos = getTopos()[:]
     print ( topos )
     header ( numbers, topos )
     t = time.time()
