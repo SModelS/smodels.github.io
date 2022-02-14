@@ -36,7 +36,7 @@ def header ( numbers, topos ):
     with open("README.md","wt") as f:
         f.write ( "# comparison of aggregations\n" )
         f.write ( "%s\n\n" % time.asctime() )
-        f.write ( f"| topology " )
+        f.write ( f"|          " )
         for nr in numbers:
             f.write ( f"|        {nr:2d}        " )
         f.write ( "|\n|:--------:" )
@@ -58,8 +58,8 @@ def main():
     header ( numbers, topos )
     t = time.time()
     axes = { "TGQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
-             "T3GQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
-             "T5GQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0" }
+             "T3GQ": "EqMassAy_EqMassB695.0__EqmassAx_EqmassBy_EqmassC695.0",
+             "T5GQ": "EqMassAx_EqMassBy_EqMassC695.0__EqmassAy_EqmassB695.0" }
     with open("README.md","at") as f:
         for topo in topos:
             f.write ( f"| {topo:8s} " )
@@ -71,7 +71,7 @@ def main():
                 if topo in axes:
                     axis = axes[topo]
                 name = f"{vdir}{topo}_{axis}_combined.png"
-                f.write ( f"| ![{name}]({name}?{t}) " )
+                f.write ( f"| ![{name}]({name}?{t} =300x) " )
             f.write ( "|\n" )
     footer ( numbers, topos )
 
