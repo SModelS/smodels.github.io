@@ -57,6 +57,9 @@ def main():
     print ( topos )
     header ( numbers, topos )
     t = time.time()
+    axes = { "TGQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
+             "T3GQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
+             "T5GQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0" }
     with open("README.md","at") as f:
         for topo in topos:
             f.write ( f"| {topo:8s} " )
@@ -64,7 +67,10 @@ def main():
                 base = "https://smodels.github.io/validation/210adl/"
                 url  = f"{base}/13TeV/CMS/CMS-SUS-19-006-agg/"
                 vdir = f"{url}/validation{nr}/"
-                name = f"{vdir}{topo}_2EqMassAx_EqMassBy_combined.png"
+                axis = "2EqMassAx_EqMassBy"
+                if topo in axes:
+                    axis = axes[topo]
+                name = f"{vdir}{topo}_{axis}_combined.png"
                 f.write ( f"| ![{name}]({name}?{t}) " )
             f.write ( "|\n" )
     footer ( numbers, topos )
