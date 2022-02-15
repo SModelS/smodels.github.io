@@ -2,6 +2,8 @@
 
 import glob, time, os
 
+from covariances.computeTimes import computeTimes
+
 valdir = "~/git/smodels-database/13TeV/CMS/CMS-SUS-19-006-agg"
 valdir = os.path.expanduser ( valdir )
 
@@ -32,6 +34,18 @@ def getTopos():
     ret.sort()
     return tuple ( ret )
 
+def getTimes( numbers, topos ):
+    """ get the wall clock times """
+    ret = {}
+    for nr in numbers:
+        ret[nr]={}
+        for topo in topos:
+            f = f"{valdir}/validation{nr}/{topo}_*_combined.py"
+            files = glob.glob ( f )
+            t = computeTimes ( files[0] )
+            ret[nr][topo]=t
+    return ret
+
 def header ( numbers, topos ):
     with open("README.md","wt") as f:
         f.write ( "# comparison of aggregations\n" )
@@ -55,6 +69,7 @@ def main():
     print ( numbers )
     topos = getTopos()[:]
     print ( topos )
+    times = getTimes ( numbers, topos )
     header ( numbers, topos )
     t = time.time()
     axes = { "TGQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
@@ -72,6 +87,7 @@ def main():
                     axis = axes[topo]
                 name = f"{vdir}{topo}_{axis}_combined.png"
                 f.write ( f"| ![{name}]({name}?{t} =300x) " )
+                f.write ( f"{times[nr][topo][0]:.2f}s " )
             f.write ( "|\n" )
     footer ( numbers, topos )
 
