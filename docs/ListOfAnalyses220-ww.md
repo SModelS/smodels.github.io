@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0-ww 
-List of analyses and topologies in the SMS results database, comprising 667 individual maps from 162 distinct signal regions, 11 different SMS topologies, from a total of 4 analyses.
+List of analyses and topologies in the SMS results database, comprising 664 individual maps from 161 distinct signal regions, 9 different SMS topologies, from a total of 3 analyses.
 The list has been created from the database version `2.2.0-ww.`
 There is also an  [sms dictionary](SmsDictionary220-ww) and a [validation page](Validation220-ww).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses220-wwWithSuperseded).
@@ -7,22 +7,13 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 1 ATLAS and 4 CMS 13 TeV searches.
+In total, we have results from 1 ATLAS and 3 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 2 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 2 results, 4 individual maps
- * [CMS upper limits](#CMSupperlimits13): 1  analyses, 3 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 12 results, 658 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
-
-<a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (1 analyses)
-
-| **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
-|--------|-----------------------|--------------|--------------|-------------------------|
-| **Publications** | | | | |
-| [CMS-SUS-18-007](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-007/index.html)<a name="CMS-SUS-18-007"></a> | H(diphoton) | 77.5 | [T6bbHH](SmsDictionary220-ww#T6bbHH), [TChiHH](SmsDictionary220-ww#TChiHH), [TChiWH](SmsDictionary220-ww#TChiWH) | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (3 analyses)
@@ -60,4 +51,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Sat Jan 15 22:37:59 2022.
+This page was created Sat Feb 19 13:34:35 2022.
