@@ -4,7 +4,8 @@ import glob, time, os
 
 from covariances.computeTimes import computeTimes
 
-valdir = "~/git/smodels-database/13TeV/CMS/CMS-SUS-19-006-agg"
+#valdir = "~/git/smodels-database/13TeV/CMS/CMS-SUS-19-006-agg"
+valdir = "~/git/smodels-database/13TeV/CMS/CMS-SUS-16-050-agg"
 valdir = os.path.expanduser ( valdir )
 
 def getNumbers():
@@ -79,8 +80,10 @@ def main():
         for topo in topos:
             f.write ( f"| {topo:8s} " )
             for nr in numbers:
-                base = "https://smodels.github.io/validation/210adl/"
-                url  = f"{base}/13TeV/CMS/CMS-SUS-19-006-agg/"
+                #base = "https://smodels.github.io/validation/210adl/"
+                #url  = f"{base}/13TeV/CMS/CMS-SUS-19-006-agg/"
+                base = "https://smodels.github.io/validation/220-ww/"
+                url  = f"{base}/13TeV/CMS/CMS-SUS-16-050-agg/"
                 vdir = f"{url}/validation{nr}/"
                 axis = "2EqMassAx_EqMassBy"
                 if topo in axes:
