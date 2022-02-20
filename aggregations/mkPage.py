@@ -74,6 +74,7 @@ def main():
     header ( numbers, topos )
     t = time.time()
     axes = { "TGQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
+             "T5tctc": "2EqMassAx_EqMassBy+20_EqMassCy",
              "T3GQ": "EqMassAy_EqMassB695.0__EqmassAx_EqmassBy_EqmassC695.0",
              "T5GQ": "EqMassAx_EqMassBy_EqMassC695.0__EqmassAy_EqmassB695.0" }
     with open("README.md","at") as f:
