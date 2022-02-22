@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0adl (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 3937 individual maps from 523 distinct signal regions, 22 different SMS topologies, from a total of 9 analyses.
+List of analyses and topologies in the SMS results database, comprising 3942 individual maps from 525 distinct signal regions, 23 different SMS topologies, from a total of 11 analyses.
 The list has been created from the database version `2.1.0adl.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210adl) and a [validation page](Validation210adl).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses210adl).
@@ -7,22 +7,24 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 0 ATLAS and 12 CMS 13 TeV searches.
- * [CMS upper limits](#CMSupperlimits13): 3  analyses, 15 results
+In total, we have results from 0 ATLAS and 14 CMS 13 TeV searches.
+ * [CMS upper limits](#CMSupperlimits13): 5  analyses, 20 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 9  analyses, 49 results, 3922 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (3 analyses)
+## CMS, upper limits, 13 TeV (5 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
 | **Publications** | | | | | |
 | [CMS-SUS-16-039](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html)<a name="CMS-SUS-16-039"></a> | Multilepton EWK searches | 35.9 | [TChiChipmSlepL](SmsDictionary210adl+superseded#TChiChipmSlepL), [TChiChipmSlepStau](SmsDictionary210adl+superseded#TChiChipmSlepStau), [TChiChipmStauStau](SmsDictionary210adl+superseded#TChiChipmStauStau), [TChiWH](SmsDictionary210adl+superseded#TChiWH), [TChiWZ](SmsDictionary210adl+superseded#TChiWZ), [TChiWZoff](SmsDictionary210adl+superseded#TChiWZoff) | |  |
 | [CMS-SUS-16-048](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html)<a name="CMS-SUS-16-048"></a> | two soft OS leptons | 35.9 | [TChiWZoff](SmsDictionary210adl+superseded#TChiWZoff) | |  |
+| [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary210adl+superseded#T2bbffff), [TChiWZoff](SmsDictionary210adl+superseded#TChiWZoff) | | &#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary210adl+superseded#T1), [T1bbbb](SmsDictionary210adl+superseded#T1bbbb), [T1tttt](SmsDictionary210adl+superseded#T1tttt), [T1ttttoff](SmsDictionary210adl+superseded#T1ttttoff), [T2](SmsDictionary210adl+superseded#T2), [T2bb](SmsDictionary210adl+superseded#T2bb), [T2tt](SmsDictionary210adl+superseded#T2tt), [T2ttoff](SmsDictionary210adl+superseded#T2ttoff) | | &#10004; |
+| [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | combined stop search | 137.0 | [T2tt](SmsDictionary210adl+superseded#T2tt), [T2ttoff](SmsDictionary210adl+superseded#T2ttoff), [T6bbWW](SmsDictionary210adl+superseded#T6bbWW) | | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (9 analyses)
@@ -51,4 +53,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Fri Feb 18 18:41:14 2022.
+This page was created Tue Feb 22 19:50:04 2022.

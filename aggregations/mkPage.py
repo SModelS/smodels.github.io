@@ -47,9 +47,9 @@ def getTimes( numbers, topos ):
             ret[nr][topo]=t
     return ret
 
-def header ( numbers, topos ):
+def header ( numbers, topos, anaid ):
     with open("README.md","wt") as f:
-        f.write ( "# comparison of aggregations\n" )
+        f.write ( f"# comparison of aggregations, {anaid}\n" )
         f.write ( "%s\n\n" % time.asctime() )
         f.write ( f"|          " )
         for nr in numbers:
@@ -71,7 +71,9 @@ def main():
     topos = getTopos()[:]
     print ( topos )
     times = getTimes ( numbers, topos )
-    header ( numbers, topos )
+    p = valdir.rfind("/")
+    anaid = valdir[p+1:]
+    header ( numbers, topos, anaid )
     t = time.time()
     axes = { "TGQ": "EqMassAx_EqMassB695.0__EqmassAy_EqmassB695.0",
              "T5tctc": "2EqMassAx_EqMassBy+20_EqMassCy",
