@@ -1,24 +1,38 @@
 TODO:
 =====
 
+-) validate CMS-SUS-18-004
+
+-) validate CMS-SUS-20-002
+
+-) CMS-SUS-16-050-ma5/
+
+-) CMS-SUS-16-050-agg/
+    whats wrong with T2ttoff
+    choose https://smodels.github.io/aggregations/README16050
+	  I propose the 39 
+
 -) CMS-SUS-16-048-agg/
    I propose we go for TChiWZoff only, drop T6bbWWoff (anyhow worthless)
+	 all 21 SRs, I propose
 
     best SR: t=0.53+-0.11 seconds
      11 agg: t=0.97+-0.25 seconds
      21 SRs: t=1.07+-0.12 seconds
 
-	 increase grid plus nevents
+	 .) grid increased, stat err on effs reduced
 
 -) CMS-SUS-16-039-agg/ 
    I propose we go for TChiWZ and TChiWZoff only, drop the rest
+   11 SRs and we drop TChiWZoff?
 
    best SR: t=0.39+-0.14 seconds
     11 agg: t=0.54+-0.08 seconds
-      43 SRs: t=1.45+-0.52 seconds
+    43 SRs: t=1.45+-0.52 seconds
 
 -) CMS-SUS-19-006-agg/
-   aggregation to 40 SRs works well, but is still a large number?
+	 decided to settle with 40 SRs. T6bbWW is also ok?
+
    ./computeTimes.py -a CMS-SUS-19-006-agg -v T1_2EqMassAx_EqMassBy_combined.py
    ./computeTimes.py -f ~/git/smodels-database/13TeV/CMS/CMS-SUS-19-006-agg/validation53/T1_2EqMassAx_EqMassBy_combined.py
 
@@ -42,4 +56,4 @@ TODO:
     66 agg: t=3.32+-0.84 seconds
    174 SRs: t=7.47+-0.95 seconds
 
-   T2 combination 40agg, negative chi2s?
+   T2 combination 40agg, negative chi2s solved
