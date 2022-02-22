@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0-ww (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 794 individual maps from 187 distinct signal regions, 9 different SMS topologies, from a total of 4 analyses.
+List of analyses and topologies in the SMS results database, comprising 796 individual maps from 188 distinct signal regions, 11 different SMS topologies, from a total of 5 analyses.
 The list has been created from the database version `2.2.0-ww.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary220-ww) and a [validation page](Validation220-ww).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses220-ww).
@@ -7,13 +7,22 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 1 ATLAS and 3 CMS 13 TeV searches.
+In total, we have results from 1 ATLAS and 4 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 1  analyses, 2 results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 1  analyses, 2 results, 4 individual maps
+ * [CMS upper limits](#CMSupperlimits13): 1  analyses, 2 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 3  analyses, 12 results, 788 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
+
+<a name="CMSupperlimits13"></a>
+## CMS, upper limits, 13 TeV (1 analyses)
+
+| **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
+|--------|-----------------------|--------------|--------------|-------------------|-------------------------|
+| **Publications** | | | | | |
+| [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary220-ww+superseded#T2bbffff), [TChiWZoff](SmsDictionary220-ww+superseded#TChiWZoff) | | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (3 analyses)
@@ -53,4 +62,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Mon Feb 21 09:53:47 2022.
+This page was created Tue Feb 22 12:28:53 2022.
