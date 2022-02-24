@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0adl 
-List of analyses and topologies in the SMS results database, comprising 960 individual maps from 203 distinct signal regions, 16 different SMS topologies, from a total of 6 analyses.
+List of analyses and topologies in the SMS results database, comprising 884 individual maps from 189 distinct signal regions, 17 different SMS topologies, from a total of 7 analyses.
 The list has been created from the database version `2.1.0adl.`
 There is also an  [sms dictionary](SmsDictionary210adl) and a [validation page](Validation210adl).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses210adlWithSuperseded).
@@ -7,9 +7,9 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 0 ATLAS and 6 CMS 13 TeV searches.
+In total, we have results from 0 ATLAS and 7 CMS 13 TeV searches.
  * [CMS upper limits](#CMSupperlimits13): 1  analyses, 3 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 5  analyses, 23 results, 957 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps13): 6  analyses, 26 results, 881 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
@@ -23,7 +23,7 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 | [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary210adl#T2bbffff), [T6bbWWoff](SmsDictionary210adl#T6bbWWoff), [TChiWZoff](SmsDictionary210adl#TChiWZoff) | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
-## CMS, efficiency maps, 13 TeV (5 analyses)
+## CMS, efficiency maps, 13 TeV (6 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -32,6 +32,7 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 | [CMS-SUS-16-048-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html)<a name="CMS-SUS-16-048-agg-eff"></a> | two soft OS leptons | 35.9 | [TChiWZoff](SmsDictionary210adl#TChiWZoff) | cov. |
 | [CMS-SUS-16-050-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-agg-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary210adl#T1tttt), [T1ttttoff](SmsDictionary210adl#T1ttttoff), [T2tt](SmsDictionary210adl#T2tt), [T2ttoff](SmsDictionary210adl#T2ttoff), [T5tctc](SmsDictionary210adl#T5tctc) | cov. |
 | [CMS-SUS-16-050-eff](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-eff-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary210adl#T1tttt), [T1ttttoff](SmsDictionary210adl#T1ttttoff), [T2tt](SmsDictionary210adl#T2tt), [T2ttoff](SmsDictionary210adl#T2ttoff), [T5tctc](SmsDictionary210adl#T5tctc) | cov. |
+| [CMS-SUS-17-001-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001-ma5-eff"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary210adl#T2tt), [T2ttoff](SmsDictionary210adl#T2ttoff), [T6bbWW](SmsDictionary210adl#T6bbWW) | cov. |
 | [CMS-SUS-19-005-adl](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html)<a name="CMS-SUS-19-005-adl-eff"></a> | 0L + jets, M<sub>T2</sub> | 137.0 | [T1](SmsDictionary210adl#T1), [T1bbbb](SmsDictionary210adl#T1bbbb), [T1tttt](SmsDictionary210adl#T1tttt), [T1ttttoff](SmsDictionary210adl#T1ttttoff), [T2](SmsDictionary210adl#T2), [T2bb](SmsDictionary210adl#T2bb), [T2tt](SmsDictionary210adl#T2tt), [T2ttoff](SmsDictionary210adl#T2ttoff) |  |
 
 
@@ -43,4 +44,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Thu Feb 24 11:43:18 2022.
+This page was created Thu Feb 24 20:35:12 2022.
