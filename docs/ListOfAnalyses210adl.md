@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0adl 
-List of analyses and topologies in the SMS results database, comprising 966 individual maps from 205 distinct signal regions, 20 different SMS topologies, from a total of 7 analyses.
+List of analyses and topologies in the SMS results database, comprising 960 individual maps from 203 distinct signal regions, 16 different SMS topologies, from a total of 6 analyses.
 The list has been created from the database version `2.1.0adl.`
 There is also an  [sms dictionary](SmsDictionary210adl) and a [validation page](Validation210adl).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses210adlWithSuperseded).
@@ -7,22 +7,20 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 0 ATLAS and 8 CMS 13 TeV searches.
- * [CMS upper limits](#CMSupperlimits13): 3  analyses, 9 results
+In total, we have results from 0 ATLAS and 6 CMS 13 TeV searches.
+ * [CMS upper limits](#CMSupperlimits13): 1  analyses, 3 results
  * [CMS efficiency maps](#CMSefficiencymaps13): 5  analyses, 23 results, 957 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (3 analyses)
+## CMS, upper limits, 13 TeV (1 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
-| [CMS-SUS-16-039](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html)<a name="CMS-SUS-16-039"></a> | Multilepton EWK searches | 35.9 | [TChiChipmSlepL](SmsDictionary210adl#TChiChipmSlepL), [TChiChipmSlepStau](SmsDictionary210adl#TChiChipmSlepStau), [TChiChipmStauStau](SmsDictionary210adl#TChiChipmStauStau), [TChiWH](SmsDictionary210adl#TChiWH), [TChiWZ](SmsDictionary210adl#TChiWZ), [TChiWZoff](SmsDictionary210adl#TChiWZoff) |  |
-| [CMS-SUS-16-048](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html)<a name="CMS-SUS-16-048"></a> | two soft OS leptons | 35.9 | [TChiWZoff](SmsDictionary210adl#TChiWZoff) |  |
-| [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary210adl#T2bbffff), [TChiWZoff](SmsDictionary210adl#TChiWZoff) | &#10004; |
+| [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary210adl#T2bbffff), [T6bbWWoff](SmsDictionary210adl#T6bbWWoff), [TChiWZoff](SmsDictionary210adl#TChiWZoff) | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (5 analyses)
@@ -45,4 +43,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Feb 23 21:32:59 2022.
+This page was created Thu Feb 24 11:43:18 2022.
