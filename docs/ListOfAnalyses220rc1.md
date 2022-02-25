@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0rc1 
-List of analyses and topologies in the SMS results database, comprising 2816 individual maps from 597 distinct signal regions, 99 different SMS topologies, from a total of 105 analyses.
+List of analyses and topologies in the SMS results database, comprising 5338 individual maps from 937 distinct signal regions, 99 different SMS topologies, from a total of 108 analyses.
 The list has been created from the database version `2.2.0rc1.`
 There is also an  [sms dictionary](SmsDictionary220rc1) and a [validation page](Validation220rc1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses220rc1WithSuperseded).
@@ -7,11 +7,11 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 34 ATLAS and 41 CMS 13 TeV searches.
+In total, we have results from 34 ATLAS and 45 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 31  analyses, 77 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 61 (of which 11 LLP) results, 596 individual maps
  * [CMS upper limits](#CMSupperlimits13): 35  analyses, 140 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps13): 7  analyses, 31 results, 664 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps13): 11  analyses, 53 results, 3186 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
@@ -64,7 +64,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | combined stop search | 137.0 | [T2tt](SmsDictionary220rc1#T2tt), [T2ttoff](SmsDictionary220rc1#T2ttoff), [T6bbWW](SmsDictionary220rc1#T6bbWW) | &#10004; |
 
 <a name="CMSefficiencymaps13"></a>
-## CMS, efficiency maps, 13 TeV (7 analyses)
+## CMS, efficiency maps, 13 TeV (11 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -76,8 +76,12 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | **Publications** | | | | |
 | [CMS-SUS-16-033](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-033/index.html)<a name="CMS-SUS-16-033-eff"></a> | 0L + jets + Etmiss (using MHT) | 35.9 | [T1](SmsDictionary220rc1#T1) [(1)](#A1), [T1bbbb](SmsDictionary220rc1#T1bbbb) [(1)](#A1), [T1tttt](SmsDictionary220rc1#T1tttt) [(1)](#A1), [T1ttttoff](SmsDictionary220rc1#T1ttttoff) [(1)](#A1), [T2](SmsDictionary220rc1#T2) [(1)](#A1), [T2bb](SmsDictionary220rc1#T2bb) [(1)](#A1), [T2tt](SmsDictionary220rc1#T2tt) [(1)](#A1), [T2ttoff](SmsDictionary220rc1#T2ttoff) [(1)](#A1), [T3GQ](SmsDictionary220rc1#T3GQ) [(1)](#A1), [T5GQ](SmsDictionary220rc1#T5GQ) [(1)](#A1), [TGQ](SmsDictionary220rc1#TGQ) [(1)](#A1) |  |
 | [CMS-SUS-16-039-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html)<a name="CMS-SUS-16-039-agg-eff"></a> | Multilepton EWK searches | 35.9 | [TChiWZ](SmsDictionary220rc1#TChiWZ), [TChiWZoff](SmsDictionary220rc1#TChiWZoff) | cov. |
+| [CMS-SUS-16-039-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html)<a name="CMS-SUS-16-039-ma5-eff"></a> | Multilepton EWK searches | 35.9 | [TChiWZ](SmsDictionary220rc1#TChiWZ), [TChiWZoff](SmsDictionary220rc1#TChiWZoff) | cov. |
 | [CMS-SUS-16-048-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html)<a name="CMS-SUS-16-048-ma5-eff"></a> | two soft OS leptons | 35.9 | [TChiWZoff](SmsDictionary220rc1#TChiWZoff) | cov. |
+| [CMS-SUS-16-050-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-agg-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary220rc1#T1tttt), [T1ttttoff](SmsDictionary220rc1#T1ttttoff), [T2tt](SmsDictionary220rc1#T2tt), [T5tctc](SmsDictionary220rc1#T5tctc) | cov. |
+| [CMS-SUS-16-050-eff](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-eff-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary220rc1#T1tttt), [T1ttttoff](SmsDictionary220rc1#T1ttttoff), [T2tt](SmsDictionary220rc1#T2tt), [T5tctc](SmsDictionary220rc1#T5tctc) | cov. |
 | [CMS-SUS-19-006-agg](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-agg-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary220rc1#T1), [T1bbbb](SmsDictionary220rc1#T1bbbb), [T1tttt](SmsDictionary220rc1#T1tttt), [T1ttttoff](SmsDictionary220rc1#T1ttttoff), [T2](SmsDictionary220rc1#T2), [T2bb](SmsDictionary220rc1#T2bb), [T2tt](SmsDictionary220rc1#T2tt), [T2ttoff](SmsDictionary220rc1#T2ttoff), [T3GQ](SmsDictionary220rc1#T3GQ), [T5GQ](SmsDictionary220rc1#T5GQ), [T6bbWW](SmsDictionary220rc1#T6bbWW), [TGQ](SmsDictionary220rc1#TGQ) | cov. |
+| [CMS-SUS-19-006-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-ma5-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary220rc1#T1), [T1bbbb](SmsDictionary220rc1#T1bbbb), [T1tttt](SmsDictionary220rc1#T1tttt), [T1ttttoff](SmsDictionary220rc1#T1ttttoff), [T2](SmsDictionary220rc1#T2), [T2bb](SmsDictionary220rc1#T2bb), [T2tt](SmsDictionary220rc1#T2tt), [T2ttoff](SmsDictionary220rc1#T2ttoff), [T3GQ](SmsDictionary220rc1#T3GQ), [T5GQ](SmsDictionary220rc1#T5GQ), [T6bbWW](SmsDictionary220rc1#T6bbWW), [TGQ](SmsDictionary220rc1#TGQ) | cov. |
 
 <a name="ATLASupperlimits13"></a>
 ## ATLAS, upper limits, 13 TeV (31 analyses)
@@ -233,4 +237,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Feb 23 21:40:43 2022.
+This page was created Fri Feb 25 11:56:50 2022.
