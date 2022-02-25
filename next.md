@@ -1,7 +1,7 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
+Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel, Jamie Yellen
 
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf</font>
 
@@ -13,7 +13,7 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 1 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
@@ -84,3 +84,4 @@ See the [publications and talks](docs/SModelSTalks) page
 <img src="logos/unihh.jpg" width="300pt" align="middle"> &nbsp;
 <img src="logos/monash_university_logo.png" width="230pt" align="middle"> &nbsp; &nbsp;
 <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
+<img src="logos/glasgow.jpg" width="280pt" align="middle">
