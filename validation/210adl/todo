@@ -3,16 +3,16 @@ TODO:
 
 -) validate CMS-SUS-18-004
     T2bbffff needs more checking
-	  TChiWZoff looks ok
+    TChiWZoff looks ok
 
--) CMS-SUS-16-050-eff/
-    whats wrong with T2ttoff?
+-) CMS-SUS-17-001-ma5/
+    3 aggregate regions, so we expect underexclusion
+
+.) CMS-SUS-16-050-eff/
+    I took out T2ttoff
     83 signal regions
     cannot add points with dm=85 gev to the maps for T2ttoff -- its official maps
-
--) CMS-SUS-16-050-agg/
-    whats wrong with T2ttoff
+.) CMS-SUS-16-050-agg/
+    I took out T2ttoff
     choose https://smodels.github.io/aggregations/README16050
-	  I propose the 39 
-
--) perhaps add cms-sus-17-001-ma5 as a very last addition?
+    I propose the 39 
