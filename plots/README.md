@@ -1,15 +1,7 @@
 # collection of plots
-Thu Mar  3 20:30:15 2022
+Fri Mar  4 14:21:41 2022
 
 |                    |                  |
 |:------------------:|:----------------:|
-|  CMS-SUS-16-039-ma5_TChiWZ ![./bestSR_CMS-SUS-16-039-ma5_TChiWZ.png](./bestSR_CMS-SUS-16-039-ma5_TChiWZ.png?1646335815.1336074) |  CMS-SUS-16-039-ma5_TChiWZoff ![./bestSR_CMS-SUS-16-039-ma5_TChiWZoff.png](./bestSR_CMS-SUS-16-039-ma5_TChiWZoff.png?1646335815.1336074) |
-|  CMS-SUS-16-039-scalar_THigWZ ![./bestSR_CMS-SUS-16-039-scalar_THigWZ.png](./bestSR_CMS-SUS-16-039-scalar_THigWZ.png?1646335815.1336074) |  CMS-SUS-16-048-agg_TChiWZoff ![./bestSR_CMS-SUS-16-048-agg_TChiWZoff.png](./bestSR_CMS-SUS-16-048-agg_TChiWZoff.png?1646335815.1336074) |
-|  CMS-SUS-16-048-ma5_TChiWZoff ![./bestSR_CMS-SUS-16-048-ma5_TChiWZoff.png](./bestSR_CMS-SUS-16-048-ma5_TChiWZoff.png?1646335815.1336074) |  CMS-SUS-19-006-ma5_T2tt ![./bestSR_CMS-SUS-19-006-ma5_T2tt.png](./bestSR_CMS-SUS-19-006-ma5_T2tt.png?1646335815.1336074) |
-|  CMS-SUS-16-039-ma5_TChiWZ+off_xyxy ![./combo_CMS-SUS-16-039-ma5_TChiWZ+off_xyxy.png](./combo_CMS-SUS-16-039-ma5_TChiWZ+off_xyxy.png?1646335815.1336074) |  pDatabaseCMS-SUS-16-039-ma5 ![./pDatabaseCMS-SUS-16-039-ma5.png](./pDatabaseCMS-SUS-16-039-ma5.png?1646335815.1336074) |
-|  pDatabaseT2ttCMS-SUS-19-006-ma5 ![./pDatabaseT2ttCMS-SUS-19-006-ma5.png](./pDatabaseT2ttCMS-SUS-19-006-ma5.png?1646335815.1336074) |  ratios_CMS-SUS-16-039-ma5_TChiWZ ![./ratios_CMS-SUS-16-039-ma5_TChiWZ.png](./ratios_CMS-SUS-16-039-ma5_TChiWZ.png?1646335815.1336074) |
-|  ratios_CMS-SUS-16-039-ma5_TChiWZ_combined ![./ratios_CMS-SUS-16-039-ma5_TChiWZ_combined.png](./ratios_CMS-SUS-16-039-ma5_TChiWZ_combined.png?1646335815.1336074) |  ratios_CMS-SUS-16-039-ma5_TChiZZ ![./ratios_CMS-SUS-16-039-ma5_TChiZZ.png](./ratios_CMS-SUS-16-039-ma5_TChiZZ.png?1646335815.1336074) |
-|  ratios_CMS-SUS-16-039-ma5_TChiZZ_combined ![./ratios_CMS-SUS-16-039-ma5_TChiZZ_combined.png](./ratios_CMS-SUS-16-039-ma5_TChiZZ_combined.png?1646335815.1336074) |  ratios_CMS-SUS-16-039-ma5_TChiZZoff ![./ratios_CMS-SUS-16-039-ma5_TChiZZoff.png](./ratios_CMS-SUS-16-039-ma5_TChiZZoff.png?1646335815.1336074) |
-|  ratios_CMS-SUS-16-039-ma5_TChiZZoff_combined ![./ratios_CMS-SUS-16-039-ma5_TChiZZoff_combined.png](./ratios_CMS-SUS-16-039-ma5_TChiZZoff_combined.png?1646335815.1336074) |  ratios_CMS-SUS-17-001-ma5_T2tt ![./ratios_CMS-SUS-17-001-ma5_T2tt.png](./ratios_CMS-SUS-17-001-ma5_T2tt.png?1646335815.1336074) |
-|  ratios_CMS-SUS-17-001-ma5_T2ttoff ![./ratios_CMS-SUS-17-001-ma5_T2ttoff.png](./ratios_CMS-SUS-17-001-ma5_T2ttoff.png?1646335815.1336074) |  ratios_CMS-SUS-17-001-ma5_T6bbWW ![./ratios_CMS-SUS-17-001-ma5_T6bbWW.png](./ratios_CMS-SUS-17-001-ma5_T6bbWW.png?1646335815.1336074) |
-|  secondSR_CMS-SUS-16-039-ma5_TChiWZoff ![./secondSR_CMS-SUS-16-039-ma5_TChiWZoff.png](./secondSR_CMS-SUS-16-039-ma5_TChiWZoff.png?1646335815.1336074) 
+|  ratios_CMS-SUS-17-001_T2tt ![./ratios_CMS-SUS-17-001_T2tt.png](./ratios_CMS-SUS-17-001_T2tt.png?1646400101.3225226) |  ratios_CMS-SUS-17-001_T2ttoff ![./ratios_CMS-SUS-17-001_T2ttoff.png](./ratios_CMS-SUS-17-001_T2ttoff.png?1646400101.3225226) |
+|  ratios_CMS-SUS-17-001_T6bbWW ![./ratios_CMS-SUS-17-001_T6bbWW.png](./ratios_CMS-SUS-17-001_T6bbWW.png?1646400101.3225226) 
