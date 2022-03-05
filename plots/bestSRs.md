@@ -1,5 +1,5 @@
 # plots of best expected signal regions
-as of Sat Mar  5 23:09:02 2022
+as of Sat Mar  5 23:11:20 2022
 checkout also the [ratio plots](README.md)
 
 ## Topology: T2tt
@@ -11,3 +11,8 @@ checkout also the [ratio plots](README.md)
 
 | andre | suchi |
 | <img src="bestSR_CMS-SUS-17-001-ma5_T2ttoff.png" /> |
+
+## Topology: T6bbWW
+
+| andre | suchi |
+| <img src="bestSR_CMS-SUS-17-001-ma5_T6bbWW.png" /> |
