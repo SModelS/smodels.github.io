@@ -15,7 +15,8 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Humberto Reyes-Gonzalez, Wo
 ------------------------------------------------------------------------ 
 ### 11 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
-* we thank Jamie Yellen (Glasgow) for his bug fix
+we thank Jamie Yellen (Glasgow) for his bug fix
+
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
