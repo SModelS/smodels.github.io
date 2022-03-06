@@ -1,7 +1,7 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Humberto Reyes-Gonzalez, Wolfgang Waltenberger
+Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timothee Pascal, Humberto Reyes-Gonzalez, Wolfgang Waltenberger
 
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
