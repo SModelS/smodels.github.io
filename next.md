@@ -15,7 +15,7 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Hum
 ------------------------------------------------------------------------ 
 ### 11 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
-we thank Jamie Yellen (University of Glasgow) for his contribution to the analysis combination code
+we thank Jamie Yellen (University of Glasgow) for a fix in the analysis combination code
 
 ------------------------------------------------------------------------   
 
