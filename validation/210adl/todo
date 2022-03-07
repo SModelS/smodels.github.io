@@ -1,18 +1,11 @@
 TODO:
 =====
 
--) validate CMS-SUS-18-004
-    T2bbffff needs more checking
-    TChiWZoff looks ok
-
 -) CMS-SUS-17-001-ma5/
     3 aggregate regions, so we expect underexclusion
-
-.) CMS-SUS-16-050-eff/
-    I took out T2ttoff
-    83 signal regions
-    cannot add points with dm=85 gev to the maps for T2ttoff -- its official maps
-.) CMS-SUS-16-050-agg/
-    I took out T2ttoff
-    choose https://smodels.github.io/aggregations/README16050
-    I propose the 39 
+	  SK: but we do see overexclusions for small masses. why?
+	      WW: I guess its due to the recast? 
+            (cant tell from the MA5 validation note) 
+		        I propose we take out anything 
+		        with m(x)-m(y) < 250. GeV and write a .comment
+				WW: check point-by-point

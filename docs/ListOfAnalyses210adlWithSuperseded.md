@@ -1,5 +1,5 @@
 # List Of Analyses 2.1.0adl (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 269 individual maps from 66 distinct signal regions, 16 different SMS topologies, from a total of 5 analyses.
+List of analyses and topologies in the SMS results database, comprising 269 individual maps from 66 distinct signal regions, 14 different SMS topologies, from a total of 5 analyses.
 The list has been created from the database version `2.1.0adl.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary210adl) and a [validation page](Validation210adl).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses210adl).
@@ -20,7 +20,7 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
 | **Publications** | | | | | |
-| [CMS-SUS-18-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html)<a name="CMS-SUS-18-004"></a> | two or three soft leptons | 137.0 | [T2bbffff](SmsDictionary210adl+superseded#T2bbffff), [T6bbWWoff](SmsDictionary210adl+superseded#T6bbWWoff), [TChiWZoff](SmsDictionary210adl+superseded#TChiWZoff) | | &#10004; |
+| [CMS-SUS-17-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary210adl+superseded#T2tt), [T2ttoff](SmsDictionary210adl+superseded#T2ttoff), [T6bbWW](SmsDictionary210adl+superseded#T6bbWW) | |  |
 
 <a name="CMSefficiencymaps13"></a>
 ## CMS, efficiency maps, 13 TeV (4 analyses)
@@ -44,4 +44,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Mar  2 13:15:12 2022.
+This page was created Mon Mar  7 10:29:42 2022.
