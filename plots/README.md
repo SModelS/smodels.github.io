@@ -1,8 +1,10 @@
 # collection of plots
-Mon Mar  7 12:07:46 2022
+Mon Mar 14 23:26:46 2022
 
 |                    |                  |
 |:------------------:|:----------------:|
-|  CMS-SUS-17-001-ma5_T2tt ![./bestSR_CMS-SUS-17-001-ma5_T2tt.png](./bestSR_CMS-SUS-17-001-ma5_T2tt.png?1646651266.0687306) |  CMS-SUS-17-001-ma5_T2ttoff ![./bestSR_CMS-SUS-17-001-ma5_T2ttoff.png](./bestSR_CMS-SUS-17-001-ma5_T2ttoff.png?1646651266.0687306) |
-|  CMS-SUS-17-001-ma5_T6bbWW ![./bestSR_CMS-SUS-17-001-ma5_T6bbWW.png](./bestSR_CMS-SUS-17-001-ma5_T6bbWW.png?1646651266.0687306) |  ratios_CMS-SUS-17-001_T2tt ![./ratios_CMS-SUS-17-001_T2tt.png](./ratios_CMS-SUS-17-001_T2tt.png?1646651266.0687306) |
-|  ratios_CMS-SUS-17-001_T2ttoff ![./ratios_CMS-SUS-17-001_T2ttoff.png](./ratios_CMS-SUS-17-001_T2ttoff.png?1646651266.0687306) |  ratios_CMS-SUS-17-001_T6bbWW ![./ratios_CMS-SUS-17-001_T6bbWW.png](./ratios_CMS-SUS-17-001_T6bbWW.png?1646651266.0687306) |
+|  1804 ![./combo_1804.png](./combo_1804.png?1647296806.2642047) |  1804full ![./combo_1804full.png](./combo_1804full.png?1647296806.2642047) |
+|  1804simplified ![./combo_1804simplified.png](./combo_1804simplified.png?1647296806.2642047) |  1806 ![./combo_1806.png](./combo_1806.png?1647296806.2642047) |
+|  1831 ![./combo_1831.png](./combo_1831.png?1647296806.2642047) |  1831simplified ![./combo_1831simplified.png](./combo_1831simplified.png?1647296806.2642047) |
+|  1908 ![./combo_1908.png](./combo_1908.png?1647296806.2642047) |  1909 ![./combo_1909.png](./combo_1909.png?1647296806.2642047) |
+|  pyhf ![./combo_pyhf.png](./combo_pyhf.png?1647296806.2642047) 
