@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0 
-List of analyses and topologies in the SMS results database, comprising 5338 individual maps from 935 distinct signal regions, 99 different SMS topologies, from a total of 109 analyses.
+List of analyses and topologies in the SMS results database, comprising 5341 individual maps from 936 distinct signal regions, 99 different SMS topologies, from a total of 110 analyses.
 The list has been created from the database version `2.2.0.`
 There is also an  [sms dictionary](SmsDictionary220) and a [validation page](Validation220).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses220WithSuperseded).
@@ -7,8 +7,8 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 34 ATLAS and 46 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 31  analyses, 77 (of which 4 LLP) results
+In total, we have results from 35 ATLAS and 46 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 60 (of which 11 LLP) results, 593 individual maps
  * [CMS upper limits](#CMSupperlimits13): 36  analyses, 143 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 11  analyses, 53 results, 3186 individual maps
@@ -85,7 +85,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [CMS-SUS-19-006-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-ma5-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary220#T1), [T1bbbb](SmsDictionary220#T1bbbb), [T1tttt](SmsDictionary220#T1tttt), [T1ttttoff](SmsDictionary220#T1ttttoff), [T2](SmsDictionary220#T2), [T2bb](SmsDictionary220#T2bb), [T2tt](SmsDictionary220#T2tt), [T2ttoff](SmsDictionary220#T2ttoff), [T3GQ](SmsDictionary220#T3GQ), [T5GQ](SmsDictionary220#T5GQ), [T6bbWW](SmsDictionary220#T6bbWW), [TGQ](SmsDictionary220#TGQ) | cov. |
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (31 analyses)
+## ATLAS, upper limits, 13 TeV (32 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -119,6 +119,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | 2b + 2H(bb) + Etmiss | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) |  |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 OS leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary220#TChiWW), [TChipChimSlepSlep](SmsDictionary220#TChipChimSlepSlep), [TSlepSlep](SmsDictionary220#TSlepSlep) |  |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) | &#10004; |
+| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary220#TChiWH), [TChiWW](SmsDictionary220#TChiWW), [TChiWZ](SmsDictionary220#TChiWZ) | &#10004; |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220#TChiWH) |  |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary220#TChiWH), [TChiWZ](SmsDictionary220#TChiWZ), [TChiWZoff](SmsDictionary220#TChiWZoff) | &#10004; |
 
@@ -238,4 +239,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Mon Mar  7 21:50:30 2022.
+This page was created Wed Mar 16 17:30:08 2022.

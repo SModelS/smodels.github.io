@@ -1,0 +1,191 @@
+{
+    "channels": [
+        {
+            "name": "QCR1cut_cuts",
+            "samples": [
+                {
+                    "data": [
+                        72.65869292063354
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    81.13772729408636
+                                ],
+                                "lo_data": [
+                                    64.17965854718072
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "QCR2cut_cuts",
+            "samples": [
+                {
+                    "data": [
+                        26.946025341581162
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    32.29674883788775
+                                ],
+                                "lo_data": [
+                                    21.595301845274573
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SR1cut_cuts",
+            "samples": [
+                {
+                    "data": [
+                        7.328496636114211
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    10.082727784321511
+                                ],
+                                "lo_data": [
+                                    4.574265487906912
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "SR2cut_cuts",
+            "samples": [
+                {
+                    "data": [
+                        8.672689457414382
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    10.684680994014135
+                                ],
+                                "lo_data": [
+                                    6.660697920814629
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "WCRcut_cuts",
+            "samples": [
+                {
+                    "data": [
+                        1099.3887309847787
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    1132.6858049879283
+                                ],
+                                "lo_data": [
+                                    1066.091656981629
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        }
+    ],
+    "measurements": [
+        {
+            "config": {
+                "parameters": [
+                    {
+                        "auxdata": [
+                            1.0
+                        ],
+                        "bounds": [
+                            [
+                                0.915,
+                                1.085
+                            ]
+                        ],
+                        "fixed": true,
+                        "inits": [
+                            1.0
+                        ],
+                        "name": "lumi",
+                        "sigmas": [
+                            0.017
+                        ]
+                    }
+                ],
+                "poi": "mu_SIG"
+            },
+            "name": "BasicMeasurement"
+        }
+    ],
+    "observations": [
+        {
+            "data": [
+                72
+            ],
+            "name": "QCR1cut_cuts"
+        },
+        {
+            "data": [
+                27
+            ],
+            "name": "QCR2cut_cuts"
+        },
+        {
+            "data": [
+                10
+            ],
+            "name": "SR1cut_cuts"
+        },
+        {
+            "data": [
+                7
+            ],
+            "name": "SR2cut_cuts"
+        },
+        {
+            "data": [
+                1099
+            ],
+            "name": "WCRcut_cuts"
+        }
+    ],
+    "version": "1.0.0"
+}

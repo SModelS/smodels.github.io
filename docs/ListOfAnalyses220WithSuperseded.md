@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 6716 individual maps from 1032 distinct signal regions, 112 different SMS topologies, from a total of 139 analyses.
+List of analyses and topologies in the SMS results database, comprising 6719 individual maps from 1033 distinct signal regions, 112 different SMS topologies, from a total of 140 analyses.
 The list has been created from the database version `2.2.0.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary220) and a [validation page](Validation220).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses220).
@@ -7,8 +7,8 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 34 ATLAS and 55 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 31  analyses, 77 (of which 4 LLP) results
+In total, we have results from 35 ATLAS and 55 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 60 (of which 11 LLP) results, 593 individual maps
  * [CMS upper limits](#CMSupperlimits13): 45  analyses, 180 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 11  analyses, 53 results, 3186 individual maps
@@ -94,7 +94,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [CMS-SUS-19-006-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-ma5-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary220+superseded#T1), [T1bbbb](SmsDictionary220+superseded#T1bbbb), [T1tttt](SmsDictionary220+superseded#T1tttt), [T1ttttoff](SmsDictionary220+superseded#T1ttttoff), [T2](SmsDictionary220+superseded#T2), [T2bb](SmsDictionary220+superseded#T2bb), [T2tt](SmsDictionary220+superseded#T2tt), [T2ttoff](SmsDictionary220+superseded#T2ttoff), [T3GQ](SmsDictionary220+superseded#T3GQ), [T5GQ](SmsDictionary220+superseded#T5GQ), [T6bbWW](SmsDictionary220+superseded#T6bbWW), [TGQ](SmsDictionary220+superseded#TGQ) | | cov. |
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (31 analyses)
+## ATLAS, upper limits, 13 TeV (32 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -128,6 +128,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | 2b + 2H(bb) + Etmiss | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | |  |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 OS leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary220+superseded#TChiWW), [TChipChimSlepSlep](SmsDictionary220+superseded#TChipChimSlepSlep), [TSlepSlep](SmsDictionary220+superseded#TSlepSlep) | |  |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | | &#10004; |
+| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWW](SmsDictionary220+superseded#TChiWW), [TChiWZ](SmsDictionary220+superseded#TChiWZ) | | &#10004; |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH) | |  |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiWZoff](SmsDictionary220+superseded#TChiWZoff) | | &#10004; |
 
@@ -279,4 +280,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Mon Mar  7 21:45:41 2022.
+This page was created Wed Mar 16 17:24:57 2022.
