@@ -1,20 +1,20 @@
 {
     "channels": [
         {
-            "name": "QCR1cut_cuts",
+            "name": "CRlow_cuts",
             "samples": [
                 {
                     "data": [
-                        72.65869287252784
+                        415.58253187243594
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    81.13856975610655
+                                    435.19553788681566
                                 ],
                                 "lo_data": [
-                                    64.17881598894913
+                                    395.9695258580562
                                 ]
                             },
                             "name": "totalError",
@@ -26,20 +26,20 @@
             ]
         },
         {
-            "name": "QCR2cut_cuts",
+            "name": "CRISR_cuts",
             "samples": [
                 {
                     "data": [
-                        26.946025360881944
+                        446.8994893318946
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    32.30269872188634
+                                    467.6601483545692
                                 ],
                                 "lo_data": [
-                                    21.589351999877554
+                                    426.13883030922
                                 ]
                             },
                             "name": "totalError",
@@ -51,20 +51,20 @@
             ]
         },
         {
-            "name": "SR1cut_cuts",
+            "name": "SRlow_cuts",
             "samples": [
                 {
                     "data": [
-                        7.32849661754466
+                        47.37911638621954
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    10.082253560804581
+                                    51.40836652859959
                                 ],
                                 "lo_data": [
-                                    4.574739674284739
+                                    43.34986624383949
                                 ]
                             },
                             "name": "totalError",
@@ -76,45 +76,20 @@
             ]
         },
         {
-            "name": "SR2cut_cuts",
+            "name": "SRISR_cuts",
             "samples": [
                 {
                     "data": [
-                        8.672689439530048
+                        24.360325529061996
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    10.684310727145936
+                                    26.331442736477086
                                 ],
                                 "lo_data": [
-                                    6.66106815191416
-                                ]
-                            },
-                            "name": "totalError",
-                            "type": "histosys"
-                        }
-                    ],
-                    "name": "Bkg"
-                }
-            ]
-        },
-        {
-            "name": "WCRcut_cuts",
-            "samples": [
-                {
-                    "data": [
-                        1099.3887303999682
-                    ],
-                    "modifiers": [
-                        {
-                            "data": {
-                                "hi_data": [
-                                    1132.6785284181483
-                                ],
-                                "lo_data": [
-                                    1066.098932381788
+                                    22.389208321646905
                                 ]
                             },
                             "name": "totalError",
@@ -152,39 +127,33 @@
                 ],
                 "poi": "mu_SIG"
             },
-            "name": "BasicMeasurement"
+            "name": "NormalMeasurement"
         }
     ],
     "observations": [
         {
             "data": [
-                72
+                412.0
             ],
-            "name": "QCR1cut_cuts"
+            "name": "CRlow_cuts"
         },
         {
             "data": [
-                27
+                442.0
             ],
-            "name": "QCR2cut_cuts"
+            "name": "CRISR_cuts"
         },
         {
             "data": [
-                10
+                51.0
             ],
-            "name": "SR1cut_cuts"
+            "name": "SRlow_cuts"
         },
         {
             "data": [
-                7
+                30.0
             ],
-            "name": "SR2cut_cuts"
-        },
-        {
-            "data": [
-                1099
-            ],
-            "name": "WCRcut_cuts"
+            "name": "SRISR_cuts"
         }
     ],
     "version": "1.0.0"

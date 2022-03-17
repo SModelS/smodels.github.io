@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 6719 individual maps from 1033 distinct signal regions, 112 different SMS topologies, from a total of 140 analyses.
+List of analyses and topologies in the SMS results database, comprising 6722 individual maps from 1036 distinct signal regions, 112 different SMS topologies, from a total of 141 analyses.
 The list has been created from the database version `2.2.0.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary220) and a [validation page](Validation220).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses220).
@@ -7,9 +7,9 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 55 CMS 13 TeV searches.
+In total, we have results from 36 ATLAS and 55 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 60 (of which 11 LLP) results, 593 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21  analyses, 62 (of which 11 LLP) results, 596 individual maps
  * [CMS upper limits](#CMSupperlimits13): 45  analyses, 180 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 11  analyses, 53 results, 3186 individual maps
 
@@ -133,7 +133,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiWZoff](SmsDictionary220+superseded#TChiWZoff) | | &#10004; |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (20 analyses)
+## ATLAS, efficiency maps, 13 TeV (21 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -156,6 +156,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-eff"></a> | jets + MET | 139.0 | [T1](SmsDictionary220+superseded#T1), [T2](SmsDictionary220+superseded#T2), [T5WW](SmsDictionary220+superseded#T5WW) | |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31-eff"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | | json |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | |  |
+| [ATLAS-SUSY-2018-41-eff](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWZ](SmsDictionary220+superseded#TChiWZ) | |  |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH) | | json |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiWZoff](SmsDictionary220+superseded#TChiWZoff) | | json |
 
@@ -280,4 +281,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Mar 16 17:24:57 2022.
+This page was created Thu Mar 17 17:32:41 2022.

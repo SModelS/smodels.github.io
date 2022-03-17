@@ -1,20 +1,20 @@
 {
     "channels": [
         {
-            "name": "QCR1cut_cuts",
+            "name": "CRtt_cuts",
             "samples": [
                 {
                     "data": [
-                        72.65869287252784
+                        138.95569062497054
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    81.13856975610655
+                                    149.22529358342678
                                 ],
                                 "lo_data": [
-                                    64.17881598894913
+                                    128.6860876665143
                                 ]
                             },
                             "name": "totalError",
@@ -26,20 +26,29 @@
             ]
         },
         {
-            "name": "QCR2cut_cuts",
+            "name": "SR_metsigST",
             "samples": [
                 {
                     "data": [
-                        26.946025360881944
+                        22.910582019575322,
+                        10.542557938663553,
+                        3.8375800734150443,
+                        2.576598768670603
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    32.30269872188634
+                                    25.350338810596806,
+                                    12.124706406469189,
+                                    4.669704690471659,
+                                    3.115362926554879
                                 ],
                                 "lo_data": [
-                                    21.589351999877554
+                                    20.47082522855384,
+                                    8.960409470857917,
+                                    3.0054554563584297,
+                                    2.037834610786327
                                 ]
                             },
                             "name": "totalError",
@@ -51,20 +60,20 @@
             ]
         },
         {
-            "name": "SR1cut_cuts",
+            "name": "VRzAlt_cuts",
             "samples": [
                 {
                     "data": [
-                        7.32849661754466
+                        246.36019326046917
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    10.082253560804581
+                                    259.10186422754765
                                 ],
                                 "lo_data": [
-                                    4.574739674284739
+                                    233.6185222933907
                                 ]
                             },
                             "name": "totalError",
@@ -76,20 +85,20 @@
             ]
         },
         {
-            "name": "SR2cut_cuts",
+            "name": "CRz_cuts",
             "samples": [
                 {
                     "data": [
-                        8.672689439530048
+                        72.47504326487253
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    10.684310727145936
+                                    79.69320202013112
                                 ],
                                 "lo_data": [
-                                    6.66106815191416
+                                    65.25688450961393
                                 ]
                             },
                             "name": "totalError",
@@ -101,20 +110,45 @@
             ]
         },
         {
-            "name": "WCRcut_cuts",
+            "name": "VRtt_cuts",
             "samples": [
                 {
                     "data": [
-                        1099.3887303999682
+                        123.6651277425864
                     ],
                     "modifiers": [
                         {
                             "data": {
                                 "hi_data": [
-                                    1132.6785284181483
+                                    133.15303469066896
                                 ],
                                 "lo_data": [
-                                    1066.098932381788
+                                    114.17722079450385
+                                ]
+                            },
+                            "name": "totalError",
+                            "type": "histosys"
+                        }
+                    ],
+                    "name": "Bkg"
+                }
+            ]
+        },
+        {
+            "name": "VRz_cuts",
+            "samples": [
+                {
+                    "data": [
+                        141.98089491676785
+                    ],
+                    "modifiers": [
+                        {
+                            "data": {
+                                "hi_data": [
+                                    149.9722837400905
+                                ],
+                                "lo_data": [
+                                    133.98950609344521
                                 ]
                             },
                             "name": "totalError",
@@ -152,39 +186,48 @@
                 ],
                 "poi": "mu_SIG"
             },
-            "name": "BasicMeasurement"
+            "name": "NormalMeasurement"
         }
     ],
     "observations": [
         {
             "data": [
-                72
+                143.0
             ],
-            "name": "QCR1cut_cuts"
+            "name": "CRtt_cuts"
         },
         {
             "data": [
-                27
+                28.0,
+                12.0,
+                4.0,
+                3.0
             ],
-            "name": "QCR2cut_cuts"
+            "name": "SR_metsigST"
         },
         {
             "data": [
-                10
+                242.0
             ],
-            "name": "SR1cut_cuts"
+            "name": "VRzAlt_cuts"
         },
         {
             "data": [
-                7
+                73.0
             ],
-            "name": "SR2cut_cuts"
+            "name": "CRz_cuts"
         },
         {
             "data": [
-                1099
+                118.0
             ],
-            "name": "WCRcut_cuts"
+            "name": "VRtt_cuts"
+        },
+        {
+            "data": [
+                141.0
+            ],
+            "name": "VRz_cuts"
         }
     ],
     "version": "1.0.0"

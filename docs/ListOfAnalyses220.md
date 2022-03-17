@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.0 
-List of analyses and topologies in the SMS results database, comprising 5341 individual maps from 936 distinct signal regions, 99 different SMS topologies, from a total of 110 analyses.
+List of analyses and topologies in the SMS results database, comprising 5344 individual maps from 939 distinct signal regions, 99 different SMS topologies, from a total of 111 analyses.
 The list has been created from the database version `2.2.0.`
 There is also an  [sms dictionary](SmsDictionary220) and a [validation page](Validation220).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses220WithSuperseded).
@@ -7,9 +7,9 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 46 CMS 13 TeV searches.
+In total, we have results from 36 ATLAS and 46 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 20  analyses, 60 (of which 11 LLP) results, 593 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21  analyses, 62 (of which 11 LLP) results, 596 individual maps
  * [CMS upper limits](#CMSupperlimits13): 36  analyses, 143 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 11  analyses, 53 results, 3186 individual maps
 
@@ -124,7 +124,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary220#TChiWH), [TChiWZ](SmsDictionary220#TChiWZ), [TChiWZoff](SmsDictionary220#TChiWZoff) | &#10004; |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (20 analyses)
+## ATLAS, efficiency maps, 13 TeV (21 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -147,6 +147,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-eff"></a> | jets + MET | 139.0 | [T1](SmsDictionary220#T1), [T2](SmsDictionary220#T2), [T5WW](SmsDictionary220#T5WW) |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31-eff"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) | json |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) |  |
+| [ATLAS-SUSY-2018-41-eff](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary220#TChiWH), [TChiWZ](SmsDictionary220#TChiWZ) |  |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220#TChiWH) | json |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary220#TChiWZ), [TChiWZoff](SmsDictionary220#TChiWZoff) | json |
 
@@ -239,4 +240,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Mar 16 17:30:08 2022.
+This page was created Thu Mar 17 17:37:37 2022.
