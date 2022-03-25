@@ -240,4 +240,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Thu Mar 24 22:26:54 2022.
+This page was created Fri Mar 25 09:13:18 2022.
