@@ -147,7 +147,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-eff"></a> | jets + MET | 139.0 | [T1](SmsDictionary220#T1), [T2](SmsDictionary220#T2), [T5WW](SmsDictionary220#T5WW) |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31-eff"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) | json |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220#T6bbHH) |  |
-| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary220#TChiHH), [TChiWH](SmsDictionary220#TChiWH), [TChiWZ](SmsDictionary220#TChiWZ), [TChiZH](SmsDictionary220#TChiZH), [TChiZZ](SmsDictionary220#TChiZZ) |  |
+| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary220#TChiHH), [TChiWH](SmsDictionary220#TChiWH), [TChiWZ](SmsDictionary220#TChiWZ), [TChiZH](SmsDictionary220#TChiZH), [TChiZZ](SmsDictionary220#TChiZZ) | cov. |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220#TChiWH) | json |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary220#TChiWZ), [TChiWZoff](SmsDictionary220#TChiWZoff) | json |
 
@@ -240,4 +240,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Fri Mar 25 09:13:18 2022.
+This page was created Tue Mar 29 17:45:21 2022.

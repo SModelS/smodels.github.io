@@ -156,7 +156,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-eff"></a> | jets + MET | 139.0 | [T1](SmsDictionary220+superseded#T1), [T2](SmsDictionary220+superseded#T2), [T5WW](SmsDictionary220+superseded#T5WW) | |  |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31-eff"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | | json |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary220+superseded#T6bbHH) | |  |
-| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary220+superseded#TChiHH), [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiZH](SmsDictionary220+superseded#TChiZH), [TChiZZ](SmsDictionary220+superseded#TChiZZ) | |  |
+| [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary220+superseded#TChiHH), [TChiWH](SmsDictionary220+superseded#TChiWH), [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiZH](SmsDictionary220+superseded#TChiZH), [TChiZZ](SmsDictionary220+superseded#TChiZZ) | | cov. |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary220+superseded#TChiWH) | | json |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary220+superseded#TChiWZ), [TChiWZoff](SmsDictionary220+superseded#TChiWZoff) | | json |
 
@@ -281,4 +281,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Fri Mar 25 09:08:27 2022.
+This page was created Tue Mar 29 17:40:31 2022.
