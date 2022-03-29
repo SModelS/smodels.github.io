@@ -13,7 +13,7 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Hum
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 11 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 30 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
 
