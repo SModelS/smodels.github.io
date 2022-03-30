@@ -7,7 +7,7 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 43 CMS 13 TeV searches.
+In total, we have results from 35 ATLAS and 39 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21  analyses, 65 (of which 11 LLP) results, 599 individual maps
  * [CMS upper limits](#CMSupperlimits13): 36  analyses, 143 (of which 3 LLP) results
@@ -237,4 +237,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Mar 30 18:51:06 2022.
+This page was created Wed Mar 30 19:17:12 2022.

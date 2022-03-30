@@ -7,7 +7,7 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 52 CMS 13 TeV searches.
+In total, we have results from 35 ATLAS and 48 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32  analyses, 80 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21  analyses, 65 (of which 11 LLP) results, 599 individual maps
  * [CMS upper limits](#CMSupperlimits13): 45  analyses, 180 (of which 3 LLP) results
@@ -278,4 +278,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Mar 30 18:41:42 2022.
+This page was created Wed Mar 30 19:11:45 2022.
