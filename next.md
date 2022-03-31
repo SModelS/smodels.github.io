@@ -13,7 +13,7 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Hum
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 30 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
 
@@ -84,6 +84,6 @@ See the [publications and talks](docs/SModelSTalks) page
 <img src="logos/CCNH-logo.jpg" height="140pt" align="bottom"> &nbsp; &nbsp; 
 <img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp; &nbsp;
 <img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
-<img src="logos/unige.png" width="300pt" align="middle"> &nbsp;
+<img src="logos/unige.png" height="140pt" align="middle"> &nbsp;
 <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
 <!-- <img src="logos/glasgow.jpg" width="280pt" align="middle"> -->
