@@ -13,7 +13,9 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 31 Mar 2022: prerelease of [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+------------------------------------------------------------------------ 
+### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
 ### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
 
