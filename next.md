@@ -56,8 +56,9 @@ Moreover
 * If you use the *cross section calculator* please cite *Pythia and NLLfast*
 * If you use the Fastlim results in the database, please cite *Fastlim 1.0* [arXiv:1402.40492](http://arxiv.org/abs/1402.40492), [EPJC74 (2014) 11](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-014-3163-1).
                                                                                                                                                                                          
-For convenience a .bib file is provided with the code containing all relevant references.
-Likewise, a .bib file is provided in the database folder with references to all the ATLAS and CMS analyses used.
+For convenience a .bib file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/blob/master/references.bib).
+Likewise, a .bib file with references to all the ATLAS and CMS analyses used
+is provided in the [text database](https://github.com/SModelS/smodels-database-release/blob/master/database.bib).
 
 ------------------------------------------------------------------------
 
