@@ -1,7 +1,7 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonzalez, Wolfgang Waltenberger
+Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Wolfgang Waltenberger
 
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
@@ -56,8 +56,8 @@ Moreover
 * If you use the *cross section calculator* please cite *Pythia and NLLfast*
 * If you use the Fastlim results in the database, please cite *Fastlim 1.0* [arXiv:1402.40492](http://arxiv.org/abs/1402.40492), [EPJC74 (2014) 11](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-014-3163-1).
                                                                                                                                                                                          
-For convenience a .bib file is provided with the code containing all relevant references.
-Likewise, a .bib file is provided in the database folder with references to all the ATLAS and CMS analyses used.
+For convenience a [references.bib](https://github.com/SModelS/smodels/blob/master/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
+Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/master/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
 
 ------------------------------------------------------------------------
 
