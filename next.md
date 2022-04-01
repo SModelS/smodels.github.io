@@ -17,6 +17,9 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Hum
 
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
 
+### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
+#### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
+
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)

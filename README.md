@@ -1,9 +1,9 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Philipp Neuhuber, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel 
+Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonzalez, Wolfgang Waltenberger
 
- <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Juhi Dutta, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf</font>
+ <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
 ------------------------------------------------------------------------
 
@@ -13,10 +13,13 @@ Gael Alguero, Jan Heisig, Charanjit K. Khosa, Sabine Kraml, Suchita Kulkarni, An
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 31 Mar 2022: prerelease of [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
+
 ### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
 #### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
+
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
@@ -26,7 +29,8 @@ we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
-* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809)
+* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809) and the main novelties of SModelS v2 in [arXiv:2112.00769](https://arxiv.org/abs/2112.00769).
+* An update of the micrOMEGAs interface for SModelS v2.2 is available on [Zenodo](https://zenodo.org/record/6402610#.YkYsMGDRZmA)
 
 ### Mailing lists:
    
@@ -85,6 +89,6 @@ See the [publications and talks](docs/SModelSTalks) page
 <img src="logos/CCNH-logo.jpg" height="140pt" align="bottom"> &nbsp; &nbsp; 
 <img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp; &nbsp;
 <img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
-<img src="logos/unihh.jpg" width="300pt" align="middle"> &nbsp;
-<img src="logos/monash_university_logo.png" width="230pt" align="middle"> &nbsp; &nbsp;
+<img src="logos/unige.png" height="120pt" align="middle"> &nbsp;
 <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
+<!-- <img src="logos/glasgow.jpg" width="280pt" align="middle"> -->
