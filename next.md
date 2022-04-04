@@ -1,7 +1,7 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonzalez, Wolfgang Waltenberger
+Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Wolfgang Waltenberger
 
  <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
@@ -13,9 +13,12 @@ Gael Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Hum
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 30 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
+
+### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
+#### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 
 ------------------------------------------------------------------------   
 
@@ -26,7 +29,8 @@ we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
-* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809)
+* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809) and the main novelties of SModelS v2 in [arXiv:2112.00769](https://arxiv.org/abs/2112.00769).
+* An update of the micrOMEGAs interface for SModelS v2.2 is available on [Zenodo](https://zenodo.org/record/6402610#.YkYsMGDRZmA)
 
 ### Mailing lists:
    
@@ -37,6 +41,7 @@ and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 
 ## If you use SModelS, please cite the following papers:
 
+* *Constraining new physics with SModelS version 2*, Gael Alguero, Jan Heisig, Charanjit Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel, [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 * *A SModelS interface for pyhf likelihoods*, Gael Alguero, Sabine Kraml, Wolfgang Waltenberger, [arXiv:2009.01809](https://arxiv.org/abs/2009.01809), [CPC March 2021, 107909](https://doi.org/10.1016/j.cpc.2021.107909)
 * *SModelS database update v1.2.3*, Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, Wolfgang Waltenberger, [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [LHEP 158 2020](https://doi.org/10.31526/lhep.2020.158)
 * *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://www.sciencedirect.com/science/article/pii/S0010465519302255?via%3Dihub)
@@ -51,8 +56,8 @@ Moreover
 * If you use the *cross section calculator* please cite *Pythia and NLLfast*
 * If you use the Fastlim results in the database, please cite *Fastlim 1.0* [arXiv:1402.40492](http://arxiv.org/abs/1402.40492), [EPJC74 (2014) 11](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-014-3163-1).
                                                                                                                                                                                          
-For convenience a .bib file is provided with the code containing all relevant references.
-Likewise, a .bib file is provided in the database folder with references to all the ATLAS and CMS analyses used.
+For convenience a [references.bib](https://github.com/SModelS/smodels/blob/master/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
+Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/master/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
 
 ------------------------------------------------------------------------
 
@@ -84,6 +89,6 @@ See the [publications and talks](docs/SModelSTalks) page
 <img src="logos/CCNH-logo.jpg" height="140pt" align="bottom"> &nbsp; &nbsp; 
 <img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp; &nbsp;
 <img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
-<img src="logos/unige.png" width="300pt" align="middle"> &nbsp;
+<img src="logos/unige.png" height="120pt" align="middle"> &nbsp;
 <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
 <!-- <img src="logos/glasgow.jpg" width="280pt" align="middle"> -->
