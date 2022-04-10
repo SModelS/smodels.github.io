@@ -13,6 +13,8 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
+###  7 Apr 2022: [SModelS version 2.2.0.post1](https://github.com/SModelS/smodels/releases) available 
+contains a small fix for python <= 3.7
 ### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
 ### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
@@ -26,7 +28,8 @@ we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in
 and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
-* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809)
+* SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809) and the main novelties of SModelS v2 in [arXiv:2112.00769](https://arxiv.org/abs/2112.00769).
+* An update of the micrOMEGAs interface for SModelS v2.2 is available on [Zenodo](https://zenodo.org/record/6402610#.YkYsMGDRZmA)
 
 ### Mailing lists:
    
