@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.1adl (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 259 individual maps from 66 distinct signal regions, 14 different SMS topologies, from a total of 5 analyses.
+List of analyses and topologies in the SMS results database, comprising 297 individual maps from 77 distinct signal regions, 17 different SMS topologies, from a total of 5 analyses.
 The list has been created from the database version `2.2.1adl.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary221adl) and a [validation page](Validation221adl).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses221adl).
@@ -9,7 +9,7 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ### Run 2 - 13 TeV
 In total, we have results from 0 ATLAS and 5 CMS 13 TeV searches.
  * [CMS upper limits](#CMSupperlimits13): 1 analyses, 3 results
- * [CMS efficiency maps](#CMSefficiencymaps13): 4 analyses, 15 results, 256 individual maps
+ * [CMS efficiency maps](#CMSefficiencymaps13): 4 analyses, 18 results, 294 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
@@ -31,7 +31,7 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 | [CMS-SUS-16-039-scalar](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html)<a name="CMS-SUS-16-039-scalar-eff"></a> | Multilepton EWK searches | 35.9 | [THigWZ](SmsDictionary221adl+superseded#THigWZ), [THigWZoff](SmsDictionary221adl+superseded#THigWZoff), [THigZZ](SmsDictionary221adl+superseded#THigZZ), [THigZZoff](SmsDictionary221adl+superseded#THigZZoff) | | cov. |
 | [CMS-SUS-16-048](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html)<a name="CMS-SUS-16-048-agg"></a> | two soft OS leptons | 35.9 | [TChiWZoff](SmsDictionary221adl+superseded#TChiWZoff) | | cov. |
 | [CMS-SUS-17-001-ma5](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001-ma5"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary221adl+superseded#T2tt), [T2ttoff](SmsDictionary221adl+superseded#T2ttoff), [T6bbWW](SmsDictionary221adl+superseded#T6bbWW) | | cov. |
-| [CMS-SUS-19-005-adl](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html)<a name="CMS-SUS-19-005-adl-eff"></a> | 0L + jets, M<sub>T2</sub> | 137.0 | [T1](SmsDictionary221adl+superseded#T1), [T1bbbb](SmsDictionary221adl+superseded#T1bbbb), [T1tttt](SmsDictionary221adl+superseded#T1tttt), [T1ttttoff](SmsDictionary221adl+superseded#T1ttttoff), [T2](SmsDictionary221adl+superseded#T2), [T2bb](SmsDictionary221adl+superseded#T2bb), [T2tt](SmsDictionary221adl+superseded#T2tt) | |  |
+| [CMS-SUS-19-005-adl](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-005/index.html)<a name="CMS-SUS-19-005-adl-eff"></a> | 0L + jets, M<sub>T2</sub> | 137.0 | [T1](SmsDictionary221adl+superseded#T1), [T1bbbb](SmsDictionary221adl+superseded#T1bbbb), [T1tttt](SmsDictionary221adl+superseded#T1tttt), [T1ttttoff](SmsDictionary221adl+superseded#T1ttttoff), [T2](SmsDictionary221adl+superseded#T2), [T2bb](SmsDictionary221adl+superseded#T2bb), [T2tt](SmsDictionary221adl+superseded#T2tt), [T3GQ](SmsDictionary221adl+superseded#T3GQ), [T5GQ](SmsDictionary221adl+superseded#T5GQ), [TGQ](SmsDictionary221adl+superseded#TGQ) | |  |
 
 
 <a name='A1'>(1)</a> ''Home-grown'' result, i.e. produced by SModelS collaboration, using recasting tools like MadAnalysis5 or CheckMATE.
@@ -44,4 +44,4 @@ In total, we have results from 0 ATLAS and 0 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Sat Apr 23 15:53:07 2022.
+This page was created Sat Apr 23 22:08:57 2022.
