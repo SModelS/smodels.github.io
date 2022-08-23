@@ -13,13 +13,14 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) is now available [(what's new)](http://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
-
+###  25 Aug 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available 
+contains fixes in the likelihood computations, and analysis combinations
+###  7 Apr 2022: [SModelS version 2.2.0.post1](https://github.com/SModelS/smodels/releases) available 
+contains a small fix for python <= 3.7
+### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
 we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
-
 ### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
 #### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
-
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
@@ -58,7 +59,6 @@ Moreover
                                                                                                                                                                                          
 For convenience a [references.bib](https://github.com/SModelS/smodels/blob/master/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
 Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/master/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
-
 ------------------------------------------------------------------------
 
 ## Working principle                                            
