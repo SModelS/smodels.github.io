@@ -15,11 +15,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 ------------------------------------------------------------------------ 
 ###  25 Aug 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available 
 contains fixes in the likelihood computations, and analysis combinations
-###  7 Apr 2022: [SModelS version 2.2.0.post1](https://github.com/SModelS/smodels/releases) available 
-contains a small fix for python <= 3.7
-### 31 Mar 2022: [SModelS version 2.2.0](https://github.com/SModelS/smodels/releases) available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
-we thank Jamie Yellen (University of Glasgow) for beta testing, and a bug fix in the analysis combination code
-### 19 Oct 2021: [SModelS version 2.1.1](https://github.com/SModelS/smodels/releases) is now available [(what's new)](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html#new-in-version-2-1-1)
+
 #### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
 
