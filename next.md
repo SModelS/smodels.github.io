@@ -15,6 +15,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 ------------------------------------------------------------------------ 
 ###  25 Aug 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available 
 contains fixes in the likelihood computations, and analysis combinations
+we thank Jack Y. Araz (Durham) for introducing CI/CD and help with cleaning up the statistics code
 
 #### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
