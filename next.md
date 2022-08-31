@@ -18,7 +18,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
 * We thank Jack Y. Araz (Durham University) for introducing CI/CD and help with cleaning up the statistics code
 
-#### Accompanying physics paper: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
+#### Physics paper for version 2: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
 
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
