@@ -12,6 +12,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/tutorials/master?filepath=index.ipynb) 
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
+
 ------------------------------------------------------------------------ 
 ###  18 Oct 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
