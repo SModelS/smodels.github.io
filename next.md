@@ -13,7 +13,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 [![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  31 Aug 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  18 Oct 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
 * We thank Jack Y. Araz (Durham University) for introducing CI/CD and help with cleaning up the statistics code
