@@ -25,7 +25,7 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 * For instructions on how to install SModelS, check the [installation section in the manual](https://smodels.readthedocs.io/en/latest/Installation.html).
 * This [tutorial](https://github.com/SModelS/tutorials) is available from the latest [Reinterpetation workshop](https://indico.cern.ch/event/982553/).
 * You may also want to check the [release notes](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
-and [known issues](https://github.com/SModelS/smodels/blob/master/KnownIssues)
+and [known issues](https://github.com/SModelS/smodels/blob/main/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
 * SModelS support for [pyhf](https://github.com/scikit-hep/pyhf) likelihoods is described in [arXiv:2009.01809](https://arxiv.org/abs/2009.01809) and the main novelties of SModelS v2 in [arXiv:2112.00769](https://arxiv.org/abs/2112.00769).
@@ -55,8 +55,8 @@ Moreover
 * If you use the *cross section calculator* please cite *Pythia and NLLfast*
 * If you use the Fastlim results in the database, please cite *Fastlim 1.0* [arXiv:1402.40492](http://arxiv.org/abs/1402.40492), [EPJC74 (2014) 11](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-014-3163-1).
                                                                                                                                                                                          
-For convenience a [references.bib](https://github.com/SModelS/smodels/blob/master/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
-Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/master/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
+For convenience a [references.bib](https://github.com/SModelS/smodels/blob/main/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
+Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/main/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
 ------------------------------------------------------------------------
 
 ## Working principle                                            
