@@ -1,0 +1,147 @@
+<!-- Sankey generated in R 3.3.1 by googleVis 0.6.0 package -->
+<!-- Mon Apr 10 14:58:08 2017 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataX () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Signal 1",
+"no K",
+159 
+],
+[
+ "Signal 1",
+"K1",
+697 
+],
+[
+ "Signal 1",
+"K2",
+0 
+],
+[
+ "Signal 1",
+"K12",
+144 
+],
+[
+ "Signal 2",
+"no K",
+234 
+],
+[
+ "Signal 2",
+"K1",
+4 
+],
+[
+ "Signal 2",
+"K2",
+583 
+],
+[
+ "Signal 2",
+"K12",
+179 
+],
+[
+ "Signals 1+2",
+"no K",
+345 
+],
+[
+ "Signals 1+2",
+"K1",
+130 
+],
+[
+ "Signals 1+2",
+"K2",
+115 
+],
+[
+ "Signals 1+2",
+"K12",
+410 
+] 
+];
+data.addColumn('string','From');
+data.addColumn('string','To');
+data.addColumn('number','Runs');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartX() {
+var data = gvisDataX();
+var options = {};
+options["width"] = [400];
+options["height"] = [400];
+options["sankey"] = {link: { colorMode: 'gradient', colors: [ '#aa0000', '#aaaaaa', '#ff4444', '#2222ff', '#22ff22', '#000077', '#00aa00' ], label: [ 'x' ] }, node: { colors: [ '#aa0000', '#aaaaaa', '#ff4444', '#2222ff', '#22ff22', '#000077', '#00aa00' ], label: { fontSize: 16 } }};
+
+
+    var chart = new google.visualization.Sankey(
+    document.getElementById('X')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "sankey";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartX);
+})();
+function displayChartX() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartX"></script>
+ 
+<!-- divChart -->
+  
+<div id="X" 
+  style="width: 400; height: 400;">
+</div>
