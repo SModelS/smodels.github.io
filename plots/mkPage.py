@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
 
-import glob, time
+import glob, time, os
+
+def addText ( f ):
+    if os.path.exists ( "text" ):
+        g = open ( "text", "rt" )
+        f.write ( g.read() )
+        g.close()
 
 def main():
     with open("README.md","wt") as f:
         f.write ( "# collection of plots\n" )
         f.write ( "%s\n\n" % time.asctime() )
+        addText ( f )
         files = glob.glob("./*" )
         def getAnaid ( x ):
             x = x.replace("bestSR_","").replace("combo_","").replace("ratios_","").replace("-scalar","").replace("-ma5","")
