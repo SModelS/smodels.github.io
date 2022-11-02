@@ -6,6 +6,7 @@ def addText ( f ):
     if os.path.exists ( "text" ):
         g = open ( "text", "rt" )
         f.write ( g.read() )
+        f.write ( "\n" )
         g.close()
 
 def main():
