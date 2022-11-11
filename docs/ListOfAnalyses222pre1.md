@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.2.pre1 
-List of analyses and topologies in the SMS results database, comprising 5350 individual maps from 940 distinct signal regions, 100 different SMS topologies, from a total of 108 analyses.
+List of analyses and topologies in the SMS results database, comprising 5352 individual maps from 941 distinct signal regions, 100 different SMS topologies, from a total of 109 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
@@ -7,10 +7,10 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 40 CMS 13 TeV searches.
+In total, we have results from 35 ATLAS and 41 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32 analyses, 80 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21 analyses, 65 (of which 11 LLP) results, 599 individual maps
- * [CMS upper limits](#CMSupperlimits13): 37 analyses, 146 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 38 analyses, 148 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 8 analyses, 53 results, 3186 individual maps
 
 ### Run 1 - 8 TeV
@@ -88,12 +88,13 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02-eff"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary222pre1#T2tt) |  |
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (37 analyses)
+## CMS, upper limits, 13 TeV (38 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
 | **Publications** | | | | |
 | [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002-eff"></a> | Hadronic EWK searches | 137.0 | [TChiWH](SmsDictionary222pre1#TChiWH), [TChiWW](SmsDictionary222pre1#TChiWW), [TChiWZ](SmsDictionary222pre1#TChiWZ) | &#10004; |
+| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004-eff"></a> | search for higgsinos | 137.0 | [T5HH](SmsDictionary222pre1#T5HH), [TChiHH](SmsDictionary222pre1#TChiHH) | &#10004; |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002-eff"></a> | combined stop search | 137.0 | [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff), [T6bbWW](SmsDictionary222pre1#T6bbWW) | &#10004; |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001-eff"></a> | 2 OSSF leptons | 137.0 | [T5ZZ](SmsDictionary222pre1#T5ZZ), [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiZZ](SmsDictionary222pre1#TChiZZ), [TSlepSlep](SmsDictionary222pre1#TSlepSlep) | &#10004; |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013-eff"></a> | High momentum Z Boson+ Etmiss | 137.0 | [T5ZZ](SmsDictionary222pre1#T5ZZ) | &#10004; |
@@ -235,4 +236,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Nov  2 11:15:20 2022.
+This page was created Fri Nov 11 17:02:54 2022.
