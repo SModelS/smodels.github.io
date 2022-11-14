@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.2.pre1 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 6730 individual maps from 1038 distinct signal regions, 113 different SMS topologies, from a total of 139 analyses.
+List of analyses and topologies in the SMS results database, comprising 6766 individual maps from 1074 distinct signal regions, 113 different SMS topologies, from a total of 139 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses222pre1).
@@ -9,7 +9,7 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ### Run 2 - 13 TeV
 In total, we have results from 35 ATLAS and 50 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 32 analyses, 80 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 21 analyses, 65 (of which 11 LLP) results, 599 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 22 analyses, 66 (of which 11 LLP) results, 635 individual maps
  * [CMS upper limits](#CMSupperlimits13): 47 analyses, 185 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 8 analyses, 53 results, 3186 individual maps
 
@@ -60,7 +60,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2015-01](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-01/)<a name="ATLAS-SUSY-2015-01-eff"></a> | 2 b-jets + Etmiss | 3.2 | [T2bb](SmsDictionary222pre1+superseded#T2bb) | |  |
 
 <a name="ATLASefficiencymaps13"></a>
-## ATLAS, efficiency maps, 13 TeV (21 analyses)
+## ATLAS, efficiency maps, 13 TeV (22 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -69,6 +69,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary222pre1+superseded#TChiWH) | | json |
 | [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary222pre1+superseded#TChiHH), [TChiWH](SmsDictionary222pre1+superseded#TChiWH), [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ), [TChiZH](SmsDictionary222pre1+superseded#TChiZH), [TChiZZ](SmsDictionary222pre1+superseded#TChiZZ) | | cov. |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary222pre1+superseded#T6bbHH) | |  |
+| [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32-eff"></a> | 2 OS leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary222pre1+superseded#TChiWW) | | json |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31-eff"></a> | higgs + b-jets + MET | 139.0 | [T6bbHH](SmsDictionary222pre1+superseded#T6bbHH) | | json |
 | [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-eff"></a> | jets + MET | 139.0 | [T1](SmsDictionary222pre1+superseded#T1), [T2](SmsDictionary222pre1+superseded#T2), [T5WW](SmsDictionary222pre1+superseded#T5WW) | |  |
 | [ATLAS-SUSY-2018-14](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/)<a name="ATLAS-SUSY-2018-14-eff"></a> | displaced vertices | 139.0 | [TSelSelDisp](SmsDictionary222pre1+superseded#TSelSelDisp), [TSmuSmuDisp](SmsDictionary222pre1+superseded#TSmuSmuDisp), [TStauStauDisp](SmsDictionary222pre1+superseded#TStauStauDisp) | | json |
@@ -277,4 +278,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Fri Nov 11 17:58:50 2022.
+This page was created Mon Nov 14 15:20:12 2022.
