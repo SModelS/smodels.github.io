@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.2.pre1 
-List of analyses and topologies in the SMS results database, comprising 5388 individual maps from 977 distinct signal regions, 100 different SMS topologies, from a total of 109 analyses.
+List of analyses and topologies in the SMS results database, comprising 5392 individual maps from 978 distinct signal regions, 100 different SMS topologies, from a total of 110 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
@@ -7,8 +7,8 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 35 ATLAS and 41 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 32 analyses, 80 (of which 4 LLP) results
+In total, we have results from 36 ATLAS and 41 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 33 analyses, 84 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 22 analyses, 66 (of which 11 LLP) results, 635 individual maps
  * [CMS upper limits](#CMSupperlimits13): 38 analyses, 148 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 8 analyses, 53 results, 3186 individual maps
@@ -21,7 +21,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
  * [CMS efficiency maps](#CMSefficiencymaps8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (32 analyses)
+## ATLAS, upper limits, 13 TeV (33 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -38,6 +38,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10-eff"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary222pre1#T5WW), [T5WWoff](SmsDictionary222pre1#T5WWoff), [T6WW](SmsDictionary222pre1#T6WW), [T6WWoff](SmsDictionary222pre1#T6WWoff) |  |
 | [ATLAS-SUSY-2018-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-08/)<a name="ATLAS-SUSY-2018-08-eff"></a> | OS leptons | 139.0 | [T2bbffff](SmsDictionary222pre1#T2bbffff), [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff) |  |
 | [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiWZoff](SmsDictionary222pre1#TChiWZoff) | &#10004; |
+| [ATLAS-SUSY-2018-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/)<a name="ATLAS-SUSY-2018-05-eff"></a> | 2L + jets + Etmiss (EWino) | 139.0 | [T5ZZ](SmsDictionary222pre1#T5ZZ), [T6ZZ](SmsDictionary222pre1#T6ZZ), [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiWZoff](SmsDictionary222pre1#TChiWZoff) |  |
 | [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04-eff"></a> | 2 hadronic taus (OS) | 139.0 | [TStauStau](SmsDictionary222pre1#TStauStau) |  |
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03-eff"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary222pre1#TChiWZ) |  |
 | [ATLAS-SUSY-2017-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-02/)<a name="ATLAS-SUSY-2017-02-eff"></a> | 0L + jets + Etmiss | 36.1 | [TChiH](SmsDictionary222pre1#TChiH) | &#10004; |
@@ -100,7 +101,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001-eff"></a> | 2 OSSF leptons | 137.0 | [T5ZZ](SmsDictionary222pre1#T5ZZ), [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiZZ](SmsDictionary222pre1#TChiZZ), [TSlepSlep](SmsDictionary222pre1#TSlepSlep) | &#10004; |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013-eff"></a> | High momentum Z Boson+ Etmiss | 137.0 | [T5ZZ](SmsDictionary222pre1#T5ZZ) | &#10004; |
 | [CMS-SUS-19-011](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-011/index.html)<a name="CMS-SUS-19-011-eff"></a> | Stop search in dilepton + jets + Etmiss final state | 137.0 | [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff), [T6bbWW](SmsDictionary222pre1#T6bbWW) | &#10004; |
-| [CMS-SUS-19-009](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html)<a name="CMS-SUS-19-009-eff"></a> | 1L + jets, MHT | 137.0 | [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff), [T6bbWW](SmsDictionary222pre1#T6bbWW) |  |
+| [CMS-SUS-19-009](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html)<a name="CMS-SUS-19-009-eff"></a> | 1L + jets, MHT | 137.0 | [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff), [T6bbWW](SmsDictionary222pre1#T6bbWW) | &#10004; |
 | [CMS-SUS-19-008](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-008/index.html)<a name="CMS-SUS-19-008-eff"></a> | 2-3L + jets | 137.0 | [T1tttt](SmsDictionary222pre1#T1tttt), [T1ttttoff](SmsDictionary222pre1#T1ttttoff), [T5WW](SmsDictionary222pre1#T5WW), [T5WZ](SmsDictionary222pre1#T5WZ), [T5tctc](SmsDictionary222pre1#T5tctc), [T5tttt](SmsDictionary222pre1#T5tttt) | &#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary222pre1#T1), [T1bbbb](SmsDictionary222pre1#T1bbbb), [T1tttt](SmsDictionary222pre1#T1tttt), [T1ttttoff](SmsDictionary222pre1#T1ttttoff), [T2](SmsDictionary222pre1#T2), [T2bb](SmsDictionary222pre1#T2bb), [T2tt](SmsDictionary222pre1#T2tt), [T2ttoff](SmsDictionary222pre1#T2ttoff) | &#10004; |
 | [CMS-SUS-18-007](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-007/index.html)<a name="CMS-SUS-18-007-eff"></a> | H(diphoton) | 77.5 | [T6bbHH](SmsDictionary222pre1#T6bbHH), [TChiHH](SmsDictionary222pre1#TChiHH), [TChiWH](SmsDictionary222pre1#TChiWH) | &#10004; |
@@ -237,4 +238,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'cov' = a covariance matrix for a simplified likelihood. 'json' = full likelihoods as pyhf json files.
 
-This page was created Mon Nov 14 15:25:15 2022.
+This page was created Mon Nov 28 17:09:41 2022.
