@@ -7,7 +7,7 @@ Link to list of results [without superseded and fastlim results](ListOfAnalyses2
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 38 ATLAS and 50 CMS 13 TeV searches.
+In total, we have results from 37 ATLAS and 50 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 34 analyses, 86 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 23 analyses, 68 (of which 11 LLP) results, 693 individual maps
  * [CMS upper limits](#CMSupperlimits13): 47 analyses, 185 (of which 3 LLP) results
@@ -79,7 +79,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10-eff"></a> | 1 lepton + jets + Etmiss | 139.0 | [T5WW](SmsDictionary222pre1+superseded#T5WW), [T5WWoff](SmsDictionary222pre1+superseded#T5WWoff), [T6WW](SmsDictionary222pre1+superseded#T6WW), [T6WWoff](SmsDictionary222pre1+superseded#T6WWoff) | |  |
 | [ATLAS-SUSY-2018-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-08/)<a name="ATLAS-SUSY-2018-08-eff"></a> | OS leptons | 139.0 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff) | |  |
 | [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ), [TChiWZoff](SmsDictionary222pre1+superseded#TChiWZoff) | |  |
-| [ATLAS-SUSY-2018-05-strong](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/)<a name="ATLAS-SUSY-2018-05-strong-eff"></a> | 2L + jets + MET | 139.0 | [T5ZZ](SmsDictionary222pre1+superseded#T5ZZ), [T6ZZ](SmsDictionary222pre1+superseded#T6ZZ) | |  |
+| [ATLAS-SUSY-2018-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/)<a name="ATLAS-SUSY-2018-05-strong-eff"></a> | 2L + jets + MET | 139.0 | [T5ZZ](SmsDictionary222pre1+superseded#T5ZZ), [T6ZZ](SmsDictionary222pre1+superseded#T6ZZ) | |  |
 | [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04-eff"></a> | 2 hadronic taus | 139.0 | [TStauStau](SmsDictionary222pre1+superseded#TStauStau) | | json |
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03-eff"></a> | Multilepton EWK searches | 36.1 | [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ) | |  |
 | [ATLAS-SUSY-2016-32](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2016-32/index.html)<a name="ATLAS-SUSY-2016-32-eff"></a> | hscp search | 31.6 | [THSCPM10](SmsDictionary222pre1+superseded#THSCPM10) [(1)](#A1), [THSCPM11](SmsDictionary222pre1+superseded#THSCPM11) [(1)](#A1), [THSCPM1b](SmsDictionary222pre1+superseded#THSCPM1b) [(1)](#A1), [THSCPM2b](SmsDictionary222pre1+superseded#THSCPM2b) [(1)](#A1), [THSCPM3](SmsDictionary222pre1+superseded#THSCPM3) [(1)](#A1), [THSCPM4](SmsDictionary222pre1+superseded#THSCPM4) [(1)](#A1), [THSCPM5](SmsDictionary222pre1+superseded#THSCPM5) [(1)](#A1), [THSCPM6](SmsDictionary222pre1+superseded#THSCPM6) [(1)](#A1), [THSCPM7](SmsDictionary222pre1+superseded#THSCPM7) [(1)](#A1), [THSCPM8](SmsDictionary222pre1+superseded#THSCPM8) [(1)](#A1), [THSCPM9](SmsDictionary222pre1+superseded#THSCPM9) [(1)](#A1) | |  |
@@ -281,4 +281,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Tue Dec 20 16:18:27 2022.
+This page was created Tue Dec 20 16:55:12 2022.
