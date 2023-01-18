@@ -3,7 +3,7 @@ List of analyses and topologies in the SMS results database, comprising 6849 ind
 The list has been created from the database version `2.2.2.pre1.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses222pre1).
-![database/pvaluesTrue_222pre1.png](database/pvaluesTrue_222pre1.png?1674057681.771908)
+![images/pvaluesTrue_222pre1.png](images/pvaluesTrue_222pre1.png?1674058270.8994942)
 ## Individual tables
 
 ### Run 2 - 13 TeV
@@ -282,4 +282,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Wed Jan 18 17:01:21 2023.
+This page was created Wed Jan 18 17:11:10 2023.
