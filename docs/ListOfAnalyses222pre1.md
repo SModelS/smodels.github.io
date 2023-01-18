@@ -3,7 +3,7 @@ List of analyses and topologies in the SMS results database, comprising 5471 ind
 The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
-
+![plots/pvalues222pre1.png](plots/pvalues222pre1.png?1674057285.9566162)
 ## Individual tables
 
 ### Run 2 - 13 TeV
@@ -241,4 +241,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'SLv1' = a covariance matrix for a simplified likelihood v1. 'SLv2' = a covariance matrix plus third momenta for simplified likelihood v2. 'json' = full likelihoods as pyhf json files.
 
-This page was created Wed Jan 18 11:55:57 2023.
+This page was created Wed Jan 18 16:54:45 2023.
