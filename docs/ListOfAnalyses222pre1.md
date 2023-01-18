@@ -1,5 +1,5 @@
 # List Of Analyses 2.2.2.pre1 
-List of analyses and topologies in the SMS results database, comprising 5452 individual maps from 1008 distinct signal regions, 100 different SMS topologies, from a total of 111 analyses.
+List of analyses and topologies in the SMS results database, comprising 5471 individual maps from 1022 distinct signal regions, 100 different SMS topologies, from a total of 112 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
@@ -7,9 +7,9 @@ Link to list of results [including superseded and fastlim results](ListOfAnalyse
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 37 ATLAS and 41 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 34 analyses, 86 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 23 analyses, 68 (of which 11 LLP) results, 693 individual maps
+In total, we have results from 38 ATLAS and 41 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLASupperlimits13): 35 analyses, 90 (of which 4 LLP) results
+ * [ATLAS efficiency maps](#ATLASefficiencymaps13): 23 analyses, 70 (of which 11 LLP) results, 708 individual maps
  * [CMS upper limits](#CMSupperlimits13): 38 analyses, 148 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 8 analyses, 53 results, 3186 individual maps
 
@@ -21,7 +21,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
  * [CMS efficiency maps](#CMSefficiencymaps8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
 <a name="ATLASupperlimits13"></a>
-## ATLAS, upper limits, 13 TeV (34 analyses)
+## ATLAS, upper limits, 13 TeV (35 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -29,6 +29,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary222pre1#TChiWH), [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiWZoff](SmsDictionary222pre1#TChiWZoff) | &#10004; |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary222pre1#TChiWH) |  |
 | [ATLAS-SUSY-2019-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/)<a name="ATLAS-SUSY-2019-02-eff"></a> | 2L + Etmiss (soft) | 139.0 | [TChiWW](SmsDictionary222pre1#TChiWW), [TSlepSlep](SmsDictionary222pre1#TSlepSlep) |  |
+| [ATLAS-SUSY-2018-42](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/)<a name="ATLAS-SUSY-2018-42-eff"></a> | charged LLPs, dE/dx | 139.0 | [T1Disp](SmsDictionary222pre1#T1Disp), [THSCPM1b](SmsDictionary222pre1#THSCPM1b), [TRHadGM1](SmsDictionary222pre1#TRHadGM1), [TStauStauDisp](SmsDictionary222pre1#TStauStauDisp) | &#10004; |
 | [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary222pre1#TChiWH), [TChiWW](SmsDictionary222pre1#TChiWW), [TChiWZ](SmsDictionary222pre1#TChiWZ) | &#10004; |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary222pre1#T6bbHH) | &#10004; |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32-eff"></a> | 2 OS leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary222pre1#TChiWW), [TChipChimSlepSlep](SmsDictionary222pre1#TChipChimSlepSlep), [TSlepSlep](SmsDictionary222pre1#TSlepSlep) |  |
@@ -238,6 +239,6 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A3'>(3)</a> Expected upper limits ('exp. ULs'): Can be used to compute a crude approximation of a likelihood, modelled as a truncated Gaussian.
 
-<a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'SLv1' = a covariance matrix for a simplified likelihoodv1. 'SLv2' = a covariance matrix plus third momenta for simplified likelihood v2. 'json' = full likelihoods as pyhf json files.
+<a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'SLv1' = a covariance matrix for a simplified likelihood v1. 'SLv2' = a covariance matrix plus third momenta for simplified likelihood v2. 'json' = full likelihoods as pyhf json files.
 
-This page was created Tue Dec 20 18:07:27 2022.
+This page was created Wed Jan 18 11:55:57 2023.
