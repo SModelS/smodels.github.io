@@ -4,6 +4,8 @@ The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
 
+<img src="../validation/222pre1/pvalues.png" alt="drawing" width="200"/>
+
 ![../validation/222pre1/pvalues.png](../validation/222pre1/pvalues.png?1674060608.9627664 =400x50)
 
 ## Individual tables
