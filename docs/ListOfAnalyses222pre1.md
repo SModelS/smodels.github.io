@@ -4,7 +4,7 @@ The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
 
-<p align='center'><img src='../validation/222pre1/significances.png?1675341479.6583807' alt='plot of significances' width='400' /><font size=-1><br>Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A Standardnormal distribution ist expected if no new physics is in the data. New physics would result in an overabundance of large significances.</font></p>
+<p align='center'><img src='../validation/222pre1/significances.png?1675341479.6583807' alt='plot of significances' width='400' /><font size="1"><br>Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would result in an overabundance of large significances.</font></p>
 
 ## Individual tables
 
