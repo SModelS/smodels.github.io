@@ -1,18 +1,18 @@
 # List Of Analyses 2.2.2.pre1 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 6849 individual maps from 1119 distinct signal regions, 113 different SMS topologies, from a total of 142 analyses.
+List of analyses and topologies in the SMS results database, comprising 6859 individual maps from 1120 distinct signal regions, 113 different SMS topologies, from a total of 143 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses222pre1).
 
-<p align='center'><img src='../validation/222pre1/significancesiss.png?1675346332.136569' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/222pre1/significancesiss.png?1676884641.5165617' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Individual tables
 
 ### Run 2 - 13 TeV
-In total, we have results from 38 ATLAS and 50 CMS 13 TeV searches.
+In total, we have results from 38 ATLAS and 51 CMS 13 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits13): 35 analyses, 90 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLASefficiencymaps13): 23 analyses, 70 (of which 11 LLP) results, 708 individual maps
- * [CMS upper limits](#CMSupperlimits13): 47 analyses, 185 (of which 3 LLP) results
+ * [CMS upper limits](#CMSupperlimits13): 48 analyses, 195 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps13): 8 analyses, 53 results, 3186 individual maps
 
 ### Run 1 - 8 TeV
@@ -95,17 +95,18 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2015-02](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2015-02/)<a name="ATLAS-SUSY-2015-02-eff"></a> | single lepton stop | 3.2 | [T2tt](SmsDictionary222pre1+superseded#T2tt) | |  |
 
 <a name="CMSupperlimits13"></a>
-## CMS, upper limits, 13 TeV (47 analyses)
+## CMS, upper limits, 13 TeV (48 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **exp. ULs [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
 | **Publications** | | | | | |
-| [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002-eff"></a> | Hadronic EWK searches | 137.0 | [TChiWH](SmsDictionary222pre1+superseded#TChiWH), [TChiWW](SmsDictionary222pre1+superseded#TChiWW), [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ) | | &#10004; |
+| [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002-eff"></a> | Hadronic EWK searches | 137.0 | [TChiWH](SmsDictionary222pre1+superseded#TChiWH), [TChiWW](SmsDictionary222pre1+superseded#TChiWW), [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ), [TChiZH](SmsDictionary222pre1+superseded#TChiZH) | | &#10004; |
 | [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004-eff"></a> | search for higgsinos | 137.0 | [T5HH](SmsDictionary222pre1+superseded#T5HH), [TChiHH](SmsDictionary222pre1+superseded#TChiHH) | | &#10004; |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002-eff"></a> | combined stop search | 137.0 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW) | | &#10004; |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001-eff"></a> | 2 OSSF leptons | 137.0 | [T5ZZ](SmsDictionary222pre1+superseded#T5ZZ), [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ), [TChiZZ](SmsDictionary222pre1+superseded#TChiZZ), [TSlepSlep](SmsDictionary222pre1+superseded#TSlepSlep) | | &#10004; |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013-eff"></a> | High momentum Z Boson+ Etmiss | 137.0 | [T5ZZ](SmsDictionary222pre1+superseded#T5ZZ) | | &#10004; |
 | [CMS-SUS-19-011](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-011/index.html)<a name="CMS-SUS-19-011-eff"></a> | Stop search in dilepton + jets + Etmiss final state | 137.0 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW) | | &#10004; |
+| [CMS-SUS-19-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-010/index.html)<a name="CMS-SUS-19-010-eff"></a> | Jets + top and W tag | 137.0 | [T1tttt](SmsDictionary222pre1+superseded#T1tttt), [T1ttttoff](SmsDictionary222pre1+superseded#T1ttttoff), [T2cc](SmsDictionary222pre1+superseded#T2cc), [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttC](SmsDictionary222pre1+superseded#T2ttC), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T5tctc](SmsDictionary222pre1+superseded#T5tctc), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW), [T6bbWWoff](SmsDictionary222pre1+superseded#T6bbWWoff) | | &#10004; |
 | [CMS-SUS-19-009](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html)<a name="CMS-SUS-19-009-eff"></a> | 1L + jets, MHT | 137.0 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW) | | &#10004; |
 | [CMS-SUS-19-008](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-008/index.html)<a name="CMS-SUS-19-008-eff"></a> | 2-3L + jets | 137.0 | [T1tttt](SmsDictionary222pre1+superseded#T1tttt), [T1ttttoff](SmsDictionary222pre1+superseded#T1ttttoff), [T5WW](SmsDictionary222pre1+superseded#T5WW), [T5WZ](SmsDictionary222pre1+superseded#T5WZ), [T5tctc](SmsDictionary222pre1+superseded#T5tctc), [T5tttt](SmsDictionary222pre1+superseded#T5tttt) | | &#10004; |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006-eff"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary222pre1+superseded#T1), [T1bbbb](SmsDictionary222pre1+superseded#T1bbbb), [T1tttt](SmsDictionary222pre1+superseded#T1tttt), [T1ttttoff](SmsDictionary222pre1+superseded#T1ttttoff), [T2](SmsDictionary222pre1+superseded#T2), [T2bb](SmsDictionary222pre1+superseded#T2bb), [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff) | | &#10004; |
@@ -121,7 +122,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [CMS-SUS-17-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-17-001/index.html)<a name="CMS-SUS-17-001-eff"></a> | Stop search in dilepton + jets + Etmiss final state | 35.9 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW) | |  |
 | [CMS-SUS-16-051](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-051/index.html)<a name="CMS-SUS-16-051-eff"></a> | 1L stop | 35.9 | [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW) | | &#10004; |
 | [CMS-SUS-16-050](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html)<a name="CMS-SUS-16-050-eff"></a> | 0L + top tag | 35.9 | [T1tttt](SmsDictionary222pre1+superseded#T1tttt), [T1ttttoff](SmsDictionary222pre1+superseded#T1ttttoff), [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T5tctc](SmsDictionary222pre1+superseded#T5tctc), [T5tttt](SmsDictionary222pre1+superseded#T5tttt) | | &#10004; |
-| [CMS-SUS-16-049](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-049/index.html)<a name="CMS-SUS-16-049-eff"></a> | All hadronic stop | 35.9 | [T2cc](SmsDictionary222pre1+superseded#T2cc), [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttC](SmsDictionary222pre1+superseded#T2ttC), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW), [T6bbWWoff](SmsDictionary222pre1+superseded#T6bbWWoff) | | &#10004; |
+| [CMS-SUS-16-049](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-049/index.html)<a name="CMS-SUS-16-049-eff"></a> | All hadronic stop | 35.9 | [T2cc](SmsDictionary222pre1+superseded#T2cc), [T2tt](SmsDictionary222pre1+superseded#T2tt), [T2ttC](SmsDictionary222pre1+superseded#T2ttC), [T2ttoff](SmsDictionary222pre1+superseded#T2ttoff), [T6bbWW](SmsDictionary222pre1+superseded#T6bbWW), [T6bbWWoff](SmsDictionary222pre1+superseded#T6bbWWoff) |[CMS-SUS-19-010](#CMS-SUS-19-010) | &#10004; |
 | [CMS-SUS-16-047](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-047/index.html)<a name="CMS-SUS-16-047-eff"></a> | Photon + HT | 35.9 | [T5gg](SmsDictionary222pre1+superseded#T5gg), [T6gg](SmsDictionary222pre1+superseded#T6gg) | |  |
 | [CMS-SUS-16-046](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-046/index.html)<a name="CMS-SUS-16-046-eff"></a> | Photon + Etmiss | 35.9 | [T5gg](SmsDictionary222pre1+superseded#T5gg), [T6gg](SmsDictionary222pre1+superseded#T6gg) | |  |
 | [CMS-SUS-16-045](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-045/index.html)<a name="CMS-SUS-16-045-eff"></a> | Sbottom searches in bHbH and H -> photon photon final states | 35.9 | [T6bbHH](SmsDictionary222pre1+superseded#T6bbHH), [TChiWH](SmsDictionary222pre1+superseded#TChiWH) | |  |
@@ -284,4 +285,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Feb  2 14:58:52 2023.
+This page was created Mon Feb 20 10:17:21 2023.
