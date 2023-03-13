@@ -33,7 +33,8 @@ def main():
             # [SModelS version 2.0.0](https://github.com/SModelS/smodels/releases) 
             name = F.replace(".mp4","")
             name = name.replace("./","")
-            f.write ( f' {name} ![{F}]({F}?{t}) ' )
+            f.write ( f' {name} [{F}]({F}?{t}) ' )
+            #f.write ( f' {name} ![{F}]({F}?{t}) ' )
             if col == 1:
                 f.write ( "|\n" )
                 col = 0
