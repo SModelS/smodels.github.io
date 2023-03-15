@@ -33,7 +33,13 @@ def main():
             # [SModelS version 2.0.0](https://github.com/SModelS/smodels/releases) 
             name = F.replace(".mp4","")
             name = name.replace("./","")
-            f.write ( f' {name} ![{F}]({F}?{t}) ' )
+            descriptions = { 
+                "EvolutionSModelSDatabase": "evolution of SModelS database over time",
+                "blendefast": "intro clip for lectures" }
+            description = name
+            if name in descriptions:
+                description = descriptions[name]
+            f.write ( f' {description} [{F}]({F}?{t}) ' )
             if col == 1:
                 f.write ( "|\n" )
                 col = 0
