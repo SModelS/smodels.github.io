@@ -1,10 +1,10 @@
 # List Of Analyses 2.2.2.pre1 
-List of analyses and topologies in the SMS results database, comprising 5475 individual maps from 1022 distinct signal regions, 100 different SMS topologies, from a total of 112 analyses.
+List of analyses and topologies in the SMS results database, comprising 5480 individual maps from 1026 distinct signal regions, 100 different SMS topologies, from a total of 112 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses222pre1WithSuperseded).
 
-<p align='center'><img src='../validation/222pre1/significances.png?1678700159.9003682' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/222pre1/significances.png?1679487063.3636706' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Individual tables
 
@@ -18,7 +18,7 @@ In total, we have results from 38 ATLAS and 41 CMS 13 TeV searches.
 ### Run 1 - 8 TeV
 In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 13 analyses, 34 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 10 analyses, 31 results, 269 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 11 analyses, 36 results, 274 individual maps
  * [CMS upper limits](#CMSupperlimits8): 16 analyses, 56 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
@@ -177,7 +177,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2013-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-02/)<a name="ATLAS-SUSY-2013-02-eff"></a> | 0 leptons + 2-6 jets + Etmiss | 20.3 | [T1](SmsDictionary222pre1#T1), [T2](SmsDictionary222pre1#T2), [T5WW](SmsDictionary222pre1#T5WW), [T5WWoff](SmsDictionary222pre1#T5WWoff), [T5tctc](SmsDictionary222pre1#T5tctc), [T6WW](SmsDictionary222pre1#T6WW) |  |
 
 <a name="ATLASefficiencymaps8"></a>
-## ATLAS, efficiency maps, 8 TeV (10 analyses)
+## ATLAS, efficiency maps, 8 TeV (11 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------------|
@@ -187,6 +187,7 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [ATLAS-SUSY-2013-18](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/)<a name="ATLAS-SUSY-2013-18-eff"></a> | 0 or &ge;1 leptons + jets + &ge; 3 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary222pre1#T1bbbb), [T1tttt](SmsDictionary222pre1#T1tttt) |  |
 | [ATLAS-SUSY-2013-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/)<a name="ATLAS-SUSY-2013-16-eff"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.1 | [T2tt](SmsDictionary222pre1#T2tt) |  |
 | [ATLAS-SUSY-2013-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/)<a name="ATLAS-SUSY-2013-15-eff"></a> | 1 lepton + 4 (1 b-)jets + Etmiss | 20.3 | [T2tt](SmsDictionary222pre1#T2tt) |  |
+| [ATLAS-SUSY-2013-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/)<a name="ATLAS-SUSY-2013-12-eff"></a> | 3 leptons (e,mu,tau) + Etmiss | 20.3 | [TChiChipmSlepL](SmsDictionary222pre1#TChiChipmSlepL), [TChiChipmStauL](SmsDictionary222pre1#TChiChipmStauL), [TChiWH](SmsDictionary222pre1#TChiWH), [TChiWZ](SmsDictionary222pre1#TChiWZ), [TChiWZoff](SmsDictionary222pre1#TChiWZoff) |  |
 | [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)<a name="ATLAS-SUSY-2013-11-eff"></a> | 2 leptons (e,mu) + Etmiss | 20.3 | [TChiWW](SmsDictionary222pre1#TChiWW) [(1)](#A1), [TChiWWoff](SmsDictionary222pre1#TChiWWoff) [(1)](#A1), [TChipChimSlepSnu](SmsDictionary222pre1#TChipChimSlepSnu) [(1)](#A1), [TSlepSlep](SmsDictionary222pre1#TSlepSlep) [(1)](#A1) |  |
 | [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09-eff"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary222pre1#T1tttt), [T5WW](SmsDictionary222pre1#T5WW), [T5tctc](SmsDictionary222pre1#T5tctc) |  |
 | [ATLAS-SUSY-2013-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/)<a name="ATLAS-SUSY-2013-05-eff"></a> | 0 leptons + 2 b-jets + Etmiss | 20.1 | [T2bb](SmsDictionary222pre1#T2bb) [(1)](#A1) |  |
@@ -243,4 +244,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'SLv1' = a covariance matrix for a simplified likelihood v1. 'SLv2' = a covariance matrix plus third momenta for simplified likelihood v2. 'json' = full likelihoods as pyhf json files.
 
-This page was created Mon Mar 13 10:35:59 2023.
+This page was created Wed Mar 22 13:11:03 2023.

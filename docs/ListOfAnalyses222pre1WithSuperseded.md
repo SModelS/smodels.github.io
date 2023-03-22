@@ -1,10 +1,10 @@
 # List Of Analyses 2.2.2.pre1 (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 6859 individual maps from 1120 distinct signal regions, 113 different SMS topologies, from a total of 143 analyses.
+List of analyses and topologies in the SMS results database, comprising 6864 individual maps from 1124 distinct signal regions, 113 different SMS topologies, from a total of 143 analyses.
 The list has been created from the database version `2.2.2.pre1.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary222pre1) and a [validation page](Validation222pre1).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses222pre1).
 
-<p align='center'><img src='../validation/222pre1/significancesiss.png?1678700105.6607866' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/222pre1/significancesiss.png?1679486987.205866' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Individual tables
 
@@ -18,7 +18,7 @@ In total, we have results from 38 ATLAS and 51 CMS 13 TeV searches.
 ### Run 1 - 8 TeV
 In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
  * [ATLAS upper limits](#ATLASupperlimits8): 29 analyses, 64 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 19 (of which 9 FastLim) analyses, 194 (of which 163 FastLim) results, 1568 individual maps
+ * [ATLAS efficiency maps](#ATLASefficiencymaps8): 20 (of which 9 FastLim) analyses, 199 (of which 163 FastLim) results, 1573 individual maps
  * [CMS upper limits](#CMSupperlimits8): 19 analyses, 68 (of which 3 LLP) results
  * [CMS efficiency maps](#CMSefficiencymaps8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
@@ -204,7 +204,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-CONF-2012-105](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-105/)<a name="ATLAS-CONF-2012-105-eff"></a> | 2 SS leptons + &ge; 4 jets + Etmiss | 5.8 | [T1tttt](SmsDictionary222pre1+superseded#T1tttt) |[ATLAS-SUSY-2013-09](#ATLAS-SUSY-2013-09) |  |
 
 <a name="ATLASefficiencymaps8"></a>
-## ATLAS, efficiency maps, 8 TeV (19 analyses)
+## ATLAS, efficiency maps, 8 TeV (20 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **SR comb. [(4)](#A4)** |
 |--------|-----------------------|--------------|--------------|-------------------|-------------------------|
@@ -214,6 +214,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2013-18](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-18/)<a name="ATLAS-SUSY-2013-18-eff"></a> | 0 or &ge;1 leptons + jets + &ge; 3 b-jets + Etmiss | 20.1 | [T1bbbb](SmsDictionary222pre1+superseded#T1bbbb), [T1tttt](SmsDictionary222pre1+superseded#T1tttt) | |  |
 | [ATLAS-SUSY-2013-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-16/)<a name="ATLAS-SUSY-2013-16-eff"></a> | 0 lepton + 6 (2 b-)jets + Etmiss | 20.1 | [T2tt](SmsDictionary222pre1+superseded#T2tt) | |  |
 | [ATLAS-SUSY-2013-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/)<a name="ATLAS-SUSY-2013-15-eff"></a> | 1 lepton + 4 (1 b-)jets + Etmiss | 20.3 | [T2tt](SmsDictionary222pre1+superseded#T2tt) | |  |
+| [ATLAS-SUSY-2013-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/)<a name="ATLAS-SUSY-2013-12-eff"></a> | 3 leptons (e,mu,tau) + Etmiss | 20.3 | [TChiChipmSlepL](SmsDictionary222pre1+superseded#TChiChipmSlepL), [TChiChipmStauL](SmsDictionary222pre1+superseded#TChiChipmStauL), [TChiWH](SmsDictionary222pre1+superseded#TChiWH), [TChiWZ](SmsDictionary222pre1+superseded#TChiWZ), [TChiWZoff](SmsDictionary222pre1+superseded#TChiWZoff) | |  |
 | [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)<a name="ATLAS-SUSY-2013-11-eff"></a> | 2 leptons (e,mu) + Etmiss | 20.3 | [TChiWW](SmsDictionary222pre1+superseded#TChiWW) [(1)](#A1), [TChiWWoff](SmsDictionary222pre1+superseded#TChiWWoff) [(1)](#A1), [TChipChimSlepSnu](SmsDictionary222pre1+superseded#TChipChimSlepSnu) [(1)](#A1), [TSlepSlep](SmsDictionary222pre1+superseded#TSlepSlep) [(1)](#A1) | |  |
 | [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09-eff"></a> | 2 SS leptons + 0-3 b-jets + Etmiss | 20.3 | [T1tttt](SmsDictionary222pre1+superseded#T1tttt), [T5WW](SmsDictionary222pre1+superseded#T5WW), [T5tctc](SmsDictionary222pre1+superseded#T5tctc) | |  |
 | [ATLAS-SUSY-2013-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/)<a name="ATLAS-SUSY-2013-05-eff"></a> | 0 leptons + 2 b-jets + Etmiss | 20.1 | [T2bb](SmsDictionary222pre1+superseded#T2bb) [(1)](#A1) | |  |
@@ -285,4 +286,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Mon Mar 13 10:35:05 2023.
+This page was created Wed Mar 22 13:09:47 2023.
