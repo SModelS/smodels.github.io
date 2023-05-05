@@ -22,7 +22,12 @@ for F in files:
     if F in  [ "obsolete" ]:
         continue
     with open(F,"rt") as g:
-        d = json.load( g )
+        # print ( "loading as json", F )
+        try:
+            d = json.load( g )
+        except json.decoder.JSONDecodeError as e:
+            print ( f"cannot read {F}: {e}" )
+            continue
         mtime = "???"
         if "mtime" in d:
             tokens = d["mtime" ].split(" ")
