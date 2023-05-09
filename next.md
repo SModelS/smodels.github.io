@@ -13,7 +13,7 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  dd May 2022: [SModelS version 2.3.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  dd May 2023: [SModelS version 2.3.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 * Includes database update with several analyses for full Run-2 luminosity, in particular for EW-inos 
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
