@@ -1,9 +1,9 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Wolfgang Waltenberger
+Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Wolfgang Waltenberger
 
- <font color='grey'>Previously involved in SModelS: Federico Ambrogi, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
+ <font color='grey'>Previously involved in SModelS: Ga&#235;l Alguero, Federico Ambrogi, Jan Heisig, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
 ------------------------------------------------------------------------
 
@@ -13,10 +13,14 @@ Ga&#235;l Alguero, Jan Heisig, Sabine Kraml, Andre Lessa, Timoth&eacute;e Pascal
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  18 Oct 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  dd May 2022: [SModelS version 2.3.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
+* Includes database update with several analyses for full Run-2 luminosity, in particular for EW-inos 
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
 * We thank Jack Y. Araz (Durham University) for introducing CI/CD and help with cleaning up the statistics code
+
+------------------------------------------------------------------------ 
+###  18 Oct 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 #### Physics paper for version 2: [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
 ------------------------------------------------------------------------   
@@ -88,5 +92,5 @@ See the [publications and talks](docs/SModelSTalks) page
 <img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp; &nbsp;
 <img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
 <img src="logos/unige.png" height="120pt" align="middle"> &nbsp;
-<img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle">
+<!-- <img src="logos/logo_UCLouvain.jpeg" width="280pt" align="middle"> -->
 <!-- <img src="logos/glasgow.jpg" width="280pt" align="middle"> -->
