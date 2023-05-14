@@ -17,7 +17,7 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 
 * Includes database update with several analyses for full Run-2 luminosity, in particular for EW-inos 
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
-* We thank Jack Y. Araz (Durham University) for introducing CI/CD and help with cleaning up the statistics code
+* We thank Jack Y. Araz (Durham University) for introducing CI/CD, identifying a bug in the expected values in SLv2, and help with cleaning up the statistics code
 
 ------------------------------------------------------------------------ 
 ###  18 Oct 2022: [SModelS version 2.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
