@@ -4,7 +4,7 @@ The list has been created from the database version `2.3.0rc.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary230rc) and a [validation page](Validation230rc).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses230rc).
 
-<p align='center'><img src='../validation/230rc/significancesiss.png?1684251769.630837' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/230rc/significancesiss.png?1684331921.6324222' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Individual tables
 
@@ -73,7 +73,7 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09-eff"></a> | 3 leptons EW-ino | 139.0 | [TChiWZ](SmsDictionary230rc+superseded#TChiWZ), [TChiWZoff](SmsDictionary230rc+superseded#TChiWZoff) | | json |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-eff"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary230rc+superseded#TChiWH) | | json |
 | [ATLAS-SUSY-2019-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/)<a name="ATLAS-SUSY-2019-02-eff"></a> | 2L + Etmiss (soft) | 139.0 | [TChiWW](SmsDictionary230rc+superseded#TChiWW) | | SLv1 |
-| [ATLAS-SUSY-2018-42](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/)<a name="ATLAS-SUSY-2018-42-eff"></a> | charged LLPs, dE/dx | 139.0 | [T1Disp](SmsDictionary230rc+superseded#T1Disp), [TRHadGM1](SmsDictionary230rc+superseded#TRHadGM1) | | SLv1 |
+| [ATLAS-SUSY-2018-42](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/)<a name="ATLAS-SUSY-2018-42-eff"></a> | charged LLPs, dE/dx | 139.0 | [T1Disp](SmsDictionary230rc+superseded#T1Disp), [TRHadGM1](SmsDictionary230rc+superseded#TRHadGM1) | |  |
 | [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41-eff"></a> | Boosted hadronic EWK searches | 139.0 | [TChiHH](SmsDictionary230rc+superseded#TChiHH), [TChiWH](SmsDictionary230rc+superseded#TChiWH), [TChiWW](SmsDictionary230rc+superseded#TChiWW), [TChiWZ](SmsDictionary230rc+superseded#TChiWZ), [TChiZH](SmsDictionary230rc+superseded#TChiZH), [TChiZZ](SmsDictionary230rc+superseded#TChiZZ) | | SLv1 |
 | [ATLAS-SUSY-2018-40](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-40/)<a name="ATLAS-SUSY-2018-40-eff"></a> | Sbottom to bH(tautau) | 139.0 | [T6bbHH](SmsDictionary230rc+superseded#T6bbHH) | |  |
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32-eff"></a> | 2 OS leptons + Etmiss | 139.0 | [TChiWW](SmsDictionary230rc+superseded#TChiWW) | | json |
@@ -290,4 +290,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Tue May 16 17:42:49 2023.
+This page was created Wed May 17 15:58:41 2023.

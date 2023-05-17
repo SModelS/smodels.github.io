@@ -146,14 +146,24 @@
   }
  },
  "TRHadGM1": {
-  "expExclusion_[[x],[x]]": {
+  "expExclusion_[[(x,y)],[(x,y)]]": {
    "x": [
+    2171.0,
     2171.0
+   ],
+   "y": [
+    1e-20,
+    4e-24
    ]
   },
-  "obsExclusion_[[x],[x]]": {
+  "obsExclusion_[[(x,y)],[(x,y)]]": {
    "x": [
+    2056.0,
     2056.0
+   ],
+   "y": [
+    1e-20,
+    4e-24
    ]
   }
  }
