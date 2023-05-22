@@ -4,7 +4,7 @@ The list has been created from the database version `2.3.0.`
 There is also an  [sms dictionary](SmsDictionary230) and a [validation page](Validation230).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses230WithSuperseded).
 
-<p align='center'><img src='../validation/230/significances.png?1684510985.310839' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/230/significances.png?1684758343.182488' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Individual tables
 
@@ -247,4 +247,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 
 <a name='A4'>(4)</a> Likelihood information for combination of signal regions ('SR comb.'): 'SLv1' = a covariance matrix for a simplified likelihood v1. 'SLv2' = a covariance matrix plus third momenta for simplified likelihood v2. 'json' = full likelihoods as pyhf json files.
 
-This page was created Fri May 19 17:43:05 2023.
+This page was created Mon May 22 14:25:43 2023.
