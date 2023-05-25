@@ -4,7 +4,7 @@ The list has been created from the database version `2.3.0.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary) and a [validation page](Validation).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses).
 
-<p align='center'><img src='../validation//significancesiss.png?1685008137.2576694' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation//significancesiss.png?1685008137.2576694' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Stats, by run, experiment, type
 
