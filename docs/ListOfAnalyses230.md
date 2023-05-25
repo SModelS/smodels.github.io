@@ -4,23 +4,23 @@ The list has been created from the database version `2.3.0.`
 There is also an  [sms dictionary](SmsDictionary230) and a [validation page](Validation230).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses230WithSuperseded).
 
-<p align='center'><img src='../validation/230/significances.png?1685002978.7170308' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/230/significances.png?1685008150.6098802' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution ist expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
-## Individual tables
+## Stats, by run, experiment, type
 
 ### Run 2 - 13 TeV
 In total, we have results from 38 ATLAS and 40 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits13): 35 analyses, 90 (of which 4 LLP) results
- * [ATLAS efficiency maps](#ATLASefficiencymaps13): 25 analyses, 74 (of which 12 LLP) results, 738 individual maps
- * [CMS upper limits](#CMSupperlimits13): 37 analyses, 149 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps13): 10 analyses, 60 results, 3423 individual maps
+ * [ATLAS upper limits](#ATLAS13): 35 analyses, 90 (of which 4 LLP) results
+ * [ATLAS efficiency maps](#ATLAS13): 25 analyses, 74 (of which 12 LLP) results, 738 individual maps
+ * [CMS upper limits](#CMS13): 37 analyses, 149 (of which 3 LLP) results
+ * [CMS efficiency maps](#CMS13): 10 analyses, 60 results, 3423 individual maps
 
 ### Run 1 - 8 TeV
 In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
- * [ATLAS upper limits](#ATLASupperlimits8): 13 analyses, 34 results
- * [ATLAS efficiency maps](#ATLASefficiencymaps8): 11 analyses, 36 results, 274 individual maps
- * [CMS upper limits](#CMSupperlimits8): 16 analyses, 56 (of which 3 LLP) results
- * [CMS efficiency maps](#CMSefficiencymaps8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
+ * [ATLAS upper limits](#ATLAS8): 13 analyses, 34 results
+ * [ATLAS efficiency maps](#ATLAS8): 11 analyses, 36 results, 274 individual maps
+ * [CMS upper limits](#CMS8): 16 analyses, 56 (of which 3 LLP) results
+ * [CMS efficiency maps](#CMS8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
 <a name="ATLAS13"></a>
 ## ATLAS, 13 TeV (38 analyses)
@@ -79,8 +79,8 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001"></a> | 2 OSSF leptons | 137.0 | [T5ZZ](SmsDictionary230#T5ZZ), [TChiWZ](SmsDictionary230#TChiWZ), [TChiZZ](SmsDictionary230#TChiZZ), [TSlepSlep](SmsDictionary230#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013"></a> | High momentum Z Boson+ Etmiss | 137.0 | [T5ZZ](SmsDictionary230#T5ZZ) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-011](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-011/index.html)<a name="CMS-SUS-19-011"></a> | Stop search in dilepton + jets + Etmiss final state | 137.0 | [T2tt](SmsDictionary230#T2tt), [T2ttoff](SmsDictionary230#T2ttoff), [T6bbWW](SmsDictionary230#T6bbWW) | &#10004; | &#10004; |  |  |
-| [CMS-SUS-19-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-010/index.html)<a name="CMS-SUS-19-010"></a> | Jets + top and W tag | 137.0 | [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T2cc](SmsDictionary230#T2cc), [T2tt](SmsDictionary230#T2tt), [T2ttC](SmsDictionary230#T2ttC), [T2ttoff](SmsDictionary230#T2ttoff), [T5tctc](SmsDictionary230#T5tctc), [T6bbWW](SmsDictionary230#T6bbWW), [T6bbWWoff](SmsDictionary230#T6bbWWoff) | &#10004; | &#10004; |  |  |
 | [CMS-EXO-19-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-010/)<a name="CMS-EXO-19-010"></a> | disappearing track | 101.0 | [TDTM1F](SmsDictionary230#TDTM1F), [TDTM2F](SmsDictionary230#TDTM2F) |  |  | &#10004; |  |
+| [CMS-SUS-19-010](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-010/index.html)<a name="CMS-SUS-19-010"></a> | Jets + top and W tag | 137.0 | [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T2cc](SmsDictionary230#T2cc), [T2tt](SmsDictionary230#T2tt), [T2ttC](SmsDictionary230#T2ttC), [T2ttoff](SmsDictionary230#T2ttoff), [T5tctc](SmsDictionary230#T5tctc), [T6bbWW](SmsDictionary230#T6bbWW), [T6bbWWoff](SmsDictionary230#T6bbWWoff) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-009](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-009/index.html)<a name="CMS-SUS-19-009"></a> | 1L + jets, MHT | 137.0 | [T2tt](SmsDictionary230#T2tt), [T2ttoff](SmsDictionary230#T2ttoff), [T6bbWW](SmsDictionary230#T6bbWW) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-008](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-008/index.html)<a name="CMS-SUS-19-008"></a> | 2-3L + jets | 137.0 | [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T5WW](SmsDictionary230#T5WW), [T5WZ](SmsDictionary230#T5WZ), [T5tctc](SmsDictionary230#T5tctc), [T5tttt](SmsDictionary230#T5tttt) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html)<a name="CMS-SUS-19-006"></a> | 0L + jets, MHT | 137.0 | [T1](SmsDictionary230#T1) [(4)](#A4), [T1bbbb](SmsDictionary230#T1bbbb) [(4)](#A4), [T1tttt](SmsDictionary230#T1tttt) [(4)](#A4), [T1ttttoff](SmsDictionary230#T1ttttoff) [(4)](#A4), [T2](SmsDictionary230#T2) [(4)](#A4), [T2bb](SmsDictionary230#T2bb) [(4)](#A4), [T2tt](SmsDictionary230#T2tt) [(4)](#A4), [T2ttoff](SmsDictionary230#T2ttoff) [(4)](#A4) | &#10004; | &#10004; | &#10004; | SLv1 |
@@ -150,8 +150,8 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 | [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jet multiplicity + HTmiss | 19.5 | [T1](SmsDictionary230#T1), [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T2](SmsDictionary230#T2) [(3)](#A3) | &#10004; | &#10004; | &#10004; |  |
 | [CMS-SUS-13-011](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13011)<a name="CMS-SUS-13-011"></a> | 1 lepton + &ge; 4 (1b-)jets + Etmiss | 19.5 | [T2tt](SmsDictionary230#T2tt), [T2ttoff](SmsDictionary230#T2ttoff), [T6bbWW](SmsDictionary230#T6bbWW), [T6bbWWoff](SmsDictionary230#T6bbWWoff) | &#10004; | &#10004; | &#10004; |  |
 | [CMS-SUS-13-007](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13007)<a name="CMS-SUS-13-007"></a> | 1 lepton + &ge; 2 b-jets + Etmiss | 19.3 | [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T5tttt](SmsDictionary230#T5tttt) | &#10004; | &#10004; | &#10004; |  |
-| [CMS-SUS-13-006](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13006)<a name="CMS-SUS-13-006"></a> | EW productions with decays to leptons, W, Z, and Higgs | 19.5 | [TChiChipmSlepL](SmsDictionary230#TChiChipmSlepL), [TChiChipmSlepStau](SmsDictionary230#TChiChipmSlepStau), [TChiWH](SmsDictionary230#TChiWH), [TChiWZ](SmsDictionary230#TChiWZ), [TChiWZoff](SmsDictionary230#TChiWZoff), [TSlepSlep](SmsDictionary230#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | hscp search | 18.8 | [THSCPM1b](SmsDictionary230#THSCPM1b) [(3)](#A3), [THSCPM2b](SmsDictionary230#THSCPM2b) [(3)](#A3), [THSCPM3](SmsDictionary230#THSCPM3) [(3)](#A3), [THSCPM4](SmsDictionary230#THSCPM4) [(3)](#A3), [THSCPM5](SmsDictionary230#THSCPM5) [(3)](#A3), [THSCPM6](SmsDictionary230#THSCPM6) [(3)](#A3), [THSCPM7](SmsDictionary230#THSCPM7) [(3)](#A3), [THSCPM8](SmsDictionary230#THSCPM8) [(3)](#A3), [THSCPM9](SmsDictionary230#THSCPM9) [(3)](#A3) |  |  | &#10004; |  |
+| [CMS-SUS-13-006](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13006)<a name="CMS-SUS-13-006"></a> | EW productions with decays to leptons, W, Z, and Higgs | 19.5 | [TChiChipmSlepL](SmsDictionary230#TChiChipmSlepL), [TChiChipmSlepStau](SmsDictionary230#TChiChipmSlepStau), [TChiWH](SmsDictionary230#TChiWH), [TChiWZ](SmsDictionary230#TChiWZ), [TChiWZoff](SmsDictionary230#TChiWZoff), [TSlepSlep](SmsDictionary230#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-13-004](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13004)<a name="CMS-SUS-13-004"></a> | &ge; 1 b-jet + Etmiss, Razor | 19.3 | [T1bbbb](SmsDictionary230#T1bbbb), [T1tttt](SmsDictionary230#T1tttt), [T1ttttoff](SmsDictionary230#T1ttttoff), [T2tt](SmsDictionary230#T2tt), [T2ttoff](SmsDictionary230#T2ttoff) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-13-002](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13002)<a name="CMS-SUS-13-002"></a> | &ge; 3 leptons (+jets) + Etmiss | 19.5 | [T1tttt](SmsDictionary230#T1tttt) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-12-028](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS12028)<a name="CMS-SUS-12-028"></a> | jets + Etmiss, &alpha;<sub>T</sub> | 11.7 | [T1](SmsDictionary230#T1), [T1bbbb](SmsDictionary230#T1bbbb), [T1tttt](SmsDictionary230#T1tttt), [T2](SmsDictionary230#T2), [T2bb](SmsDictionary230#T2bb) | &#10004; | &#10004; |  |  |
@@ -173,4 +173,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Thu May 25 10:22:58 2023.
+This page was created Thu May 25 11:49:10 2023.
