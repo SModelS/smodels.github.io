@@ -1,3 +1,0 @@
-comment_by: Andre Lessa
-date: Tue 09 May 2023 06:36:00 PM
-comment: "The official curve uses binned mass windows as well as more signal regions (SR-Trk-IBL0_Low,...) for computing the exclusion curve. The SModelS curve corresponds to a single aggregated signal region over all mass windows bins for the Inclusive signal regions only."
