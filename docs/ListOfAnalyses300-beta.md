@@ -4,7 +4,7 @@ The list has been created from the database version `3.0.0-beta.`
 There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses300-betaWithSuperseded).
 
-<p align='center'><img src='../validation/300-beta/significances.png?1689773538.0306842' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/300-beta/significances.png?1689775824.815729' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Stats, by run, experiment, type
 
@@ -174,4 +174,4 @@ In total, we have results from 15 ATLAS and 18 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Wed Jul 19 15:32:18 2023.
+This page was created Wed Jul 19 16:10:24 2023.
