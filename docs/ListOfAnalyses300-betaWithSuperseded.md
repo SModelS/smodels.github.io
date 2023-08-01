@@ -1,16 +1,16 @@
 # List Of Analyses 3.0.0-beta (including superseded and fastlim results)
-List of analyses and topologies in the SMS results database, comprising 7132 individual maps from 1252 distinct signal regions, 113 different SMS topologies, from a total of 144 analyses.
+List of analyses and topologies in the SMS results database, comprising 7131 individual maps from 1251 distinct signal regions, 113 different SMS topologies, from a total of 143 analyses.
 The list has been created from the database version `3.0.0-beta.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses300-beta).
 
-<p align='center'><img src='../validation/300-beta/significancesiss.png?1690453412.3632994' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/300-beta/significancesiss.png?1690879640.4827087' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Stats, by run, experiment, type
 
 ### Run 2 - 13 TeV
-In total, we have results from 39 ATLAS and 51 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLAS13): 36 analyses, 91 (of which 4 LLP) results
+In total, we have results from 38 ATLAS and 51 CMS 13 TeV searches.
+ * [ATLAS upper limits](#ATLAS13): 35 analyses, 90 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLAS13): 25 analyses, 74 (of which 12 LLP) results, 738 individual maps
  * [CMS upper limits](#CMS13): 48 analyses, 195 (of which 3 LLP) results
  * [CMS efficiency maps](#CMS13): 10 analyses, 60 results, 3423 individual maps
@@ -23,14 +23,13 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
  * [CMS efficiency maps](#CMS8): 9 analyses, 47 (of which 9 LLP) results, 980 individual maps
 
 <a name="ATLAS13"></a>
-## ATLAS, 13 TeV (39 analyses)
+## ATLAS, 13 TeV (38 analyses)
 
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **obs. ULs** | **exp. ULs [(1)](#A1)** | **EMs** | **SR comb. [(2)](#A2)** |
 |--------|-----------------------|--------------|--------------|-------------------|--------------|-------------------------|---------|-------------------------|
 | **Publications** | | | | | | | | |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 leptons EW-ino | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiWZoff](SmsDictionary300-beta#TChiWZoff) | | &#10004; | &#10004; | &#10004; | json |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH) | | &#10004; | &#10004; | &#10004; | json |
-| [ATLAS-SUSY-2019-08-grp](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-grp"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH) | | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2019-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/)<a name="ATLAS-SUSY-2019-02"></a> | 2L + Etmiss (soft) | 139.0 | [TChiWW](SmsDictionary300-beta#TChiWW), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | | &#10004; | &#10004; | &#10004; | SLv1 |
 | [ATLAS-SUSY-2018-42](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/)<a name="ATLAS-SUSY-2018-42"></a> | charged LLPs, dE/dx | 139.0 | [T1Disp](SmsDictionary300-beta#T1Disp), [THSCPM1b](SmsDictionary300-beta#THSCPM1b), [TRHadGM1](SmsDictionary300-beta#TRHadGM1), [TStauStauDisp](SmsDictionary300-beta#TStauStauDisp) | | &#10004; | &#10004; | &#10004; |  |
 | [ATLAS-SUSY-2018-41](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/)<a name="ATLAS-SUSY-2018-41"></a> | Boosted hadronic EWK searches | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWW](SmsDictionary300-beta#TChiWW), [TChiWZ](SmsDictionary300-beta#TChiWZ) | | &#10004; | &#10004; | &#10004; | SLv1 |
@@ -209,4 +208,4 @@ In total, we have results from 33 ATLAS and 21 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jul 27 12:23:32 2023.
+This page was created Tue Aug  1 10:47:20 2023.
