@@ -30,6 +30,8 @@ def copyFromOldVersion( newversion, oldversion ):
         newf = f.replace(dotlessv,newversion)
         print ( f"[copyFromOldVersion] {f} -> {newf}" )
         shutil.copyfile ( f, newf )
+    import subprocess
+    subprocess.getoutput ( "./createREADME.py" )
 
 if __name__ == "__main__":
     import argparse
