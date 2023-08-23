@@ -34,7 +34,7 @@ def copyFromOldVersion( newversion, oldversion ):
 if __name__ == "__main__":
     import argparse
     ap = argparse.ArgumentParser(description="very simple script that copies the json files from the latest version tag to the one requested")
-    ap.add_argument('-v', '--newversion', help='new version tag [3.0.0]',
+    ap.add_argument('-n', '--newversion', help='new version tag [3.0.0]',
         default = '3.0.0', type = str )
     ap.add_argument('-o', '--oldversion', help='old version tag. if None, then  try to guess [None]',
         default = None, type = str )
