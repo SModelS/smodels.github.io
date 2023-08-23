@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+""" simple script that creates the list of databases in markdown format,
+    see https://smodels.github.io/database/ """
+
 def sizeof_fmt(num, suffix='B'):
     for unit in ['','Ki','Mi','Gi','Ti','Pi','Ei','Zi']:
         if abs(num) < 1024.0:
