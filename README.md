@@ -9,7 +9,7 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/SModelS)
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SModelS/tutorials/main?filepath=index.ipynb) 
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb)
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
