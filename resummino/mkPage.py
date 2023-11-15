@@ -11,7 +11,8 @@ def addText ( f ):
 
 def main():
     with open("README.md","wt") as f:
-        f.write ( "# collection of tarballs needed for the resummino backend in smodels\n" )
+        f.write ( "# digital copies of tarballs and files needed for the resummino backend in SModelS\n" )
+        f.write ( "# these are just copies for convenience, copyright is of course with the resummino and lhapdf authors!\n" )
         f.write ( "%s\n\n" % time.asctime() )
         addText ( f )
         files = glob.glob("./*" )
