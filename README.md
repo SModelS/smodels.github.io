@@ -18,7 +18,7 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 **Paper for version 2.3: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
 
 * new in 2.3.3: interface to [resummino](https://resummino.hepforge.org/) added
-* Includes database update with several analyses for full Run-2 luminosity, in particular for EW-inos 
+* Includes [database update](https://github.com/SModelS/smodels-database-release/releases) with several analyses for full Run-2 luminosity, in particular for EW-inos 
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
 * We thank Jack Y. Araz (Durham University) for introducing CI/CD, identifying a bug in the expected values in SLv2, and help with cleaning up the statistics code
 
@@ -27,7 +27,7 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 * A detailed documentation is available in the [online manual](https://smodels.readthedocs.io/en/latest/)
 * For instructions on how to install SModelS, check the [installation section in the manual](https://smodels.readthedocs.io/en/latest/Installation.html).
 * This [tutorial](https://github.com/SModelS/tutorials) is available from the latest [Reinterpetation workshop](https://indico.cern.ch/event/982553/).
-* You may also want to check the [release notes](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html)
+* You may also want to check the [release notes](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html), the [database releases](https://github.com/SModelS/smodels-database-release/releases) 
 and [known issues](https://github.com/SModelS/smodels/blob/main/KnownIssues)
 * Here are the [list of analyses](docs/ListOfAnalyses) in the latest database version, the respective [validation plots](docs/Validation) and an [SMS dictionary](https://smodels.github.io/docs/SmsDictionary) explaining the Tx names used by SModelS.
 * A discussion of re-interpretation methods and tools, and recommendations about the presentation of results can be found in this [report](https://arxiv.org/abs/2003.07868) by the [LHC Reinterpretation Forum](https://twiki.cern.ch/twiki/bin/view/LHCPhysics/InterpretingLHCresults), [arXiv:2003.07868](https://arxiv.org/abs/2003.07868).
