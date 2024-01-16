@@ -4,7 +4,7 @@ The list has been created from the database version `3.0.0-beta.`
 There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses300-betaWithSuperseded).
 
-<p align='center'><img src='../validation/300-beta/significances.png?1705316664.2755456' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+<p align='center'><img src='../validation/300-beta/significances.png?1705396839.4091108' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
 
 ## Stats by run, experiment, type
 
@@ -78,8 +78,8 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 | **Publications** | | | | | | | |
 | [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002"></a> | hadr. EWK | 137.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWW](SmsDictionary300-beta#TChiWW), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZH](SmsDictionary300-beta#TChiZH) | &#10004; | &#10004; | &#10004; | SLv1 |
 | [CMS-EXO-20-008](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-008/index.html)<a name="CMS-EXO-20-008"></a> | di-b | 138.0 | [TRV1bb](SmsDictionary300-beta#TRV1bb) | &#10004; | &#10004; |  |  |
-| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-EXO-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/)<a name="CMS-EXO-20-004"></a> | spin1 and spin0 mediator | 137.0 | [TRS1](SmsDictionary300-beta#TRS1), [TRV1](SmsDictionary300-beta#TRV1) |  |  | &#10004; | SLv1 |
+| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | stop combination | 137.0 | [T2tt](SmsDictionary300-beta#T2tt), [T2ttoff](SmsDictionary300-beta#T2ttoff), [T6bbWW](SmsDictionary300-beta#T6bbWW) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001"></a> | SFOS l | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZZ](SmsDictionary300-beta#TChiZZ), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013"></a> | jets + boosted Z | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ) | &#10004; | &#10004; |  |  |
@@ -181,4 +181,4 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Mon Jan 15 12:04:24 2024.
+This page was created Tue Jan 16 10:20:39 2024.
