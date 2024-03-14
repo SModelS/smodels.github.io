@@ -13,14 +13,14 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  19 December 2023: [SModelS version 2.3.3](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  28 March 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-**Paper for version 2.3: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
+**Paper for version 3.0: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
 
-* new in 2.3.3: interface to [resummino](https://resummino.hepforge.org/) added
-* Includes [database update](https://github.com/SModelS/smodels-database-release/releases) with several analyses for full Run-2 luminosity, in particular for EW-inos 
+* new in 3.0: extension to non-Z2 signatures
+* Includes [database update](https://github.com/SModelS/smodels-database-release/releases) with first non-Z2 signatures
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
-* We thank Jack Y. Araz (Durham University) for introducing CI/CD, identifying a bug in the expected values in SLv2, and help with cleaning up the statistics code
+* We thank XXX for YYY
 
 ------------------------------------------------------------------------   
 
