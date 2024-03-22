@@ -4,7 +4,11 @@ The list has been created from the database version `3.0.0-beta.`
 There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses300-betaWithSuperseded).
 
+<<<<<<< Updated upstream
 <p align='center'><img src='../validation/300-beta/significances.png?1711046969.6112294' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+=======
+<p align='center'><img src='../validation/300-beta/significances.png?1711104940.1186883' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+>>>>>>> Stashed changes
 
 ## Stats by run, experiment, type
 
@@ -139,8 +143,8 @@ In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
 | [ATLAS-SUSY-2013-15](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-15/)<a name="ATLAS-SUSY-2013-15"></a> | 1 l + 4 (1 b-)jets | 20.3 | [T2bbWW](SmsDictionary300-beta#T2bbWW), [T2tt](SmsDictionary300-beta#T2tt), [T6bbWW](SmsDictionary300-beta#T6bbWW), [T6bbWWoff](SmsDictionary300-beta#T6bbWWoff) | &#10004; | &#10004; | &#10004; |  |
 | [ATLAS-SUSY-2013-14](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-14/)<a name="ATLAS-SUSY-2013-14"></a> | ATLAS di-tau | 20.3 | [TChiChipmStauL](SmsDictionary300-beta#TChiChipmStauL), [TChipChimStauSnu](SmsDictionary300-beta#TChipChimStauSnu) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2013-12](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/)<a name="ATLAS-SUSY-2013-12"></a> | 3 l (e,mu,tau), EWK | 20.3 | [TChiChipmSlepL](SmsDictionary300-beta#TChiChipmSlepL), [TChiChipmStauL](SmsDictionary300-beta#TChiChipmStauL), [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiWZoff](SmsDictionary300-beta#TChiWZoff) | &#10004; | &#10004; | &#10004; |  |
-| [ATLAS-EXOT-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-11)<a name="ATLAS-EXOT-2013-11"></a> | dijets | 20.3 | [TRV1qq](SmsDictionary300-beta#TRV1qq) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-11/)<a name="ATLAS-SUSY-2013-11"></a> | 2 l (e,mu), EWK | 20.3 | [TChiWW](SmsDictionary300-beta#TChiWW) [(3)](#A3), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChipChimSlepSnu](SmsDictionary300-beta#TChipChimSlepSnu) [(3)](#A3), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) [(3)](#A3) | &#10004; | &#10004; | &#10004; |  |
+| [ATLAS-EXOT-2013-11](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2013-11)<a name="ATLAS-EXOT-2013-11"></a> | dijets | 20.3 | [TRV1qq](SmsDictionary300-beta#TRV1qq) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2013-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-09/)<a name="ATLAS-SUSY-2013-09"></a> | 2 SS l + 0-3 b-jets | 20.3 | [T1tttt](SmsDictionary300-beta#T1tttt), [T5WW](SmsDictionary300-beta#T5WW), [T5tctc](SmsDictionary300-beta#T5tctc), [T6ttWW](SmsDictionary300-beta#T6ttWW), [T6ttWWoff](SmsDictionary300-beta#T6ttWWoff) | &#10004; | &#10004; | &#10004; |  |
 | [ATLAS-SUSY-2013-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-08/)<a name="ATLAS-SUSY-2013-08"></a> | Z(l l) + b-jets | 20.3 | [T6ZZtt](SmsDictionary300-beta#T6ZZtt) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2013-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-05/)<a name="ATLAS-SUSY-2013-05"></a> | 0 l + 2 b-jets | 20.1 | [T2bb](SmsDictionary300-beta#T2bb) [(3)](#A3), [T6bbWW](SmsDictionary300-beta#T6bbWW), [T6bbWWoff](SmsDictionary300-beta#T6bbWWoff) | &#10004; | &#10004; | &#10004; |  |
@@ -189,4 +193,8 @@ In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
+<<<<<<< Updated upstream
 This page was created Thu Mar 21 19:49:29 2024.
+=======
+This page was created Fri Mar 22 11:55:40 2024.
+>>>>>>> Stashed changes

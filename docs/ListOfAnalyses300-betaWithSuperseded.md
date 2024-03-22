@@ -4,7 +4,11 @@ The list has been created from the database version `3.0.0-beta.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses300-beta).
 
+<<<<<<< Updated upstream
 <p align='center'><img src='../validation/300-beta/significancesiss.png?1711046648.2025824' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+=======
+<p align='center'><img src='../validation/300-beta/significancesiss.png?1711104753.7990751' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large significances.</sub></p>
+>>>>>>> Stashed changes
 
 ## Stats by run, experiment, type
 
@@ -194,8 +198,8 @@ In total, we have results from 37 ATLAS and 23 CMS 8 TeV searches.
 | [CMS-SUS-13-012](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13012)<a name="CMS-SUS-13-012"></a> | jets + MHT | 19.5 | [T1](SmsDictionary300-beta#T1), [T1tttt](SmsDictionary300-beta#T1tttt), [T1ttttoff](SmsDictionary300-beta#T1ttttoff), [T2](SmsDictionary300-beta#T2) [(3)](#A3) | | &#10004; | &#10004; | &#10004; |  |
 | [CMS-SUS-13-011](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13011)<a name="CMS-SUS-13-011"></a> | 1 l + &ge; 4 (1 b-)jets | 19.5 | [T2tt](SmsDictionary300-beta#T2tt), [T2ttoff](SmsDictionary300-beta#T2ttoff), [T6bbWW](SmsDictionary300-beta#T6bbWW), [T6bbWWoff](SmsDictionary300-beta#T6bbWWoff) | | &#10004; | &#10004; | &#10004; |  |
 | [CMS-SUS-13-007](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13007)<a name="CMS-SUS-13-007"></a> | 1 l + &ge; 2 b-jets | 19.3 | [T1tttt](SmsDictionary300-beta#T1tttt), [T1ttttoff](SmsDictionary300-beta#T1ttttoff), [T5tttt](SmsDictionary300-beta#T5tttt) | | &#10004; | &#10004; | &#10004; |  |
-| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | HSCP | 18.8 | [THSCPM1b](SmsDictionary300-beta#THSCPM1b) [(3)](#A3), [THSCPM2b](SmsDictionary300-beta#THSCPM2b) [(3)](#A3), [THSCPM3](SmsDictionary300-beta#THSCPM3) [(3)](#A3), [THSCPM4](SmsDictionary300-beta#THSCPM4) [(3)](#A3), [THSCPM5](SmsDictionary300-beta#THSCPM5) [(3)](#A3), [THSCPM6](SmsDictionary300-beta#THSCPM6) [(3)](#A3), [THSCPM7](SmsDictionary300-beta#THSCPM7) [(3)](#A3), [THSCPM8](SmsDictionary300-beta#THSCPM8) [(3)](#A3), [THSCPM9](SmsDictionary300-beta#THSCPM9) [(3)](#A3) | |  |  | &#10004; |  |
 | [CMS-SUS-13-006](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13006)<a name="CMS-SUS-13-006"></a> | multi-l, EWK | 19.5 | [TChiChipmSlepL](SmsDictionary300-beta#TChiChipmSlepL), [TChiChipmSlepStau](SmsDictionary300-beta#TChiChipmSlepStau), [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiWZoff](SmsDictionary300-beta#TChiWZoff), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | | &#10004; | &#10004; | &#10004; |  |
+| [CMS-EXO-13-006](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-13-006/index.html)<a name="CMS-EXO-13-006"></a> | HSCP | 18.8 | [THSCPM1b](SmsDictionary300-beta#THSCPM1b) [(3)](#A3), [THSCPM2b](SmsDictionary300-beta#THSCPM2b) [(3)](#A3), [THSCPM3](SmsDictionary300-beta#THSCPM3) [(3)](#A3), [THSCPM4](SmsDictionary300-beta#THSCPM4) [(3)](#A3), [THSCPM5](SmsDictionary300-beta#THSCPM5) [(3)](#A3), [THSCPM6](SmsDictionary300-beta#THSCPM6) [(3)](#A3), [THSCPM7](SmsDictionary300-beta#THSCPM7) [(3)](#A3), [THSCPM8](SmsDictionary300-beta#THSCPM8) [(3)](#A3), [THSCPM9](SmsDictionary300-beta#THSCPM9) [(3)](#A3) | |  |  | &#10004; |  |
 | [CMS-SUS-13-004](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13004)<a name="CMS-SUS-13-004"></a> | &ge; 1 b-jet, Razor | 19.3 | [T1bbbb](SmsDictionary300-beta#T1bbbb), [T1tttt](SmsDictionary300-beta#T1tttt), [T1ttttoff](SmsDictionary300-beta#T1ttttoff), [T2tt](SmsDictionary300-beta#T2tt), [T2ttoff](SmsDictionary300-beta#T2ttoff) | | &#10004; | &#10004; |  |  |
 | [CMS-SUS-13-002](https://twiki.cern.ch/twiki/bin/view/CMSPublic/PhysicsResultsSUS13002)<a name="CMS-SUS-13-002"></a> | &ge; 3 l (+ jets) | 19.5 | [T1tttt](SmsDictionary300-beta#T1tttt) | | &#10004; | &#10004; |  |  |
 | [CMS-EXO-12-059](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-12-059)<a name="CMS-EXO-12-059"></a> | dijet resonance | 19.7 | [TRV1qq](SmsDictionary300-beta#TRV1qq) | | &#10004; | &#10004; |  |  |
@@ -223,4 +227,8 @@ In total, we have results from 37 ATLAS and 23 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
+<<<<<<< Updated upstream
 This page was created Thu Mar 21 19:44:08 2024.
+=======
+This page was created Fri Mar 22 11:52:33 2024.
+>>>>>>> Stashed changes
