@@ -4,23 +4,23 @@ The list has been created from the database version `3.0.0-beta.`
 There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses300-betaWithSuperseded).
 
-<p align='center'><img src='../validation/300-beta/significances.png?1711206896.6729808' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
+<p align='center'><img src='../validation/300-beta/significances.png?1711276449.6661806' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
 
 ## Stats by run, experiment, type
 
 ### Run 2 - 13 TeV
 In total, we have results from 43 ATLAS and 43 CMS 13 TeV searches.
- * [ATLAS upper limits](#ATLAS13): 40 analyses, 98 (of which 4 LLP) results
  * [ATLAS efficiency maps](#ATLAS13): 30 analyses, 90 (of which 12 LLP) results, 838 individual maps
- * [CMS upper limits](#CMS13): 39 analyses, 151 (of which 3 LLP) results
+ * [ATLAS upper limits](#ATLAS13): 40 analyses, 98 (of which 4 LLP) results
  * [CMS efficiency maps](#CMS13): 11 analyses, 64 results, 3678 individual maps
+ * [CMS upper limits](#CMS13): 39 analyses, 151 (of which 3 LLP) results
 
 ### Run 1 - 8 TeV
 In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
- * [ATLAS upper limits](#ATLAS8): 18 analyses, 51 results
  * [ATLAS efficiency maps](#ATLAS8): 11 analyses, 40 results, 290 individual maps
- * [CMS upper limits](#CMS8): 19 analyses, 62 (of which 3 LLP) results
+ * [ATLAS upper limits](#ATLAS8): 18 analyses, 51 results
  * [CMS efficiency maps](#CMS8): 10 analyses, 48 (of which 9 LLP) results, 984 individual maps
+ * [CMS upper limits](#CMS8): 19 analyses, 62 (of which 3 LLP) results
 
 <a name="ATLAS13"></a>
 ## ATLAS, 13 TeV (43 analyses)
@@ -29,8 +29,8 @@ In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
 |--------|-----------------------|--------------|--------------|--------------|-------------------------|---------|-------------------------|
 | **Publications** | | | | | | | |
 | [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 l, EWK | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiWZoff](SmsDictionary300-beta#TChiWZoff) | &#10004; | &#10004; | &#10004; | json |
-| [ATLAS-SUSY-2019-08-grp](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-grp"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1 l + h(b b), EWK | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH) | &#10004; | &#10004; | &#10004; | json |
+| [ATLAS-SUSY-2019-08-grp](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08-grp"></a> | 1L + higgs + Etmiss (EWino) | 139.0 | [TChiWH](SmsDictionary300-beta#TChiWH) | &#10004; | &#10004; |  |  |
 | [ATLAS-EXOT-2019-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2019-03/)<a name="ATLAS-EXOT-2019-03"></a> | dijet resonance | 139.0 | [TRV1jj](SmsDictionary300-beta#TRV1jj) | &#10004; | &#10004; |  |  |
 | [ATLAS-SUSY-2019-02](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/)<a name="ATLAS-SUSY-2019-02"></a> | 2 soft l, EWK | 139.0 | [TChiWW](SmsDictionary300-beta#TChiWW), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | &#10004; | &#10004; | &#10004; | SLv1 |
 | [ATLAS-EXOT-2018-48](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-48/)<a name="ATLAS-EXOT-2018-48"></a> | di-top resonance | 139.0 | [TRV1tt](SmsDictionary300-beta#TRV1tt) | &#10004; | &#10004; |  |  |
@@ -80,8 +80,8 @@ In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
 | **Publications** | | | | | | | |
 | [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002"></a> | hadr. EWK | 137.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWW](SmsDictionary300-beta#TChiWW), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZH](SmsDictionary300-beta#TChiZH) | &#10004; | &#10004; | &#10004; | SLv1 |
 | [CMS-EXO-20-008](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-008/index.html)<a name="CMS-EXO-20-008"></a> | di-b resonance | 138.0 | [TRV1bb](SmsDictionary300-beta#TRV1bb) | &#10004; | &#10004; |  |  |
-| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-EXO-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/)<a name="CMS-EXO-20-004"></a> | spin1 and spin0 mediator | 137.0 | [TRS1](SmsDictionary300-beta#TRS1), [TRV1](SmsDictionary300-beta#TRV1) |  |  | &#10004; | SLv1 |
+| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | stop combination | 137.0 | [T2tt](SmsDictionary300-beta#T2tt), [T2ttoff](SmsDictionary300-beta#T2ttoff), [T6bbWW](SmsDictionary300-beta#T6bbWW) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001"></a> | SFOS l | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZZ](SmsDictionary300-beta#TChiZZ), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013"></a> | jets + boosted Z | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ) | &#10004; | &#10004; |  |  |
@@ -189,4 +189,4 @@ In total, we have results from 20 ATLAS and 20 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Sat Mar 23 16:14:56 2024.
+This page was created Sun Mar 24 11:34:09 2024.
