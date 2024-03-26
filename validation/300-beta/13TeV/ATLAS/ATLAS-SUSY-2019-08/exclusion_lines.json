@@ -1,7 +1,6 @@
 {
  "TChiWH": {
-  "obsExclusion_0": {
-	 "axisMap": {"0": "x", "1": "y", "2": "x", "3": "y"},
+  "obsExclusion_[[x,y],[x,y]]": {
    "x": [
     744.1,
     743.7,
@@ -275,8 +274,7 @@
     0.0
    ]
   },
-  "obsExclusionP1_0": {
-	 "axisMap": {"0": "x", "1": "y", "2": "x", "3": "y"},
+  "obsExclusionP1_[[x,y],[x,y]]": {
    "x": [
     764.6,
     763.7,
@@ -566,8 +564,7 @@
     0.0
    ]
   },
-  "obsExclusionM1_0": {
-	 "axisMap": {"0": "x", "1": "y", "2": "x", "3": "y"},
+  "obsExclusionM1_[[x,y],[x,y]]": {
    "x": [
     718.5,
     718.6,
@@ -827,8 +824,7 @@
     0.0
    ]
   },
-  "expExclusion_0": {
-	 "axisMap": {"0": "x", "1": "y", "2": "x", "3": "y"},
+  "expExclusion_[[x,y],[x,y]]": {
    "x": [
     840.7,
     837.3,
