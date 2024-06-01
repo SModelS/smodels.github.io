@@ -7,9 +7,7 @@ There is also a [ListOfAnalyses300-beta](https://smodels.github.io/docs/ListOfAn
 
 | **#** | **AnaId** | **TxName** | **Plot** |
 | ----- | --------- | ---------- | -------- |
-| 0 | ? | ? | <a href "https://smodels.github.io/"><img src="https://smodels.github.io/?1717239263.3121595" /></a>
-| 1 | ? | ? | <a href "https://smodels.github.io/"><img src="https://smodels.github.io/?1717239263.3121595" /></a>
-| 2 | ? | ? | <a href "https://smodels.github.io/"><img src="https://smodels.github.io/?1717239263.3121595" /></a>
-| 3 | ? | ? | <a href "https://smodels.github.io/"><img src="https://smodels.github.io/?1717239263.3121595" /></a>
+| 0 | ? | ? | <a href "https://smodels.github.io/validation/300-beta/13TeV/CMS/CMS-EXO-20-004-eff/validation/TRV1_x_y_y_obs.png"><img src="https://smodels.github.io/validation/300-beta/13TeV/CMS/CMS-EXO-20-004-eff/validation/TRV1_x_y_y_obs.png?1717243159.1055002" /></a>
+| 1 | ? | ? | <a href "https://smodels.github.io/validation/300-beta/13TeV/ATLAS/ATLAS-SUSY-2019-08-eff/validation/TChiWH_x_y_x_y_obs.png"><img src="https://smodels.github.io/validation/300-beta/13TeV/ATLAS/ATLAS-SUSY-2019-08-eff/validation/TChiWH_x_y_x_y_obs.png?1717243159.1055002" /></a>
 
-<font color='grey'>This page was created Sat Jun  1 12:54:23 2024</font>
+<font color='grey'>This page was created Sat Jun  1 13:59:19 2024</font>
