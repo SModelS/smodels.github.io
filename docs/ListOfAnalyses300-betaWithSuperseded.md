@@ -4,7 +4,7 @@ The list has been created from the database version `3.0.0-beta.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary300-beta) and a [validation page](Validation300-beta).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses300-beta).
 
-<p align='center'><img src='../validation/300-beta/significancesiss.png?1717255474.3104062' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
+<p align='center'><img src='../validation/300-beta/significancesiss.png?1717333313.5426016' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
 
 ## Stats by run, experiment, type
 
@@ -82,8 +82,8 @@ In total, we have results from 37 ATLAS and 23 CMS 8 TeV searches.
 | [CMS-SUS-21-007](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html)<a name="CMS-SUS-21-007"></a> | 1 l + top- or W-tag | 138.0 | [T1tttt](SmsDictionary300-beta#T1tttt), [T5WW](SmsDictionary300-beta#T5WW) | | &#10004; | &#10004; |  |  |
 | [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002"></a> | hadr. EWK | 137.0 | [TChiWH](SmsDictionary300-beta#TChiWH), [TChiWW](SmsDictionary300-beta#TChiWW), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZH](SmsDictionary300-beta#TChiZH) | | &#10004; | &#10004; | &#10004; | SLv1 |
 | [CMS-EXO-20-008](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-008/index.html)<a name="CMS-EXO-20-008"></a> | di-b resonance | 138.0 | [TRV1bb](SmsDictionary300-beta#TRV1bb) | | &#10004; | &#10004; |  |  |
-| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-EXO-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/)<a name="CMS-EXO-20-004"></a> | spin1 and spin0 mediator | 137.0 | [TRS1](SmsDictionary300-beta#TRS1), [TRV1](SmsDictionary300-beta#TRV1) | |  |  | &#10004; | SLv1 |
+| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300-beta#T5HH), [TChiHH](SmsDictionary300-beta#TChiHH) | | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | stop combination | 137.0 | [T2tt](SmsDictionary300-beta#T2tt), [T2ttoff](SmsDictionary300-beta#T2ttoff), [T6bbWW](SmsDictionary300-beta#T6bbWW) | | &#10004; | &#10004; |  |  |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001"></a> | SFOS l | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ), [TChiWZ](SmsDictionary300-beta#TChiWZ), [TChiZZ](SmsDictionary300-beta#TChiZZ), [TSlepSlep](SmsDictionary300-beta#TSlepSlep) | | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013"></a> | jets + boosted Z | 137.0 | [T5ZZ](SmsDictionary300-beta#T5ZZ) | | &#10004; | &#10004; |  |  |
@@ -225,4 +225,4 @@ In total, we have results from 37 ATLAS and 23 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Sat Jun  1 17:24:34 2024.
+This page was created Sun Jun  2 15:01:53 2024.
