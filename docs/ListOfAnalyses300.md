@@ -4,7 +4,7 @@ The list has been created from the database version `3.0.0.`
 There is also an  [sms dictionary](SmsDictionary300) and a [validation page](Validation300).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses300WithSuperseded).
 
-<p align='center'><img src='../validation/300/significances.png?1720603300.2561297' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
+<p align='center'><img src='../validation/300/significances.png?1720612211.0486374' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
 
 ## Stats by run, experiment, type
 
@@ -40,8 +40,8 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-32](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-32/)<a name="ATLAS-SUSY-2018-32"></a> | 2 OS l | 139.0 | [TChiWW](SmsDictionary300#TChiWW), [TChipChimSlepSlep](SmsDictionary300#TChipChimSlepSlep), [TSlepSlep](SmsDictionary300#TSlepSlep) | &#10004; | &#10004; | &#10004; | json |
 | [ATLAS-SUSY-2018-31](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-31/)<a name="ATLAS-SUSY-2018-31"></a> | 2 b-jets + 2 h(tau tau) | 139.0 | [T6bbHH](SmsDictionary300#T6bbHH) | &#10004; | &#10004; | &#10004; | json |
 | [ATLAS-SUSY-2018-23](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-23/)<a name="ATLAS-SUSY-2018-23"></a> | W h(gamma gamma), EWK | 139.0 | [TChiHH](SmsDictionary300#TChiHH), [TChiWH](SmsDictionary300#TChiWH) | &#10004; | &#10004; |  |  |
-| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | multi-jets | 139.0 | [T1](SmsDictionary300#T1), [T2](SmsDictionary300#T2), [T5WW](SmsDictionary300#T5WW), [T5WWoff](SmsDictionary300#T5WWoff), [T6WW](SmsDictionary300#T6WW), [T6WWoff](SmsDictionary300#T6WWoff) | &#10004; | &#10004; | &#10004; |  |
 | [ATLAS-SUSY-2018-22-multibin](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22-multibin"></a> | multi-jets | 139.0 | [TChiQ](SmsDictionary300#TChiQ), [TRV1](SmsDictionary300#TRV1) |  |  | &#10004; | json |
+| [ATLAS-SUSY-2018-22](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-22/)<a name="ATLAS-SUSY-2018-22"></a> | multi-jets | 139.0 | [T1](SmsDictionary300#T1), [T2](SmsDictionary300#T2), [T5WW](SmsDictionary300#T5WW), [T5WWoff](SmsDictionary300#T5WWoff), [T6WW](SmsDictionary300#T6WW), [T6WWoff](SmsDictionary300#T6WWoff) | &#10004; | &#10004; | &#10004; |  |
 | [ATLAS-SUSY-2018-16](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)<a name="ATLAS-SUSY-2018-16"></a> | 2 soft l + jets, EWK | 139.0 | [TChiWZoff](SmsDictionary300#TChiWZoff), [TSlepSlep](SmsDictionary300#TSlepSlep) | &#10004; | &#10004; | &#10004; | json |
 | [ATLAS-SUSY-2018-16-hino](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-16/)<a name="ATLAS-SUSY-2018-16-hino"></a> | 2 soft l + jets, EWK (hino) | 139.0 | [TChiWWoff](SmsDictionary300#TChiWWoff), [TChiWZoff](SmsDictionary300#TChiWZoff), [TChiZoff](SmsDictionary300#TChiZoff) |  |  | &#10004; |  |
 | [ATLAS-SUSY-2018-14](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-14/)<a name="ATLAS-SUSY-2018-14"></a> | displaced vertices | 139.0 | [TSelSelDisp](SmsDictionary300#TSelSelDisp), [TSmuSmuDisp](SmsDictionary300#TSmuSmuDisp), [TStauStauDisp](SmsDictionary300#TStauStauDisp) |  |  | &#10004; | json |
@@ -84,8 +84,8 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 | [CMS-SUS-21-007](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html)<a name="CMS-SUS-21-007"></a> | 1 l + top- or W-tag | 138.0 | [T1tttt](SmsDictionary300#T1tttt), [T5WW](SmsDictionary300#T5WW) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-21-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/)<a name="CMS-SUS-21-002"></a> | hadr. EWK | 137.0 | [TChiWH](SmsDictionary300#TChiWH), [TChiWW](SmsDictionary300#TChiWW), [TChiWZ](SmsDictionary300#TChiWZ), [TChiZH](SmsDictionary300#TChiZH) | &#10004; | &#10004; | &#10004; | SLv1 |
 | [CMS-EXO-20-008](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-008/index.html)<a name="CMS-EXO-20-008"></a> | di-b resonance | 138.0 | [TRV1bb](SmsDictionary300#TRV1bb) | &#10004; | &#10004; |  |  |
-| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300#T5HH), [TChiHH](SmsDictionary300#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-EXO-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/)<a name="CMS-EXO-20-004"></a> | spin1 and spin0 mediator | 137.0 | [TRS1](SmsDictionary300#TRS1), [TRV1](SmsDictionary300#TRV1) |  |  | &#10004; | SLv1 |
+| [CMS-SUS-20-004](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/)<a name="CMS-SUS-20-004"></a> | 2 h(b b), EWK | 137.0 | [T5HH](SmsDictionary300#T5HH), [TChiHH](SmsDictionary300#TChiHH) | &#10004; | &#10004; | &#10004; | SLv2 |
 | [CMS-SUS-20-002](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-002/index.html)<a name="CMS-SUS-20-002"></a> | stop combination | 137.0 | [T2tt](SmsDictionary300#T2tt), [T2ttoff](SmsDictionary300#T2ttoff), [T6bbWW](SmsDictionary300#T6bbWW) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-20-001](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-001/index.html)<a name="CMS-SUS-20-001"></a> | SFOS l | 137.0 | [T5ZZ](SmsDictionary300#T5ZZ), [TChiWZ](SmsDictionary300#TChiWZ), [TChiZZ](SmsDictionary300#TChiZZ), [TSlepSlep](SmsDictionary300#TSlepSlep) | &#10004; | &#10004; |  |  |
 | [CMS-SUS-19-013](http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-013/index.html)<a name="CMS-SUS-19-013"></a> | jets + boosted Z | 137.0 | [T5ZZ](SmsDictionary300#T5ZZ) | &#10004; | &#10004; |  |  |
@@ -188,4 +188,4 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 <a name='A4'>(4)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Wed Jul 10 11:21:40 2024.
+This page was created Wed Jul 10 13:50:11 2024.
