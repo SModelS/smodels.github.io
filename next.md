@@ -13,7 +13,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  5 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  7 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 **Paper for version 3.0: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
 
