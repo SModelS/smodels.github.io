@@ -19,10 +19,9 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 **Paper for version 3.0: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
 -->
 
-* new in 3.0: extension to non-Z2 signatures
-* Includes [database update](https://github.com/SModelS/smodels-database-release/releases) with first non-Z2 signatures
+* New graph-based topology description now allows SModelS to handle arbitrary simplified model topologies, without the need of an imposed Z2 symmetry.
+* Important [database update](https://github.com/SModelS/smodels-database-release/releases) with several non-Z2 signatures (resonances, monojet, RPV)
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
-* We thank XXX for YYY
 
 ------------------------------------------------------------------------   
 
