@@ -1,7 +1,7 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
   
 # A tool for interpreting simplified-model results from the LHC 
-Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Wolfgang Waltenberger
+Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e Pascal, Camila Ramos, Humberto Reyes-Gonz&aacute;lez, Th&eacute;o Reymermier, Yoxara Villamizar, Wolfgang Waltenberger
 
  <font color='grey'>Previously involved in SModelS: Ga&#235;l Alguero, Federico Ambrogi, Jan Heisig, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
 
@@ -13,14 +13,15 @@ Mohammad AlTakach,  Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------ 
-###  19 December 2023: [SModelS version 2.3.3](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-**Paper for version 2.3: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
+<!---
+**Paper for version 3.0: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
+-->
 
-* new in 2.3.3: interface to [resummino](https://resummino.hepforge.org/) added
-* Includes [database update](https://github.com/SModelS/smodels-database-release/releases) with several analyses for full Run-2 luminosity, in particular for EW-inos 
+* New graph-based topology description now allows SModelS to handle arbitrary simplified model topologies, without the need of an imposed Z2 symmetry.
+* Important [database update](https://github.com/SModelS/smodels-database-release/releases) with several non-Z2 signatures (resonances, monojet, RPV)
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
-* We thank Jack Y. Araz (Durham University) for introducing CI/CD, identifying a bug in the expected values in SLv2, and help with cleaning up the statistics code
 
 ------------------------------------------------------------------------   
 
