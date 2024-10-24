@@ -15,11 +15,12 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 ------------------------------------------------------------------------ 
 ###  24 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-<!---
-**Paper for version 3.0: [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)**
--->
+* This version features small fixes in printer and clusterer -- numerical results may vary very slightly with respect to 3.0.0!
 
-* 3.0.1 has small fixes in printer and clusterer -- numerical results may vary very slightly with respect to 3.0.0!
+
+###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
+
+* Paper for version 3.0: [arXiv:2409.12942](https://arxiv.org/abs/2409.12942)
 * New graph-based topology description now allows SModelS to handle arbitrary simplified model topologies, without the need of an imposed Z2 symmetry.
 * Important [database update](https://github.com/SModelS/smodels-database-release/releases) with several non-Z2 signatures (resonances, monojet, RPV)
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
