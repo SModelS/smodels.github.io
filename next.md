@@ -16,7 +16,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 ###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 * Small fixes in the printer and the clustering -- numerical results may vary very slightly with respect to 3.0.0!
-* Pyhf backend now configurable FIXME link to documentation
+* [Pyhf backend](https://smodels.readthedocs.io/en/stable/RunningSModelS.html#parameterfilepyhfbackend) now configurable
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html) 
 
 
