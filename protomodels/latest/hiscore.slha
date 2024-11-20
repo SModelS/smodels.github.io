@@ -82,7 +82,7 @@ BLOCK MASS  # Mass Spectrum
    2000015     1E+06            # ~tau_2
    1000016     1000000.0         # ~nu_tauL
    1000021     1000000.0         # ~g
-   1000022     38.5         # ~chi_10
+   1000022     41.0         # ~chi_10
    1000023     286.4         # ~chi_20
    1000025     410.1         # ~chi_30
    1000035     1E+06            # ~chi_40
@@ -342,7 +342,7 @@ XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    6.42702646E-03 SModelSv3.0.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    5.09510041E-01 SModelSv3.0.1
+  0  0  0  0  0  0    4.94027302E-01 SModelSv3.0.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    1.45471557E-01 SModelSv3.0.1
@@ -357,7 +357,7 @@ XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    4.75030917E-02 SModelSv3.0.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.18185919E+00 SModelSv3.0.1
+  0  0  0  0  0  0    1.14928320E+00 SModelSv3.0.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    4.05764090E-01 SModelSv3.0.1
