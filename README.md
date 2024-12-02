@@ -47,11 +47,12 @@ and [known issues](https://github.com/SModelS/smodels/blob/main/KnownIssues)
 
 ## If you use SModelS, please cite the following papers:
 
-* *SModelS v2.3: enabling global likelihood analyses*, Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timothée Pascal, Wolfgang Waltenberger, [arXiv:2306.17676](https://arxiv.org/abs/2306.17676)
-* *Constraining new physics with SModelS version 2*, Gael Alguero, Jan Heisig, Charanjit Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel, [arXiv:2112.00769](https://arxiv.org/abs/2112.00769)
+* *SModelS v3: going beyond Z<sub>2</sub> topologies*, Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timothée Pascal, Camila Ramos, Yoxara Villamizar, Wolfgang Waltenberger, [JHEP 11 (2024) 074](https://doi.org/10.1007/JHEP11(2024)074)
+* *SModelS v2.3: enabling global likelihood analyses*, Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timothée Pascal, Wolfgang Waltenberger, [arXiv:2306.17676](https://arxiv.org/abs/2306.17676), [SciPost Phys. 16 (2024) 101](https://doi.org/10.21468/SciPostPhys.16.4.101)
+* *Constraining new physics with SModelS version 2*, Gael Alguero, Jan Heisig, Charanjit Khosa, Sabine Kraml, Suchita Kulkarni, Andre Lessa, Humberto Reyes-Gonzalez, Wolfgang Waltenberger, Alicia Wongel, [arXiv:2112.00769](https://arxiv.org/abs/2112.00769), [JHEP 08 (2022) 068](https://doi.org/10.1007/JHEP08(2022)068)
 * *A SModelS interface for pyhf likelihoods*, Gael Alguero, Sabine Kraml, Wolfgang Waltenberger, [arXiv:2009.01809](https://arxiv.org/abs/2009.01809), [CPC March 2021, 107909](https://doi.org/10.1016/j.cpc.2021.107909)
 * *SModelS database update v1.2.3*, Charanjit K. Khosa, Sabine Kraml, Andre Lessa, Philipp Neuhuber, Wolfgang Waltenberger, [arXiv:2005.00555](https://arxiv.org/abs/2005.00555), [LHEP 158 2020](https://doi.org/10.31526/lhep.2020.158)
-* *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://www.sciencedirect.com/science/article/pii/S0010465519302255?via%3Dihub)
+* *SModelS v1.2: long-lived particles, combination of signal regions, and other novelties*, Federico Ambrogi et al., [arXiv:1811.10624](https://arxiv.org/abs/1811.10624), [CPC 251, June 2020, 106848](https://doi.org/10.1016/j.cpc.2019.07.013)
 * *Constraining new physics with searches for long-lived
 particles: Implementation into SModelS*, Jan Heisig, Sabine Kraml, Andre Lessa, [arXiv:1808.05229](https://arxiv.org/abs/1808.05229), [Phys.Lett. B788 (2019) 87-95](https://doi.org/10.1016/j.physletb.2018.10.049).
 * *SModelS extension with the CMS supersymmetry search results from Run 2*, Juhi Dutta, Sabine Kraml, Andre Lessa, Wolfgang Waltenberger, [arXiv:1803.02204](http://arxiv.org/abs/1803.02204), [LHEP 1 (2018) no.1,5-12](http://journals.andromedapublisher.com/index.php/LHEP/article/view/28)
@@ -69,13 +70,20 @@ Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/b
 
 ## Working principle                                            
                                                           
-SModelS is based on a general procedure to decompose Beyond the Standard Model (BSM) collider signatures presenting a Z<sub>2</sub> symmetry into Simplified Model Spectrum (SMS) topologies. Our method provides a way to cast BSM predictions for the LHC in a model independent framework,  which can be directly confronted with the relevant experimental constraints.  The main SModelS ingredients are
-
- * the decomposition of the BSM spectrum into SMS topologies
- * a database of experimental SMS results
- * the interface between decomposition and results database to compute limits
+SModelS is an automatic, public tool for interpreting simplified-model results from the LHC.                                                                            
+It is based on a general procedure to decompose Beyond the Standard Model           
+(BSM) collider signatures into Simplified Model                                     
+Spectrum (SMS) topologies. Our method provides a way to cast BSM predictions        
+for the LHC in a model independent framework, which can be directly confronted      
+with the relevant experimental constraints. The main SModelS ingredients are        
+                                                                                    
+  * the decomposition of the BSM spectrum into SMS topologies                       
+  * a database of experimental SMS results                                          
+  * matching between the decomposition and results database, including the tools to perform various kinds of statistical inference                                      
+                                                                                    
+as illustrated in the scheme below.             
  
- <p align="center"><img src="https://smodels.github.io/pics/smodelsScheme.png" width="640" height="500"></p>
+ <p align="center"><img src="https://smodels.github.io/pics/smodelsSchemeV3.png" width="640" height="500"></p>
 
 
 ## Code and Database updates
