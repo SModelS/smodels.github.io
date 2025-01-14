@@ -9,16 +9,22 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/SModelS)
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb)
+<!-- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb) -->
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
+###  xx xxx 2025: [SModelS version 3.0.2](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+
+* Small fix in pyhf caching code (results should not change)
+* Fixes with parallelisation of [resummino cross section](https://smodels.readthedocs.io/en/latest/SModelSTools.html#xsecresummino) computer
+
+<!--
 ###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 * Small fixes in the printer and the clustering -- numerical results may vary very slightly with respect to 3.0.0!
 * [Pyhf backend](https://smodels.readthedocs.io/en/stable/RunningSModelS.html#parameterfilepyhfbackend) now configurable
 * Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html)
-
+-->
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
