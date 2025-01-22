@@ -13,7 +13,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-###  xx xxx 2025: [SModelS version 3.0.2](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+###  23 Jan 2025: [SModelS version 3.0.2](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
 * Small fix in pyhf caching code (results should not change)
 * Fixes with parallelisation of [resummino cross section](https://smodels.readthedocs.io/en/latest/SModelSTools.html#xsecresummino) computer
