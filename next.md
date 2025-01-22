@@ -17,6 +17,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 
 * Small fix in pyhf caching code (results should not change)
 * Fixes with parallelisation of [resummino cross section](https://smodels.readthedocs.io/en/latest/SModelSTools.html#xsecresummino) computer
+* Tiny fix to allow '#' without subsequent whitespace as comment in text database
 
 <!--
 ###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
