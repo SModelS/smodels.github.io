@@ -17,7 +17,6 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 ### 10 Mar 2025: [SModelS version 3.0.3](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
   * Fixes in build info to prepare for conda-forge                                  
   * Fixed wrong imports, overlooked in refactoring from v2 -> v3                    
-  * Tiny fix in error message for exceptions when [loading database](https://smodels.readthedocs.io/en/stable/experiment.html#experiment.databaseObj.SubDatabase.loadDatabase>)
   * Fixed pythia8 autocompile 
 
 ###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
