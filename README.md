@@ -9,21 +9,15 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 
 [![GitHub Project](https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub)](https://github.com/SModelS)
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
+[![Anaconda version](https://anaconda.org/conda-forge/smodels/badges/version.svg)](https://anaconda.org/conda-forge/smodels/)
 <!-- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb) -->
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-###  23 Jan 2025: [SModelS version 3.0.2](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
-
-* Small fix in pyhf caching code (results should not change)
-* Fixes with parallelisation of [resummino cross section](https://smodels.readthedocs.io/en/latest/SModelSTools.html#xsecresummino) computer
-* Tiny fix to allow '#' without subsequent whitespace as comment in text database
-
-###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
-
-* Small fixes in the printer and the clustering -- numerical results may vary very slightly with respect to 3.0.0!
-* [Pyhf backend](https://smodels.readthedocs.io/en/stable/RunningSModelS.html#parameterfilepyhfbackend) now configurable
-* Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html)
+### 10 Mar 2025: [SModelS version 3.0.3](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+  * Fixes in build info to prepare for conda-forge                                  
+  * Fixed wrong imports, overlooked in refactoring from v2 -> v3                    
+  * Fixed pythia8 autocompile 
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
