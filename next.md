@@ -19,18 +19,6 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Fixed wrong imports, overlooked in refactoring from v2 -> v3                    
   * Fixed pythia8 autocompile 
 
-###  23 Jan 2025: [SModelS version 3.0.2](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))                                                                                
-                                                                                    
-* Small fix in pyhf caching code (results should not change)                        
-* Fixes with parallelisation of [resummino cross section](https://smodels.readthedocs.io/en/latest/SModelSTools.html#xsecresummino) computer                            
-* Tiny fix to allow '#' without subsequent whitespace as comment in text database  
-
-###  31 Oct 2024: [SModelS version 3.0.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
-
-* Small fixes in the printer and the clustering -- numerical results may vary very slightly with respect to 3.0.0!
-* [Pyhf backend](https://smodels.readthedocs.io/en/stable/RunningSModelS.html#parameterfilepyhfbackend) now configurable
-* Quick start: [Installation instructions](https://smodels.readthedocs.io/en/latest/Installation.html)
-
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
 * Paper for version 3.0: [arXiv:2409.12942](https://arxiv.org/abs/2409.12942)
