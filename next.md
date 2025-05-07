@@ -19,7 +19,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Introduced minmassgapISR parameter for controlling the mass compression for ISR topologies  \
     **WARNING**: with the default setting, behavior for ISR topologies differs from previous versions!
   * Small fixes in analyses combinations, better handling exceptions in likelihood computations
-  * database extension: CMS-EXO-20-004
+  * Database extension: CMS-EXO-20-004
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
