@@ -18,8 +18,8 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 
   * Introduced minmassgapISR parameter for controlling the mass compression for ISR topologies
   * Small fixes in analyses combinations, better handling exceptions in likelihood computations
-  * Database extension: CMS-EXO-20-004
-  * We thank L&eacute;o Constantin for a bug fix
+  * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM)
+  * We thank L&eacute;o Constantin for help with a bug fix
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
