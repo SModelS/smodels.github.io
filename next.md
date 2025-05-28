@@ -19,6 +19,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Introduced minmassgapISR parameter for controlling the mass compression for ISR topologies
   * Small fixes in analyses combinations, better handling exceptions in likelihood computations
   * Slightly different way of finding upper limits, UL computations may vary slightly numerically
+  * Bumped up pythia8 from 8308 to 8315
   * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM)
   * We thank L&eacute;o Constantin for help with a bug fix
 
