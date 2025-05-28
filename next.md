@@ -21,7 +21,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Slightly different way of finding upper limits, UL computations may vary slightly numerically
   * Bumped up pythia8 from 8308 to 8315
   * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM)
-  * We thank L&eacute;o Constantin for help with a bug fix
+  * We thank L&eacute;o Constantin for help with a bug fix concerning failed likelihood computations
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
