@@ -18,6 +18,10 @@
         {
           "val_name": "ATLAS-EXOT-2018-06_ul",
           "main_path": "13TeV/ATLAS/ATLAS-EXOT-2018-06/"
+        },
+        {
+          "val_name": "ATLAS-EXOT-2018-06_em",
+          "main_path": "13TeV/ATLAS/ATLAS-EXOT-2018-06-eff/"
         }
       ],
       "pretty_name": "monojet",
