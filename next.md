@@ -22,6 +22,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Bumped up pythia8 from 8308 to 8315
   * Bumped up lhapdf used in resummino from 6.5.4 to 6.5.5
   * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM)
+  * Fixed an issue with missing 'pyhf' fields in globalInfo.txt:jsonFiles
   * We thank L&eacute;o Constantin for help with a bug fix concerning failed likelihood computations
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
