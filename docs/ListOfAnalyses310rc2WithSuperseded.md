@@ -4,7 +4,7 @@ The list has been created from the database version `3.1.0rc2.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary310rc2) and a [validation page](Validation310rc2).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses310rc2).
 
-<p align='center'><img src='../validation/310rc2/significancesiss.png?1750618688.6809819' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
+<p align='center'><img src='../validation/310rc2/significancesiss.png?1750687136.7543633' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions in the database. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
 
 ## Stats by run, experiment, type
 
@@ -226,4 +226,4 @@ In total, we have results from 37 ATLAS and 23 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Sun Jun 22 20:58:08 2025.
+This page was created Mon Jun 23 15:58:56 2025.
