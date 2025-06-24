@@ -1,8 +1,8 @@
 {
   "tool": "SModelS",
-  "version": "3.1.0.rc1",
+  "version": "3.1.0rc2",
+  "date_created": "2025-06-24T14:39:42.597758+00:00",
   "implementations_description": "SModelS analysis",
-  "created": "Tue May 13 15:09:36 2025",
   "link_types": [ "main_url", "val_url", "publication", "arXiv" ],
   "url_templates": {
     "main_url": "https://github.com/SModelS/smodels-database-release/tree/main/{main_path}",
