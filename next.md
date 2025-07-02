@@ -23,7 +23,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
   * Bumped up lhapdf used in resummino from 6.5.4 to 6.5.5
   * Improved the syntax of pyhf fields in globalInfo.txt:jsonFiles
   * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM). WARNING: database shipped with 310 is currently at beta!
-  * Small fixes in database: ATLAS-SUSY-2018-14 (UL), ATLAS-SUSY-2018-31 (EM)
+  * Small fixes in database: ATLAS-SUSY-2018-14 (UL), ATLAS-SUSY-2018-31 (EM), CMS-SUS-20-004 (UL)
     -- results for these analyses may vary with respect to the previous version!
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
