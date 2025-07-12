@@ -14,9 +14,11 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 10 July 2025: [SModelS version 3.1.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 20 July 2025: [SModelS version 3.1.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
   * Small fixes in analyses combinations, better handling exceptions in likelihood computations, we thank Leo Constantin for help with a bug fix concerning failed likelihood computations
+  * Fixed an inconsistency with the upper limits from analysis combinations. analysis-combined ULs may
+    be different by up to ~ 10%
   * Slightly different way of finding upper limits, UL computations may vary slightly numerically
   * Introduced minmassgapISR parameter for controlling the mass compression for ISR topologies. WARNING: with the default setting, behavior for ISR topologies differs from previous versions!
   * Bumped up pythia8 from 8308 to 8315
