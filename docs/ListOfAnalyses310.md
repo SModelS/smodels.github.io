@@ -4,7 +4,7 @@ The list has been created from the database version `3.1.0.`
 There is also an  [sms dictionary](SmsDictionary310) and a [validation page](Validation310).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses310WithSuperseded).
 
-<p align='center'><img src='../validation/310/significances.png?1754396779.9730802' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions [(1)](#A1). A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
+<p align='center'><img src='../validation/310/significances.png?1754396779.9730802' alt='plot of significances' width='400' /><br><sub>Plot: Significances with respect to the Standard Model hypothesis, for all signal regions</sub>[(1)](#A1)<sub>. A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.</sub></p>
 
 ## Stats by run, experiment, type
 
