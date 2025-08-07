@@ -1,9 +1,9 @@
 <p align="center"><img src="https://smodels.github.io/pics/banner.png" alt="banner"></p>
 
 # A tool for interpreting simplified-model results from the LHC
-Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e Pascal, Camila Ramos, Humberto Reyes-Gonz&aacute;lez, Th&eacute;o Reymermier, Yoxara Villamizar, Wolfgang Waltenberger
+Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eacute;e Pascal, Humberto Reyes-Gonz&aacute;lez, Th&eacute;o Reymermier, Wolfgang Waltenberger
 
- <font color='grey'>Previously involved in SModelS: Ga&#235;l Alguero, Federico Ambrogi, Jan Heisig, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Jory Sonneveld, Michael Traub, Matthias Wolf, Alicia Wongel </font>
+ <font color='grey'>Previously involved in SModelS: Ga&#235;l Alguero, Federico Ambrogi, Jan Heisig, Charanjit K. Khosa, Juhi Dutta, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Camila Ramos, Jory Sonneveld, Michael Traub, Yoxara Villamizar, Matthias Wolf, Alicia Wongel </font>
 
 ------------------------------------------------------------------------
 
@@ -14,12 +14,19 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 10 Mar 2025: [SModelS version 3.0.3.post1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 7 Aug 2025: [SModelS version 3.1.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-  * Tiny fix to setup.py to make smodels/lib/check_fortran_compiler.sh to be packaged
-  * Fixes in build info to prepare for conda-forge                                  
-  * Fixed wrong imports, overlooked in refactoring from v2 -> v3                    
-  * Fixed pythia8 autocompile 
+  * Introduced minmassgapISR parameter for controlling the mass compression for ISR topologies. WARNING: with the default setting, behavior for ISR topologies differs from previous versions!
+  * Improved the syntax of pyhf fields in globalInfo.txt:jsonFiles
+  * Small fixes in analyses combinations, better handling exceptions in likelihood computations, we thank Leo Constantin for help with a bug fix concerning failed likelihood computations
+  * Fixed an inconsistency with the upper limits from analysis combinations. analysis-combined ULs may be different by up to ~ 10%
+  * Improved way of finding upper limits, UL computations may vary slightly numerically
+  * renamed 'expected' flag to an 'evaluationType' enum throughout the code
+  * Bumped up pythia8 from 8308 to 8315
+  * Bumped up lhapdf used in resummino from 6.5.4 to 6.5.5
+  * Database extension: ATLAS-EXOT-2018-06 (EM), additional topologies for CMS-EXO-20-004 (EM). WARNING: database shipped with 310 is currently at beta!
+  * Small fixes in database: ATLAS-SUSY-2018-14 (UL), ATLAS-SUSY-2018-31 (EM), CMS-SUS-20-004 (UL)
+    -- results for these analyses may vary with respect to the previous version!
 
 ###  20 Aug 2024: [SModelS version 3.0.0](https://github.com/SModelS/smodels/releases/tag/3.0.0) available ([what's new](https://smodels.readthedocs.io/en/3.0.0/ReleaseUpdate.html))
 
