@@ -4,9 +4,10 @@ The list has been created from the database version `3.1.0.`
 There is also an  [sms dictionary](SmsDictionary310) and a [validation page](Validation310).
 Link to list of results [including superseded and fastlim results](ListOfAnalyses310WithSuperseded).
 
-<p align='center'><img src='../validation/310/significances.png?1754399070.3409958' alt='plot of significances' width='500' /><br></p>
+<p align='center'><img src='../validation/310/significances.png?1754561454.171047' alt='plot of significances' width='500' /><br></p>
 
-Plot: Significances with respect to the Standard Model hypothesis, for all signal regions [(1)](#A1). A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.
+###### Plot: Significances with respect to the Standard Model hypothesis, for all signal regions [(1)](#A1). A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.
+
 
 ## Stats by run, experiment, type
 
@@ -50,8 +51,8 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 | [ATLAS-SUSY-2018-10](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-10/)<a name="ATLAS-SUSY-2018-10"></a> | 1 l + jets | 139.0 | [T5WW](SmsDictionary310#T5WW), [T5WWoff](SmsDictionary310#T5WWoff), [T6WW](SmsDictionary310#T6WW), [T6WWoff](SmsDictionary310#T6WWoff) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-10_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-10_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-10_em) |  |
 | [ATLAS-SUSY-2018-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-09/)<a name="ATLAS-SUSY-2018-09"></a> | 2 SS l | 139.0 | [T6ttWW](SmsDictionary310#T6ttWW), [TRPV5tjb](SmsDictionary310#TRPV5tjb) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-09_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-09_ul) |  |  |
 | [ATLAS-SUSY-2018-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-08/)<a name="ATLAS-SUSY-2018-08"></a> | 2 OS l | 139.0 | [T2bbffff](SmsDictionary310#T2bbffff), [T2tt](SmsDictionary310#T2tt), [T2ttoff](SmsDictionary310#T2ttoff) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-08_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-08_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-08_em) |  |
-| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | 3 l, EWK | 139.0 | [TChiWZ](SmsDictionary310#TChiWZ), [TChiWZoff](SmsDictionary310#TChiWZoff) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_em) |  |
 | [ATLAS-EXOT-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2018-06/)<a name="ATLAS-EXOT-2018-06"></a> | monojet | 139.0 | [TRV1](SmsDictionary310#TRV1) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-EXOT-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-EXOT-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-EXOT-2018-06_em) |  |
+| [ATLAS-SUSY-2018-06](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-06/)<a name="ATLAS-SUSY-2018-06"></a> | 3 l, EWK | 139.0 | [TChiWZ](SmsDictionary310#TChiWZ), [TChiWZoff](SmsDictionary310#TChiWZoff) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-06_em) |  |
 | [ATLAS-SUSY-2018-05](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-05/)<a name="ATLAS-SUSY-2018-05"></a> | 2 l + jets | 139.0 | [T5ZZ](SmsDictionary310#T5ZZ), [T6ZZ](SmsDictionary310#T6ZZ), [TChiWZ](SmsDictionary310#TChiWZ), [TChiWZoff](SmsDictionary310#TChiWZoff) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-05_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-05_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-05_em) | json |
 | [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)<a name="ATLAS-SUSY-2018-04"></a> | 2 hadronic taus | 139.0 | [TStauStau](SmsDictionary310#TStauStau) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-04_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-04_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2018-04_em) | json |
 | [ATLAS-SUSY-2017-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2017-03/)<a name="ATLAS-SUSY-2017-03"></a> | multi-l EWK | 36.1 | [TChiWZ](SmsDictionary310#TChiWZ) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2017-03_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2017-03_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation310#ATLAS-SUSY-2017-03_em) |  |
@@ -193,4 +194,4 @@ In total, we have results from 16 ATLAS and 20 CMS 8 TeV searches.
 <a name='A5'>(5)</a> Aggregated result; the results are the public ones, but aggregation is done by the SModelS collaboration.
 
 
-This page was created Tue Aug  5 15:04:30 2025.
+This page was created Thu Aug  7 12:10:54 2025.
