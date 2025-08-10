@@ -82,11 +82,11 @@ BLOCK MASS  # Mass Spectrum
    2000015     1E+06            # ~tau_2
    1000016     1000000.0         # ~nu_tauL
    1000021     1000000.0         # ~g
-   1000022     242.8         # ~chi_10
+   1000022     221.8         # ~chi_10
    1000023     1000000.0         # ~chi_20
    1000025     1000000.0         # ~chi_30
    1000035     1E+06            # ~chi_40
-   1000024     302.3         # ~chi_1+
+   1000024     260.5         # ~chi_1+
    1000037     1000000.0         # ~chi_2+
 #
 BLOCK NMIX  # Neutralino Mixing Matrix
@@ -333,11 +333,11 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.89900021E+00 SModelSv3.1.0
+  0  0  0  0  0  0    2.10968120E+00 SModelSv3.1.0
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    4.59813245E+00 SModelSv3.1.0
+  0  0  0  0  0  0    4.95521747E+00 SModelSv3.1.0
 
-# Signal strength multipliers: (1000022, 1000022):0.6596, (1000022, 1000024):12.18
+# Signal strength multipliers: (1000022, 1000022):0.6596, (1000022, 1000024):8.203
 
 # loaded from dict file
