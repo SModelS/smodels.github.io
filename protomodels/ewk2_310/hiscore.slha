@@ -249,15 +249,15 @@ DECAY   2000005     1.34903869E+01   # sbottom2 decays
 #          BR         NDA      ID1       ID2
 
 #         PDG            Width
-DECAY   2000001     1.0              # sdown_R decays
-DECAY   2000002     1.0              # sup_R decays
-DECAY   2000003     1.0              # sstrange_R decays
-DECAY   2000004     1.0              # scharm_R decays
-DECAY   2000011     1.0              # selectron_R decays
-DECAY   2000013     1.0              # smuon_R decays
-DECAY   2000015     1.0              # stau_2 decays
+DECAY   2000001     0.0              # sdown_R decays
+DECAY   2000002     0.0              # sup_R decays
+DECAY   2000003     0.0              # sstrange_R decays
+DECAY   2000004     0.0              # scharm_R decays
+DECAY   2000011     0.0              # selectron_R decays
+DECAY   2000013     0.0              # smuon_R decays
+DECAY   2000015     0.0              # stau_2 decays
 DECAY   1000022     0.0              # neutralino1 decays
-DECAY   1000035     1.0              # neutralino4 decays
+DECAY   1000035     0.0              # neutralino4 decays
 
 #         PDG            Width
 DECAY   1000001     1.48506929E+01   # sdown_L decays
@@ -330,6 +330,42 @@ DECAY   1000025     4.86632501E+00   # neutralino3 decays
 #     D55_1000022_1000022  2     1000022        -1000022   # BR(Z' -> ~chi_10 ~chi10 )
 #     D55_1_1 2                  1 -1  # BR(Z' -> q q )
 #     D55_6_6 2                  6 -6  # BR(Z' -> t t )
+
+DECAY   1000001    0.0
+
+DECAY   1000002    0.0
+
+DECAY   1000003    0.0
+
+DECAY   1000004    0.0
+
+DECAY   1000005    0.0
+
+DECAY   1000006    0.0
+
+DECAY   2000005    0.0
+
+DECAY   2000006    0.0
+
+DECAY   1000011    0.0
+
+DECAY   1000012    0.0
+
+DECAY   1000013    0.0
+
+DECAY   1000014    0.0
+
+DECAY   1000015    0.0
+
+DECAY   1000016    0.0
+
+DECAY   1000021    0.0
+
+DECAY   1000023    0.0
+
+DECAY   1000025    0.0
+
+DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb]
