@@ -12,7 +12,7 @@ def mkList():
             continue
         if g in [ "plots", "videos", "list.md", "mkList.py", "logos" ]:
             continue
-        f.write ( f"| {g} ![./{g}] |\n" )
+        f.write ( f"| {g} | ![./{g}] |\n" )
     f.close()
 
 
