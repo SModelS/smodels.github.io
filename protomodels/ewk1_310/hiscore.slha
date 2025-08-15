@@ -78,7 +78,7 @@ BLOCK MASS  # Mass Spectrum
    1000013     1000000.0         # ~mu_L
    2000013     1E+06            # ~mu_R
    1000014     1000000.0         # ~nu_muL
-   1000015     1574.4         # ~tau_1
+   1000015     1000000.0         # ~tau_1
    2000015     1E+06            # ~tau_2
    1000016     1000000.0         # ~nu_tauL
    1000021     1000000.0         # ~g
@@ -289,8 +289,6 @@ DECAY   1000013     6.78035696E+01   # smuon_L decays
 #         PDG            Width
 DECAY   1000015     3.37170888E+01   # stau_1 decays
 #          BR         NDA      ID1       ID2
-     0.54463  2     1000022        15   # BR(~tau_1 -> ~chi_10  tau-)
-     0.45537  2    -1000024        16   # BR(~tau_1 -> ~chi_1-  nu_tau)
 #         PDG            Width
 DECAY   1000012     6.78182499E+01   # snu_eL decays
 #          BR         NDA      ID1       ID2
@@ -364,6 +362,8 @@ DECAY   1000013    0.0
 
 DECAY   1000014    0.0
 
+DECAY   1000015    0.0
+
 DECAY   1000016    0.0
 
 DECAY   1000021    0.0
@@ -372,9 +372,6 @@ DECAY   1000025    0.0
 
 DECAY   1000037    0.0
 
-
-XSECTION  8.00E+03  2212 2212 2 -1000015 1000015 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.18388243E-09 SModelSv3.1.0
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    1.81704495E+00 SModelSv3.1.0
@@ -388,9 +385,6 @@ XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    3.08221075E+01 SModelSv3.1.0
 
-XSECTION  1.30E+04  2212 2212 2 -1000015 1000015 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    6.75865785E-08 SModelSv3.1.0
-
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    3.91298300E+00 SModelSv3.1.0
 
@@ -403,6 +397,6 @@ XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    6.73520676E+01 SModelSv3.1.0
 
-# Signal strength multipliers: (1000022, 1000023):0.4102, (1000022, 1000024):0.8893, (1000023, 1000024):15.39, (1000023, 1000023):0.2718, (-1000015, 1000015):0.8949
+# Signal strength multipliers: (1000022, 1000023):0.4102, (1000022, 1000024):0.8893, (1000023, 1000024):15.39, (1000023, 1000023):0.2718
 
 # loaded from dict file
