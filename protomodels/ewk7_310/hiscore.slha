@@ -373,16 +373,16 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.64646148E+00 SModelSv3.1.0
+  0  0  0  0  0  0    1.64646148E+00 SModelSv3.1.1-rc1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.06996867E+00 SModelSv3.1.0
+  0  0  0  0  0  0    1.06996867E+00 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.52115196E+00 SModelSv3.1.0
+  0  0  0  0  0  0    3.52115196E+00 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.46099406E+00 SModelSv3.1.0
+  0  0  0  0  0  0    2.46099406E+00 SModelSv3.1.1-rc1
 
 # Signal strength multipliers: (1000022, 1000023):0.7339, (1000023, 1000023):1.574
 
