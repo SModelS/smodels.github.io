@@ -82,11 +82,11 @@ BLOCK MASS  # Mass Spectrum
    2000015     1E+06            # ~tau_2
    1000016     1000000.0         # ~nu_tauL
    1000021     1000000.0         # ~g
-   1000022     89.9         # ~chi_10
-   1000023     169.2         # ~chi_20
+   1000022     55.2         # ~chi_10
+   1000023     91.3         # ~chi_20
    1000025     1000000.0         # ~chi_30
    1000035     1E+06            # ~chi_40
-   1000024     170.1         # ~chi_1+
+   1000024     116.1         # ~chi_1+
    1000037     1000000.0         # ~chi_2+
 #
 BLOCK NMIX  # Neutralino Mixing Matrix
@@ -376,35 +376,35 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    4.14178034E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    7.91576517E+00 SModelSv3.1.1-rc1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    6.36052556E-01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.65801944E+01 SModelSv3.1.1-rc1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.52885296E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.96950855E-03 SModelSv3.1.1-rc1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.33264273E-01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    6.23319123E+00 SModelSv3.1.1-rc1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.76088959E+01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    5.19859932E+01 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.33313345E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.38312187E+01 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.37882465E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    2.90524035E+01 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    5.31767576E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    3.56577524E-03 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    5.43337913E-01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.10627565E+01 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.85608385E+01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.07078934E+02 SModelSv3.1.1-rc1
 
-# Signal strength multipliers: (1000022, 1000022):0.08645, (1000022, 1000023):0.2972, (1000022, 1000024):0.9401, (1000023, 1000024):17.64, (1000023, 1000023):0.3114
+# Signal strength multipliers: (1000022, 1000022):0.04112, (1000022, 1000023):0.1414, (1000022, 1000024):1.326, (1000023, 1000024):8.389, (1000023, 1000023):0.1481
 
 # loaded from dict file
