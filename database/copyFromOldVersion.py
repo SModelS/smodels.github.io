@@ -29,7 +29,10 @@ def copyFromOldVersion( newversion, oldversion ):
     for f in files:
         newf = f.replace(dotlessv,newversion)
         print ( f"[copyFromOldVersion] {f} -> {newf}" )
-        shutil.copyfile ( f, newf )
+        try:
+            shutil.copyfile ( f, newf )
+        except shutil.SameFileError as e:
+            pass
     import subprocess
     subprocess.getoutput ( "./createREADME.py" )
 
