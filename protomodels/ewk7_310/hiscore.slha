@@ -80,9 +80,9 @@ BLOCK MASS  # Mass Spectrum
    1000014     1000000.0         # ~nu_muL
    1000015     1000000.0         # ~tau_1
    2000015     1E+06            # ~tau_2
-   1000016     619.3         # ~nu_tauL
-   1000021     1000000.0         # ~g
-   1000022     153.1         # ~chi_10
+   1000016     1000000.0         # ~nu_tauL
+   1000021     1715.2         # ~g
+   1000022     152.8         # ~chi_10
    1000023     1000000.0         # ~chi_20
    1000025     1000000.0         # ~chi_30
    1000035     1E+06            # ~chi_40
@@ -231,6 +231,8 @@ DECAY         6     1.45136155E+00   # top decays
 #         PDG            Width
 DECAY   1000021     4.56539663E-02   # gluino decays
 #          BR         NDA      ID1       ID2
+     0.36072 3     1000022         1        -1   # BR(~g -> ~chi_10 d  db)
+     0.63928 3     1000022         4        -4   # BR(~g -> ~chi_10 c  cb)
 #
 #         PDG            Width
 DECAY   1000006     7.27235497E+00   # stop1 decays
@@ -300,7 +302,6 @@ DECAY   1000014     6.78182499E+01   # snu_muL decays
 #         PDG            Width
 DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #          BR         NDA      ID1       ID2
-     1.00000  2     1000022        16   # BR(~nu_tauL -> ~chi_10 nu_tau)
 #
 #         PDG            Width
 DECAY   1000024     1.38466665E-03   # chargino1+ decays
@@ -367,7 +368,7 @@ DECAY   1000014    0.0
 
 DECAY   1000015    0.0
 
-DECAY   1000021    0.0
+DECAY   1000016    0.0
 
 DECAY   1000023    0.0
 
@@ -378,12 +379,18 @@ DECAY   1000025    0.0
 DECAY   1000037    0.0
 
 
+XSECTION  8.00E+03  2212 2212 2 1000021 1000021 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    1.20211453E-05 SModelSv3.1.1-rc1
+
 XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.37015076E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    2.11302595E+00 SModelSv3.1.1-rc1
+
+XSECTION  1.30E+04  2212 2212 2 1000021 1000021 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    7.73264802E-04 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    5.28056007E+00 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    4.69870249E+00 SModelSv3.1.1-rc1
 
-# Signal strength multipliers: (1000022, 1000022):2.136, (1000016, 1000016):2.326
+# Signal strength multipliers: (1000022, 1000022):1.89, (1000021, 1000021):0.1658
 
 # loaded from dict file
