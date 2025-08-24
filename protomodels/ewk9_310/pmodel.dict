@@ -16,9 +16,9 @@
         ((1000021, 1000021), 8.0): 281.2244440471305,
         ((1000021, 1000021), 13.0): 2256.1502021630445
     },
-    'TL': 15.241184,
-    'K': None,
+    'TL': 11.363211,
+    'K': 9.113211,
     'walkerid': 0,
     'step': 1619,
-    'description': 'ATLAS-EXOT-2018-06(em),CMS-EXO-20-004(comb),ATLAS-SUSY-2016-07(em),CMS-SUS-13-012(em),ATLAS-SUSY-2013-02(em)'
+    'description': 'ATLAS-EXOT-2018-06(em),CMS-EXO-20-004(comb)'
 }
