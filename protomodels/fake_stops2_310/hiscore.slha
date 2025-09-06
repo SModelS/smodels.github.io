@@ -70,7 +70,7 @@ BLOCK MASS  # Mass Spectrum
    2000004     1E+06            # ~c_R
    1000005     1000000.0         # ~b_1
    2000005     1000000.0         # ~b_2
-   1000006     474.7         # ~t_1
+   1000006     972.4         # ~t_1
    2000006     1000000.0         # ~t_2
    1000011     1000000.0         # ~e_L
    2000011     1E+06            # ~e_R
@@ -80,10 +80,10 @@ BLOCK MASS  # Mass Spectrum
    1000014     1000000.0         # ~nu_muL
    1000015     1000000.0         # ~tau_1
    2000015     1E+06            # ~tau_2
-   1000016     2236.3         # ~nu_tauL
+   1000016     1000000.0         # ~nu_tauL
    1000021     1000000.0         # ~g
-   1000022     38.6         # ~chi_10
-   1000023     1000000.0         # ~chi_20
+   1000022     294.0         # ~chi_10
+   1000023     309.3         # ~chi_20
    1000025     1000000.0         # ~chi_30
    1000035     1E+06            # ~chi_40
    1000024     1000000.0         # ~chi_1+
@@ -301,7 +301,6 @@ DECAY   1000014     6.78182499E+01   # snu_muL decays
 #         PDG            Width
 DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #          BR         NDA      ID1       ID2
-     1.00000  2     1000022        16   # BR(~nu_tauL -> ~chi_10 nu_tau)
 #
 #         PDG            Width
 DECAY   1000024     1.38466665E-03   # chargino1+ decays
@@ -317,6 +316,7 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 DECAY   1000023     1.12364506E+00   # neutralino2 decays
 #          BR         NDA      ID1       ID2
+   1.00000  3    1000022    -12  12 # ~chi_20 -> ~chi_10 nu nu new!
 #
 #         PDG            Width
 DECAY   1000025     4.86632501E+00   # neutralino3 decays
@@ -356,9 +356,9 @@ DECAY   1000014    0.0
 
 DECAY   1000015    0.0
 
-DECAY   1000021    0.0
+DECAY   1000016    0.0
 
-DECAY   1000023    0.0
+DECAY   1000021    0.0
 
 DECAY   1000024    0.0
 
@@ -368,11 +368,23 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    9.74858419E-02 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    7.61756659E-04 SModelSv3.1.1-rc1
+
+XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    8.79564996E-02 SModelSv3.1.1-rc1
+
+XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    1.77375809E-01 SModelSv3.1.1-rc1
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    6.68840834E-01 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.14081928E-02 SModelSv3.1.1-rc1
 
-# Signal strength multipliers: (-1000006, 1000006):0.8136, (1000016, 1000016):4.149
+XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    2.49025169E-01 SModelSv3.1.1-rc1
+
+XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    5.13394307E-01 SModelSv3.1.1-rc1
+
+# Signal strength multipliers: (-1000006, 1000006):1.361, (1000022, 1000023):1.334, (1000023, 1000023):3.006
 
 # loaded from dict file
