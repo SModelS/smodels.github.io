@@ -304,9 +304,9 @@ DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #         PDG            Width
 DECAY   1000024     1.38466665E-03   # chargino1+ decays
 #          BR         NDA      ID1       ID2
-   0.50000 3     1000022   11  -12   # ~chi_1+ -> ~chi_10  e- nu  new!
-   0.50000 3     1000022   13  -14   # ~chi_1+ -> ~chi_10  mu- nu new!
-   0.50000 3     1000022   15  -16   # ~chi_1+ -> ~chi_10  ta- nu new!
+   0.33333 3     1000022   11  -12   # ~chi_1+ -> ~chi_10  e- nu  new!
+   0.33333 3     1000022   13  -14   # ~chi_1+ -> ~chi_10  mu- nu new!
+   0.33333 3     1000022   15  -16   # ~chi_1+ -> ~chi_10  ta- nu new!
 
 #
 #         PDG            Width
@@ -318,10 +318,10 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 DECAY   1000023     1.12364506E+00   # neutralino2 decays
 #          BR         NDA      ID1       ID2
-   0.33333  3    1000022    -11  11 # ~chi_20 -> ~chi_10 e+ e- new!
-   0.33333  3    1000022    -13  13 # ~chi_20 -> ~chi_10 mu+ mu- new!
-   0.33333  3    1000022    -15  15 # ~chi_20 -> ~chi_10 ta+ ta- new!
-   0.33333  3    1000022    -12  12 # ~chi_20 -> ~chi_10 nu nu new!
+   0.25000  3    1000022    -11  11 # ~chi_20 -> ~chi_10 e+ e- new!
+   0.25000  3    1000022    -13  13 # ~chi_20 -> ~chi_10 mu+ mu- new!
+   0.25000  3    1000022    -15  15 # ~chi_20 -> ~chi_10 ta+ ta- new!
+   0.25000  3    1000022    -12  12 # ~chi_20 -> ~chi_10 nu nu new!
 #
 #         PDG            Width
 DECAY   1000025     4.86632501E+00   # neutralino3 decays
