@@ -51,7 +51,7 @@
         ((1000024, 1000025), 13.0): 98.21195003658997
     },
     "TL": 38.785479,
-    "K": None,
+    "K": 32.460479,
     "walkerid": "uphi",
     "step": 748,
     "description": "CMS-EXO-20-004(comb),ATLAS-EXOT-2018-06(em),CMS-SUS-20-004(comb),ATLAS-SUSY-2018-12(em),ATLAS-SUSY-2016-16(em),ATLAS-SUSY-2018-08(em),ATLAS-SUSY-2013-15(em),CMS-SUS-13-011(em),ATLAS-SUSY-2013-16(em),CMS-PAS-SUS-13-015(em),CMS-SUS-16-050-agg(comb)"
