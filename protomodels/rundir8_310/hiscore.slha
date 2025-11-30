@@ -305,6 +305,9 @@ DECAY   1000016     6.98605523E+01   # snu_tauL decays
 DECAY   1000024     1.38466665E-03   # chargino1+ decays
 #          BR         NDA      ID1       ID2
    0.90000   3     1000022    2   -1   # ~chi_1+ -> ~chi_10  u db   new!
+   0.03333 3     1000022   11  -12   # ~chi_1+ -> ~chi_10  e- nu  new!
+   0.03333 3     1000022   13  -14   # ~chi_1+ -> ~chi_10  mu- nu new!
+   0.03333 3     1000022   15  -16   # ~chi_1+ -> ~chi_10  ta- nu new!
 
 #
 #         PDG            Width
