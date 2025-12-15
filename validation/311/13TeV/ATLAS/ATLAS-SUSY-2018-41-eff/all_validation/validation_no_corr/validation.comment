@@ -1,0 +1,3 @@
+comment by: Sahana Narasimha
+Date: 20.03.2023
+comment: This validation folder considers zero correlation between all 3 SR considered for combination. The "validation" folder considers 0.99 correlation betwen "SR-2B2Q-VZ" and "SR-4Q-VV"

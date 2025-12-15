@@ -1,0 +1,3 @@
+comment_by: Sahana Narasimha
+date: Wed 22 Mar 2023 12:18 PM CET
+comment: The validation_combinedinclusiveSR has plots for 2 scenarios. "TChiWW_combined_8SR" validation plot is the combination of 8 inclusive SRs with one SR having both DF and SF - "DF_81_1_SF_77_1" and "TChiWW_combined_9SR" is the combination of 9 inclusive SRs with "DF_81_1" and "SF_77_1" being separate SRs.
