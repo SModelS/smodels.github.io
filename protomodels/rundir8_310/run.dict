@@ -1,0 +1,13 @@
+{
+    "dbpath": "signal.pcl",
+    "select": "all",
+    "do_srcombine": True,
+    "forbiddenparticles": [],
+    "templateSLHA": "template_default.slha",
+    "allowN1N1Prod": True,
+    "susy_mode": False,
+    "rundir": "/home/walten/git/smodels.github.io/protomodels/rundir8_310",
+    "strategy": "aggressive",
+    "use_initialiser": False,
+    "dbver": "???"
+}
