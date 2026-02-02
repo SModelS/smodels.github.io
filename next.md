@@ -14,7 +14,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 28 Jan 2025: [SModelS version 3.1.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 4 Feb 2026: [SModelS version 3.1.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
   * Fixed issues with fortran compilation of nllfast on lxplus (thanks Jonas Wuerzinger for reporting this)
   * Added filter for slogdet warnings (relevant on MacOS)
