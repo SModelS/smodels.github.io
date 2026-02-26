@@ -6,7 +6,7 @@ import glob, os
 
 def header ( f ):
     f.write ( "<table>\n" )
-    f.write ( "<caption>High Score Models</caption>\n" )
+    # f.write ( "<caption>High Score Models</caption>\n" )
     f.write ( "<thead>\n" )
     f.write ( "  <tr>\n" )
     f.write ( "    <th scope='col'>Name</th>\n" )
