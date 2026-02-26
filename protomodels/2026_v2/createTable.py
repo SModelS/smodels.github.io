@@ -32,7 +32,7 @@ def body ( f ):
             continue
         expl = getContent ( subdir, "explanation" )
         label = getContent ( subdir, "name" )
-        link = "<a href={subdir}>link</a>"
+        link = f"<a href={subdir}/index.html>link</a>"
         f.write ( "  <tr>\n" )
         f.write ( f"    <td>{label}</td>\n" )
         f.write ( f"    <td>{link}</td>\n" )
