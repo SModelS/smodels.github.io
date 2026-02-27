@@ -44,11 +44,11 @@ def body ( f ):
 def footer ( f ):
     f.write ( "</table>\n" )
 
-def create():
-    with open ( "table.html", "wt" ) as f:
+def create( globpattern : str, outfile : str ):
+    with open ( outfile, "wt" ) as f:
         header ( f )
         body ( f )
         footer ( f )
 
 if __name__ == "__main__":
-    create()
+    create( "hiscore*", "hiscore.html" )
