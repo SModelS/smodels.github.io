@@ -70,7 +70,7 @@ BLOCK MASS  # Mass Spectrum
    2000004     1E+06            # ~c_R
    1000005     1000000.0         # ~b_1
    2000005     1000000.0         # ~b_2
-   1000006     993.3         # ~t_1
+   1000006     902.0         # ~t_1
    2000006     1000000.0         # ~t_2
    1000011     1000000.0         # ~e_L
    2000011     1E+06            # ~e_R
@@ -369,11 +369,17 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    4.94204158E-04 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.40984998E-03 SModelSv3.1.1
+
+XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    5.15846400E-01 SModelSv3.1.1
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.66451603E-03 SModelSv3.1.1-rc1
+  0  0  0  0  0  0    1.87611596E-02 SModelSv3.1.1
 
-# Signal strength multipliers: (-1000006, 1000006):1.068
+XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb]
+  0  0  0  0  0  0    1.50193606E+00 SModelSv3.1.1
+
+# Signal strength multipliers: (-1000006, 1000006):1.312, (1000022, 1000022):9.128
 
 # loaded from dict file
