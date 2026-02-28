@@ -22,9 +22,12 @@ def getContent ( subdir : os.PathLike, what : str = "explanation" ):
     with open  ( explfile, "rt" ) as f:
         return f.read()
 
-def body ( f ):
+def body ( f, globpattern : str ):
+    """ the body of index.html
+    :param globpattern:  e.g. 'fake*'
+    """
     f.write ( "<tbody>\n" )
-    files = glob.glob ( "./*" )
+    files = glob.glob ( f"./{globpattern}" )
     for subdir in files:
         if subdir.endswith(".html"):
             continue
@@ -47,8 +50,9 @@ def footer ( f ):
 def create( globpattern : str, outfile : str ):
     with open ( outfile, "wt" ) as f:
         header ( f )
-        body ( f )
+        body ( f, globpattern )
         footer ( f )
 
 if __name__ == "__main__":
     create( "hiscore*", "hiscore.html" )
+    create( "fake*", "closure.html" )
