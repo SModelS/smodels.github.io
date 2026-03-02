@@ -90,3 +90,4 @@ if __name__ == "__main__":
     create( [ "hiscore_20000", "hiscore", "hiscore_stops" ], "hiscore.html", )
     create( [ "fake_stops3", "fake_ewkoff3", "fake_ewk2" ], "closure.html" )
     create( "noX2Z*", "noX2Z.html" )
+    create( "dileptons", "dileptons.html" )
