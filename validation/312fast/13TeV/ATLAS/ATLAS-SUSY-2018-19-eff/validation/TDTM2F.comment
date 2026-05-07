@@ -1,0 +1,3 @@
+omment_by: Andre Lessa
+date: Wed 24 Dec 2025 10:17:25 -3
+comment: "The official exclusion curve is for the combined chargino-chargino and chargino-neutralino signal. Therefore the exclusion curve can not be applied to the individual TDTM1F and TDTM2F topologies. The combined exclusion is computed adding the contributions from each production channel. Furthermore, the efficiencies and limits were computed using the model-independent strategy, which results in a slightly weaker exclusion for the wino model. The efficiencies for very small lifetimes were computed using a weight bias to improve the description of the chargino pT distribution."
