@@ -12,12 +12,7 @@ private: False
 implementedBy: Wolfgang Waltenberger
 lastUpdate: 2025/6/18
 jsonFiles: {
-srMappings: [
-    {'smodels': 'SRA', 'pyhf': 'SR1_WZ_cuts', 'onnx': None, 'label': 'SRA' },
-    {'smodels': 'SRB', 'pyhf': None, 'onnx': 'SR2_WZ_cuts' },
-    {'smodels': None, 'pyhf': 'WZ_CR_0jets_cuts', 'type': 'CR', 'onnx': 'WZ_CR_0jets_cuts', 'label': 'WZ_CR' },
-    {'smodels': None, 'pyhf': 'WZ_CR_HighHT_cuts', 'type': 'CR', 'onnx': 'WZ_CR_HighHT_cuts' },
-    {'smodels': None, 'pyhf': 'WZ_CR_LowHT_cuts', 'type': 'CR', 'onnx': 'WZ_CR_LowHT_cuts' }],
+  'bkg_onshell_simplified.json': [
     {'smodels': 'SRWZ_1', 'pyhf': 'SR1_WZ_cuts', 'onnx': 'SR1_WZ_cuts' },
     {'smodels': 'SRWZ_2', 'pyhf': 'SR2_WZ_cuts', 'onnx': 'SR2_WZ_cuts' },
     {'smodels': 'SRWZ_3', 'pyhf': 'SR3_WZ_cuts', 'onnx': 'SR3_WZ_cuts' },
@@ -82,24 +77,6 @@ srMappings: [
   'SR_WH_DFOS_fake_bkgonly.json': [
     {'smodels': 'SR_WH_DFOS', 'pyhf': 'SR_WH_DFOS'}]
   }
-
-srSets: { "Andre": [ "SRA", "SRB" ], 
-			    "Eve": [ "sra", "src" ]  }
-jsonFiles: { "a.json": [ "sra", "srb", "src" ] }
-# statModels: { "a.json": [ "sra", "srb", "src" ], 
-#	 "b.onnx": [ "sra", "srb", "src" ],
-#		          "a.onnx": "a.json" }
-statModels: { "Andre": [ "a.onnx", "a.json", "full.json" ],
-		          "Eva": [ "b.json" ] }
-#statModels: { "a.json": "Andre", "b.onnx": [ "sra", "srb", "src" ],
-#		          "a.onnx": "Andre" }
-mlModels: {
-  'SR_WH_0j_fake_bkgonly.json': None,
-  'SR_WH_DFOS_fake_bkgonly.json': None,
-  'SR_WH_nj_fake_bkgonly.json': None,
-  'Onshell_Winobino.onnx': 'bkg_onshell_simplified.json',
-  'Offshell_Higgsinos.onnx': 'bkg_offshell_simplified.json' }
-
 jsonFiles_FullLikelihood: {
   'bkg_onshell.json': [
     {'smodels': 'SRWZ_1', 'pyhf': 'SR1_WZ_cuts'},
@@ -164,3 +141,11 @@ jsonFiles_FullLikelihood: {
     {'smodels': 'SR_WH_DFOS', 'pyhf': 'SR_WH_DFOS'}]
 }
 includeCRs: True
+mlModels: {
+  'SR_WH_0j_fake_bkgonly.json': None,
+  'SR_WH_DFOS_fake_bkgonly.json': None,
+  'SR_WH_nj_fake_bkgonly.json': None,
+  'onshell.onnx': 'bkg_onshell_simplified.json',
+  'offshell.onnx': 'bkg_offshell_simplified.json' }
+#  'Onshell_Winobino.onnx': 'bkg_onshell_simplified.json',
+#  'Offshell_Higgsinos.onnx': 'bkg_offshell_simplified.json' }
