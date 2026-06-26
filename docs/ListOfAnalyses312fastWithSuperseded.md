@@ -4,7 +4,7 @@ The list has been created from the database version `3.1.2fast.`
 Results from FastLim are included. There is also an  [sms dictionary](SmsDictionary312fast) and a [validation page](Validation312fast).
 Link to list of results [without superseded and fastlim results](ListOfAnalyses312fast).
 
-<p align='center'><img src='../validation/312fast/significancesiss.png?1782383305.5237644' alt='plot of significances' width='500' /><br></p>
+<p align='center'><img src='../validation/312fast/significancesiss.png?1782457731.587828' alt='plot of significances' width='500' /><br></p>
 
 ###### Plot: Significances with respect to the Standard Model hypothesis, for all signal regions [(1)](#A1). A standard normal distribution is expected if no new physics is in the data. New physics would manifest itself as an overabundance of large (positive) significances.
 
@@ -31,7 +31,7 @@ In total, we have results from 34 ATLAS and 23 CMS 8 TeV searches.
 | **ID** | **short description** | **L [1/fb]** | **Tx names** | **superseded by** | **obs. ULs** | **exp. ULs [(2)](#A2)** | **EMs** | **SR comb. [(3)](#A3)** |
 |--------|-----------------------|--------------|--------------|-------------------|--------------|-------------------------|---------|-------------------------|
 | **Publications** | | | | | | | | |
-| [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 l, EWK | 139.0 | [TChiWH](SmsDictionary312fast#TChiWH), [TChiWZ](SmsDictionary312fast#TChiWZ), [TChiWZoff](SmsDictionary312fast#TChiWZoff) | | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_em) | onnx+pyhf |
+| [ATLAS-SUSY-2019-09](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/)<a name="ATLAS-SUSY-2019-09"></a> | 3 l, EWK | 139.0 | [TChiWH](SmsDictionary312fast#TChiWH), [TChiWZ](SmsDictionary312fast#TChiWZ), [TChiWZoff](SmsDictionary312fast#TChiWZoff) | | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-09_em) | pyhf+onnx |
 | [ATLAS-SUSY-2019-08](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-08/)<a name="ATLAS-SUSY-2019-08"></a> | 1 l + h(b b), EWK | 139.0 | [TChiWH](SmsDictionary312fast#TChiWH) | | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-08_ul) |  | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-08_em) | pyhf |
 | [ATLAS-SUSY-2019-04](http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-04)<a name="ATLAS-SUSY-2019-04"></a> | 1 l or 2 SS l + multi-jets | 139.0 | [TRPV2fjj](SmsDictionary312fast#TRPV2fjj), [TRPV5tjb](SmsDictionary312fast#TRPV5tjb), [TRPVttbj](SmsDictionary312fast#TRPVttbj), [TRPVtttbj](SmsDictionary312fast#TRPVtttbj) | | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-04_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-SUSY-2019-04_ul) |  |  |
 | [ATLAS-EXOT-2019-03](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2019-03/)<a name="ATLAS-EXOT-2019-03"></a> | dijet resonance | 139.0 | [TRV1jj](SmsDictionary312fast#TRV1jj) | | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-EXOT-2019-03_ul) | [&#x1F517;](https://smodels.github.io/docs/Validation312fast#ATLAS-EXOT-2019-03_ul) |  |  |
@@ -231,4 +231,4 @@ In total, we have results from 34 ATLAS and 23 CMS 8 TeV searches.
 <a name='A6'>(6)</a> Please note that by default we discard zeroes-only results from FastLim. To remain firmly conservative, we consider efficiencies with relative statistical uncertainties > 25% to be zero.
 
 
-This page was created Thu Jun 25 12:28:25 2026.
+This page was created Fri Jun 26 09:08:51 2026.
