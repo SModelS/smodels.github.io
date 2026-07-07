@@ -14,7 +14,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 1 Jul 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 10 Jul 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
   * Updated lheReader to properly deal with MG5 LHE files
     (fixes github issue #54, see also discussion #53)
@@ -22,6 +22,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
     backwards-incompatible change in some fields in
     the database
   * Moved all interfaces from .likelihoods to .nlls
+  * Introduced a printer registry for out-of-repo printers
   * Database extension: added TSlepSlep to ATLAS-SUSY-2019-02, added surrogate models to ATLAS-SUSY-2018-04, ATLAS-SUSY-2018-16, ATLAS-SUSY-2018-32, ATLAS-SUSY-2019-08, ATLAS-SUSY-2019-09
 
 ### 7 Aug 2025: [SModelS version 3.1.0](https://github.com/SModelS/smodels/releases/tag/3.1.0) available ([what's new](https://smodels.readthedocs.io/en/3.1.0/ReleaseUpdate.html))
