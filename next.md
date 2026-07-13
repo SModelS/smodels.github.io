@@ -16,15 +16,16 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 ------------------------------------------------------------------------
 ### 10 Jul 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-  * First support for NN surrogate statistical models
-  * Modified the syntax for describing statistical models in the database (breaks backward compatibility). The fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels.
-  * Updated lheReader to properly deal with MG5 LHE files
-    (fixes github issue #54, see also discussion #53)
-	* Fixed pythia8 paths in automatic downloader
-  * Moved all interfaces from .likelihoods to .nlls
-  * Introduced a printer registry for out-of-repo printers
-  * Database extension: added TSlepSlep to ATLAS-SUSY-2019-02, added surrogate models to ATLAS-SUSY-2018-04, ATLAS-SUSY-2018-16, ATLAS-SUSY-2018-32, ATLAS-SUSY-2019-08, ATLAS-SUSY-2019-09
+  * First support for NN surrogate statistical models (ONNX format)
+	* Modified the syntax for statistical models in the database: in the globalInfo.txt files, the fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels. Note that this BREAKS BACKWARDS COMPATIBILITY
   * Small fixes in likelihood calculations and pyhf interface
+  * Moved all interfaces from .likelihoods to .nlls
+  * Updated lheReader to properly deal with MG5 LHE files
+    (fixes github issue #53, see also discussion #54)
+	* Fixed pythia8 paths in automatic downloader
+  * Introduced a printer registry for out-of-repo printers
+  * Database extension (stat models): added ONNX models to ATLAS-SUSY-2018-04, ATLAS-SUSY-2018-16, ATLAS-SUSY-2018-32, ATLAS-SUSY-2019-08, ATLAS-SUSY-2019-09
+  * Database extension (new results): added TSlepSlep to ATLAS-SUSY-2019-02 (UL), .....
   * Pickle now uses protocol 5 instead of protocol 4
 
 ### 7 Aug 2025: [SModelS version 3.1.0](https://github.com/SModelS/smodels/releases/tag/3.1.0) available ([what's new](https://smodels.readthedocs.io/en/3.1.0/ReleaseUpdate.html))
