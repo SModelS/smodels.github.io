@@ -14,7 +14,7 @@ Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth&eac
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 10 Jul 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 17 Jul 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
   * First support for NN surrogate statistical models (ONNX format)
 	* Modified the syntax for statistical models in the database: in the globalInfo.txt files, the fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels. Note that this BREAKS BACKWARDS COMPATIBILITY
