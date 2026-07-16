@@ -1,0 +1,30 @@
+---
+skill_name: "Extract HEP Results Table to Python Dictionary"
+version: "1.0"
+description: >
+  Convert particle physics results tables (observed vs expected background counts)
+  from images into a standardized Python dictionary format for downstream analysis.
+
+trigger: >
+  User provides a table image from a HEP paper containing signal regions, observed
+  event counts, expected backgrounds, and uncertainties, and asks to convert it
+  into a Python dictionary.
+
+input:
+  - Table image(s) with columns such as: Region, Data/Observed, Background/Predicted/Total SM,
+    and uncertainties (symmetric ±, asymmetric +a/-b, or separate ±1σ columns)
+  - Optional user instructions on key naming, prefix, extra fields (table, row), error fields
+
+output_format: |
+  ```python
+  results = {
+      "<key>": {
+          "row": <int>,              # sequential row index starting at 1 (per table)
+          "table": <int>,            # table number (if multiple tables provided)
+          "observedN": <number>,     # observed event count
+          "expectedBG": <number>,    # expected background central value
+          "bgError": <number>,       # max(p1Error, m1Error)
+          "p1Error": <number>,       # +1σ uncertainty (positive number)
+          "m1Error": <number>,       # −1σ uncertainty (positive number)
+      },
+  }

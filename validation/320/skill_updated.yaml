@@ -1,0 +1,92 @@
+---
+skill_name: "Extract HEP Results Table to Python Dictionary"
+version: "1.0"
+description: >
+  Convert particle physics results tables (observed vs expected background counts)
+  from images into a standardized Python dictionary format for downstream analysis.
+
+trigger: >
+  User provides a table image from a HEP paper containing signal regions, observed
+  event counts, expected backgrounds, and uncertainties, and asks to convert it
+  into a Python dictionary.
+
+input:
+  - Table image(s) with columns such as: Region, Data/Observed, Background/Predicted/Total SM,
+    and uncertainties (symmetric ±, asymmetric +a/-b, or separate ±1σ columns)
+  - Optional user instructions on key naming, prefix, extra fields (table, row), error fields
+
+output_format: |
+  ```python
+  results = {
+      "<key>": {
+          "row": <int>,              # sequential row index starting at 1 (per table)
+          "table": <int>,            # table number (if multiple tables provided)
+          "observedN": <number>,     # observed event count
+          "expectedBG": <number>,    # expected background central value
+          "bgError": <number>,       # max(p1Error, m1Error)
+          "p1Error": <number>,       # +1σ uncertainty (positive number)
+          "m1Error": <number>,       # −1σ uncertainty (positive number)
+      },
+  }
+  ```
+
+rules:
+  key_naming:
+    - Compose from region name + bin variable (mass range, pT range, etc.)
+    - Use "ge" for ≥, "gt" for >, "_" as separator, "-" for ranges
+    - Prefix with "SR_" only if explicitly requested
+    - Use region labels exactly as they appear in the table unless instructed otherwise
+    - Example: "SR1VLaX", "ee_100-150", "NH1_300-500", "260-340_20-45"
+
+  error_handling:
+    symmetric:
+      description: "Value given as X ± Y"
+      rule: "p1Error = m1Error = bgError = Y"
+    asymmetric:
+      description: "Value given as X +a / -b"
+      rule: "p1Error = a, m1Error = b, bgError = max(a, b)"
+    from_sigma_columns:
+      description: "Separate BG−1σ, BG, BG+1σ columns"
+      rule: "p1Error = (BG+1σ) − BG, m1Error = BG − (BG−1σ), bgError = max(p1, m1)"
+
+  row_numbering:
+    - Sequential integer starting at 1
+    - Restarts at 1 for each new table
+    - Counts across all sub-sections within a table (e.g., DF + SF events)
+
+  column_mapping:
+    observedN: ["Data", "Observed", "Observed yield", "N_obs"]
+    expectedBG: ["Total prediction", "Total SM", "Total background", "Total bkg.",
+                  "Background", "Predicted", "Expected"]
+    errors: ["± column", "+1σ/−1σ columns", "asymmetric superscript/subscript notation"]
+
+  optional_fields:
+    - '"table": <int>' — include when user specifies or multiple tables are present
+    - '"row": <int>' — include when user requests it
+    - '"p1Error" / "m1Error"' — include when user requests or errors are asymmetric
+    - Drop any field if user explicitly says to omit it
+
+  multiple_tables:
+    - Process each table separately
+    - Distinguish keys by adding channel/category prefixes (e.g., "ee_", "mumu_", "DF_", "SF_")
+    - Row numbering restarts per table unless user says otherwise
+
+  formatting:
+    - Align dictionary values for readability
+    - Group entries with comments indicating sub-sections
+    - Preserve numerical precision as given in the source table
+    - Use Python-valid numeric literals (no trailing dots)
+
+examples:
+  symmetric_error: |
+    "SR1VLaX": {"row": 1, "observedN": 64, "expectedBG": 45.7, "bgError": 5.9, "p1Error": 5.9, "m1Error": 5.9}
+
+  asymmetric_error: |
+    "SR_ee_ge300": {"row": 4, "observedN": 2, "expectedBG": 1.4, "bgError": 1.1, "p1Error": 1.1, "m1Error": 0.6}
+
+  from_sigma_columns: |
+    "SR_160-200_0-20": {"table": 6, "row": 1, "observedN": 20, "expectedBG": 16.21, "bgError": 0.11, "p1Error": 0.11, "m1Error": 0.11}
+
+  multi_table: |
+    "SR1_0tag_jets_DF_0-20": {"table": 7, "row": 1, "observedN": 1484, "expectedBG": 1493, "bgError": 32}
+---
