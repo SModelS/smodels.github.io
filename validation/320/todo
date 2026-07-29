@@ -7,17 +7,12 @@ from fast312 branch:
     - in atlas-susy-2019-09:
         fix tchiwzoff
 
-from axellucas branch:
-    - cms-sus-21-008 (ul):
-        back with lucas
-
 from arpita branch:
     - CMS-EXO-19-019 (UL): 
         needs more work, see discussion above.
 
 from metastats branch:
-    - wait for new credits, add more
-      e.g CMS-SUS-23-003
+    - add more
 
 ---
 done
@@ -32,3 +27,4 @@ from fast312 branch:
     - merge ATLAS-SUSY-2018-09-eff axel lucas
     - merge cms-sus-23-003 (ul)
         asked CMS about weird region
+    - cms-sus-21-008 (ul) lucas:
