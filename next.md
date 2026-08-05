@@ -16,8 +16,8 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 ------------------------------------------------------------------------
 ### 9 Aug 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-  * First support for NN surrogate statistical models (ONNX format)
-	* Modified the syntax for statistical models in the database: in the globalInfo.txt files, the fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels. Note that this BREAKS BACKWARDS COMPATIBILITY
+  * **First support for NN surrogate statistical models (ONNX format)**
+	* Modified the syntax for statistical models in the database: in the globalInfo.txt files, the fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels. Note that this **breaks backwards compatibility**
   * Small fixes in likelihood calculations and pyhf interface
   * Moved all interfaces from .likelihoods to .nlls
   * Updated lheReader to properly deal with MG5 LHE files
@@ -63,6 +63,7 @@ Moreover
 
 For convenience a [references.bib](https://github.com/SModelS/smodels/blob/main/references.bib) file containing all relevant references is provided with the [code](https://github.com/SModelS/smodels/).
 Likewise, a [database.bib](https://github.com/SModelS/smodels-database-release/blob/main/database.bib) file with references to all the ATLAS and CMS analyses used is provided in the [text database](https://github.com/SModelS/smodels-database-release/).
+
 ------------------------------------------------------------------------
 
 ## Working principle
