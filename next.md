@@ -20,7 +20,7 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 * Modified the syntax for statistical models in the database: in the globalInfo.txt files, the fields datasetOrder, covariance, jsonFiles and jsonFiles\_FullLikelihood have been replaced by regionMappings, regionSets and statModels. Note that this **breaks backwards compatibility**
 * Small fixes in likelihood calculations and pyhf interface
 * Moved all interfaces from .likelihoods to .nlls
-* Updated lheReader to properly deal with MG5 LHE files (fixes github issue #53, see also discussion #54)
+* Updated lheReader to properly deal with MG5 LHE files (fixes github issue [#53](https://github.com/SModelS/smodels/issues/53), see also discussion [#54](https://github.com/SModelS/smodels/issues/54))
 * Fixed pythia8 paths in automatic downloader
 * Introduced a printer registry for out-of-repo printers
 * Database extension (stat models): added ONNX models to ATLAS-SUSY-2018-04, ATLAS-SUSY-2018-16, ATLAS-SUSY-2018-32, ATLAS-SUSY-2019-08, ATLAS-SUSY-2019-09
