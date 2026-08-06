@@ -91,7 +91,7 @@ as illustrated in the scheme below.
 <br><br>
 
 <img src="logos/CCNH-logo.jpg" height="140pt" align="bottom"> &nbsp; &nbsp;
-<img src="logos/mbi.png" height="140pt" align="bottom"> &nbsp; &nbsp;
+<img src="logos/mbi.png" height="160pt" align="bottom"> &nbsp; &nbsp;
 <img src="logos/LPSC_Grenoble_Modane.jpg" height="140pt" align="bottom"> <br>
 <!-- <img src="logos/rwth.png" height="80pt" align="middle"> &nbsp; -->
 <!-- <img src="logos/hephy-logo.png" height="140pt" align="bottom"> &nbsp; &nbsp; -->
