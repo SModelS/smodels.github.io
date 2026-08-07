@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "tool": "SModelS",
-  "version": "3.1.1",
-  "date_created": "2026-01-23T12:27:58.505616+01:00",
+  "version": "3.2.0",
+  "date_created": "2026-08-07T09:22:38.462767+02:00",
   "implementations_description": "SModelS analysis",
   "link_types": [ "main_url", "val_url", "publication", "arXiv" ],
   "url_templates": {
@@ -138,6 +138,10 @@
       "ana_id": "ATLAS-SUSY-2013-08",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2013-08_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-08-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2013-08_ul",
           "path": "8TeV/ATLAS/ATLAS-SUSY-2013-08/"
         }
@@ -205,6 +209,24 @@
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-12/"
     },
     {
+      "inspire_id": 1304288,
+      "ana_id": "ATLAS-SUSY-2013-14",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-14_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-14-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2013-14_ul",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-14/"
+        }
+      ],
+      "pretty_name": "ATLAS di-tau",
+      "arXiv_id": "1407.0350",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2013-14/"
+    },
+    {
       "inspire_id": 1304456,
       "ana_id": "ATLAS-SUSY-2013-15",
       "implementations": [
@@ -265,6 +287,10 @@
       "ana_id": "ATLAS-SUSY-2013-19",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2013-19_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-19-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2013-19_ul",
           "path": "8TeV/ATLAS/ATLAS-SUSY-2013-19/"
         }
@@ -279,6 +305,10 @@
       "inspire_id": 1339376,
       "ana_id": "ATLAS-SUSY-2013-20",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2013-20_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-20-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2013-20_ul",
           "path": "8TeV/ATLAS/ATLAS-SUSY-2013-20/"
@@ -309,6 +339,10 @@
       "ana_id": "ATLAS-SUSY-2013-23",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2013-23_em",
+          "path": "8TeV/ATLAS/ATLAS-SUSY-2013-23-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2013-23_ul",
           "path": "8TeV/ATLAS/ATLAS-SUSY-2013-23/"
         }
@@ -338,6 +372,10 @@
       "inspire_id": 1472822,
       "ana_id": "ATLAS-SUSY-2015-01",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2015-01_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-01-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2015-01_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2015-01/"
@@ -388,6 +426,10 @@
       "ana_id": "ATLAS-SUSY-2015-09",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2015-09_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2015-09-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2015-09_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2015-09/"
         }
@@ -437,6 +479,10 @@
       "ana_id": "ATLAS-SUSY-2016-08",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2016-08_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-08-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2016-08_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-08/"
         }
@@ -452,6 +498,10 @@
       "ana_id": "ATLAS-SUSY-2016-14",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2016-14_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-14-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2016-14_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-14/"
         }
@@ -466,6 +516,10 @@
       "inspire_id": 1623207,
       "ana_id": "ATLAS-SUSY-2016-15",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2016-15_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-15-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2016-15_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-15/"
@@ -501,6 +555,10 @@
       "ana_id": "ATLAS-SUSY-2016-17",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2016-17_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-17-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2016-17_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-17/"
         }
@@ -515,6 +573,10 @@
       "inspire_id": 1664486,
       "ana_id": "ATLAS-SUSY-2016-19",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2016-19_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-19-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2016-19_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-19/"
@@ -550,6 +612,10 @@
       "ana_id": "ATLAS-SUSY-2016-26",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2016-26_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-26-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2016-26_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-26/"
         }
@@ -583,6 +649,10 @@
       "inspire_id": 1620694,
       "ana_id": "ATLAS-SUSY-2016-28",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2016-28_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-28-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2016-28_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-28/"
@@ -618,6 +688,10 @@
       "ana_id": "ATLAS-SUSY-2016-33",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2016-33_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2016-33-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2016-33_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2016-33/"
         }
@@ -633,6 +707,10 @@
       "ana_id": "ATLAS-SUSY-2017-01",
       "implementations": [
         {
+          "name": "ATLAS-SUSY-2017-01_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-01-eff/"
+        },
+        {
           "name": "ATLAS-SUSY-2017-01_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2017-01/"
         }
@@ -647,6 +725,10 @@
       "inspire_id": 1677389,
       "ana_id": "ATLAS-SUSY-2017-02",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2017-02_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2017-02-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2017-02_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2017-02/"
@@ -761,6 +843,21 @@
     },
     {
       "inspire_id": 1754675,
+      "ana_id": "ATLAS-SUSY-2018-09-eff",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-09-eff_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-09-eff/"
+        }
+      ],
+      "pretty_name": "SS leptons + jets",
+      "publication_doi": "10.48550/arXiv.1909.08457",
+      "arXiv_id": "1909.08457",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-09/"
+    },
+    {
+      "inspire_id": 1754675,
       "ana_id": "ATLAS-SUSY-2018-09",
       "implementations": [
         {
@@ -824,7 +921,7 @@
       "pretty_name": "displaced jets",
       "publication_doi": "10.1007/JHEP06(2023)200",
       "arXiv_id": "2301.13866",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "displaced",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-13/"
     },
@@ -835,6 +932,10 @@
         {
           "name": "ATLAS-SUSY-2018-14_em",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2018-14-eff/"
+        },
+        {
+          "name": "ATLAS-SUSY-2018-14_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-14/"
         }
       ],
       "pretty_name": "displaced vertices",
@@ -911,6 +1012,10 @@
       "inspire_id": 1792399,
       "ana_id": "ATLAS-SUSY-2018-23",
       "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-23_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-23-eff/"
+        },
         {
           "name": "ATLAS-SUSY-2018-23_ul",
           "path": "13TeV/ATLAS/ATLAS-SUSY-2018-23/"
@@ -1011,9 +1116,24 @@
       "pretty_name": "hadr. EWK",
       "publication_doi": "10.1103/PhysRevD.104.112010",
       "arXiv_id": "2108.07586",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-41/"
+    },
+    {
+      "inspire_id": 2080541,
+      "ana_id": "ATLAS-SUSY-2018-42-incl",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2018-42-incl_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2018-42-incl-eff/"
+        }
+      ],
+      "pretty_name": "charged LLPs, dE/dx",
+      "publication_doi": "10.1007/JHEP06(2023)158",
+      "arXiv_id": "2205.06013",
+      "signature_type": "displaced",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-42/"
     },
     {
       "inspire_id": 2080541,
@@ -1050,9 +1170,24 @@
       "pretty_name": "2 soft l, EWK",
       "publication_doi": "10.1007/JHEP06(2023)031",
       "arXiv_id": "2209.13935",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-02/"
+    },
+    {
+      "inspire_id": 1869040,
+      "ana_id": "ATLAS-SUSY-2019-04-eff",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2019-04-eff_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2019-04-eff/"
+        }
+      ],
+      "pretty_name": "jets + >= 1 l, RPV",
+      "publication_doi": "http://dx.doi.org/10.1140/epjc/s10052-021-09761-x",
+      "arXiv_id": "2106.09609",
+      "signature_type": "prompt",
+      "wiki": "http://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-04"
     },
     {
       "inspire_id": 1869040,
@@ -1105,14 +1240,48 @@
       "pretty_name": "3 l, EWK",
       "publication_doi": "10.1140/epjc/s10052-021-09749-7",
       "arXiv_id": "2106.01676",
-      "SRcomb": "pyhf",
+      "SRcomb": "onnx, pyhf",
       "signature_type": "prompt",
       "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2019-09/"
+    },
+    {
+      "inspire_id": 2673888,
+      "ana_id": "ATLAS-SUSY-2020-27-eff",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2020-27-eff_em",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2020-27-eff/"
+        }
+      ],
+      "pretty_name": "jets + >= 1 l, RPV",
+      "publication_doi": "https://link.springer.com/article/10.1007/JHEP02(2024)107",
+      "arXiv_id": "2307.01094",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2020-27/"
+    },
+    {
+      "inspire_id": 2673888,
+      "ana_id": "ATLAS-SUSY-2020-27",
+      "implementations": [
+        {
+          "name": "ATLAS-SUSY-2020-27_ul",
+          "path": "13TeV/ATLAS/ATLAS-SUSY-2020-27/"
+        }
+      ],
+      "pretty_name": "jets + >= 1 l, RPV",
+      "publication_doi": "https://link.springer.com/article/10.1007/JHEP02(2024)107",
+      "arXiv_id": "2307.01094",
+      "signature_type": "prompt",
+      "wiki": "https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2020-27/"
     },
     {
       "inspire_id": 1231738,
       "ana_id": "CMS-EXO-12-026",
       "implementations": [
+        {
+          "name": "CMS-EXO-12-026_em",
+          "path": "8TeV/CMS/CMS-EXO-12-026-eff/"
+        },
         {
           "name": "CMS-EXO-12-026_ul",
           "path": "8TeV/CMS/CMS-EXO-12-026/"
@@ -1215,6 +1384,25 @@
       "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-012/index.html"
     },
     {
+      "inspire_id": 1849964,
+      "ana_id": "CMS-EXO-19-019",
+      "implementations": [
+        {
+          "name": "CMS-EXO-19-019_em",
+          "path": "13TeV/CMS/CMS-EXO-19-019-eff/"
+        },
+        {
+          "name": "CMS-EXO-19-019_ul",
+          "path": "13TeV/CMS/CMS-EXO-19-019/"
+        }
+      ],
+      "pretty_name": "di-lepton resonance",
+      "publication_doi": "http://dx.doi.org/10.1007/JHEP07(2021)208",
+      "arXiv_id": "2103.02708",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-19-019/"
+    },
+    {
       "inspire_id": 1894408,
       "ana_id": "CMS-EXO-20-004",
       "implementations": [
@@ -1226,7 +1414,7 @@
       "pretty_name": "monojet",
       "publication_doi": "10.1007/JHEP11(2021)153",
       "arXiv_id": "2107.13021",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/EXO-20-004/"
     },
@@ -1311,6 +1499,19 @@
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-022/"
     },
     {
+      "inspire_id": 1479644,
+      "ana_id": "CMS-PAS-SUS-16-024",
+      "implementations": [
+        {
+          "name": "CMS-PAS-SUS-16-024_ul",
+          "path": "13TeV/CMS/CMS-PAS-SUS-16-024/"
+        }
+      ],
+      "pretty_name": "multi-l, EWK",
+      "signature_type": "prompt",
+      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-024/"
+    },
+    {
       "inspire_id": 1609006,
       "ana_id": "CMS-PAS-SUS-16-052",
       "implementations": [
@@ -1328,7 +1529,7 @@
         }
       ],
       "pretty_name": "ISR jet + soft l",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-16-052/index.html"
     },
@@ -1369,6 +1570,10 @@
       "ana_id": "CMS-SUS-12-028",
       "implementations": [
         {
+          "name": "CMS-SUS-12-028_em",
+          "path": "8TeV/CMS/CMS-SUS-12-028-eff/"
+        },
+        {
           "name": "CMS-SUS-12-028_ul",
           "path": "8TeV/CMS/CMS-SUS-12-028/"
         }
@@ -1382,6 +1587,10 @@
       "inspire_id": 1291940,
       "ana_id": "CMS-SUS-13-002",
       "implementations": [
+        {
+          "name": "CMS-SUS-13-002_em",
+          "path": "8TeV/CMS/CMS-SUS-13-002-eff/"
+        },
         {
           "name": "CMS-SUS-13-002_ul",
           "path": "8TeV/CMS/CMS-SUS-13-002/"
@@ -1412,6 +1621,10 @@
       "inspire_id": 1298508,
       "ana_id": "CMS-SUS-13-006",
       "implementations": [
+        {
+          "name": "CMS-SUS-13-006_em",
+          "path": "8TeV/CMS/CMS-SUS-13-006-eff/"
+        },
         {
           "name": "CMS-SUS-13-006_ul",
           "path": "8TeV/CMS/CMS-SUS-13-006/"
@@ -1504,6 +1717,10 @@
       "ana_id": "CMS-SUS-13-019",
       "implementations": [
         {
+          "name": "CMS-SUS-13-019_em",
+          "path": "8TeV/CMS/CMS-SUS-13-019-eff/"
+        },
+        {
           "name": "CMS-SUS-13-019_ul",
           "path": "8TeV/CMS/CMS-SUS-13-019/"
         }
@@ -1518,6 +1735,10 @@
       "inspire_id": 1334141,
       "ana_id": "CMS-SUS-14-010",
       "implementations": [
+        {
+          "name": "CMS-SUS-14-010_em",
+          "path": "8TeV/CMS/CMS-SUS-14-010-eff/"
+        },
         {
           "name": "CMS-SUS-14-010_ul",
           "path": "8TeV/CMS/CMS-SUS-14-010/"
@@ -1553,6 +1774,10 @@
       "ana_id": "CMS-SUS-15-002",
       "implementations": [
         {
+          "name": "CMS-SUS-15-002_em",
+          "path": "13TeV/CMS/CMS-SUS-15-002-eff/"
+        },
+        {
           "name": "CMS-SUS-15-002_ul",
           "path": "13TeV/CMS/CMS-SUS-15-002/"
         }
@@ -1567,6 +1792,10 @@
       "inspire_id": 1456935,
       "ana_id": "CMS-SUS-15-008",
       "implementations": [
+        {
+          "name": "CMS-SUS-15-008_em",
+          "path": "13TeV/CMS/CMS-SUS-15-008-eff/"
+        },
         {
           "name": "CMS-SUS-15-008_ul",
           "path": "13TeV/CMS/CMS-SUS-15-008/"
@@ -1583,6 +1812,10 @@
       "ana_id": "CMS-SUS-16-009",
       "implementations": [
         {
+          "name": "CMS-SUS-16-009_em",
+          "path": "13TeV/CMS/CMS-SUS-16-009-eff/"
+        },
+        {
           "name": "CMS-SUS-16-009_ul",
           "path": "13TeV/CMS/CMS-SUS-16-009/"
         }
@@ -1597,6 +1830,10 @@
       "inspire_id": 1611299,
       "ana_id": "CMS-SUS-16-032",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-032_em",
+          "path": "13TeV/CMS/CMS-SUS-16-032-eff/"
+        },
         {
           "name": "CMS-SUS-16-032_ul",
           "path": "13TeV/CMS/CMS-SUS-16-032/"
@@ -1632,6 +1869,10 @@
       "ana_id": "CMS-SUS-16-034",
       "implementations": [
         {
+          "name": "CMS-SUS-16-034_em",
+          "path": "13TeV/CMS/CMS-SUS-16-034-eff/"
+        },
+        {
           "name": "CMS-SUS-16-034_ul",
           "path": "13TeV/CMS/CMS-SUS-16-034/"
         }
@@ -1646,6 +1887,10 @@
       "inspire_id": 1594731,
       "ana_id": "CMS-SUS-16-035",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-035_em",
+          "path": "13TeV/CMS/CMS-SUS-16-035-eff/"
+        },
         {
           "name": "CMS-SUS-16-035_ul",
           "path": "13TeV/CMS/CMS-SUS-16-035/"
@@ -1662,6 +1907,10 @@
       "ana_id": "CMS-SUS-16-036",
       "implementations": [
         {
+          "name": "CMS-SUS-16-036_em",
+          "path": "13TeV/CMS/CMS-SUS-16-036-eff/"
+        },
+        {
           "name": "CMS-SUS-16-036_ul",
           "path": "13TeV/CMS/CMS-SUS-16-036/"
         }
@@ -1676,6 +1925,10 @@
       "inspire_id": 1599402,
       "ana_id": "CMS-SUS-16-037",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-037_em",
+          "path": "13TeV/CMS/CMS-SUS-16-037-eff/"
+        },
         {
           "name": "CMS-SUS-16-037_ul",
           "path": "13TeV/CMS/CMS-SUS-16-037/"
@@ -1707,7 +1960,7 @@
       "pretty_name": "multi-l, EWK",
       "publication_doi": "10.1007/JHEP03(2018)166",
       "arXiv_id": "1709.05406",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-039/index.html"
     },
@@ -1715,6 +1968,10 @@
       "inspire_id": 1632447,
       "ana_id": "CMS-SUS-16-041",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-041_em",
+          "path": "13TeV/CMS/CMS-SUS-16-041-eff/"
+        },
         {
           "name": "CMS-SUS-16-041_ul",
           "path": "13TeV/CMS/CMS-SUS-16-041/"
@@ -1731,6 +1988,10 @@
       "ana_id": "CMS-SUS-16-042",
       "implementations": [
         {
+          "name": "CMS-SUS-16-042_em",
+          "path": "13TeV/CMS/CMS-SUS-16-042-eff/"
+        },
+        {
           "name": "CMS-SUS-16-042_ul",
           "path": "13TeV/CMS/CMS-SUS-16-042/"
         }
@@ -1745,6 +2006,10 @@
       "inspire_id": 1608161,
       "ana_id": "CMS-SUS-16-043",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-043_em",
+          "path": "13TeV/CMS/CMS-SUS-16-043-eff/"
+        },
         {
           "name": "CMS-SUS-16-043_ul",
           "path": "13TeV/CMS/CMS-SUS-16-043/"
@@ -1776,6 +2041,10 @@
       "ana_id": "CMS-SUS-16-046",
       "implementations": [
         {
+          "name": "CMS-SUS-16-046_em",
+          "path": "13TeV/CMS/CMS-SUS-16-046-eff/"
+        },
+        {
           "name": "CMS-SUS-16-046_ul",
           "path": "13TeV/CMS/CMS-SUS-16-046/"
         }
@@ -1790,6 +2059,10 @@
       "inspire_id": 1610629,
       "ana_id": "CMS-SUS-16-047",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-047_em",
+          "path": "13TeV/CMS/CMS-SUS-16-047-eff/"
+        },
         {
           "name": "CMS-SUS-16-047_ul",
           "path": "13TeV/CMS/CMS-SUS-16-047/"
@@ -1813,7 +2086,7 @@
       "pretty_name": "soft OS l",
       "publication_doi": "10.1016/j.physletb.2018.05.062",
       "arXiv_id": "1801.01846",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-048/index.html"
     },
@@ -1821,6 +2094,10 @@
       "inspire_id": 1609449,
       "ana_id": "CMS-SUS-16-049",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-049_em",
+          "path": "13TeV/CMS/CMS-SUS-16-049-eff/"
+        },
         {
           "name": "CMS-SUS-16-049_ul",
           "path": "13TeV/CMS/CMS-SUS-16-049/"
@@ -1852,7 +2129,7 @@
       "pretty_name": "0 l + top tag",
       "publication_doi": "10.1103/PhysRevD.97.012007",
       "arXiv_id": "1710.11188",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-16-050/index.html"
     },
@@ -1860,6 +2137,10 @@
       "inspire_id": 1605128,
       "ana_id": "CMS-SUS-16-051",
       "implementations": [
+        {
+          "name": "CMS-SUS-16-051_em",
+          "path": "13TeV/CMS/CMS-SUS-16-051-eff/"
+        },
         {
           "name": "CMS-SUS-16-051_ul",
           "path": "13TeV/CMS/CMS-SUS-16-051/"
@@ -1876,6 +2157,10 @@
       "ana_id": "CMS-SUS-17-001",
       "implementations": [
         {
+          "name": "CMS-SUS-17-001_em",
+          "path": "13TeV/CMS/CMS-SUS-17-001-eff/"
+        },
+        {
           "name": "CMS-SUS-17-001_ul",
           "path": "13TeV/CMS/CMS-SUS-17-001/"
         }
@@ -1890,6 +2175,10 @@
       "inspire_id": 1681016,
       "ana_id": "CMS-SUS-17-003",
       "implementations": [
+        {
+          "name": "CMS-SUS-17-003_em",
+          "path": "13TeV/CMS/CMS-SUS-17-003-eff/"
+        },
         {
           "name": "CMS-SUS-17-003_ul",
           "path": "13TeV/CMS/CMS-SUS-17-003/"
@@ -1906,6 +2195,10 @@
       "ana_id": "CMS-SUS-17-004",
       "implementations": [
         {
+          "name": "CMS-SUS-17-004_em",
+          "path": "13TeV/CMS/CMS-SUS-17-004-eff/"
+        },
+        {
           "name": "CMS-SUS-17-004_ul",
           "path": "13TeV/CMS/CMS-SUS-17-004/"
         }
@@ -1920,6 +2213,10 @@
       "inspire_id": 1673197,
       "ana_id": "CMS-SUS-17-005",
       "implementations": [
+        {
+          "name": "CMS-SUS-17-005_em",
+          "path": "13TeV/CMS/CMS-SUS-17-005-eff/"
+        },
         {
           "name": "CMS-SUS-17-005_ul",
           "path": "13TeV/CMS/CMS-SUS-17-005/"
@@ -1936,6 +2233,10 @@
       "ana_id": "CMS-SUS-17-006",
       "implementations": [
         {
+          "name": "CMS-SUS-17-006_em",
+          "path": "13TeV/CMS/CMS-SUS-17-006-eff/"
+        },
+        {
           "name": "CMS-SUS-17-006_ul",
           "path": "13TeV/CMS/CMS-SUS-17-006/"
         }
@@ -1950,6 +2251,10 @@
       "inspire_id": 1677905,
       "ana_id": "CMS-SUS-17-009",
       "implementations": [
+        {
+          "name": "CMS-SUS-17-009_em",
+          "path": "13TeV/CMS/CMS-SUS-17-009-eff/"
+        },
         {
           "name": "CMS-SUS-17-009_ul",
           "path": "13TeV/CMS/CMS-SUS-17-009/"
@@ -1966,6 +2271,10 @@
       "ana_id": "CMS-SUS-17-010",
       "implementations": [
         {
+          "name": "CMS-SUS-17-010_em",
+          "path": "13TeV/CMS/CMS-SUS-17-010-eff/"
+        },
+        {
           "name": "CMS-SUS-17-010_ul",
           "path": "13TeV/CMS/CMS-SUS-17-010/"
         }
@@ -1981,6 +2290,10 @@
       "ana_id": "CMS-SUS-18-002",
       "implementations": [
         {
+          "name": "CMS-SUS-18-002_em",
+          "path": "13TeV/CMS/CMS-SUS-18-002-eff/"
+        },
+        {
           "name": "CMS-SUS-18-002_ul",
           "path": "13TeV/CMS/CMS-SUS-18-002/"
         }
@@ -1990,6 +2303,22 @@
       "arXiv_id": "1901.06726",
       "signature_type": "prompt",
       "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-002/"
+    },
+    {
+      "inspire_id": 1966342,
+      "ana_id": "CMS-SUS-18-004-wbplus",
+      "implementations": [
+        {
+          "name": "CMS-SUS-18-004-wbplus_em",
+          "path": "13TeV/CMS/CMS-SUS-18-004-wbplus-agg/"
+        }
+      ],
+      "pretty_name": "2-3 soft l",
+      "publication_doi": "10.1007/JHEP04%282022%29091",
+      "arXiv_id": "2111.06296",
+      "SRcomb": "slv1",
+      "signature_type": "prompt",
+      "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-18-004/index.html"
     },
     {
       "inspire_id": 1966342,
@@ -2010,6 +2339,10 @@
       "inspire_id": 1750601,
       "ana_id": "CMS-SUS-18-007",
       "implementations": [
+        {
+          "name": "CMS-SUS-18-007_em",
+          "path": "13TeV/CMS/CMS-SUS-18-007-eff/"
+        },
         {
           "name": "CMS-SUS-18-007_ul",
           "path": "13TeV/CMS/CMS-SUS-18-007/"
@@ -2041,7 +2374,7 @@
       "pretty_name": "0 l + jets, MHT",
       "publication_doi": "10.1007/JHEP10(2019)244",
       "arXiv_id": "1908.04722",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-19-006/index.html"
     },
@@ -2049,6 +2382,10 @@
       "inspire_id": 1777617,
       "ana_id": "CMS-SUS-19-008",
       "implementations": [
+        {
+          "name": "CMS-SUS-19-008_em",
+          "path": "13TeV/CMS/CMS-SUS-19-008-eff/"
+        },
         {
           "name": "CMS-SUS-19-008_ul",
           "path": "13TeV/CMS/CMS-SUS-19-008/"
@@ -2065,6 +2402,10 @@
       "ana_id": "CMS-SUS-19-009",
       "implementations": [
         {
+          "name": "CMS-SUS-19-009_em",
+          "path": "13TeV/CMS/CMS-SUS-19-009-eff/"
+        },
+        {
           "name": "CMS-SUS-19-009_ul",
           "path": "13TeV/CMS/CMS-SUS-19-009/"
         }
@@ -2079,6 +2420,10 @@
       "inspire_id": 1849522,
       "ana_id": "CMS-SUS-19-010",
       "implementations": [
+        {
+          "name": "CMS-SUS-19-010_em",
+          "path": "13TeV/CMS/CMS-SUS-19-010-eff/"
+        },
         {
           "name": "CMS-SUS-19-010_ul",
           "path": "13TeV/CMS/CMS-SUS-19-010/"
@@ -2110,6 +2455,10 @@
       "ana_id": "CMS-SUS-19-013",
       "implementations": [
         {
+          "name": "CMS-SUS-19-013_em",
+          "path": "13TeV/CMS/CMS-SUS-19-013-eff/"
+        },
+        {
           "name": "CMS-SUS-19-013_ul",
           "path": "13TeV/CMS/CMS-SUS-19-013/"
         }
@@ -2124,6 +2473,10 @@
       "inspire_id": 1836850,
       "ana_id": "CMS-SUS-20-001",
       "implementations": [
+        {
+          "name": "CMS-SUS-20-001_em",
+          "path": "13TeV/CMS/CMS-SUS-20-001-eff/"
+        },
         {
           "name": "CMS-SUS-20-001_ul",
           "path": "13TeV/CMS/CMS-SUS-20-001/"
@@ -2144,7 +2497,7 @@
           "path": "13TeV/CMS/CMS-SUS-20-002/"
         }
       ],
-      "pretty_name": "stop combination",
+      "pretty_name": "stop comb.",
       "publication_doi": "10.1140/epjc/s10052-021-09721-5",
       "arXiv_id": "2107.10892",
       "signature_type": "prompt",
@@ -2166,7 +2519,7 @@
       "pretty_name": "2 h(b b), EWK",
       "publication_doi": "10.1007/JHEP05(2022)014",
       "arXiv_id": "2201.04206",
-      "SRcomb": "SLv2",
+      "SRcomb": "slv2",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-20-004/"
     },
@@ -2186,7 +2539,7 @@
       "pretty_name": "hadr. EWK",
       "publication_doi": "10.1016/j.physletb.2022.137460",
       "arXiv_id": "2205.09597",
-      "SRcomb": "SLv1",
+      "SRcomb": "slv1",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-002/"
     },
@@ -2194,6 +2547,10 @@
       "inspire_id": 2182749,
       "ana_id": "CMS-SUS-21-007",
       "implementations": [
+        {
+          "name": "CMS-SUS-21-007_em",
+          "path": "13TeV/CMS/CMS-SUS-21-007-eff/"
+        },
         {
           "name": "CMS-SUS-21-007_ul",
           "path": "13TeV/CMS/CMS-SUS-21-007/"
@@ -2204,6 +2561,25 @@
       "arXiv_id": "2211.08476",
       "signature_type": "prompt",
       "wiki": "http://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-21-007/index.html"
+    },
+    {
+      "inspire_id": 2962374,
+      "ana_id": "CMS-SUS-23-003",
+      "implementations": [
+        {
+          "name": "CMS-SUS-23-003_em",
+          "path": "13TeV/CMS/CMS-SUS-23-003-eff/"
+        },
+        {
+          "name": "CMS-SUS-23-003_ul",
+          "path": "13TeV/CMS/CMS-SUS-23-003/"
+        }
+      ],
+      "pretty_name": "high-pT ISR, multi-l + multi-jets",
+      "publication_doi": "10.1103/b26z-zmpy",
+      "arXiv_id": "2508.13900",
+      "signature_type": "prompt",
+      "wiki": "https://cms-results.web.cern.ch/cms-results/public-results/publications/SUS-23-003/index.html"
     }
   ],
   "implementations_license": {
