@@ -370,35 +370,35 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.06422934E-03 SModelSv3.2.0
+  0  0  0  0  0  0    2.66837880E-03 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.13886721E+00 SModelSv3.2.0
+  0  0  0  0  0  0    4.07425594E+00 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.11112050E+00 SModelSv3.2.0
+  0  0  0  0  0  0    9.67581100E-01 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    1.11422267E+00 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    4.13169091E-03 SModelSv3.2.0
+  0  0  0  0  0  0    3.59794102E-03 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.24447210E-02 SModelSv3.2.0
+  0  0  0  0  0  0    1.95452138E-02 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    6.59389464E+00 SModelSv3.2.0
+  0  0  0  0  0  0    8.55888850E+00 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.38561971E+00 SModelSv3.2.0
+  0  0  0  0  0  0    2.07743493E+00 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    3.09844662E+00 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.50675775E-02 SModelSv3.2.0
+  0  0  0  0  0  0    1.31210820E-02 SModelSv3.2.0
 
-# Signal strength multipliers: (1000022, 1000023):0.6357, (1000023, 1000023):0.4212, (1000023, 1000025):13.05, (1000025, 1000025):0.4119, (-1000006, 1000006):0.04593
+# Signal strength multipliers: (1000022, 1000023):0.8251, (1000023, 1000023):0.3668, (1000023, 1000025):13.05, (1000025, 1000025):0.3587, (-1000006, 1000006):0.04
 
 # loaded from dict file
