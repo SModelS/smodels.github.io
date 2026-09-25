@@ -37,7 +37,7 @@
     },
     "TL": 23.594366,
     "K": 18.094366,
-    "walkerid": "uphi",
+    "walkerid": 106,
     "step": 5066,
     "description": "CMS-EXO-20-004(comb),ATLAS-EXOT-2018-06(em),CMS-SUS-20-004(comb),ATLAS-SUSY-2018-12(em),ATLAS-SUSY-2016-16(em),ATLAS-SUSY-2018-08(em),ATLAS-SUSY-2013-15(em),CMS-SUS-16-050-agg(comb),ATLAS-SUSY-2013-16(em),CMS-SUS-13-012(em),ATLAS-CONF-2013-048(em),CMS-SUS-13-011(em)"
 }
