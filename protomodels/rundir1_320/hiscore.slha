@@ -84,7 +84,7 @@ BLOCK MASS  # Mass Spectrum
    1000021     1000000.0         # ~g
    1000022     120.0         # ~chi_10
    1000023     162.2         # ~chi_20
-   1000025     499.2         # ~chi_30
+   1000025     499.8         # ~chi_30
    1000035     1E+06            # ~chi_40
    1000024     1000000.0         # ~chi_1+
    1000037     1000000.0         # ~chi_2+
@@ -369,29 +369,29 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    9.75366585E-03 SModelSv3.2.0
+  0  0  0  0  0  0    9.74596347E-03 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    9.52526910E+00 SModelSv3.2.0
+  0  0  0  0  0  0    9.51774708E+00 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.11846396E+00 SModelSv3.2.0
+  0  0  0  0  0  0    3.11600133E+00 SModelSv3.2.0
 
 XSECTION  8.00E+03  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.76288954E-02 SModelSv3.2.0
+  0  0  0  0  0  0    1.74965562E-02 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.14984313E-02 SModelSv3.2.0
+  0  0  0  0  0  0    7.14419696E-02 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.15906499E+01 SModelSv3.2.0
+  0  0  0  0  0  0    2.15736000E+01 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.22952605E+00 SModelSv3.2.0
+  0  0  0  0  0  0    7.22381695E+00 SModelSv3.2.0
 
 XSECTION  1.30E+04  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.04810896E-02 SModelSv3.2.0
+  0  0  0  0  0  0    6.99929982E-02 SModelSv3.2.0
 
-# Signal strength multipliers: (1000022, 1000023):6.178, (1000023, 1000023):3.508, (1000025, 1000025):3.159, (-1000006, 1000006):0.1475
+# Signal strength multipliers: (1000022, 1000023):6.173, (1000023, 1000023):3.505, (1000025, 1000025):3.157, (-1000006, 1000006):0.1474
 
 # loaded from dict file
