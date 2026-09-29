@@ -14,21 +14,23 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
-### 28 Sep 2026: [SModelS version 3.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
+### 1 Oct 2026: [SModelS version 3.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-* Renamed 'out-of-repo printer' to 'custom printer'                               
-* Custom printers can now also be used with runSModelS                            
-* Recipe for custom printer added, custom printers also mentioned in OutputDescription                                                                                
-* Added mechanism to check that printers do not overwrite each other              
-* Fix for printerRegistry in combination with ncpus > 1 multiprocessing and custom printers                                                                           
-* Renamed types to smodels\_types to avoid name clashes                            
-* Silenced an "unknown solver option 'disp'" warning in scipy                     
-* Onnx\_session\_options defined in runtime                                         
-* Disabled telemetry for onnxruntime as it causes problems on some mac os systems 
-* Loosened a consistency check on ML models                                       
-* Improved github's live shells for mac OS                                        
-* Bumped up pythia8 from 8317 to 8318                                             
-* Updated authorlist in BANNER   
+* Fix in official database pickle causing crashes
+* Renamed 'out-of-repo printer' to 'custom printer'
+* Custom printers can now also be used with runSModelS
+* Recipe for custom printer added, custom printers also mentioned in OutputDescription
+* Added mechanism to check that printers do not overwrite each other
+* Fix for printerRegistry in combination with ncpus > 1 multiprocessing and custom printers
+* Renamed types to smodels\_types to avoid name clashes
+* Silenced an "unknown solver option 'disp'" warning in scipy
+* Onnx\_session\_options defined in runtime
+* Disabled telemetry for onnxruntime as it causes problems on some mac os systems
+* Loosened a consistency check on ML models
+* Small updates to onnx models
+* Improved github's live shells for mac OS
+* Bumped up pythia8 from 8317 to 8318
+* Updated authorlist in BANNER
 
 ### 2 Sep 2026: [SModelS version 3.2.0](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
