@@ -1,0 +1,3 @@
+comment_by: Sahana Narasimha
+date: Fri 05 Apr 2024 17:37:10 PM CEST
+comment: "The TRV1 plots and TRA1 plots share the same efficiency maps but have different production cross-sections. Efficiency Maps and production cross-sections were produced by Camila using MonoXSMS. A kfactor of 1.2 was applied to both topologies and seems better than no kfactor. All the plots with no_kfactor are in the nokfactor_plots folder.The TRA1 plots are present in the folder axial_and_pseudoscalar_plots."
