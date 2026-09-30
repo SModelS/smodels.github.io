@@ -27,7 +27,6 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 * Onnx\_session\_options defined in runtime
 * Disabled telemetry for onnxruntime as it causes problems on some mac os systems
 * Loosened a consistency check on ML models
-* Small updates to onnx models
 * Improved github's live shells for mac OS
 * Bumped up pythia8 from 8317 to 8318
 * Updated authorlist in BANNER
