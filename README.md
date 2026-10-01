@@ -17,7 +17,7 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 ------------------------------------------------------------------------
 ### 1 Oct 2026: [SModelS version 3.2.1](https://github.com/SModelS/smodels/releases) available ([what's new](https://smodels.readthedocs.io/en/latest/ReleaseUpdate.html))
 
-* Fix in official database pickle causing crashes
+* **Fix in official database pickle causing crashes**
 * Renamed 'out-of-repo printer' to 'custom printer'
 * Custom printers can now also be used with runSModelS
 * Recipe for custom printer added, custom printers also mentioned in OutputDescription
