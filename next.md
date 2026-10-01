@@ -11,6 +11,7 @@ Leo Constantin, Sabine Kraml, Andre Lessa, Arpita Mondal, Timoth&eacute;e Pascal
 [![PyPI version](https://badge.fury.io/py/smodels.svg)](https://badge.fury.io/py/smodels)
 [![Anaconda version](https://anaconda.org/conda-forge/smodels/badges/version.svg)](https://anaconda.org/conda-forge/smodels/)
 <!-- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SModelS/tutorials/blob/main/index.ipynb) -->
+[![CodeFactor](https://www.codefactor.io/repository/github/smodels/smodels/badge/main)](https://www.codefactor.io/repository/github/smodels/smodels/overview/main)
 [![Docs](https://img.shields.io/badge/docs-main-blue.svg)](https://smodels.readthedocs.io)
 
 ------------------------------------------------------------------------
