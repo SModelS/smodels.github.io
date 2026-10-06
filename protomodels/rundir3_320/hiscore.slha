@@ -314,7 +314,7 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 #
 #         PDG            Width
-DECAY   1000023     1.0   # neutralino2 decays
+DECAY   1000023     7.264026065757511e-17   # neutralino2 decays
 #          BR         NDA      ID1       ID2
    1.00000  3    1000022    -12  12 # ~chi_20 -> ~chi_10 nu nu new!
 #
@@ -367,35 +367,35 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.89227890E-03 SModelSv3.2.1
+  0  0  0  0  0  0    2.56784645E-03 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.30400901E+00 SModelSv3.2.1
+  0  0  0  0  0  0    2.93339201E+00 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.94822338E-01 SModelSv3.2.1
+  0  0  0  0  0  0    7.05665598E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    1.04801584E+00 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    3.84756654E-03 SModelSv3.2.1
+  0  0  0  0  0  0    3.41597765E-03 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 -1000006 1000006 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    2.11511048E-02 SModelSv3.2.1
+  0  0  0  0  0  0    1.87785450E-02 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    7.30363017E+00 SModelSv3.2.1
+  0  0  0  0  0  0    6.48436802E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.74149190E+00 SModelSv3.2.1
+  0  0  0  0  0  0    1.54614542E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb]
   0  0  0  0  0  0    2.93631184E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb]
-  0  0  0  0  0  0    1.40263046E-02 SModelSv3.2.1
+  0  0  0  0  0  0    1.24529473E-02 SModelSv3.2.1
 
-# Signal strength multipliers: (1000022, 1000023):0.8773, (1000023, 1000023):0.3899, (1000023, 1000025):13.05, (1000025, 1000025):0.3814, (-1000006, 1000006):0.04253
+# Signal strength multipliers: (1000022, 1000023):0.7789, (1000023, 1000023):0.3462, (1000023, 1000025):13.05, (1000025, 1000025):0.3386, (-1000006, 1000006):0.03776
 
 # loaded from dict file
