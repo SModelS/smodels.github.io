@@ -2,11 +2,15 @@
 
 def mkList():
     import glob
-    f = open ( "list.md", "wt" )
+    outfile = "list.md"
+    outfile = "4lucas.md"
+    f = open ( outfile, "wt" )
     f.write ( "# List of protomodel pages\n\n" )
     f.write ( "|     **label**     |     **url**     |\n" )
     f.write ( "|-------------------|-----------------|\n" )
-    files = glob.glob ( "*" )
+    files_glob = "*"
+    files_glob = "rundir*_320"
+    files = glob.glob ( files_glob )
     for g in files:
         if g.endswith ( ".html" ):
             continue
