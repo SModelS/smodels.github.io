@@ -82,11 +82,11 @@ BLOCK MASS  # Mass Spectrum
    2000015     1E+06            # ~tau_2
    1000016     1000000         # ~nu_tauL
    1000021     1000000         # ~g
-   1000022     196.4501498         # ~chi_10
-   1000023     243.0526484         # ~chi_20
+   1000022     194.8507298         # ~chi_10
+   1000023     241.4532284         # ~chi_20
    1000025     1000000         # ~chi_30
    1000035     1000000         # ~chi_40
-   1000024     243.0526484         # ~chi_1+
+   1000024     241.4532284         # ~chi_1+
    1000037     1000000         # ~chi_2+
 #
 BLOCK NMIX  # Neutralino Mixing Matrix
@@ -318,8 +318,8 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 DECAY   1000023     1.8701390412203842e-15   # neutralino2 decays
 #          BR         NDA      ID1       ID2
-   0.00308    3    1000022     -2   2 # ~chi_20 -> ~chi_10 ub u new!
-   0.99692  3    1000022    -11  11 # ~chi_20 -> ~chi_10 e+ e- new!
+   0.50000    3    1000022     -2   2 # ~chi_20 -> ~chi_10 ub u new!
+   0.50000  3    1000022    -11  11 # ~chi_20 -> ~chi_10 e+ e- new!
 #
 #         PDG            Width
 DECAY   1000025     1E+00      # neutralino3 decays
@@ -378,41 +378,41 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    1.41443378E+00 SModelSv3.2.1
+  0  2  0  0  0  0    1.42487666E+00 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    1.80677651E-01 SModelSv3.2.1
+  0  2  0  0  0  0    2.59649375E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    2.03959523E-01 SModelSv3.2.1
+  0  2  0  0  0  0    2.04711282E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    3.93426249E-02 SModelSv3.2.1
+  0  2  0  0  0  0    1.11910899E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    8.20206099E-02 SModelSv3.2.1
+  0  2  0  0  0  0    2.56204963E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    6.38102832E-03 SModelSv3.2.1
+  0  2  0  0  0  0    6.39465997E-03 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    3.39911343E+00 SModelSv3.2.1
+  0  2  0  0  0  0    3.43636899E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    4.52468408E-01 SModelSv3.2.1
+  0  2  0  0  0  0    6.49905851E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    4.66537331E-01 SModelSv3.2.1
+  0  2  0  0  0  0    4.68516132E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.02242421E-01 SModelSv3.2.1
+  0  2  0  0  0  0    2.90620360E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    1.92686965E-01 SModelSv3.2.1
+  0  2  0  0  0  0    6.01791954E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.65828230E-02 SModelSv3.2.1
+  0  2  0  0  0  0    1.66062323E-02 SModelSv3.2.1
 
-# Signal strength multipliers: (1000022, 1000022):3.451, (1000022, 1000023):0.6989, (1000023, 1000023):0.2319, (-1000024, 1000024):0.03761, (1000023, 1000024):0.3292, (1000022, 1000024):0.5501
+# Signal strength multipliers: (1000022, 1000022):3.362, (1000022, 1000023):0.9729, (1000023, 1000023):0.6413, (-1000024, 1000024):0.03664, (1000023, 1000024):1.001, (1000022, 1000024):0.536
 
-# produced at step 31
+# produced at step 76
