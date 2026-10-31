@@ -82,11 +82,11 @@ BLOCK MASS  # Mass Spectrum
    2000015     1E+06            # ~tau_2
    1000016     1000000         # ~nu_tauL
    1000021     1000000         # ~g
-   1000022     91.77771142         # ~chi_10
-   1000023     138.38021         # ~chi_20
+   1000022     92.10364535         # ~chi_10
+   1000023     138.706144         # ~chi_20
    1000025     1000000         # ~chi_30
    1000035     1000000         # ~chi_40
-   1000024     138.38021         # ~chi_1+
+   1000024     138.706144         # ~chi_1+
    1000037     1000000         # ~chi_2+
 #
 BLOCK NMIX  # Neutralino Mixing Matrix
@@ -304,9 +304,9 @@ DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #         PDG            Width
 DECAY   1000024     1.0         # chargino1+ decays
 #          BR         NDA      ID1       ID2
-   0.00438   3     1000022    2   -1   # ~chi_1+ -> ~chi_10  u db   new!
-   0.49781 3     1000022   11  -12   # ~chi_1+ -> ~chi_10  e- nu  new!
-   0.49781 3     1000022   13  -14   # ~chi_1+ -> ~chi_10  mu- nu new!
+   0.00052   3     1000022    2   -1   # ~chi_1+ -> ~chi_10  u db   new!
+   0.49974 3     1000022   11  -12   # ~chi_1+ -> ~chi_10  e- nu  new!
+   0.49974 3     1000022   13  -14   # ~chi_1+ -> ~chi_10  mu- nu new!
 
 #
 #         PDG            Width
@@ -378,41 +378,41 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    8.34805461E+00 SModelSv3.2.1
+  0  2  0  0  0  0    8.36345943E+00 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    2.95675820E-01 SModelSv3.2.1
+  0  2  0  0  0  0    3.03402033E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    1.58780184E-01 SModelSv3.2.1
+  0  2  0  0  0  0    1.63093120E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    8.56341336E-02 SModelSv3.2.1
+  0  2  0  0  0  0    8.79571108E-02 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    5.00053347E-01 SModelSv3.2.1
+  0  2  0  0  0  0    5.13951540E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    6.31149712E-04 SModelSv3.2.1
+  0  2  0  0  0  0    6.48270763E-04 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.48308426E+01 SModelSv3.2.1
+  0  2  0  0  0  0    1.48690503E+01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    6.59655070E-01 SModelSv3.2.1
+  0  2  0  0  0  0    6.76474700E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    3.50995530E-01 SModelSv3.2.1
+  0  2  0  0  0  0    3.60069323E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.93391770E-01 SModelSv3.2.1
+  0  2  0  0  0  0    1.98822013E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    1.09155864E+00 SModelSv3.2.1
+  0  2  0  0  0  0    1.12248862E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.42535639E-03 SModelSv3.2.1
+  0  2  0  0  0  0    1.46537894E-03 SModelSv3.2.1
 
-# Signal strength multipliers: (1000022, 1000022):0.2083, (1000022, 1000023):0.08591, (1000023, 1000023):0.05138, (-1000024, 1000024):0.0003787, (1000023, 1000024):0.2343, (1000022, 1000024):0.0378
+# Signal strength multipliers: (1000022, 1000022):0.216, (1000022, 1000023):0.08909, (1000023, 1000023):0.05328, (-1000024, 1000024):0.0003927, (1000023, 1000024):0.243, (1000022, 1000024):0.0392
 
-# produced at step 145
+# produced at step 228
