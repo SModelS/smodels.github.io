@@ -84,7 +84,7 @@ BLOCK MASS  # Mass Spectrum
    1000021     1000000         # ~g
    1000022     211.1653082         # ~chi_10
    1000023     211.165319         # ~chi_20
-   1000025     534.1269756         # ~chi_30
+   1000025     528.5685196         # ~chi_30
    1000035     1000000         # ~chi_40
    1000024     212.0039266         # ~chi_1+
    1000037     1000000         # ~chi_2+
@@ -302,7 +302,7 @@ DECAY   1000016     6.98605523E+01   # snu_tauL decays
 #          BR         NDA      ID1       ID2
 #
 #         PDG            Width
-DECAY   1000024     2.703036968496828e-15         # chargino1+ decays
+DECAY   1000024     1.0276716813272075e-15         # chargino1+ decays
 #          BR         NDA      ID1       ID2
    1.00000   3     1000022    2   -1   # ~chi_1+ -> ~chi_10  u db   new!
 
@@ -314,7 +314,7 @@ DECAY   1000037     4.93892335E+00   # chargino2+ decays
 #         PDG            Width
 #
 #         PDG            Width
-DECAY   1000023     2.698676136582926e-22   # neutralino2 decays
+DECAY   1000023     1.2981988764421505e-22   # neutralino2 decays
 #          BR         NDA      ID1       ID2
    1.00000     2    1000022     22     # ~chi_20 -> ~chi_10 gamma
 #
@@ -374,53 +374,53 @@ DECAY   1000037    0.0
 
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    4.25101176E-02 SModelSv3.2.1
+  0  2  0  0  0  0    4.13518533E-02 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    5.91566616E-01 SModelSv3.2.1
+  0  2  0  0  0  0    5.75448325E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    4.39115749E-04 SModelSv3.2.1
+  0  2  0  0  0  0    4.27151254E-04 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    3.40681656E-01 SModelSv3.2.1
+  0  2  0  0  0  0    3.31399174E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    2.60546195E-02 SModelSv3.2.1
+  0  2  0  0  0  0    2.08458519E-01 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p8.txt
-  0  2  0  0  0  0    3.26795635E-03 SModelSv3.2.1
+  0  2  0  0  0  0    3.17891503E-03 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    1.87006383E-03 SModelSv3.2.1
+  0  2  0  0  0  0    2.20968160E-03 SModelSv3.2.1
 
 XSECTION  8.00E+03  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C18.txt
-  0  2  0  0  0  0    2.37733635E-04 SModelSv3.2.1
+  0  2  0  0  0  0    2.31256156E-04 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000022 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.05489482E-01 SModelSv3.2.1
+  0  2  0  0  0  0    1.02615232E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    1.46798127E+00 SModelSv3.2.1
+  0  2  0  0  0  0    1.42798350E+00 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000022 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    1.00057931E-03 SModelSv3.2.1
+  0  2  0  0  0  0    9.73316733E-04 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000023 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    8.45406558E-01 SModelSv3.2.1
+  0  2  0  0  0  0    8.22371943E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000025 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    8.35102565E-02 SModelSv3.2.1
+  0  2  0  0  0  0    6.67405168E-01 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000023 1000024 # reference xsecs v1.0 [pb] from xsecN2C1p13.txt
-  0  2  0  0  0  0    7.44644102E-03 SModelSv3.2.1
+  0  2  0  0  0  0    7.24354941E-03 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 1000025 1000025 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    8.01518674E-03 SModelSv3.2.1
+  0  2  0  0  0  0    9.35004420E-03 SModelSv3.2.1
 
 XSECTION  1.30E+04  2212 2212 2 -1000024 1000024 # reference xsecs v1.0 [pb] from xsecC1C113.txt
-  0  2  0  0  0  0    5.90880856E-04 SModelSv3.2.1
+  0  2  0  0  0  0    5.74781250E-04 SModelSv3.2.1
 
-# Signal strength multipliers: (1000022, 1000022):0.1391, (1000022, 1000023):1.936, (1000022, 1000024):0.00102, (1000023, 1000023):1.115, (1000024, 1000024):0.02357, (-1000024, 1000024):0.0007905, (1000023, 1000024):0.007589, (1000023, 1000025):1.054, (1000025, 1000025):0.4861
+# Signal strength multipliers: (1000022, 1000022):0.1353, (1000022, 1000023):1.883, (1000022, 1000024):0.0009919, (1000023, 1000023):1.084, (1000024, 1000024):0.02357, (-1000024, 1000024):0.000769, (1000023, 1000024):0.007382, (1000023, 1000025):8.135, (1000025, 1000025):0.542
 
-# produced at step 107
+# produced at step 0
